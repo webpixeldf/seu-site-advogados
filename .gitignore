@@ -1,0 +1,9 @@
+node_modules
+.next
+*.db
+.env
+.env.local
+_backup/
+_downloads/
+scripts/
+*.tar.gz
