@@ -62,10 +62,14 @@ export default function BlogPage() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {blogPosts.map((post) => (
+            {blogPosts.slice(0, 30).map((post) => (
               <BlogCard key={post.slug} {...post} />
             ))}
           </div>
+
+          <p className="text-center text-gray-500 font-lexend text-sm mt-8">
+            Mostrando 30 de {blogPosts.length} artigos
+          </p>
 
           {/* Internal link to homepage */}
           <div className="mt-16 text-center p-8 bg-white rounded-2xl border border-gray-200">

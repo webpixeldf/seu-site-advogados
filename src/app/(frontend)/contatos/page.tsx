@@ -5,11 +5,11 @@ import ContactForm from '../components/ContactForm'
 import { Phone, Mail, MapPin, Clock, MessageCircle } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Contato | Solicite seu Site para Advogados',
-  description: 'Entre em contato com o Seu Site Advogados. Solicite um orçamento para criação de site para advogados. WhatsApp (61) 99278-4283 ou visite nosso escritório em Brasília.',
+  title: 'Contato',
+  description: 'Solicite um orçamento para criação de site para advogados. WhatsApp (61) 99278-4283 ou visite nosso escritório em Brasília.',
   alternates: { canonical: '/contatos' },
   openGraph: {
-    title: 'Contato | Solicite seu Site para Advogados',
+    title: 'Contato | Seu Site Advogados',
     description: 'Solicite um orçamento para criação de site para advogados. WhatsApp (61) 99278-4283.',
     url: '/contatos',
     images: [{ url: '/images/site-para-advogados.webp', width: 800, height: 800, alt: 'Seu Site Advogados' }],
@@ -70,6 +70,26 @@ export default function ContatosPage() {
           <p className="text-gray-400 font-lexend text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
             Quer saber mais sobre a criação de site para advogados ou solicitar um orçamento personalizado? <Link href="/portfolio" className="text-[#b58c61] hover:text-[#de7322] underline underline-offset-2 transition-colors duration-300">Conheça nossos projetos</Link> e veja a qualidade do nosso trabalho. Estamos prontos para atender você pelo canal de sua preferência.
           </p>
+        </div>
+      </section>
+
+      {/* About Our Service */}
+      <section className="py-16 md:py-20 bg-white">
+        <div className="container-custom max-w-4xl mx-auto text-center">
+          <h2 className="text-2xl md:text-3xl font-bold text-[#162a2a] font-lexend mb-6">
+            Por que escolher o <span className="text-[#b58c61]">Seu Site Advogados</span>?
+          </h2>
+          <div className="text-gray-600 font-lexend text-base md:text-lg leading-relaxed space-y-4">
+            <p>
+              Trabalhamos com advogados e escritórios de advocacia em todo o Brasil. Seja para criar um site do zero, redesenhar um site existente ou adicionar funcionalidades como blog jurídico e captação de leads, nossa equipe está pronta para ajudar. Atendemos de forma 100% digital — do briefing à entrega, tudo acontece online, sem que você precise sair do escritório.
+            </p>
+            <p>
+              Nosso processo é simples e transparente: você nos conta sobre sua área de atuação, seus objetivos e o perfil dos clientes que deseja alcançar. A partir disso, desenvolvemos um projeto personalizado com design profissional, otimização para mecanismos de busca (SEO) e estrutura pensada para converter visitantes em contatos reais. Cada detalhe é planejado para transmitir credibilidade e autoridade no meio jurídico.
+            </p>
+            <p>
+              Além da criação do site, oferecemos suporte contínuo, manutenção técnica e consultoria em marketing digital para advogados. Se você busca resultados concretos e um parceiro de confiança para fortalecer a presença digital do seu escritório, entre em contato agora mesmo e descubra como podemos ajudar.
+            </p>
+          </div>
         </div>
       </section>
 

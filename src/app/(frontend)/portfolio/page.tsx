@@ -4,11 +4,11 @@ import Link from 'next/link'
 import { ExternalLink, Phone, Layout, Layers } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Portfólio | Sites para Advogados que Criamos',
-  description: 'Conheça os sites para advogados e escritórios de advocacia que desenvolvemos. Cases de sucesso com design profissional, SEO otimizado e alta conversão.',
+  title: 'Portfólio',
+  description: 'Conheça os sites para advogados e escritórios que desenvolvemos. Cases de sucesso com design profissional, SEO e alta conversão.',
   alternates: { canonical: '/portfolio' },
   openGraph: {
-    title: 'Portfólio | Sites para Advogados que Criamos',
+    title: 'Portfólio | Seu Site Advogados',
     description: 'Conheça os sites para advogados e escritórios que desenvolvemos. Cases de sucesso com design profissional e SEO.',
     url: '/portfolio',
     images: [{ url: '/images/site-para-advogados.webp', width: 800, height: 800, alt: 'Seu Site Advogados' }],

@@ -4,11 +4,11 @@ import Link from 'next/link'
 import { CheckCircle, Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Quem Somos | Especialistas em Site para Advogados',
-  description: 'Conheça o Seu Site Advogados: equipe especializada em criação de sites para advogados e escritórios de advocacia. Parceiros do seu sucesso digital.',
+  title: 'Quem Somos',
+  description: 'Conheça o Seu Site Advogados: equipe especializada em criação de sites para advogados e escritórios de advocacia.',
   alternates: { canonical: '/quem-somos' },
   openGraph: {
-    title: 'Quem Somos | Especialistas em Site para Advogados',
+    title: 'Quem Somos | Seu Site Advogados',
     description: 'Equipe especializada em criação de sites para advogados e escritórios de advocacia.',
     url: '/quem-somos',
     images: [{ url: '/images/site-para-advogados.webp', width: 800, height: 800, alt: 'Seu Site Advogados' }],

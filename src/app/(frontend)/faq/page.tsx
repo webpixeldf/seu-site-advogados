@@ -5,8 +5,8 @@ import FAQAccordion from '../components/FAQAccordion'
 import { Phone, HelpCircle } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Dúvidas Frequentes | Seu Site Advogados',
-  description: 'Respostas sobre domínio .adv.br, hospedagem, conformidade com a OAB, blog jurídico, relatórios de acesso e outros detalhes técnicos do seu projeto.',
+  title: 'Dúvidas Frequentes',
+  description: 'Respostas sobre domínio .adv.br, hospedagem, conformidade com a OAB, blog jurídico e outros detalhes técnicos do seu projeto.',
   alternates: { canonical: '/faq' },
   openGraph: {
     title: 'Dúvidas Frequentes | Seu Site Advogados',

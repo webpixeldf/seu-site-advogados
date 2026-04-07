@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
   const canonicalToHome = slug === 'criacao-de-site-para-advogados'
 
   return {
-    title: `${title} | Blog Seu Site Advogados`,
+    title: title,
     description: post
       ? post.resumo
       : `Leia o artigo completo sobre ${title.toLowerCase()} no blog do Seu Site Advogados.`,
