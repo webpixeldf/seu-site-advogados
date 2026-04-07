@@ -58,7 +58,7 @@ export default function ContatosPage() {
   return (
     <>
       {/* Hero */}
-      <section className="relative bg-[#162a2a] py-20 md:py-28 overflow-hidden">
+      <section id="contact" className="relative bg-[#162a2a] py-20 md:py-28 overflow-hidden">
         <div className="absolute top-0 left-0 w-72 h-72 bg-[#b58c61]/5 rounded-full -translate-x-1/2 -translate-y-1/2" />
         <div className="absolute bottom-0 right-0 w-96 h-96 bg-[#de7322]/5 rounded-full translate-x-1/3 translate-y-1/3" />
         <div className="container-custom relative z-10 text-center">
@@ -194,6 +194,14 @@ export default function ContatosPage() {
                 <MessageCircle size={18} />
                 Chamar no WhatsApp
               </a>
+
+              {/* Privacy policy link */}
+              <p className="text-gray-500 font-lexend text-xs mt-4 text-center">
+                Ao entrar em contato, você concorda com nossa{' '}
+                <Link href="/politica-de-privacidade" className="text-[#b58c61] hover:text-[#de7322] underline underline-offset-2 transition-colors duration-300">
+                  Política de Privacidade
+                </Link>.
+              </p>
             </div>
           </div>
         </div>

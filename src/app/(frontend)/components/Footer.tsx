@@ -9,7 +9,7 @@ export default function Footer() {
     { label: 'Quem Somos', href: '/quem-somos' },
     { label: 'Blog', href: '/blog' },
     { label: 'FAQ', href: '/faq' },
-    { label: 'Contatos', href: '/contatos' },
+    { label: 'Contato', href: '/contatos' },
   ]
 
   const services = [

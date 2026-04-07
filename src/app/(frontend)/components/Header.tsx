@@ -73,7 +73,7 @@ export default function Header() {
     { label: 'Quem Somos', href: '/quem-somos' },
     { label: 'Blog', href: '/blog' },
     { label: 'FAQ', href: '/faq' },
-    { label: 'Contatos', href: '/contatos' },
+    { label: 'Contato', href: '/contatos' },
   ]
 
   return (

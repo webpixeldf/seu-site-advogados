@@ -86,9 +86,9 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
           <div className="flex items-center gap-4 text-gray-400 font-lexend text-sm">
             <div className="flex items-center gap-2">
               <Calendar size={16} />
-              <time dateTime={post ? post.publishedAt : '2025-12-10'}>{post ? new Date(post.publishedAt).toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' }) : '10 de dezembro de 2025'}</time>
+              <time dateTime={post ? post.publishedAt : '2025-12-10'}>Publicado em {post ? new Date(post.publishedAt).toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' }) : '10 de dezembro de 2025'}</time>
             </div>
-            <span className="text-gray-400 font-lexend text-sm" rel="author">Por <span itemProp="author" itemScope itemType="https://schema.org/Organization"><span itemProp="name">Seu Site Advogados</span></span></span>
+            <a href="/quem-somos" className="author text-gray-400 font-lexend text-sm hover:text-[#b58c61] transition-colors" rel="author">Por <span itemProp="author" itemScope itemType="https://schema.org/Organization"><span itemProp="name">Seu Site Advogados</span></span></a>
           </div>
         </div>
       </section>
