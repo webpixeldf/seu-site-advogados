@@ -6,13 +6,14 @@ import { Phone } from 'lucide-react'
 import { blogPosts } from '../data/blogPosts'
 
 export const metadata: Metadata = {
-  title: 'Blog Jurídico | Artigos sobre Marketing Digital para Advogados',
-  description: 'Artigos, dicas e estratégias de marketing digital para advogados. SEO jurídico, redes sociais, captação de clientes e presença online para escritórios de advocacia.',
+  title: 'Blog Jurídico | Seu Site Advogados',
+  description: 'Artigos e estratégias de marketing digital para advogados. SEO jurídico, redes sociais e captação de clientes para escritórios.',
   alternates: { canonical: '/blog' },
   openGraph: {
-    title: 'Blog Jurídico | Artigos sobre Marketing Digital para Advogados',
+    title: 'Blog Jurídico | Seu Site Advogados',
     description: 'Artigos e estratégias de marketing digital para advogados. SEO jurídico, redes sociais e captação de clientes.',
     url: '/blog',
+    images: [{ url: '/images/site-para-advogados.webp', width: 800, height: 800, alt: 'Seu Site Advogados' }],
   },
 }
 

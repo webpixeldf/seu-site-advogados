@@ -144,7 +144,7 @@ export default function Footer() {
           </p>
           <div className="flex gap-6">
             <Link
-              href="/contatos"
+              href="/politica-de-privacidade"
               className="text-gray-500 hover:text-gray-400 text-sm font-lexend transition-colors"
             >
               Política de Privacidade

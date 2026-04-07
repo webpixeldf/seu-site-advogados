@@ -86,8 +86,9 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
           <div className="flex items-center gap-4 text-gray-400 font-lexend text-sm">
             <div className="flex items-center gap-2">
               <Calendar size={16} />
-              <time>{post ? new Date(post.publishedAt).toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' }) : '10 de dezembro de 2025'}</time>
+              <time dateTime={post ? post.publishedAt : '2025-12-10'}>{post ? new Date(post.publishedAt).toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' }) : '10 de dezembro de 2025'}</time>
             </div>
+            <span className="text-gray-400 font-lexend text-sm">Por Seu Site Advogados</span>
           </div>
         </div>
       </section>
@@ -107,11 +108,19 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                 '@type': 'Organization',
                 name: 'Seu Site Advogados',
                 url: 'https://seusiteadvogados.com.br',
+                logo: {
+                  '@type': 'ImageObject',
+                  url: 'https://seusiteadvogados.com.br/images/seu-site-advogados-logo.webp',
+                },
               },
               publisher: {
                 '@type': 'Organization',
                 name: 'Seu Site Advogados',
                 url: 'https://seusiteadvogados.com.br',
+                logo: {
+                  '@type': 'ImageObject',
+                  url: 'https://seusiteadvogados.com.br/images/seu-site-advogados-logo.webp',
+                },
               },
             }),
           }}
