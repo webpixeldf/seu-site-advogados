@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: 'Contato',
   description: 'Solicite um orçamento para criação de site para advogados. WhatsApp (61) 99278-4283 ou visite nosso escritório em Brasília.',
   alternates: { canonical: '/contatos' },
+  other: { 'page-type': 'contact' },
   openGraph: {
     title: 'Contato | Seu Site Advogados',
     description: 'Solicite um orçamento para criação de site para advogados. WhatsApp (61) 99278-4283.',
@@ -175,6 +176,13 @@ export default function ContatosPage() {
 
                 return <div key={card.title}>{inner}</div>
               })}
+
+              {/* Address */}
+              <address className="not-italic text-gray-400 font-lexend text-sm">
+                SHIS, Quadra 06, Complexo Brasil 21, Asa Sul, Brasília - DF<br />
+                <a href="mailto:webpixelbr@gmail.com">webpixelbr@gmail.com</a><br />
+                <a href="tel:+5561992784283">(61) 99278-4283</a>
+              </address>
 
               {/* CTA WhatsApp */}
               <a
