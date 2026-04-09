@@ -29,7 +29,7 @@ import {
 } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Site para Advogado que Capta Clientes',
+  title: 'Criação de Site para Advogado',
   description: 'Site para advogado com design exclusivo, hospedagem, e-mail profissional e SEO. Captação de clientes a partir de 3x de R$ 285.',
   alternates: {
     canonical: '/',
@@ -142,7 +142,7 @@ export default function HomePage() {
 
             {/* H1 */}
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white font-lexend leading-tight mb-4">
-              Site para Advogado
+              Criação de Site para Advogado
             </h1>
             <p className="text-[#b58c61] text-2xl md:text-3xl lg:text-4xl font-semibold font-lexend leading-tight mb-6">
               Seu escritório merece ser encontrado por quem realmente precisa de um advogado
