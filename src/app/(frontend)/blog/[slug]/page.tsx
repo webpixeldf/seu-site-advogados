@@ -211,21 +211,6 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
               )}
             </article>
 
-            {/* Internal link to homepage */}
-            <div className="mt-10 p-6 bg-[#f5f5f0] rounded-xl border border-gray-200">
-              <p className="text-gray-700 font-lexend text-sm leading-relaxed">
-                Precisa de um site profissional para seu escritório? Somos especialistas em{' '}
-                <Link href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors" title="Site para Advogados - Criação profissional">
-                  site para advogados
-                </Link>{' '}
-                com design exclusivo, SEO otimizado e foco em conversão. Confira nosso{' '}
-                <Link href="/portfolio" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors" title="Portfólio de sites para advogados">
-                  portfólio de sites jurídicos
-                </Link>{' '}
-                e veja os resultados que entregamos.
-              </p>
-            </div>
-
             {/* Related articles */}
             {relatedPosts.length > 0 && (
               <div className="mt-12 pt-8 border-t border-gray-200">
@@ -257,21 +242,13 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
             )}
 
             {/* Back to blog */}
-            <div className="mt-12 pt-8 border-t border-gray-200 flex items-center justify-between">
+            <div className="mt-12 pt-8 border-t border-gray-200">
               <Link
                 href="/blog"
                 className="inline-flex items-center gap-2 text-[#de7322] hover:text-[#ba5918] font-lexend font-semibold transition-colors"
               >
                 <ArrowLeft size={18} />
                 Voltar ao blog
-              </Link>
-              <Link
-                href="/"
-                className="inline-flex items-center gap-2 text-[#162a2a] hover:text-[#b58c61] font-lexend font-medium text-sm transition-colors"
-                title="Conheça nossos serviços de criação de sites para advogados"
-              >
-                Conheça nossos serviços
-                <ArrowRight size={16} />
               </Link>
             </div>
           </div>
@@ -285,10 +262,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
             Gostou do conteúdo? Vamos <span className="text-[#b58c61]">conversar</span>!
           </h2>
           <p className="text-gray-600 font-lexend mb-8 max-w-xl mx-auto">
-            Descubra como podemos criar um{' '}
-            <Link href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors" title="Site profissional para escritório de advocacia">
-              site profissional para seu escritório de advocacia
-            </Link>.
+            Uma conversa rápida é tudo o que precisamos para entender seus objetivos.
           </p>
           <a
             href="https://wa.me/5561992784283?text=Ol%C3%A1%21%20Vim%20do%20site%20seusiteadvogados.com.br%20e%20gostaria%20de%20um%20or%C3%A7amento."
