@@ -4,6 +4,11 @@ import BlogCard from '../components/BlogCard'
 import Breadcrumbs from '../components/Breadcrumbs'
 import { Phone } from 'lucide-react'
 import { blogPosts } from '../data/blogPosts'
+import { getPayload } from 'payload'
+import config from '@payload-config'
+
+// Revalidar a cada 1 hora para mostrar artigos novos
+export const revalidate = 3600
 
 export const metadata: Metadata = {
   title: 'Blog Jurídico | Seu Site Advogados',
@@ -17,7 +22,29 @@ export const metadata: Metadata = {
   },
 }
 
-export default function BlogPage() {
+async function getPayloadArticles() {
+  try {
+    const payload = await getPayload({ config })
+    const result = await payload.find({
+      collection: 'blog',
+      where: { status: { equals: 'publicado' } },
+      sort: '-publishedAt',
+      limit: 100,
+    })
+    return result.docs.map((doc: any) => ({
+      titulo: doc.titulo,
+      slug: doc.slug,
+      resumo: doc.resumo || '',
+      imagemUrl: doc.imagemUrl || '/images/site-para-advogados.webp',
+      publishedAt: doc.publishedAt || doc.createdAt || new Date().toISOString(),
+    }))
+  } catch {
+    return []
+  }
+}
+
+export default async function BlogPage() {
+  const payloadArticles = await getPayloadArticles()
   return (
     <>
       {/* Hero */}
@@ -57,19 +84,20 @@ export default function BlogPage() {
               Todos os <span className="text-[#b58c61]">Artigos</span>
             </h2>
             <p className="text-gray-500 font-lexend mt-3">
-              {blogPosts.length} artigos pra você aplicar no seu escritório hoje
+              {blogPosts.length + payloadArticles.length} artigos pra você aplicar no seu escritório hoje
             </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {/* Artigos do Payload (mais recentes primeiro) */}
+            {payloadArticles.map((post) => (
+              <BlogCard key={post.slug} {...post} />
+            ))}
+            {/* Artigos estáticos */}
             {blogPosts.slice(0, 30).map((post) => (
               <BlogCard key={post.slug} {...post} />
             ))}
           </div>
-
-          <p className="text-center text-gray-500 font-lexend text-sm mt-8">
-            Mostrando 30 de {blogPosts.length} artigos
-          </p>
 
           {/* Internal link to homepage */}
           <div className="mt-16 text-center p-8 bg-white rounded-2xl border border-gray-200">

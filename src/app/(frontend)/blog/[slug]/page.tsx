@@ -8,6 +8,9 @@ import { getArticleContent } from '../../data/articles'
 import { getPayload } from 'payload'
 import config from '@payload-config'
 
+// Revalidar a cada 1 hora
+export const revalidate = 3600
+
 // Buscar artigo dinâmico do Payload CMS
 async function getPayloadArticle(slug: string) {
   try {
