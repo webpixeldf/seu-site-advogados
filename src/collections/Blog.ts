@@ -37,7 +37,22 @@ export const Blog: CollectionConfig = {
     {
       name: 'conteudo',
       type: 'richText',
-      required: true,
+    },
+    {
+      name: 'conteudoHtml',
+      type: 'textarea',
+      label: 'Conteúdo HTML',
+      admin: {
+        description: 'Conteúdo em HTML gerado automaticamente. Se preenchido, tem prioridade sobre o campo richText.',
+      },
+    },
+    {
+      name: 'imagemUrl',
+      type: 'text',
+      label: 'URL da Imagem',
+      admin: {
+        description: 'Caminho da imagem de destaque (ex: /images/blog/slug.webp)',
+      },
     },
     {
       name: 'imagemDestaque',

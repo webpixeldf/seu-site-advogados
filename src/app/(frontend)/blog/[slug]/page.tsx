@@ -5,6 +5,26 @@ import { ArrowLeft, Calendar, Share2, Phone, ArrowRight } from 'lucide-react'
 import Breadcrumbs from '../../components/Breadcrumbs'
 import { blogPosts, getRelatedPosts, getHomepageAnchor } from '../../data/blogPosts'
 import { getArticleContent } from '../../data/articles'
+import { getPayload } from 'payload'
+import config from '@payload-config'
+
+// Buscar artigo dinâmico do Payload CMS
+async function getPayloadArticle(slug: string) {
+  try {
+    const payload = await getPayload({ config })
+    const result = await payload.find({
+      collection: 'blog',
+      where: {
+        slug: { equals: slug },
+        status: { equals: 'publicado' },
+      },
+      limit: 1,
+    })
+    return result.docs[0] || null
+  } catch {
+    return null
+  }
+}
 
 interface BlogPostPageProps {
   params: Promise<{ slug: string }>
@@ -47,17 +67,21 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
 export default async function BlogPostPage({ params }: BlogPostPageProps) {
   const { slug } = await params
   const post = blogPosts.find((p) => p.slug === slug)
+
+  // Buscar artigo dinâmico do Payload se não existir nos estáticos
+  const payloadArticle = !post ? await getPayloadArticle(slug) : null
+
   const title = post
     ? post.titulo
-    : slug
-        .split('-')
-        .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-        .join(' ')
+    : payloadArticle
+      ? (payloadArticle as any).titulo
+      : slug.split('-').map((word: string) => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')
 
   const relatedPosts = getRelatedPosts(slug, 3)
   const postIndex = blogPosts.findIndex((p) => p.slug === slug)
   const anchor = getHomepageAnchor(postIndex >= 0 ? postIndex : 0)
   const articleContent = getArticleContent(slug)
+  const payloadHtml = payloadArticle ? (payloadArticle as any).conteudoHtml : null
 
   return (
     <>
@@ -183,7 +207,13 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
 
             {/* Article body */}
             <article className="prose prose-lg max-w-none font-lexend">
-              {articleContent || (
+              {articleContent || payloadHtml ? (
+                payloadHtml ? (
+                  <div dangerouslySetInnerHTML={{ __html: payloadHtml }} className="text-gray-700 leading-relaxed [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:text-[#162a2a] [&_h2]:font-lexend [&_h2]:mt-10 [&_h2]:mb-4 [&_h3]:text-xl [&_h3]:font-bold [&_h3]:text-[#162a2a] [&_h3]:font-lexend [&_h3]:mt-8 [&_h3]:mb-3 [&_p]:leading-relaxed [&_p]:mb-4 [&_ul]:list-disc [&_ul]:pl-6 [&_ul]:space-y-2 [&_a]:text-[#de7322] [&_a]:font-semibold [&_a]:hover:text-[#ba5918] [&_strong]:text-[#162a2a]" />
+                ) : (
+                  articleContent
+                )
+              ) : (
                 <>
                   <p className="text-gray-700 leading-relaxed text-lg">
                     Este artigo está sendo produzido pela nossa equipe de conteúdo e será publicado em breve.
