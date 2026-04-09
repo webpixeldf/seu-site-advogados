@@ -176,10 +176,10 @@ async function downloadImage(keyword: string, slug: string): Promise<string> {
 }
 
 // ============================================
-// 3. PAYLOAD: Salvar no banco de dados
+// 3. SQLITE: Salvar diretamente no banco
 // ============================================
 
-async function saveToPayload(article: {
+async function saveToDatabase(article: {
   titulo: string
   slug: string
   resumo: string
@@ -188,45 +188,51 @@ async function saveToPayload(article: {
   imagemUrl: string
   keyword: string
 }) {
-  // Importar Payload
-  const { getPayload } = await import('payload')
-  const config = (await import('../payload.config')).default
-
-  const payload = await getPayload({ config })
+  const Database = (await import('better-sqlite3')).default
+  const db = new Database(DB_PATH)
 
   // Verificar se slug já existe
-  const existing = await payload.find({
-    collection: 'blog',
-    where: { slug: { equals: article.slug } },
-    limit: 1,
-  })
-
-  if (existing.docs.length > 0) {
+  const existing = db.prepare('SELECT id FROM blog WHERE slug = ?').get(article.slug)
+  if (existing) {
     console.log(`  Artigo "${article.slug}" já existe, pulando...`)
+    db.close()
     return null
   }
 
-  // Criar artigo
-  const doc = await payload.create({
-    collection: 'blog',
-    data: {
-      titulo: article.titulo,
-      slug: article.slug,
-      resumo: article.resumo,
-      conteudoHtml: article.conteudo,
-      imagemUrl: article.imagemUrl,
-      status: 'publicado',
-      publishedAt: new Date().toISOString(),
-      destaque: false,
-      seo: {
-        metaTitle: article.titulo,
-        metaDescription: article.resumo,
-      },
-    },
-  })
+  const id = crypto.randomUUID()
+  const now = new Date().toISOString()
 
-  console.log(`  Salvo no Payload: ID ${doc.id}`)
-  return doc
+  const stmt = db.prepare(`
+    INSERT INTO blog (id, titulo, slug, resumo, conteudo_html, imagem_url, status, published_at, destaque, created_at, updated_at)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+  `)
+
+  try {
+    stmt.run(id, article.titulo, article.slug, article.resumo, article.conteudo, article.imagemUrl, 'publicado', now, 0, now, now)
+    console.log(`  Salvo no banco: ID ${id}`)
+    db.close()
+    return { id }
+  } catch (e: any) {
+    // Se a tabela não tem as colunas certas, tentar com nomes alternativos do Drizzle/Payload
+    console.log('  Tentando formato alternativo de colunas...')
+    try {
+      const cols = db.prepare("PRAGMA table_info(blog)").all() as any[]
+      const colNames = cols.map((c: any) => c.name)
+      console.log('  Colunas:', colNames.join(', '))
+
+      // Payload/Drizzle pode usar camelCase ou snake_case
+      const insertSql = `INSERT INTO blog (id, titulo, slug, resumo, ${colNames.includes('conteudoHtml') ? 'conteudoHtml' : colNames.includes('conteudo_html') ? 'conteudo_html' : 'conteudo_html'}, ${colNames.includes('imagemUrl') ? 'imagemUrl' : colNames.includes('imagem_url') ? 'imagem_url' : 'imagem_url'}, status, ${colNames.includes('publishedAt') ? 'publishedAt' : colNames.includes('published_at') ? 'published_at' : 'published_at'}, destaque, ${colNames.includes('createdAt') ? 'createdAt' : colNames.includes('created_at') ? 'created_at' : 'created_at'}, ${colNames.includes('updatedAt') ? 'updatedAt' : colNames.includes('updated_at') ? 'updated_at' : 'updated_at'}) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`
+
+      db.prepare(insertSql).run(id, article.titulo, article.slug, article.resumo, article.conteudo, article.imagemUrl, 'publicado', now, 0, now, now)
+      console.log(`  Salvo no banco (formato alt): ID ${id}`)
+      db.close()
+      return { id }
+    } catch (e2: any) {
+      console.error('  Erro ao salvar:', e2.message)
+      db.close()
+      throw e2
+    }
+  }
 }
 
 // ============================================
@@ -255,9 +261,9 @@ async function main() {
     const imagemUrl = await downloadImage(article.keyword, article.slug)
     console.log(`  URL: ${imagemUrl}`)
 
-    // 3. Salvar no Payload
-    console.log('\n[3/3] Salvando no Payload CMS...')
-    const doc = await saveToPayload({
+    // 3. Salvar no banco
+    console.log('\n[3/3] Salvando no banco de dados...')
+    const doc = await saveToDatabase({
       ...article,
       imagemUrl,
     })
