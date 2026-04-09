@@ -130,7 +130,7 @@ registerArticle('a-importancia-de-ter-um-site-profissional-para-advogados', () =
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Advogados que investem em um site profissional hoje estão construindo uma vantagem que se acumula com o tempo. Cada artigo publicado, cada visitante convertido e cada posição conquistada no Google reforça uma presença digital que se torna cada vez mais valiosa e mais difícil de ser replicada pela concorrência.
+      Advogados que investem em uma <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">página profissional para advogado</a> hoje estão construindo uma vantagem que se acumula com o tempo. Cada artigo publicado, cada visitante convertido e cada posição conquistada no Google reforça uma presença digital que se torna cada vez mais valiosa e mais difícil de ser replicada pela concorrência.
     </p>
   </>
 ))

@@ -16,7 +16,7 @@ registerArticle('como-ser-advogado-do-google', () => (
       <li><strong className="text-[#162a2a]">Nos anúncios pagos</strong> — ocupando também o espaço patrocinado quando o investimento justifica</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      Quando seu escritório aparece em dois ou três desses espaços ao mesmo tempo, a percepção do potencial cliente muda. Você deixa de ser "mais um advogado" e passa a ser a referência óbvia. A confiança aumenta e a probabilidade de contato cresce significativamente.
+      Quando seu escritório aparece em dois ou três desses espaços ao mesmo tempo — o que exige ter um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado que converte</a> —, a percepção do potencial cliente muda. Você deixa de ser "mais um advogado" e passa a ser a referência óbvia. A confiança aumenta e a probabilidade de contato cresce significativamente.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Análise da concorrência: entendendo o campo de batalha</h2>

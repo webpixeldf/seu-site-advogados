@@ -99,7 +99,7 @@ registerArticle('posts-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Produzir conteúdo para redes sociais não é desviar do trabalho jurídico — é uma extensão dele. Cada post é uma oportunidade de educar, demonstrar competência e se conectar com pessoas que podem precisar do seu serviço. O advogado que domina essa habilidade está um passo à frente no mercado.
+      Produzir conteúdo para redes sociais não é desviar do trabalho jurídico — é uma extensão dele. Cada post é uma oportunidade de educar, demonstrar competência e se conectar com pessoas que podem precisar do seu serviço. Combinado com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para captação de clientes jurídicos</a>, o conteúdo nas redes sociais forma uma estratégia completa. O advogado que domina essa habilidade está um passo à frente no mercado.
     </p>
   </>
 ))

@@ -49,7 +49,7 @@ registerArticle('e-mail-marketing-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A forma mais comum é criar um formulário no site do escritório oferecendo algo de valor em troca do cadastro. Pode ser um e-book sobre direitos do consumidor, um checklist para abertura de empresa ou uma série de e-mails sobre planejamento sucessório. O importante é que o conteúdo seja relevante para o público que você deseja atrair.
+      A forma mais comum é criar um formulário no <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site profissional para escritório</a> oferecendo algo de valor em troca do cadastro. Pode ser um e-book sobre direitos do consumidor, um checklist para abertura de empresa ou uma série de e-mails sobre planejamento sucessório. O importante é que o conteúdo seja relevante para o público que você deseja atrair.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

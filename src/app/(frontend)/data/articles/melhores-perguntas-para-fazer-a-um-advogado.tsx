@@ -116,7 +116,7 @@ registerArticle('melhores-perguntas-para-fazer-a-um-advogado', () => (
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
-      A primeira consulta é uma via de mão dupla: enquanto o advogado avalia o caso, o cliente avalia o advogado. Chegue preparado, faça perguntas diretas e observe não apenas as respostas, mas a forma como são dadas. Um advogado que ouve com atenção, responde com honestidade e se comunica com clareza é, na maioria das vezes, um bom profissional para se trabalhar.
+      A primeira consulta é uma via de mão dupla: enquanto o advogado avalia o caso, o cliente avalia o advogado. Chegue preparado, faça perguntas diretas e observe não apenas as respostas, mas a forma como são dadas. Verificar se o profissional mantém um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site jurídico profissional</a> também é um bom indicador de seriedade. Um advogado que ouve com atenção, responde com honestidade e se comunica com clareza é, na maioria das vezes, um bom profissional para se trabalhar.
     </p>
   </>
 ))

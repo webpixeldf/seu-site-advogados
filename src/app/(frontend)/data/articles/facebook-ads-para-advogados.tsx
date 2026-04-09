@@ -31,7 +31,7 @@ registerArticle('facebook-ads-para-advogados', () => (
       Campanha de tráfego
     </h3>
     <p className="text-gray-700 leading-relaxed">
-      Direciona pessoas para seu site ou página de destino. Ideal para escritórios que possuem um site com conteúdo informativo, blog jurídico ou página de serviços. O objetivo é levar o potencial cliente a conhecer seu trabalho em um ambiente controlado, onde você pode apresentar suas áreas de atuação, artigos e formas de contato.
+      Direciona pessoas para seu <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site otimizado para advogado</a> ou página de destino. Ideal para escritórios que possuem um site com conteúdo informativo, blog jurídico ou página de serviços. O objetivo é levar o potencial cliente a conhecer seu trabalho em um ambiente controlado, onde você pode apresentar suas áreas de atuação, artigos e formas de contato.
     </p>
     <p className="text-gray-700 leading-relaxed">
       Exemplo de anúncio: "Você sabe quais são seus direitos em caso de atraso na entrega de imóvel na planta? Confira nosso guia completo." O link direciona para um artigo no blog do escritório que, ao final, oferece um botão de contato pelo WhatsApp.

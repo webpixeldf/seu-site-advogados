@@ -19,7 +19,7 @@ registerArticle('melhor-cor-para-advogado', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Quando um potencial cliente acessa o site de um advogado, a paleta de cores é processada pelo cérebro antes mesmo do conteúdo textual. Cores escuras e sóbrias tendem a ativar associações de profissionalismo e estabilidade. Cores vibrantes e saturadas podem gerar uma sensação de energia que, no contexto jurídico, nem sempre é positiva — o cliente quer segurança, não agitação.
+      Quando um potencial cliente acessa um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado iniciante</a> ou de um escritório consolidado, a paleta de cores é processada pelo cérebro antes mesmo do conteúdo textual. Cores escuras e sóbrias tendem a ativar associações de profissionalismo e estabilidade. Cores vibrantes e saturadas podem gerar uma sensação de energia que, no contexto jurídico, nem sempre é positiva — o cliente quer segurança, não agitação.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

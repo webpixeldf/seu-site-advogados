@@ -31,7 +31,7 @@ registerArticle('como-criar-campanha-no-meta-ads-para-advogados', () => (
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Tráfego</h3>
     <p className="text-gray-700 leading-relaxed">
-      Direciona as pessoas para o seu site ou landing page. É uma boa opção quando você tem uma página de destino otimizada para conversão. O algoritmo vai exibir o anúncio para pessoas com maior probabilidade de clicar no link. Use esse objetivo quando quiser que o visitante conheça mais sobre o escritório antes de entrar em contato.
+      Direciona as pessoas para o seu site ou landing page. É uma boa opção quando você tem uma página de destino otimizada para conversão. O algoritmo vai exibir o anúncio para pessoas com maior probabilidade de clicar no link. Use esse objetivo quando quiser que o visitante conheça mais sobre o escritório antes de entrar em contato — e para isso, é fundamental ter uma <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">presença digital para advogado</a> bem construída.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Engajamento</h3>

@@ -129,7 +129,7 @@ registerArticle('e-mail-para-advogado', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O e-mail profissional não é luxo — é infraestrutura básica. Assim como um escritório precisa de um endereço físico confiável, precisa de um endereço digital que transmita credibilidade. A configuração é rápida, o custo é acessível e o impacto na imagem do escritório é imediato.
+      O e-mail profissional não é luxo — é infraestrutura básica. Assim como um escritório precisa de um endereço físico confiável, precisa de um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado com SEO</a> e um endereço digital que transmitam credibilidade. A configuração é rápida, o custo é acessível e o impacto na imagem do escritório é imediato.
     </p>
   </>
 ))

@@ -158,7 +158,7 @@ registerArticle('logomarca-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A consistência visual constrói reconhecimento ao longo do tempo. Quando um cliente vê sua logomarca no Google, depois no Instagram e depois em um documento, a repetição cria familiaridade. E familiaridade, no contexto jurídico, se traduz em confiança.
+      A consistência visual constrói reconhecimento ao longo do tempo. Quando um cliente vê sua logomarca no Google, depois no Instagram, depois em um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site profissional para escritório</a> e depois em um documento, a repetição cria familiaridade. E familiaridade, no contexto jurídico, se traduz em confiança.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">

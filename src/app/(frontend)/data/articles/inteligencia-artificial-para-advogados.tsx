@@ -128,7 +128,7 @@ registerArticle('inteligencia-artificial-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Por fim, mantenha-se atualizado. A velocidade de evolução das ferramentas de IA é sem precedentes. O que não funciona bem hoje pode se tornar indispensável em seis meses. Advogados que acompanham essa evolução terão vantagem competitiva real nos próximos anos — não porque a IA substituirá o trabalho jurídico, mas porque tornará mais eficientes aqueles que souberem usá-la.
+      Por fim, mantenha-se atualizado. A velocidade de evolução das ferramentas de IA é sem precedentes. O que não funciona bem hoje pode se tornar indispensável em seis meses. Advogados que acompanham essa evolução e investem em um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site jurídico profissional</a> terão vantagem competitiva real nos próximos anos — não porque a IA substituirá o trabalho jurídico, mas porque tornará mais eficientes aqueles que souberem usá-la.
     </p>
   </>
 ))

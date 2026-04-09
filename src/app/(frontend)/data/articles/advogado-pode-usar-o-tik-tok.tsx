@@ -13,7 +13,7 @@ registerArticle('advogado-pode-usar-o-tik-tok', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Enquanto no Instagram uma conta nova leva meses para ganhar os primeiros mil seguidores, no TikTok um único vídeo relevante pode atingir centenas de milhares de visualizações. Isso acontece porque o algoritmo do TikTok distribui conteúdo com base no interesse do usuário, não no tamanho da conta. Para advogados que estão começando sua presença digital, essa é uma vantagem enorme.
+      Enquanto no Instagram uma conta nova leva meses para ganhar os primeiros mil seguidores, no TikTok um único vídeo relevante pode atingir centenas de milhares de visualizações. Isso acontece porque o algoritmo do TikTok distribui conteúdo com base no interesse do usuário, não no tamanho da conta. Para advogados que estão começando sua presença digital — inclusive com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado</a> —, essa é uma vantagem enorme.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Limites éticos no TikTok</h2>

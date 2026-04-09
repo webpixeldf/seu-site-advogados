@@ -152,7 +152,7 @@ registerArticle('whatsapp-business-para-advogados', () => (
       Conclusão prática
     </h2>
     <p className="text-gray-700 leading-relaxed">
-      Configurar o WhatsApp Business leva poucos minutos, mas o impacto na organização e na imagem profissional do escritório é significativo. Com o perfil completo, mensagens automáticas configuradas, etiquetas organizadas e respostas rápidas cadastradas, você reduz o tempo gasto com tarefas repetitivas e oferece uma experiência de atendimento que diferencia seu escritório da concorrência. O investimento é zero — o retorno, considerável.
+      Configurar o WhatsApp Business leva poucos minutos, e quando integrado a um bom trabalho de <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criar site para escritório de advocacia</a>, o impacto na organização e na imagem profissional do escritório é significativo. Com o perfil completo, mensagens automáticas configuradas, etiquetas organizadas e respostas rápidas cadastradas, você reduz o tempo gasto com tarefas repetitivas e oferece uma experiência de atendimento que diferencia seu escritório da concorrência. O investimento é zero — o retorno, considerável.
     </p>
   </>
 ))

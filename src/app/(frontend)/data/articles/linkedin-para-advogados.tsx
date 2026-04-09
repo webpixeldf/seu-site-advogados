@@ -205,7 +205,7 @@ registerArticle('linkedin-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O advogado que trata o LinkedIn como ferramenta estratégica — e não como currículo online — tem uma vantagem competitiva real. Enquanto a maioria dos colegas ainda depende exclusivamente de indicação e eventos presenciais, quem domina o LinkedIn abre um canal de geração de oportunidades que funciona 24 horas por dia, sete dias por semana, sem custo de mídia e com total conformidade às normas da OAB.
+      O advogado que investe em <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">presença digital para advogado</a> e trata o LinkedIn como ferramenta estratégica — e não como currículo online — tem uma vantagem competitiva real. Enquanto a maioria dos colegas ainda depende exclusivamente de indicação e eventos presenciais, quem domina o LinkedIn abre um canal de geração de oportunidades que funciona 24 horas por dia, sete dias por semana, sem custo de mídia e com total conformidade às normas da OAB.
     </p>
   </>
 ))

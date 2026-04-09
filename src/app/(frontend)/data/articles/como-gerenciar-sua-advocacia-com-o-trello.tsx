@@ -71,7 +71,7 @@ registerArticle('como-gerenciar-sua-advocacia-com-o-trello', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Terceiro quadro: Produção de conteúdo</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Se você produz conteúdo para redes sociais ou blog, um quadro dedicado ajuda a manter a consistência. Configure listas como "Ideias", "Rascunho", "Em revisão", "Agendado" e "Publicado". Cada post ou artigo vira um cartão com prazo de publicação, texto do conteúdo e imagens anexadas.
+      Se você produz conteúdo para redes sociais ou para o blog de um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site profissional para advogado</a>, um quadro dedicado ajuda a manter a consistência. Configure listas como "Ideias", "Rascunho", "Em revisão", "Agendado" e "Publicado". Cada post ou artigo vira um cartão com prazo de publicação, texto do conteúdo e imagens anexadas.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Automações com o Butler</h2>

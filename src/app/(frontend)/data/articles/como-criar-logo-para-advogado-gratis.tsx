@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('como-criar-logo-para-advogado-gratis', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O logo é a identidade visual do escritório. Ele aparece no site, nos cartões de visita, nas redes sociais, na assinatura de e-mail e em todos os documentos. Um logo bem feito transmite profissionalismo e credibilidade. A boa notícia é que, com as ferramentas disponíveis hoje, é possível criar um logo de qualidade sem gastar nada — ou gastando muito pouco.
+      O logo é a identidade visual do escritório. Ele aparece no <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site jurídico profissional</a>, nos cartões de visita, nas redes sociais, na assinatura de e-mail e em todos os documentos. Um logo bem feito transmite profissionalismo e credibilidade. A boa notícia é que, com as ferramentas disponíveis hoje, é possível criar um logo de qualidade sem gastar nada — ou gastando muito pouco.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Princípios de um bom logo jurídico</h2>

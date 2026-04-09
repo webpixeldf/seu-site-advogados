@@ -152,7 +152,7 @@ registerArticle('landing-page-e-site-institucional', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O mais importante é entender que presença digital não é um gasto — é um investimento com retorno mensurável. Independentemente do formato escolhido, o fundamental é que a execução seja profissional, que o conteúdo fale a língua do cliente e que exista um processo claro para transformar visitantes em clientes reais do escritório.
+      O mais importante é entender que presença digital não é um gasto — é um investimento com retorno mensurável. Ter um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado autônomo</a> bem feito é o primeiro passo. Independentemente do formato escolhido, o fundamental é que a execução seja profissional, que o conteúdo fale a língua do cliente e que exista um processo claro para transformar visitantes em clientes reais do escritório.
     </p>
   </>
 ))

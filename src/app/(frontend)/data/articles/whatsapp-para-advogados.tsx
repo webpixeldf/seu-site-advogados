@@ -16,7 +16,7 @@ registerArticle('whatsapp-para-advogados', () => (
       Enviar mensagens não solicitadas para pessoas oferecendo serviços jurídicos configura captação indevida, prática vedada pelo Estatuto da Advocacia. O mesmo vale para adicionar pessoas desconhecidas a grupos do escritório sem consentimento prévio. A regra é clara: o cliente deve procurar o advogado, não o contrário.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      Na prática, isso não impede que você use o WhatsApp como canal principal de atendimento. Quando alguém encontra seu perfil no Instagram, no Google ou recebe uma indicação e entra em contato pelo WhatsApp, o atendimento é legítimo. O que não pode acontecer é a prospecção ativa via mensagem.
+      Na prática, isso não impede que você use o WhatsApp como canal principal de atendimento. Quando alguém encontra seu <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado autônomo</a>, seu perfil no Instagram ou recebe uma indicação e entra em contato pelo WhatsApp, o atendimento é legítimo. O que não pode acontecer é a prospecção ativa via mensagem.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">

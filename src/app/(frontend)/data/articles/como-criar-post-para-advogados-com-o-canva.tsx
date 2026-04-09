@@ -134,7 +134,7 @@ registerArticle('como-criar-post-para-advogados-com-o-canva', () => (
       Com o tempo, o número de designs acumulados no Canva cresce rapidamente. Organize-os em pastas para encontrar o que precisa sem perder tempo. Crie pastas por tipo de conteúdo — "Posts Instagram", "Stories", "Thumbnails YouTube", "Carrosséis" — ou por mês de publicação. Use nomes descritivos nos designs em vez de deixar o nome padrão gerado pelo Canva.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      O Canva é uma ferramenta que democratiza o design profissional. Para advogados que precisam manter uma presença digital ativa sem depender permanentemente de um designer, dominar seus recursos básicos é um investimento de tempo que se paga rapidamente em economia de custos e em qualidade de comunicação visual.
+      O Canva é uma ferramenta que democratiza o design profissional. Para advogados que precisam manter uma <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">presença digital para advogado</a> ativa sem depender permanentemente de um designer, dominar seus recursos básicos é um investimento de tempo que se paga rapidamente em economia de custos e em qualidade de comunicação visual.
     </p>
   </>
 ))

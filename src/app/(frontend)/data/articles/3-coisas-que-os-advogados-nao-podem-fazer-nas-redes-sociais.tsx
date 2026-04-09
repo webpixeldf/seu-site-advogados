@@ -92,7 +92,7 @@ registerArticle('3-coisas-que-os-advogados-nao-podem-fazer-nas-redes-sociais', (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Redes sociais são ferramentas poderosas para construir autoridade e atrair clientes de forma ética. Os limites existem para proteger a dignidade da profissão e os direitos dos clientes — não para impedir o advogado de se posicionar. Conhecer esses limites é o primeiro passo para usar as redes com confiança e segurança.
+      Redes sociais são ferramentas poderosas para construir autoridade e atrair clientes de forma ética. Os limites existem para proteger a dignidade da profissão e os direitos dos clientes — não para impedir o advogado de se posicionar. Um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para escritório de advocacia</a> bem estruturado é um canal complementar que permite comunicar com profissionalismo, sem os riscos das redes sociais. Conhecer esses limites é o primeiro passo para usar as redes com confiança e segurança.
     </p>
   </>
 ))

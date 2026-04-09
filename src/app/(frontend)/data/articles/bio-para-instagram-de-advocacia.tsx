@@ -60,7 +60,7 @@ registerArticle('bio-para-instagram-de-advocacia', () => (
       <li><strong className="text-[#162a2a]">Página de links (Linktree ou similar):</strong> permite oferecer múltiplas opções — WhatsApp, site, blog, Google Maps. Útil quando você quer direcionar para mais de um destino</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      Se seu objetivo principal é gerar contatos, o link direto para o WhatsApp costuma converter melhor do que qualquer outra opção. O clique leva a pessoa diretamente para a conversa, sem intermediários.
+      Se seu objetivo principal é gerar contatos, o link direto para o WhatsApp ou para uma <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">página profissional para advogado</a> costuma converter melhor do que qualquer outra opção. O clique leva a pessoa diretamente para a conversa, sem intermediários.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">

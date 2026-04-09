@@ -69,7 +69,7 @@ registerArticle('como-achar-um-advogado-pelo-nome', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Site profissional:</strong> muitos advogados mantêm sites com informações sobre áreas de atuação, formação e contato.</li>
+      <li><strong className="text-[#162a2a]">Site profissional:</strong> muitos advogados mantêm um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogados e escritórios</a> com informações sobre áreas de atuação, formação e contato.</li>
       <li><strong className="text-[#162a2a]">Perfil no Google Meu Negócio:</strong> com endereço, telefone, horário de funcionamento e avaliações de clientes.</li>
       <li><strong className="text-[#162a2a]">Perfis em redes sociais:</strong> LinkedIn, Instagram e outras plataformas onde o advogado mantém presença profissional.</li>
       <li><strong className="text-[#162a2a]">Artigos e publicações:</strong> textos, entrevistas e participações em eventos que demonstram a atuação do profissional.</li>

@@ -88,7 +88,7 @@ registerArticle('frases-para-elogiar-advogado', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Site do escritório</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Uma seção de depoimentos na página principal ou na página de serviços reforça a confiança do visitante. Use o nome do cliente (com autorização) ou apenas as iniciais. Incluir a foto do cliente aumenta a percepção de autenticidade, mas depende de autorização expressa.
+      Uma seção de depoimentos no <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para escritório de advocacia</a> reforça a confiança do visitante. Use o nome do cliente (com autorização) ou apenas as iniciais. Incluir a foto do cliente aumenta a percepção de autenticidade, mas depende de autorização expressa.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Redes sociais</h3>

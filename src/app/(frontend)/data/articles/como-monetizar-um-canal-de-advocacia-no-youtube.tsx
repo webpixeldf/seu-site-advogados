@@ -70,7 +70,7 @@ registerArticle('como-monetizar-um-canal-de-advocacia-no-youtube', () => (
       Embora não seja monetização direta do canal, a captação de clientes é frequentemente o retorno financeiro mais significativo do YouTube para advogados. Um único cliente que chega por meio de um vídeo pode representar honorários que superam toda a receita de AdSense do canal em um ano.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      Para que isso funcione, o conteúdo precisa ser direcionado a problemas reais que potenciais clientes pesquisam. Vídeos como "O que fazer quando o plano de saúde nega uma cirurgia" ou "Como funciona a rescisão indireta do contrato de trabalho" atraem pessoas que estão vivenciando essas situações e podem precisar de um advogado. A descrição do vídeo e os comentários fixados são espaços estratégicos para incluir informações de contato e orientações sobre como agendar uma consulta.
+      Para que isso funcione, o conteúdo precisa ser direcionado a problemas reais que potenciais clientes pesquisam. Vídeos como "O que fazer quando o plano de saúde nega uma cirurgia" ou "Como funciona a rescisão indireta do contrato de trabalho" atraem pessoas que estão vivenciando essas situações e podem precisar de um advogado. A descrição do vídeo e os comentários fixados são espaços estratégicos para incluir o link para <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criação de sites jurídicos</a>, informações de contato e orientações sobre como agendar uma consulta.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Expectativas realistas sobre receita</h2>

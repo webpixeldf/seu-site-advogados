@@ -16,7 +16,7 @@ registerArticle('como-aparecer-no-google-como-advogado', () => (
       <li><strong className="text-[#162a2a]">Resultados orgânicos</strong> — listagem natural de sites relevantes para a busca</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      O ideal é que seu escritório apareça tanto no pacote local quanto nos resultados orgânicos. Cada um exige uma estratégia diferente, mas ambos compartilham princípios comuns de relevância e autoridade.
+      O ideal é que seu escritório apareça tanto no pacote local quanto nos resultados orgânicos. Para isso, o primeiro passo é <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criar site para advogado</a> com estrutura otimizada. Cada formato de resultado exige uma estratégia diferente, mas ambos compartilham princípios comuns de relevância e autoridade.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Google Meu Negócio: o primeiro passo obrigatório</h2>

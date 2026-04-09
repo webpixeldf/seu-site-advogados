@@ -156,7 +156,7 @@ registerArticle('beneficios-do-google-docs-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O ponto de partida é criar uma conta Google profissional para o escritório (ou usar o Google Workspace para contas com domínio próprio), organizar a estrutura de pastas no Drive e migrar os templates existentes. Com essa base, a colaboração fluida e o acesso universal aos documentos se tornam realidade rapidamente, sem custo e sem complexidade técnica.
+      O ponto de partida é criar uma conta Google profissional para o escritório (ou usar o Google Workspace para contas com domínio próprio), organizar a estrutura de pastas no Drive, investir em um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para escritório jurídico</a> e migrar os templates existentes. Com essa base, a colaboração fluida e o acesso universal aos documentos se tornam realidade rapidamente, sem custo e sem complexidade técnica.
     </p>
   </>
 ))

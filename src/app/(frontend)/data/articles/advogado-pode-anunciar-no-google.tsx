@@ -119,7 +119,7 @@ registerArticle('advogado-pode-anunciar-no-google', () => (
       A tendência clara é de flexibilização progressiva das regras de publicidade na advocacia, acompanhando a realidade do mercado digital. O Provimento 205 foi um marco importante nessa direção, mas a interpretação ainda varia entre seccionais da OAB.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      O que não muda é o princípio fundamental: a publicidade na advocacia deve ser informativa, discreta e compatível com a dignidade da profissão. Advogados que entendem esse princípio e o aplicam nas suas campanhas conseguem aproveitar todo o potencial do marketing digital sem riscos éticos. A chave está em educar e informar o público, posicionando-se como referência na sua área de atuação, em vez de tentar vender serviços jurídicos como se fossem produtos de prateleira.
+      O que não muda é o princípio fundamental: a publicidade na advocacia deve ser informativa, discreta e compatível com a dignidade da profissão. Advogados que entendem esse princípio, investem em um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site profissional para escritório</a> e aplicam boas práticas nas suas campanhas conseguem aproveitar todo o potencial do marketing digital sem riscos éticos. A chave está em educar e informar o público, posicionando-se como referência na sua área de atuação, em vez de tentar vender serviços jurídicos como se fossem produtos de prateleira.
     </p>
   </>
 ))

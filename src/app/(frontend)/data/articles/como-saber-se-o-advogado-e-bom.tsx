@@ -89,7 +89,7 @@ registerArticle('como-saber-se-o-advogado-e-bom', () => (
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Avaliações no Google:</strong> o perfil do Google Meu Negócio mostra avaliações de clientes anteriores. Leia os comentários para entender os pontos fortes e fracos apontados.</li>
       <li><strong className="text-[#162a2a]">Indicações pessoais:</strong> pergunte a pessoas de confiança que já utilizaram os serviços do advogado. Pergunte especificamente sobre comunicação, cumprimento de prazos e resultado obtido.</li>
-      <li><strong className="text-[#162a2a]">Presença online:</strong> um advogado que publica conteúdo de qualidade sobre sua área de atuação demonstra conhecimento e comprometimento com a profissão.</li>
+      <li><strong className="text-[#162a2a]">Presença online:</strong> um advogado que investe em <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">presença digital para advogado</a> e publica conteúdo de qualidade sobre sua área de atuação demonstra conhecimento e comprometimento com a profissão.</li>
       <li><strong className="text-[#162a2a]">Histórico na OAB:</strong> embora processos disciplinares sejam sigilosos, a situação cadastral no CNA pode indicar restrições.</li>
     </ul>
 

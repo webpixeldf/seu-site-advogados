@@ -376,7 +376,7 @@ registerArticle('como-criar-um-site-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Criar um site para advogados não é um bicho de sete cabeças, mas exige atenção a detalhes que fazem diferença entre um site que gera clientes e um que só existe. O planejamento define a direção. O conteúdo certo atrai o público certo. A parte técnica garante que tudo funcione sem frustrações. E a manutenção contínua mantém o site relevante ao longo do tempo.
+      A <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criação de site para advogado</a> não é um bicho de sete cabeças, mas exige atenção a detalhes que fazem diferença entre um site que gera clientes e um que só existe. O planejamento define a direção. O conteúdo certo atrai o público certo. A parte técnica garante que tudo funcione sem frustrações. E a manutenção contínua mantém o site relevante ao longo do tempo.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

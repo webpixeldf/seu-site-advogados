@@ -109,7 +109,7 @@ registerArticle('criacao-de-site-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O site de um advogado é um investimento que se paga ao longo do tempo. Cada visitante orgânico que chega pelo Google é um potencial cliente que encontrou o escritório sem custo por clique. A escolha da plataforma, do profissional e da estratégia de conteúdo deve considerar não apenas o custo inicial, mas o retorno de longo prazo em visibilidade e novos clientes.
+      O site de um advogado é um investimento que se paga ao longo do tempo. Cada visitante orgânico que chega pelo Google é um potencial cliente que encontrou o escritório sem custo por clique. Ter um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado que converte</a> visitantes em contatos é o que diferencia presença digital de resultado real. A escolha da plataforma, do profissional e da estratégia de conteúdo deve considerar não apenas o custo inicial, mas o retorno de longo prazo em visibilidade e novos clientes.
     </p>
   </>
 ))

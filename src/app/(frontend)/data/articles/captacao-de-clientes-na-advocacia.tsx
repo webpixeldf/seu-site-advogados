@@ -18,7 +18,7 @@ registerArticle('captacao-de-clientes-na-advocacia', () => (
       <li>Publicar conteúdo informativo e educativo em sites, blogs e redes sociais.</li>
       <li>Manter perfis profissionais em plataformas digitais com informações sobre áreas de atuação.</li>
       <li>Participar de eventos, palestras, podcasts e entrevistas como especialista.</li>
-      <li>Ter site profissional com descrição de serviços, equipe e formas de contato.</li>
+      <li>Ter um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para captação de clientes jurídicos</a> com descrição de serviços, equipe e formas de contato.</li>
       <li>Utilizar o Google Meu Negócio para aparecer em buscas locais.</li>
       <li>Enviar newsletters informativas para quem autorizou o recebimento.</li>
     </ul>

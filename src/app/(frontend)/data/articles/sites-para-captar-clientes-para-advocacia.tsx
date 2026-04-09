@@ -65,7 +65,7 @@ registerArticle('sites-para-captar-clientes-para-advocacia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Um site bem construído com estratégia de SEO atrai tráfego orgânico de forma cumulativa. Cada artigo publicado no blog é uma porta de entrada permanente. Cada página de área de atuação é uma oportunidade de aparecer nos resultados de busca. Com o tempo, o site se torna a principal fonte de leads orgânicos do escritório.
+      Um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado que converte</a> bem construído com estratégia de SEO atrai tráfego orgânico de forma cumulativa. Cada artigo publicado no blog é uma porta de entrada permanente. Cada página de área de atuação é uma oportunidade de aparecer nos resultados de busca. Com o tempo, o site se torna a principal fonte de leads orgânicos do escritório.
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">

@@ -107,7 +107,7 @@ registerArticle('legal-design-e-visual-law', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Legal design e visual law não são tendências passageiras. São respostas a um problema real: a comunicação jurídica tradicional é ineficiente. Advogados que investem em clareza e acessibilidade na forma como se comunicam ganham a confiança dos clientes e o respeito dos magistrados. O direito é complexo por natureza — a forma de comunicá-lo não precisa ser.
+      Legal design e visual law não são tendências passageiras. São respostas a um problema real: a comunicação jurídica tradicional é ineficiente. Advogados que investem em clareza e acessibilidade na forma como se comunicam — inclusive na <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criação de sites jurídicos</a> — ganham a confiança dos clientes e o respeito dos magistrados. O direito é complexo por natureza — a forma de comunicá-lo não precisa ser.
     </p>
   </>
 ))

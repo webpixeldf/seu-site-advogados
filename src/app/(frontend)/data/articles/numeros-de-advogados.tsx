@@ -95,7 +95,7 @@ registerArticle('numeros-de-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Segundo: a presença digital deixou de ser opcional. Em um mercado com tanta oferta, o advogado que não é encontrado na internet simplesmente não existe para uma parcela crescente de potenciais clientes. Site profissional, perfil em redes sociais e produção de conteúdo são ferramentas de sobrevivência.
+      Segundo: a presença digital deixou de ser opcional. Em um mercado com tanta oferta, o advogado que não é encontrado na internet simplesmente não existe para uma parcela crescente de potenciais clientes. Um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado iniciante</a>, perfil em redes sociais e produção de conteúdo são ferramentas de sobrevivência.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

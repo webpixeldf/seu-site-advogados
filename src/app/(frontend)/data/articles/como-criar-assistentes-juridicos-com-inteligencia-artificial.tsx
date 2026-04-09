@@ -157,7 +157,7 @@ registerArticle('como-criar-assistentes-juridicos-com-inteligencia-artificial', 
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A IA não transforma um escritório da noite para o dia. Mas advogados que investem tempo aprendendo a usar essas ferramentas corretamente conseguem reduzir o tempo gasto em tarefas repetitivas e dedicar mais energia ao que realmente exige expertise humana: estratégia, julgamento e relacionamento com o cliente.
+      A IA não transforma um escritório da noite para o dia. Mas advogados que investem tempo aprendendo a usar essas ferramentas corretamente e mantêm um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado com SEO</a> bem estruturado conseguem reduzir o tempo gasto em tarefas repetitivas e dedicar mais energia ao que realmente exige expertise humana: estratégia, julgamento e relacionamento com o cliente.
     </p>
   </>
 ))

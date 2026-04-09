@@ -83,7 +83,7 @@ registerArticle('o-que-um-advogado-faz-no-dia-a-dia', () => (
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Gestão financeira:</strong> emissão de boletos, controle de recebimentos, pagamento de despesas operacionais e planejamento tributário.</li>
-      <li><strong className="text-[#162a2a]">Marketing:</strong> produção de conteúdo para redes sociais e blog, resposta a comentários e mensagens, e manutenção do site.</li>
+      <li><strong className="text-[#162a2a]">Marketing:</strong> produção de conteúdo para redes sociais e blog, resposta a comentários e mensagens, e manutenção do <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado</a>.</li>
       <li><strong className="text-[#162a2a]">Gestão de equipe:</strong> em escritórios com funcionários, supervisão de estagiários, delegação de tarefas e reuniões de alinhamento.</li>
       <li><strong className="text-[#162a2a]">Desenvolvimento de negócios:</strong> networking, participação em eventos, construção de parcerias e prospecção de novos clientes.</li>
     </ul>

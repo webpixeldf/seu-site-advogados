@@ -97,7 +97,7 @@ registerArticle('marketing-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Seu site é o alicerce de toda a estratégia digital. Sem ele, você está construindo em terreno
+      Seu <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site profissional para advogado</a> é o alicerce de toda a estratégia digital. Sem ele, você está construindo em terreno
       alheio. Redes sociais podem mudar regras, derrubar contas ou perder relevância. Seu site é seu.
     </p>
 

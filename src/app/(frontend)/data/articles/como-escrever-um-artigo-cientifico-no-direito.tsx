@@ -117,7 +117,7 @@ registerArticle('como-escrever-um-artigo-cientifico-no-direito', () => (
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
-      Escrever artigos científicos é uma habilidade que se desenvolve com prática. O primeiro artigo será o mais difícil. A partir do segundo, o processo fica mais natural. O importante é começar: escolha um tema que genuinamente lhe interessa, pesquise com rigor, escreva com clareza e submeta sem medo da avaliação. A produção acadêmica é uma conversa, e cada artigo publicado é uma contribuição para ela.
+      Escrever artigos científicos é uma habilidade que se desenvolve com prática. O primeiro artigo será o mais difícil. A partir do segundo, o processo fica mais natural. O importante é começar: escolha um tema que genuinamente lhe interessa, pesquise com rigor, escreva com clareza e submeta sem medo da avaliação. A produção acadêmica é uma conversa, e cada artigo publicado é uma contribuição para ela. Para ampliar o alcance da sua produção, considere publicar também em um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para escritório jurídico</a> com blog integrado.
     </p>
   </>
 ))

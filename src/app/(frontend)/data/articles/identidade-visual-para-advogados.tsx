@@ -114,7 +114,7 @@ registerArticle('identidade-visual-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O site é o cartão de visitas principal do escritório na internet. As cores, fontes e estilo visual devem seguir exatamente a identidade definida. Isso inclui botões, ícones, imagens e até o estilo das fotografias. Um site que destoa do restante da comunicação visual cria desconexão e prejudica a credibilidade.
+      O site é o cartão de visitas principal do escritório na internet, e a <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criação de sites jurídicos</a> deve seguir exatamente a identidade definida em termos de cores, fontes e estilo visual. Isso inclui botões, ícones, imagens e até o estilo das fotografias. Um site que destoa do restante da comunicação visual cria desconexão e prejudica a credibilidade.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">

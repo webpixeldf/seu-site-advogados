@@ -220,7 +220,7 @@ registerArticle('landing-page-para-advogado', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A landing page é uma das ferramentas mais eficazes para advogados que investem em tráfego pago ou campanhas direcionadas. Ela transforma visitantes em contatos qualificados ao eliminar distrações e focar na conversão. O site institucional continua sendo essencial como base de presença digital, mas para campanhas específicas, a landing page é imbatível. O segredo está nos detalhes: título preciso, conteúdo relevante, formulário simples, design profissional e acompanhamento constante dos resultados.
+      A landing page é uma das ferramentas mais eficazes para advogados que investem em tráfego pago ou campanhas direcionadas. Ela transforma visitantes em contatos qualificados ao eliminar distrações e focar na conversão. O <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site jurídico profissional</a> continua sendo essencial como base de presença digital, mas para campanhas específicas, a landing page é imbatível. O segredo está nos detalhes: título preciso, conteúdo relevante, formulário simples, design profissional e acompanhamento constante dos resultados.
     </p>
   </>
 ))

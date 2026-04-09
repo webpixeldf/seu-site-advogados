@@ -65,7 +65,7 @@ registerArticle('google-ads-para-advogados', () => (
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">A página de destino faz toda a diferença</h2>
     <p className="text-gray-700 leading-relaxed">
-      De nada adianta um anúncio perfeito se a página para onde o usuário é direcionado não converte. A página de destino precisa ser específica para o serviço anunciado — não envie todo o tráfego para a home do seu site.
+      De nada adianta um anúncio perfeito se a página para onde o usuário é direcionado não converte. A página de destino precisa ser específica para o serviço anunciado — não envie todo o tráfego para a home do seu site. Ter um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado com SEO</a> bem estruturado é o ponto de partida para criar landing pages eficientes.
     </p>
     <p className="text-gray-700 leading-relaxed">
       Uma landing page eficiente para advogados contém:

@@ -22,7 +22,7 @@ registerArticle('youtube-para-advogados', () => (
       <li><strong className="text-[#162a2a]">Autoridade percebida:</strong> quem ensina é visto como referência. Um advogado que explica temas complexos de forma clara se posiciona como especialista na mente do espectador.</li>
       <li><strong className="text-[#162a2a]">Alcance orgânico duradouro:</strong> diferente do Instagram, onde o algoritmo entrega o conteúdo por poucas horas, o YouTube funciona como um mecanismo de busca. Seus vídeos podem ser encontrados por anos.</li>
       <li><strong className="text-[#162a2a]">Custo relativamente baixo:</strong> é possível começar com um celular moderno e boa iluminação. O investimento inicial pode ser zero ou muito pequeno.</li>
-      <li><strong className="text-[#162a2a]">Complemento ao site:</strong> vídeos incorporados no seu site melhoram o tempo de permanência dos visitantes, o que impacta positivamente o SEO.</li>
+      <li><strong className="text-[#162a2a]">Complemento ao site:</strong> vídeos incorporados no seu <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado iniciante</a> melhoram o tempo de permanência dos visitantes, o que impacta positivamente o SEO.</li>
       <li><strong className="text-[#162a2a]">Reaproveitamento de conteúdo:</strong> um único vídeo pode gerar cortes para o Instagram Reels, TikTok e Shorts, multiplicando seu alcance.</li>
     </ul>
 

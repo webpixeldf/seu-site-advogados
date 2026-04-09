@@ -136,7 +136,7 @@ registerArticle('google-meu-negocio-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O nome, endereço e telefone (o chamado NAP — Name, Address, Phone) devem ser idênticos em todos os lugares: site, redes sociais, diretórios jurídicos e Google Meu Negócio. Se no site o endereço está como "Rua XV de Novembro, 100" e no GMB como "R. XV de Novembro, 100, sala 5", o Google interpreta como inconsistência e pode prejudicar o ranqueamento.
+      O nome, endereço e telefone (o chamado NAP — Name, Address, Phone) devem ser idênticos em todos os lugares: <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogados e escritórios</a>, redes sociais, diretórios jurídicos e Google Meu Negócio. Se no site o endereço está como "Rua XV de Novembro, 100" e no GMB como "R. XV de Novembro, 100, sala 5", o Google interpreta como inconsistência e pode prejudicar o ranqueamento.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">

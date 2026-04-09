@@ -140,7 +140,7 @@ registerArticle('google-agenda-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Para advogados autônomos ou escritórios pequenos que ainda não justificam o investimento em um software jurídico, o Google Agenda supre a necessidade básica de controle de agenda com competência. A chave está na disciplina de uso e na configuração correta dos lembretes. Com poucos minutos de organização diária, a ferramenta se torna uma aliada real na rotina forense.
+      Para advogados autônomos ou escritórios pequenos que ainda não justificam o investimento em um software jurídico, o Google Agenda — aliado à <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criação de site para advogado</a> — supre a necessidade básica de controle de agenda com competência. A chave está na disciplina de uso e na configuração correta dos lembretes. Com poucos minutos de organização diária, a ferramenta se torna uma aliada real na rotina forense.
     </p>
   </>
 ))

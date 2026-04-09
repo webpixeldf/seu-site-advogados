@@ -21,7 +21,7 @@ registerArticle('criar-conteudo-para-o-youtube-da-resultados-na-advocacia', () =
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O terceiro cenário é o do advogado que usa o YouTube como complemento ao networking presencial. O canal funciona como um cartão de visitas expandido: quando alguém indica esse profissional, o potencial cliente pesquisa o nome no Google, encontra os vídeos e já chega à consulta com um nível de confiança muito maior.
+      O terceiro cenário é o do advogado que usa o YouTube como complemento ao networking presencial. O canal funciona como um cartão de visitas expandido: quando alguém indica esse profissional, o potencial cliente pesquisa o nome no Google, encontra os vídeos e o <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado com SEO</a>, e já chega à consulta com um nível de confiança muito maior.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Que tipos de conteúdo jurídico funcionam no YouTube</h2>

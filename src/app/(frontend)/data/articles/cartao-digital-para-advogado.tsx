@@ -36,7 +36,7 @@ registerArticle('cartao-digital-para-advogado', () => (
       <li><strong className="text-[#162a2a]">Área de atuação:</strong> uma ou duas áreas principais. Evite listar cinco ou seis especialidades — isso dilui a mensagem em vez de fortalecê-la.</li>
       <li><strong className="text-[#162a2a]">Telefone e WhatsApp:</strong> se possível, use um número profissional separado do pessoal. Indique se o número aceita mensagens por WhatsApp.</li>
       <li><strong className="text-[#162a2a]">E-mail profissional:</strong> preferencialmente com domínio próprio (nome@seuescritorio.com.br). E-mails em provedores gratuitos como Gmail e Hotmail são funcionais, mas transmitem menos profissionalismo.</li>
-      <li><strong className="text-[#162a2a]">Site do escritório:</strong> se você tem um site, inclua o link. É o canal onde o potencial cliente pode conhecer melhor seu trabalho.</li>
+      <li><strong className="text-[#162a2a]">Site do escritório:</strong> se você tem uma <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">página profissional para advogado</a>, inclua o link. É o canal onde o potencial cliente pode conhecer melhor seu trabalho.</li>
       <li><strong className="text-[#162a2a]">LinkedIn:</strong> para advogados que atuam no meio empresarial, o LinkedIn é muitas vezes o canal mais relevante depois do e-mail.</li>
       <li><strong className="text-[#162a2a]">Endereço do escritório:</strong> opcional, mas útil para quem atende presencialmente. Se atende apenas de forma remota, pode omitir.</li>
     </ul>

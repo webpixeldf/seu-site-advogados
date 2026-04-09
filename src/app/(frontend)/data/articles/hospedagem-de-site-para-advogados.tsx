@@ -162,7 +162,7 @@ registerArticle('hospedagem-de-site-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A hospedagem do site é infraestrutura, não enfeite. Ela afeta a velocidade, a segurança, o posicionamento no Google e a experiência de quem visita o site do seu escritório. Para a maioria dos advogados, uma hospedagem compartilhada de qualidade ou uma solução cloud acessível resolve. O importante é priorizar velocidade, estabilidade, suporte e segurança — e não tomar a decisão apenas pelo preço. Um site que funciona bem transmite profissionalismo antes mesmo do primeiro contato com o cliente.
+      A hospedagem do site é infraestrutura, não enfeite. Ela afeta a velocidade, a segurança, o posicionamento no Google e a experiência de quem visita o site do seu escritório. Um bom <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">desenvolvimento de site para advogado</a> começa pela escolha da hospedagem certa. Para a maioria dos advogados, uma hospedagem compartilhada de qualidade ou uma solução cloud acessível resolve. O importante é priorizar velocidade, estabilidade, suporte e segurança — e não tomar a decisão apenas pelo preço. Um site que funciona bem transmite profissionalismo antes mesmo do primeiro contato com o cliente.
     </p>
   </>
 ))

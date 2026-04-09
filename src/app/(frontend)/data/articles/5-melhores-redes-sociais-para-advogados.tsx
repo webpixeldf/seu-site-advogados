@@ -127,7 +127,7 @@ registerArticle('5-melhores-redes-sociais-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O erro mais comum é tentar estar em todas as redes ao mesmo tempo. Comece com uma ou duas, domine o formato, crie uma rotina de publicação e depois considere expandir. Um perfil ativo e consistente em uma única rede social gera mais resultados do que cinco perfis abandonados.
+      O erro mais comum é tentar estar em todas as redes ao mesmo tempo. Comece com uma ou duas, domine o formato, crie uma rotina de publicação e depois considere expandir. Um perfil ativo e consistente em uma única rede social, aliado a um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site profissional para advogado</a>, gera mais resultados do que cinco perfis abandonados.
     </p>
   </>
 ))

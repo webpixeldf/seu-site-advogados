@@ -100,7 +100,7 @@ registerArticle('trello-para-advogados', () => (
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Quadro de Processos</strong> — gestão de casos ativos, como descrito acima</li>
-      <li><strong className="text-[#162a2a]">Quadro Administrativo</strong> — tarefas do escritório como renovação de certificado digital, pagamento de anuidade da OAB, manutenção do site</li>
+      <li><strong className="text-[#162a2a]">Quadro Administrativo</strong> — tarefas do escritório como renovação de certificado digital, pagamento de anuidade da OAB, manutenção do <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado autônomo</a></li>
       <li><strong className="text-[#162a2a]">Quadro de Prospecção</strong> — acompanhamento de potenciais clientes e propostas enviadas</li>
       <li><strong className="text-[#162a2a]">Quadro de Conteúdo</strong> — planejamento de artigos, posts para redes sociais e materiais educativos</li>
     </ul>

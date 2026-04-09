@@ -120,7 +120,7 @@ registerArticle('trafego-pago-para-advogados', () => (
       <li>Conteúdo educativo no Instagram constrói autoridade e facilita a decisão de quem está comparando profissionais</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      Essa combinação cria múltiplos pontos de contato com o potencial cliente. Alguém pode ver um post seu no Instagram, depois pesquisar no Google, encontrar seu anúncio, visitar seu site e, finalmente, ser impactado por um anúncio de remarketing antes de entrar em contato. Cada plataforma cumpre um papel diferente no processo de decisão.
+      Essa combinação cria múltiplos pontos de contato com o potencial cliente, especialmente quando o escritório possui um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogados e escritórios</a> bem estruturado. Alguém pode ver um post seu no Instagram, depois pesquisar no Google, encontrar seu anúncio, visitar seu site e, finalmente, ser impactado por um anúncio de remarketing antes de entrar em contato. Cada plataforma cumpre um papel diferente no processo de decisão.
     </p>
     <p className="text-gray-700 leading-relaxed">
       O importante é medir os resultados de cada canal separadamente e entender qual contribui mais para o resultado final do escritório. Ferramentas como o Google Analytics permitem rastrear a jornada completa do cliente, desde o primeiro clique até o contato efetivo, dando clareza sobre onde investir mais.

@@ -146,7 +146,7 @@ registerArticle('como-instalar-as-tags-do-google-no-seu-site-de-advocacia', () =
       <li><strong className="text-[#162a2a]">Teste de conversões:</strong> envie um formulário de teste, clique no WhatsApp e no telefone para verificar se os eventos de conversão são registrados</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      Dedique tempo a essa verificação. Dados incorretos são piores que nenhum dado, porque levam a decisões erradas. Com tudo configurado e validado, você terá a infraestrutura de dados necessária para medir e otimizar qualquer estratégia de marketing digital do escritório.
+      Dedique tempo a essa verificação. Dados incorretos são piores que nenhum dado, porque levam a decisões erradas. Com tudo configurado e validado em um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para escritório jurídico</a>, você terá a infraestrutura de dados necessária para medir e otimizar qualquer estratégia de marketing digital do escritório.
     </p>
   </>
 ))

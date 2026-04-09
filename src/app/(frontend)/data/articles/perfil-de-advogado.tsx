@@ -19,7 +19,7 @@ registerArticle('perfil-de-advogado', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O site profissional como base</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O site é o ativo digital mais importante do advogado. É o único canal sobre o qual se tem controle total — diferentemente das redes sociais, que podem mudar regras de alcance ou até encerrar contas. O site funciona como a sede virtual do escritório e deve transmitir profissionalismo em cada detalhe.
+      O site é o ativo digital mais importante do advogado. É o único canal sobre o qual se tem controle total — diferentemente das redes sociais, que podem mudar regras de alcance ou até encerrar contas. <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">Criar site para advogado</a> é investir em uma sede virtual do escritório que transmite profissionalismo em cada detalhe.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Elementos essenciais</h3>

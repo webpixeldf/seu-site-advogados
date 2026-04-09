@@ -131,7 +131,7 @@ registerArticle('instagram-para-advogado', () => (
       Conclusão prática
     </h2>
     <p className="text-gray-700 leading-relaxed">
-      O Instagram é uma ferramenta poderosa para advogados que querem construir presença digital e atrair clientes de forma ética. A chave está em produzir conteúdo educativo com consistência, respeitar as normas da OAB e entender que resultados no Instagram são construídos ao longo de meses, não dias. Comece com o básico: otimize sua bio, publique três vezes por semana e interaja com seu público. Os resultados virão com persistência e estratégia.
+      O Instagram, aliado a um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site profissional para escritório</a>, é uma ferramenta poderosa para advogados que querem construir presença digital e atrair clientes de forma ética. A chave está em produzir conteúdo educativo com consistência, respeitar as normas da OAB e entender que resultados no Instagram são construídos ao longo de meses, não dias. Comece com o básico: otimize sua bio, publique três vezes por semana e interaja com seu público. Os resultados virão com persistência e estratégia.
     </p>
   </>
 ))

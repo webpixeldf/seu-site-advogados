@@ -121,7 +121,7 @@ registerArticle('nome-para-escritorio-de-advocacia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Se a mudança for necessária, planeje uma transição gradual. Comunique os clientes com antecedência, atualize todos os materiais de forma coordenada e mantenha referências ao nome antigo por um período para que as pessoas façam a conexão. Redirecionamentos do domínio antigo para o novo são essenciais para não perder tráfego e posicionamento no Google.
+      Se a mudança for necessária, planeje uma transição gradual. Comunique os clientes com antecedência, atualize todos os materiais de forma coordenada e mantenha referências ao nome antigo por um período para que as pessoas façam a conexão. Redirecionamentos do domínio antigo para o novo são essenciais para não perder tráfego e posicionamento no Google, e o <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado que converte</a> deve refletir o novo nome desde o primeiro dia.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">

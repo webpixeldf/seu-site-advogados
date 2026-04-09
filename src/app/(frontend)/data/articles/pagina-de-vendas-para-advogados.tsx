@@ -142,7 +142,7 @@ registerArticle('pagina-de-vendas-para-advogados', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Considerações finais</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Páginas de vendas funcionam para advogados, mas não para qualquer tipo de serviço. Cursos, mentorias, consultorias com escopo definido e materiais educativos são os melhores candidatos. Para serviços advocatícios tradicionais, landing pages de captação de leads continuam sendo a opção mais adequada e ética.
+      Páginas de vendas funcionam para advogados, mas não para qualquer tipo de serviço. Cursos, mentorias, consultorias com escopo definido e materiais educativos são os melhores candidatos. Para serviços advocatícios tradicionais, a melhor base é investir na <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criação de sites jurídicos</a> com landing pages de captação de leads, que continuam sendo a opção mais adequada e ética.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

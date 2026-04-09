@@ -128,7 +128,7 @@ registerArticle('escritorio-de-advocacia-moderno', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O caminho não precisa ser radical. Começar pela implementação de um software jurídico, profissionalizar a identidade visual e criar um site de qualidade já representa uma transformação significativa. A partir daí, cada nova ferramenta e processo incorporado amplia a vantagem competitiva do escritório.
+      O caminho não precisa ser radical. Começar pela implementação de um software jurídico, profissionalizar a identidade visual e investir no <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">desenvolvimento de site para advogado</a> já representa uma transformação significativa. A partir daí, cada nova ferramenta e processo incorporado amplia a vantagem competitiva do escritório.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('como-gravar-videos-da-advocacia-para-o-youtube', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Gravar vídeos jurídicos para o YouTube deixou de ser algo opcional para advogados que querem construir autoridade digital. O formato em vídeo permite explicar temas complexos de forma acessível, gerar confiança e alcançar pessoas que jamais encontrariam seu escritório por outros meios. A boa notícia é que você não precisa de um estúdio profissional para começar. Com planejamento e os equipamentos certos, é possível produzir conteúdo de qualidade usando o que você já tem em mãos.
+      Gravar vídeos jurídicos para o YouTube deixou de ser algo opcional para advogados que querem construir autoridade digital. O formato em vídeo permite explicar temas complexos de forma acessível, gerar confiança e alcançar pessoas que jamais encontrariam seu <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para escritório jurídico</a> por outros meios. A boa notícia é que você não precisa de um estúdio profissional para começar. Com planejamento e os equipamentos certos, é possível produzir conteúdo de qualidade usando o que você já tem em mãos.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Celular ou câmera: o que usar para gravar</h2>

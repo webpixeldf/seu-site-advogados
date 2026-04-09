@@ -136,7 +136,7 @@ registerArticle('como-prospectar-clientes-na-advocacia-pelo-facebook', () => (
       Conclusão prática
     </h2>
     <p className="text-gray-700 leading-relaxed">
-      O Facebook é uma plataforma madura e com audiência massiva na faixa etária que mais consome serviços jurídicos no Brasil. A prospecção ética de clientes passa por manter uma página otimizada, participar ativamente de grupos como autoridade, publicar conteúdo educativo com consistência e, quando o orçamento permitir, investir em anúncios segmentados. O segredo não está em uma ação isolada, mas na soma de todas elas ao longo do tempo. Comece pela otimização da página, participe de dois ou três grupos relevantes esta semana e publique seu primeiro conteúdo educativo. O processo é gradual, mas os resultados são concretos.
+      O Facebook é uma plataforma madura e com audiência massiva na faixa etária que mais consome serviços jurídicos no Brasil. A prospecção ética de clientes passa por ter um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado que converte</a>, manter uma página otimizada, participar ativamente de grupos como autoridade, publicar conteúdo educativo com consistência e, quando o orçamento permitir, investir em anúncios segmentados. O segredo não está em uma ação isolada, mas na soma de todas elas ao longo do tempo. Comece pela otimização da página, participe de dois ou três grupos relevantes esta semana e publique seu primeiro conteúdo educativo. O processo é gradual, mas os resultados são concretos.
     </p>
   </>
 ))

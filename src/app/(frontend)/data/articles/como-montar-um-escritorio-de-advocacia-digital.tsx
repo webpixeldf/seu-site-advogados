@@ -64,7 +64,7 @@ registerArticle('como-montar-um-escritorio-de-advocacia-digital', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Criação do site profissional</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O site é a sede digital do escritório. É onde o potencial cliente chega após pesquisar no Google, ver uma publicação nas redes sociais ou receber uma indicação. O site precisa responder rapidamente às três perguntas que o visitante tem: quem é o advogado, em que áreas atua e como entrar em contato.
+      O <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para escritório de advocacia</a> é a sede digital do escritório. É onde o potencial cliente chega após pesquisar no Google, ver uma publicação nas redes sociais ou receber uma indicação. O site precisa responder rapidamente às três perguntas que o visitante tem: quem é o advogado, em que áreas atua e como entrar em contato.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

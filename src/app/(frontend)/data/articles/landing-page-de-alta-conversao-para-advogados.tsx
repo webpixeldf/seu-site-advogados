@@ -17,7 +17,7 @@ registerArticle('landing-page-de-alta-conversao-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Advogados que investem em tráfego pago — Google Ads ou Meta Ads — precisam de landing pages. Direcionar anúncios para a página inicial de um site genérico desperdiça dinheiro. O visitante chega, não encontra rapidamente o que procurava e sai. Uma landing page elimina distrações e conduz o visitante para a conversão.
+      Advogados que investem em tráfego pago — Google Ads ou Meta Ads — precisam de landing pages. Direcionar anúncios para a página inicial de um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado iniciante</a> genérico desperdiça dinheiro. O visitante chega, não encontra rapidamente o que procurava e sai. Uma landing page elimina distrações e conduz o visitante para a conversão.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Headline: o primeiro elemento que o visitante lê</h2>

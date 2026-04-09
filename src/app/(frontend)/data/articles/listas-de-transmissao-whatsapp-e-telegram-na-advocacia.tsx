@@ -81,7 +81,7 @@ registerArticle('listas-de-transmissao-whatsapp-e-telegram-na-advocacia', () => 
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li>Inclua o link do canal do Telegram ou o convite para a lista do WhatsApp no seu site, nas redes sociais e na assinatura de e-mail.</li>
+      <li>Inclua o link do canal do Telegram ou o convite para a lista do WhatsApp no seu site — e se ainda não tem um, considere investir na <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criação de site para advogado</a> —, nas redes sociais e na assinatura de e-mail.</li>
       <li>Ao final de consultas com clientes, mencione que mantém uma lista de transmissão com conteúdo jurídico relevante e pergunte se gostariam de participar.</li>
       <li>Em palestras e eventos, ofereça o acesso à lista como forma de manter contato e continuar compartilhando conhecimento.</li>
       <li>Crie um material gratuito (e-book, checklist) e ofereça o acesso em troca da inscrição no canal ou lista.</li>

@@ -127,7 +127,7 @@ registerArticle('quais-sao-os-tipos-de-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O mercado jurídico brasileiro oferece oportunidades em praticamente todas as áreas, mas o sucesso está diretamente ligado à profundidade do conhecimento e à capacidade de entregar resultados consistentes no nicho escolhido.
+      O mercado jurídico brasileiro oferece oportunidades em praticamente todas as áreas, mas o sucesso está diretamente ligado à profundidade do conhecimento e à capacidade de entregar resultados consistentes no nicho escolhido. A <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criação de site para advogado</a> especializado na sua área de atuação é uma das formas mais eficientes de atrair os clientes certos.
     </p>
   </>
 ))

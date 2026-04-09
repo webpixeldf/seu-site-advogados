@@ -312,7 +312,7 @@ registerArticle('seo-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      SEO para advogados não é um bicho de sete cabeças, mas exige paciência e consistência. O caminho é simples de entender: tenha um site rápido e bem estruturado, crie conteúdo que responda às dúvidas reais dos seus potenciais clientes, mantenha o Google Meu Negócio atualizado e vá construindo autoridade ao longo do tempo.
+      SEO para advogados não é um bicho de sete cabeças, mas exige paciência e consistência. O caminho é simples de entender: tenha um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado</a> rápido e bem estruturado, crie conteúdo que responda às dúvidas reais dos seus potenciais clientes, mantenha o Google Meu Negócio atualizado e vá construindo autoridade ao longo do tempo.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

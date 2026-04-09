@@ -109,7 +109,7 @@ registerArticle('simbolo-da-advocacia', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">No site</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O site pode incorporar símbolos de forma mais sutil — em ícones de seção, elementos decorativos ou na própria estrutura visual da página. Uma balança discreta no rodapé, colunas estilizadas como separadores de conteúdo ou a paleta de cores tradicional da advocacia já comunicam o posicionamento sem verbalizar.
+      Um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site profissional para advogado</a> pode incorporar símbolos de forma mais sutil — em ícones de seção, elementos decorativos ou na própria estrutura visual da página. Uma balança discreta no rodapé, colunas estilizadas como separadores de conteúdo ou a paleta de cores tradicional da advocacia já comunicam o posicionamento sem verbalizar.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Nas redes sociais</h3>

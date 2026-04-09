@@ -139,7 +139,7 @@ registerArticle('como-colocar-um-site-de-advocacia-no-google', () => (
       <li>Verifique se o site funciona corretamente em dispositivos móveis usando o teste de compatibilidade do Google</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      A indexação é apenas o primeiro passo para aparecer no Google. Uma vez que suas páginas estejam no índice, o trabalho de otimização para melhorar o posicionamento nos resultados começa. Mas sem indexação, nenhuma estratégia de SEO tem efeito. Garanta que essa base esteja sólida antes de avançar para etapas mais complexas.
+      A indexação é apenas o primeiro passo para aparecer no Google. Contar com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">desenvolvimento de site para advogado</a> que já siga as melhores práticas técnicas facilita todo esse processo. Uma vez que suas páginas estejam no índice, o trabalho de otimização para melhorar o posicionamento nos resultados começa. Mas sem indexação, nenhuma estratégia de SEO tem efeito. Garanta que essa base esteja sólida antes de avançar para etapas mais complexas.
     </p>
   </>
 ))

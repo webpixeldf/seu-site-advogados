@@ -130,7 +130,7 @@ registerArticle('por-que-um-advogado-deve-ter-um-site-profissional', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Considerações finais</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Um site profissional não é luxo, é infraestrutura básica para qualquer advogado que queira crescer de forma sustentável. Ele constrói credibilidade, amplia o alcance, diversifica as fontes de clientes e funciona como uma ferramenta de trabalho disponível 24 horas por dia. Em um mercado cada vez mais competitivo, não ter um site significa deixar oportunidades na mesa todos os dias.
+      Um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado</a> profissional não é luxo, é infraestrutura básica para qualquer advogado que queira crescer de forma sustentável. Ele constrói credibilidade, amplia o alcance, diversifica as fontes de clientes e funciona como uma ferramenta de trabalho disponível 24 horas por dia. Em um mercado cada vez mais competitivo, não ter um site significa deixar oportunidades na mesa todos os dias.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

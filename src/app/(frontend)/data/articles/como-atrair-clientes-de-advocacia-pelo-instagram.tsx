@@ -85,7 +85,7 @@ registerArticle('como-atrair-clientes-de-advocacia-pelo-instagram', () => (
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Topo do funil — Alcance:</strong> seus posts e Reels são vistos por pessoas que ainda não te conhecem. O conteúdo educativo amplo atrai esse público</li>
       <li><strong className="text-[#162a2a]">Meio do funil — Engajamento:</strong> a pessoa começa a seguir seu perfil, curtir posts, salvar conteúdos. Ela está consumindo informação e avaliando sua competência</li>
-      <li><strong className="text-[#162a2a]">Fundo do funil — Conversão:</strong> ela manda uma DM, clica no link da bio ou entra em contato pelo WhatsApp. O atendimento humano entra em cena</li>
+      <li><strong className="text-[#162a2a]">Fundo do funil — Conversão:</strong> ela manda uma DM, clica no link da bio ou acessa seu <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para captação de clientes jurídicos</a>. O atendimento humano entra em cena</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
       O tempo entre o primeiro contato com seu conteúdo e a decisão de entrar em contato varia. Alguns fazem isso imediatamente; outros acompanham seu perfil por semanas antes de agir. Isso reforça a importância da consistência: você precisa estar publicando quando o potencial cliente estiver pronto para procurar um advogado.

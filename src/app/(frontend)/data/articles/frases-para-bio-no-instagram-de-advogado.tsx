@@ -18,7 +18,7 @@ registerArticle('frases-para-bio-no-instagram-de-advogado', () => (
       <li><strong className="text-[#162a2a]">Localização:</strong> fundamental para quem atende presencialmente. "São Paulo - SP" ou "Atendimento em todo o Brasil" (se atua remotamente).</li>
       <li><strong className="text-[#162a2a]">Número da OAB:</strong> transmite credibilidade e profissionalismo.</li>
       <li><strong className="text-[#162a2a]">Chamada para ação:</strong> o que o visitante deve fazer? "Agende sua consulta ↓" direciona para o link da bio.</li>
-      <li><strong className="text-[#162a2a]">Link:</strong> use ferramentas como Linktree, Beacons ou o link direto do WhatsApp/site para direcionar o visitante.</li>
+      <li><strong className="text-[#162a2a]">Link:</strong> use ferramentas como Linktree, Beacons ou o link direto do WhatsApp ou da sua <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">página profissional para advogado</a> para direcionar o visitante.</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Exemplos por área de atuação</h2>

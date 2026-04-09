@@ -118,7 +118,7 @@ registerArticle('advocacia-digital', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O advogado que domina ferramentas digitais, mantém uma presença online consistente e oferece atendimento remoto de qualidade está melhor posicionado para crescer em um mercado cada vez mais competitivo. A advocacia digital não é o fim do escritório tradicional, mas é, sem dúvida, o caminho natural para quem quer atuar com eficiência e alcançar mais pessoas.
+      O advogado que domina ferramentas digitais, investe em um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado</a>, mantém uma presença online consistente e oferece atendimento remoto de qualidade está melhor posicionado para crescer em um mercado cada vez mais competitivo. A advocacia digital não é o fim do escritório tradicional, mas é, sem dúvida, o caminho natural para quem quer atuar com eficiência e alcançar mais pessoas.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

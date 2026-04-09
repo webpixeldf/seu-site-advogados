@@ -139,7 +139,7 @@ registerArticle('marketing-juridico-digital', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O site é a base de qualquer estratégia digital. Ele precisa ter informações claras sobre as áreas de atuação, a equipe, formas de contato e, preferencialmente, um blog com artigos relevantes. O blog alimenta o SEO e posiciona o escritório como autoridade no tema. Um artigo bem escrito sobre "como funciona a ação de alimentos" pode atrair dezenas de visitantes qualificados todos os meses.
+      O <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para escritório de advocacia</a> é a base de qualquer estratégia digital. Ele precisa ter informações claras sobre as áreas de atuação, a equipe, formas de contato e, preferencialmente, um blog com artigos relevantes. O blog alimenta o SEO e posiciona o escritório como autoridade no tema. Um artigo bem escrito sobre "como funciona a ação de alimentos" pode atrair dezenas de visitantes qualificados todos os meses.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">

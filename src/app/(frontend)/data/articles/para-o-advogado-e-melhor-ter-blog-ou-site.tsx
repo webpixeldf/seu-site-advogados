@@ -133,7 +133,7 @@ registerArticle('para-o-advogado-e-melhor-ter-blog-ou-site', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Considerações finais</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Blog e site não são escolhas excludentes. O site é a fundação. O blog é o motor de crescimento. Juntos, eles criam um ecossistema digital que atrai visitantes, demonstra expertise e converte leitores em clientes. Advogados que entendem essa dinâmica e investem em conteúdo de qualidade constroem uma vantagem competitiva que cresce com o tempo e se torna cada vez mais difícil de ser replicada pela concorrência.
+      Blog e site não são escolhas excludentes. O site é a fundação. O blog é o motor de crescimento. Juntos, eles criam um ecossistema digital que atrai visitantes, demonstra expertise e converte leitores em clientes — e tudo começa com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para captação de clientes jurídicos</a>. Advogados que entendem essa dinâmica e investem em conteúdo de qualidade constroem uma vantagem competitiva que cresce com o tempo e se torna cada vez mais difícil de ser replicada pela concorrência.
     </p>
   </>
 ))

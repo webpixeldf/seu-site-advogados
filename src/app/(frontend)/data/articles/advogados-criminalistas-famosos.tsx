@@ -111,7 +111,7 @@ registerArticle('advogados-criminalistas-famosos', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Para advogados em início de carreira que se interessam pela área criminal, estudar a trajetória desses profissionais oferece não apenas inspiração, mas uma compreensão prática do que significa exercer a advocacia criminal com competência e integridade.
+      Para advogados em início de carreira que se interessam pela área criminal, estudar a trajetória desses profissionais oferece não apenas inspiração, mas uma compreensão prática do que significa exercer a advocacia criminal com competência e integridade. Investir em um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado criminalista</a> também é um passo importante para construir autoridade e atrair clientes na área penal.
     </p>
   </>
 ))

@@ -156,7 +156,7 @@ registerArticle('notion-para-advogados', () => (
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
-      O Notion não substitui um software jurídico completo com integração aos tribunais, mas funciona como um excelente complemento para organização interna. Muitos advogados usam o sistema do tribunal para acompanhamento processual e o Notion para gestão do dia a dia, estratégia e relacionamento com clientes. O importante é encontrar o equilíbrio entre organização e praticidade, sem transformar a ferramenta em mais uma fonte de burocracia.
+      O Notion não substitui um software jurídico completo com integração aos tribunais, mas funciona como um excelente complemento para organização interna. Muitos advogados usam o sistema do tribunal para acompanhamento processual e o Notion para gestão do dia a dia, estratégia e relacionamento com clientes — complementando essas ferramentas com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site profissional para advogado</a> que centraliza a comunicação com o público. O importante é encontrar o equilíbrio entre organização e praticidade, sem transformar a ferramenta em mais uma fonte de burocracia.
     </p>
   </>
 ))

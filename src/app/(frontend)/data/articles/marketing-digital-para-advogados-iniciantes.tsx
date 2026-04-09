@@ -208,7 +208,7 @@ registerArticle('marketing-digital-para-advogados-iniciantes', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed mt-4">
-      Um site básico para advogado não precisa ter dezenas de páginas. O essencial são: página
+      Ao <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criar site para advogado</a>, não é preciso ter dezenas de páginas. O essencial são: página
       inicial apresentando o escritório, página de áreas de atuação, página de contato com WhatsApp
       e formulário, e um blog. Com essas quatro seções, você já tem uma base sólida para crescer.
     </p>

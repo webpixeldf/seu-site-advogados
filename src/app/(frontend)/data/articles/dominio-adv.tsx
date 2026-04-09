@@ -166,7 +166,7 @@ registerArticle('dominio-adv', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O processo de registro é simples e acessível. Com uma conta no Registro.br, inscrição ativa na OAB e R$ 40 por ano, qualquer advogado pode ter um domínio profissional funcionando em poucas horas. Combinado com um site bem construído e um e-mail profissional, o .adv.br é o alicerce de uma presença digital séria e confiável na advocacia.
+      O processo de registro é simples e acessível. Com uma conta no Registro.br, inscrição ativa na OAB e R$ 40 por ano, qualquer advogado pode ter um domínio profissional funcionando em poucas horas. Combinado com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado</a> bem construído e um e-mail profissional, o .adv.br é o alicerce de uma presença digital séria e confiável na advocacia.
     </p>
   </>
 ))

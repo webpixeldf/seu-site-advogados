@@ -126,7 +126,7 @@ registerArticle('advogado-pode-ser-mei', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Embora o MEI não seja uma opção para advogados, a Sociedade Unipessoal de Advocacia oferece uma alternativa robusta, com vantagens tributárias significativas e um processo de constituição relativamente simples. Com o apoio de um contador competente, o advogado pode estruturar sua operação de forma financeiramente eficiente desde o início da carreira.
+      Embora o MEI não seja uma opção para advogados, a Sociedade Unipessoal de Advocacia oferece uma alternativa robusta, com vantagens tributárias significativas e um processo de constituição relativamente simples. Com o apoio de um contador competente e um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado autônomo</a>, o profissional pode estruturar sua operação de forma financeiramente eficiente e com presença digital desde o início da carreira.
     </p>
   </>
 ))

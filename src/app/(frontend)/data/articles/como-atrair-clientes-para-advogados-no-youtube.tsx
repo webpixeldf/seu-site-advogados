@@ -114,7 +114,7 @@ registerArticle('como-atrair-clientes-para-advogados-no-youtube', () => (
       Diferente de anúncios pagos que param de gerar resultados no momento em que você desliga o investimento, vídeos no YouTube continuam sendo encontrados por meses e anos após a publicação. Um vídeo publicado hoje sobre um tema com demanda de busca constante pode estar gerando clientes daqui a dois, três ou cinco anos sem nenhum custo adicional.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      Essa característica torna o YouTube um dos canais com melhor retorno sobre investimento de tempo para advogados. Cada vídeo é uma peça de conteúdo que trabalha para você de forma contínua, acumulando visualizações, construindo autoridade e atraindo potenciais clientes enquanto você se dedica a outras atividades. O esforço inicial é maior, mas o efeito composto ao longo do tempo é o que torna a estratégia tão poderosa para escritórios de qualquer porte.
+      Essa característica torna o YouTube um dos canais com melhor retorno sobre investimento de tempo para advogados, especialmente quando combinado com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado</a> bem estruturado. Cada vídeo é uma peça de conteúdo que trabalha para você de forma contínua, acumulando visualizações, construindo autoridade e atraindo potenciais clientes enquanto você se dedica a outras atividades. O esforço inicial é maior, mas o efeito composto ao longo do tempo é o que torna a estratégia tão poderosa para escritórios de qualquer porte.
     </p>
   </>
 ))

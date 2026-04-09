@@ -89,7 +89,7 @@ registerArticle('notebooklm-inteligencia-artificial-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A inteligência artificial está transformando a pesquisa jurídica, e o NotebookLM é uma das ferramentas mais acessíveis e seguras para advogados começarem a incorporar IA na rotina. O investimento de tempo para aprender a usar é mínimo, e o ganho em produtividade na pesquisa é significativo. A chave é tratar a ferramenta como assistente, não como substituto do julgamento profissional.
+      A inteligência artificial está transformando a pesquisa jurídica, e o NotebookLM é uma das ferramentas mais acessíveis e seguras para advogados começarem a incorporar IA na rotina. O investimento de tempo para aprender a usar é mínimo, e o ganho em produtividade na pesquisa é significativo. A chave é tratar a ferramenta como assistente, não como substituto do julgamento profissional — assim como um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para escritório de advocacia</a> complementa, mas não substitui, o trabalho de captação presencial.
     </p>
   </>
 ))

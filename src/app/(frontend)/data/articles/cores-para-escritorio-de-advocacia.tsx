@@ -144,7 +144,7 @@ registerArticle('cores-para-escritorio-de-advocacia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Defina uma paleta enxuta, registre os códigos de cor, aplique com consistência e revise periodicamente. Uma identidade visual bem construída começa por cores bem escolhidas — e se mantém pela disciplina de usá-las corretamente em todos os materiais e canais do escritório.
+      Defina uma paleta enxuta, registre os códigos de cor, aplique com consistência e revise periodicamente. Ao <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criar site para advogado</a>, essas cores devem estar presentes desde o primeiro pixel. Uma identidade visual bem construída começa por cores bem escolhidas — e se mantém pela disciplina de usá-las corretamente em todos os materiais e canais do escritório.
     </p>
   </>
 ))
