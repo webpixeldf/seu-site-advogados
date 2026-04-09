@@ -4,8 +4,7 @@ import BlogCard from '../components/BlogCard'
 import Breadcrumbs from '../components/Breadcrumbs'
 import { Phone } from 'lucide-react'
 import { blogPosts } from '../data/blogPosts'
-import { getPayload } from 'payload'
-import config from '@payload-config'
+import { getPayloadArticles } from '../data/payloadArticles'
 
 // Revalidar a cada 1 hora para mostrar artigos novos
 export const revalidate = 3600
@@ -20,27 +19,6 @@ export const metadata: Metadata = {
     url: '/blog',
     images: [{ url: '/images/site-para-advogados.webp', width: 800, height: 800, alt: 'Seu Site Advogados' }],
   },
-}
-
-async function getPayloadArticles() {
-  try {
-    const payload = await getPayload({ config })
-    const result = await payload.find({
-      collection: 'blog',
-      where: { status: { equals: 'publicado' } },
-      sort: '-publishedAt',
-      limit: 100,
-    })
-    return result.docs.map((doc: any) => ({
-      titulo: doc.titulo,
-      slug: doc.slug,
-      resumo: doc.resumo || '',
-      imagemUrl: doc.imagemUrl || '/images/site-para-advogados.webp',
-      publishedAt: doc.publishedAt || doc.createdAt || new Date().toISOString(),
-    }))
-  } catch {
-    return []
-  }
 }
 
 export default async function BlogPage() {

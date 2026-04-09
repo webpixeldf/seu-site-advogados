@@ -5,29 +5,10 @@ import { ArrowLeft, Calendar, Share2, Phone, ArrowRight } from 'lucide-react'
 import Breadcrumbs from '../../components/Breadcrumbs'
 import { blogPosts, getRelatedPosts, getHomepageAnchor } from '../../data/blogPosts'
 import { getArticleContent } from '../../data/articles'
-import { getPayload } from 'payload'
-import config from '@payload-config'
+import { getPayloadArticleBySlug } from '../../data/payloadArticles'
 
 // Revalidar a cada 1 hora
 export const revalidate = 3600
-
-// Buscar artigo dinâmico do Payload CMS
-async function getPayloadArticle(slug: string) {
-  try {
-    const payload = await getPayload({ config })
-    const result = await payload.find({
-      collection: 'blog',
-      where: {
-        slug: { equals: slug },
-        status: { equals: 'publicado' },
-      },
-      limit: 1,
-    })
-    return result.docs[0] || null
-  } catch {
-    return null
-  }
-}
 
 interface BlogPostPageProps {
   params: Promise<{ slug: string }>
@@ -71,8 +52,8 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
   const { slug } = await params
   const post = blogPosts.find((p) => p.slug === slug)
 
-  // Buscar artigo dinâmico do Payload se não existir nos estáticos
-  const payloadArticle = !post ? await getPayloadArticle(slug) : null
+  // Buscar artigo dinâmico do SQLite se não existir nos estáticos
+  const payloadArticle = !post ? await getPayloadArticleBySlug(slug) : null
 
   const title = post
     ? post.titulo
@@ -84,7 +65,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
   const postIndex = blogPosts.findIndex((p) => p.slug === slug)
   const anchor = getHomepageAnchor(postIndex >= 0 ? postIndex : 0)
   const articleContent = getArticleContent(slug)
-  const payloadHtml = payloadArticle ? (payloadArticle as any).conteudo : null
+  const payloadHtml = payloadArticle ? payloadArticle.conteudoHtml : null
 
   return (
     <>
