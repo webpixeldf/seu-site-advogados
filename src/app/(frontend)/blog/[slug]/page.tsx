@@ -81,7 +81,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
   const postIndex = blogPosts.findIndex((p) => p.slug === slug)
   const anchor = getHomepageAnchor(postIndex >= 0 ? postIndex : 0)
   const articleContent = getArticleContent(slug)
-  const payloadHtml = payloadArticle ? (payloadArticle as any).conteudoHtml : null
+  const payloadHtml = payloadArticle ? (payloadArticle as any).conteudo : null
 
   return (
     <>
