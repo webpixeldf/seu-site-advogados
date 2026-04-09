@@ -72,19 +72,20 @@ Escreva um artigo COMPLETAMENTE ORIGINAL sobre este tema. O artigo deve parecer 
 
 REGRAS DE ESCRITA:
 1. Entre 1.200 e 1.800 palavras
-2. Parágrafos CURTOS (máximo 3 linhas cada) — otimizado para leitura mobile
-3. Linguagem natural, conversacional, como se estivesse explicando para um advogado
-4. PROIBIDO: "no cenário atual", "é fundamental", "é essencial", "nesse sentido", "diante disso"
-5. PROIBIDO começar com: "Descubra", "Aprenda", "Saiba", "Entenda", "Conheça"
-6. Use exemplos práticos (mencione áreas: trabalhista, previdenciário, tributário, família, criminal)
-7. Respeite as diretrizes da OAB sobre publicidade advocatícia
-8. Inclua dados concretos quando possível
+2. Cada parágrafo deve ter entre 40 e 60 palavras — completo, com começo, meio e fim. NÃO escreva frases soltas de 1 linha. Cada parágrafo deve desenvolver uma ideia completa.
+3. Linguagem natural, conversacional, como se um profissional experiente estivesse explicando para um advogado que quer crescer
+4. PROIBIDO: "no cenário atual", "é fundamental", "é essencial", "nesse sentido", "diante disso", "vale ressaltar", "é importante destacar"
+5. PROIBIDO começar parágrafos com: "Descubra", "Aprenda", "Saiba", "Entenda", "Conheça", "Além disso", "Portanto", "Dessa forma"
+6. Use exemplos práticos e específicos (mencione áreas reais: trabalhista, previdenciário, tributário, família, criminal, imobiliário)
+7. Respeite as diretrizes da OAB sobre publicidade advocatícia (Provimento 205/2021)
+8. Inclua dados concretos e números quando possível
+9. Cada seção H2 deve ter pelo menos 3 parágrafos substanciais
 
 ESTRUTURA:
 - 4 a 6 subtítulos H2
-- Pelo menos 1 lista com bullets
-- 1 link interno: <a href="${SITE_URL}">${anchor}</a> (insira naturalmente no texto)
-- Parágrafos curtos e diretos
+- Pelo menos 1 lista com bullets (3-5 itens)
+- 1 link interno natural: <a href="${SITE_URL}">${anchor}</a> (insira dentro de um parágrafo, NÃO como bloco separado)
+- Parágrafos com 40-60 palavras cada, desenvolvendo ideias completas
 
 FORMATO JSON (responda APENAS o JSON, sem markdown):
 {
