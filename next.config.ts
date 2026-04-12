@@ -1,5 +1,17 @@
 import { withPayload } from '@payloadcms/next/withPayload'
 import type { NextConfig } from 'next'
+import { blogPosts } from './src/app/(frontend)/data/blogPosts'
+
+const cidadesSlugs = [
+  'alto-alegre', 'araraquara', 'belem-do-para', 'belo-horizonte', 'blumenau',
+  'boa-vista', 'campinas', 'campo-grande', 'caracarai', 'cascavel',
+  'caxias-do-sul', 'chapeco', 'curitiba', 'florianopolis', 'fortaleza',
+  'goiania', 'guarulhos', 'itajai', 'joao-pessoa', 'joinville',
+  'londrina', 'maceio', 'manaus', 'maringa', 'mogi-das-cruzes',
+  'porto-alegre', 'portugal', 'recife', 'ribeirao-preto', 'rio-de-janeiro',
+  'rorainopolis', 'salvador', 'santa-catarina', 'sao-jose-dos-campos',
+  'sao-luis', 'sao-paulo', 'uberlandia',
+]
 
 const nextConfig: NextConfig = {
   images: {
@@ -9,6 +21,31 @@ const nextConfig: NextConfig = {
   },
   compress: true,
   poweredByHeader: false,
+  redirects: async () => [
+    ...blogPosts.map((post) => ({
+      source: `/${post.slug}`,
+      destination: `/blog/${post.slug}`,
+      permanent: true,
+    })),
+    ...cidadesSlugs.map((slug) => ({
+      source: `/${slug}`,
+      destination: `/site-para-advogados/${slug}`,
+      permanent: true,
+    })),
+    { source: '/blog/page/:n', destination: '/blog', permanent: true },
+    { source: '/faq/page/:n', destination: '/faq', permanent: true },
+    { source: '/wp-json/:path*', destination: '/', permanent: true },
+    { source: '/wp-admin/:path*', destination: '/', permanent: true },
+    { source: '/wp-content/:path*', destination: '/', permanent: true },
+    { source: '/index.php', destination: '/', permanent: true },
+    { source: '/home.php', destination: '/', permanent: true },
+    { source: '/contato.php', destination: '/contatos', permanent: true },
+    { source: '/contatos.php', destination: '/contatos', permanent: true },
+    { source: '/portfolio.php', destination: '/portfolio', permanent: true },
+    { source: '/quem-somos.php', destination: '/quem-somos', permanent: true },
+    { source: '/blog.php', destination: '/blog', permanent: true },
+    { source: '/faq.php', destination: '/faq', permanent: true },
+  ],
   headers: async () => [
     {
       source: '/:all*(svg|jpg|jpeg|png|webp|avif|ico|css|js)',
