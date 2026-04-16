@@ -92,9 +92,46 @@ const faqItems = [
   },
 ]
 
+const faqPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqItems.map((item) => ({
+    '@type': 'Question',
+    name: item.pergunta,
+    acceptedAnswer: { '@type': 'Answer', text: item.resposta },
+  })),
+}
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: 'Início',
+      item: 'https://seusiteadvogados.com.br/',
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      name: 'Criação de Site para Advogados',
+      item: 'https://seusiteadvogados.com.br/',
+    },
+  ],
+}
+
 export default function HomePage() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqPageSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
 
       {/* ========== SECTION 1: HERO ========== */}
       <section className="relative min-h-screen bg-[#162a2a] flex items-center overflow-hidden">
@@ -150,11 +187,10 @@ export default function HomePage() {
 
             {/* Paragraphs */}
             <p className="text-gray-300 text-lg md:text-xl font-lexend leading-relaxed mb-4">
-              Criamos sites jurídicos com design profissional, estrutura
-              pensada para conversão e otimização completa para o Google.
-              Seja você um advogado autônomo, iniciante ou um escritório
-              consolidado, desenvolvemos o projeto sob medida para
-              gerar contatos e fortalecer sua autoridade.
+              A Seu Site Advogados é especialista em <strong>criação de site para advogados</strong> e escritórios de advocacia. Se você precisa <strong>criar um site para advogado</strong> profissional, com design exclusivo, SEO otimizado e foco em captação de clientes, chegou ao lugar certo.
+            </p>
+            <p className="text-gray-300 text-lg md:text-xl font-lexend leading-relaxed mb-4">
+              Trabalhamos com <strong>criação de sites para advogados</strong> autônomos, iniciantes e escritórios consolidados. Ao <strong>criar site para advogados</strong>, cada projeto é desenvolvido sob medida, pronto para gerar contatos 24 horas por dia e fortalecer sua autoridade digital.
             </p>
 
             {/* Price */}
@@ -268,7 +304,7 @@ export default function HomePage() {
       <section className="bg-[#eaecec] py-20 md:py-28">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
-            title="O que um site jurídico gera na prática"
+            title="Site para advogados: o que muda no seu escritório na prática"
             subtitle="Resultados concretos para quem investe em presença digital profissional."
           />
 
@@ -324,7 +360,7 @@ export default function HomePage() {
       <section className="bg-[#162a2a] py-20 md:py-28">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
-            title="Por que escolher nosso serviço de criação de sites jurídicos"
+            title="Por que escolher nosso serviço de criação de sites para advogados"
             subtitle="Trabalhamos exclusivamente com advogados e escritórios de advocacia. Isso faz diferença em cada detalhe."
             light
           />
@@ -359,7 +395,7 @@ export default function HomePage() {
             {/* Left: content */}
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-[#162a2a] font-lexend mb-6">
-                O que entregamos em cada projeto
+                Criação de site para advogados: o que entregamos em cada projeto
               </h2>
               <div className="flex items-center gap-2 mb-6">
                 <span className="block w-8 h-1 bg-[#b58c61] rounded-full" />
@@ -434,7 +470,7 @@ export default function HomePage() {
       <section className="bg-[#eaecec] py-20 md:py-28">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
-            title="O que está incluso no seu site jurídico"
+            title="O que está incluso no seu site para advogado"
             subtitle="Todos esses recursos fazem parte do pacote. Sem custos extras e sem letras miúdas."
           />
 
@@ -456,7 +492,7 @@ export default function HomePage() {
       <section className="bg-white py-20 md:py-28">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
-            title="Portfólio: sites jurídicos que já criamos"
+            title="Portfólio: sites para advogados que já criamos"
             subtitle="Cada projeto é único, criado para um advogado ou escritório específico."
           />
 
@@ -497,7 +533,7 @@ export default function HomePage() {
       <section className="bg-[#162a2a] py-20 md:py-28">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
-            title="Como funciona a criação do seu site"
+            title="Como funciona a criação de site para advogados"
             subtitle="Da primeira conversa ao site publicado — entenda cada etapa."
             light
           />
@@ -566,7 +602,7 @@ export default function HomePage() {
       <section id="contato" className="bg-[#eaecec] py-20 md:py-28">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
-            title="Solicite seu orçamento"
+            title="Solicite orçamento para criação de site para advogado"
             subtitle="Descreva suas necessidades e objetivos. Respondemos com uma proposta personalizada em até 24 horas."
           />
 
@@ -694,7 +730,7 @@ export default function HomePage() {
       <section className="bg-white py-20 md:py-28">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
-            title="Perguntas frequentes"
+            title="Perguntas frequentes sobre criação de sites para advogados"
             subtitle="Tire suas dúvidas antes de solicitar seu orçamento."
           />
 
@@ -767,7 +803,7 @@ export default function HomePage() {
       <section className="bg-gradient-to-b from-[#162a2a] to-[#0d1b1b] py-20 md:py-28">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white font-lexend mb-6">
-            Pronto para ter um site que trabalha pelo seu escritório?
+            Pronto para ter um site para advogados que capta clientes no Google?
           </h2>
           <p className="text-gray-300 font-lexend text-lg md:text-xl leading-relaxed mb-10 max-w-2xl mx-auto">
             Uma conversa rápida é tudo o que precisamos para entender seus
