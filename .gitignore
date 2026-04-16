@@ -7,3 +7,9 @@ _backup/
 _downloads/
 scripts/
 *.tar.gz
+
+# Arquivos de auditoria SEO (HTML dumps temporarios)
+codigo-site.txt
+sitefaciladv.txt
+siteparaadvogados.txt
+comprarbacklinks.txt
