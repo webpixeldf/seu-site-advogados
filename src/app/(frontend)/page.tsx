@@ -26,6 +26,7 @@ import {
   Briefcase,
   TrendingUp,
   Phone,
+  ArrowRight,
 } from 'lucide-react'
 
 export const metadata: Metadata = {
@@ -743,48 +744,23 @@ export default function HomePage() {
       <section className="bg-[#f5f5f3] py-20 md:py-28">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
-            title="Criação de site para advogados em todo o Brasil"
-            subtitle="Atendemos advogados e escritórios de advocacia em todas as regiões. Conheça nossos serviços locais de criação de sites jurídicos:"
+            title="Atendemos advogados em todo o Brasil"
+            subtitle="Capitais e regiões metropolitanas com atendimento personalizado para escritórios de advocacia."
           />
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 mt-10">
             {[
-              { slug: 'sao-paulo', nome: 'São Paulo', estado: 'SP' },
-              { slug: 'rio-de-janeiro', nome: 'Rio de Janeiro', estado: 'RJ' },
-              { slug: 'belo-horizonte', nome: 'Belo Horizonte', estado: 'MG' },
-              { slug: 'curitiba', nome: 'Curitiba', estado: 'PR' },
-              { slug: 'porto-alegre', nome: 'Porto Alegre', estado: 'RS' },
-              { slug: 'salvador', nome: 'Salvador', estado: 'BA' },
-              { slug: 'fortaleza', nome: 'Fortaleza', estado: 'CE' },
-              { slug: 'recife', nome: 'Recife', estado: 'PE' },
-              { slug: 'goiania', nome: 'Goiânia', estado: 'GO' },
-              { slug: 'florianopolis', nome: 'Florianópolis', estado: 'SC' },
-              { slug: 'manaus', nome: 'Manaus', estado: 'AM' },
-              { slug: 'belem-do-para', nome: 'Belém', estado: 'PA' },
-              { slug: 'campinas', nome: 'Campinas', estado: 'SP' },
-              { slug: 'guarulhos', nome: 'Guarulhos', estado: 'SP' },
-              { slug: 'sao-jose-dos-campos', nome: 'São José dos Campos', estado: 'SP' },
-              { slug: 'ribeirao-preto', nome: 'Ribeirão Preto', estado: 'SP' },
-              { slug: 'araraquara', nome: 'Araraquara', estado: 'SP' },
-              { slug: 'mogi-das-cruzes', nome: 'Mogi das Cruzes', estado: 'SP' },
-              { slug: 'uberlandia', nome: 'Uberlândia', estado: 'MG' },
-              { slug: 'maringa', nome: 'Maringá', estado: 'PR' },
-              { slug: 'londrina', nome: 'Londrina', estado: 'PR' },
-              { slug: 'cascavel', nome: 'Cascavel', estado: 'PR' },
-              { slug: 'joinville', nome: 'Joinville', estado: 'SC' },
-              { slug: 'blumenau', nome: 'Blumenau', estado: 'SC' },
-              { slug: 'itajai', nome: 'Itajaí', estado: 'SC' },
-              { slug: 'chapeco', nome: 'Chapecó', estado: 'SC' },
-              { slug: 'santa-catarina', nome: 'Santa Catarina', estado: 'SC' },
-              { slug: 'caxias-do-sul', nome: 'Caxias do Sul', estado: 'RS' },
-              { slug: 'campo-grande', nome: 'Campo Grande', estado: 'MS' },
-              { slug: 'joao-pessoa', nome: 'João Pessoa', estado: 'PB' },
-              { slug: 'maceio', nome: 'Maceió', estado: 'AL' },
-              { slug: 'sao-luis', nome: 'São Luís', estado: 'MA' },
-              { slug: 'boa-vista', nome: 'Boa Vista', estado: 'RR' },
-              { slug: 'alto-alegre', nome: 'Alto Alegre', estado: 'RR' },
-              { slug: 'caracarai', nome: 'Caracaraí', estado: 'RR' },
-              { slug: 'rorainopolis', nome: 'Rorainópolis', estado: 'RR' },
-              { slug: 'portugal', nome: 'Portugal', estado: 'PT' },
+              { slug: 'sao-paulo', anchor: 'São Paulo — SP' },
+              { slug: 'rio-de-janeiro', anchor: 'Rio de Janeiro — RJ' },
+              { slug: 'belo-horizonte', anchor: 'Belo Horizonte — MG' },
+              { slug: 'curitiba', anchor: 'Criação de site em Curitiba' },
+              { slug: 'porto-alegre', anchor: 'Advocacia em Porto Alegre' },
+              { slug: 'salvador', anchor: 'Salvador — BA' },
+              { slug: 'fortaleza', anchor: 'Escritórios em Fortaleza' },
+              { slug: 'recife', anchor: 'Recife — PE' },
+              { slug: 'goiania', anchor: 'Goiânia — GO' },
+              { slug: 'florianopolis', anchor: 'Site jurídico em Florianópolis' },
+              { slug: 'belem-do-para', anchor: 'Belém — PA' },
+              { slug: 'manaus', anchor: 'Manaus — AM' },
             ].map((c) => (
               <Link
                 key={c.slug}
@@ -792,9 +768,18 @@ export default function HomePage() {
                 className="flex items-center gap-2 bg-white hover:bg-[#162a2a] hover:text-white text-[#162a2a] px-4 py-3 rounded-lg font-lexend text-sm font-medium transition-all duration-300 shadow-sm hover:shadow-md group"
               >
                 <MapPin size={16} className="text-[#b58c61] group-hover:text-[#de7322] transition-colors flex-shrink-0" />
-                <span className="truncate">Site para advogado em {c.nome} — {c.estado}</span>
+                <span className="truncate">{c.anchor}</span>
               </Link>
             ))}
+          </div>
+          <div className="text-center mt-10">
+            <Link
+              href="/site-para-advogados"
+              className="inline-flex items-center gap-2 text-[#162a2a] hover:text-[#de7322] font-lexend font-semibold transition-colors"
+            >
+              Ver todas as cidades atendidas
+              <ArrowRight size={18} />
+            </Link>
           </div>
         </div>
       </section>
