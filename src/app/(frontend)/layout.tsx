@@ -3,8 +3,6 @@ import './globals.css'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import WhatsAppFloat from './components/WhatsAppFloat'
-import Script from 'next/script'
-
 export const metadata: Metadata = {
   title: {
     default: 'Site para Advogados | Seu Site Advogados',
@@ -111,8 +109,7 @@ const siteSchema = {
 export default function FrontendLayout({ children }: { children: React.ReactNode }) {
   return (
     <>
-      <Script
-        id="site-schema"
+      <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(siteSchema) }}
       />
