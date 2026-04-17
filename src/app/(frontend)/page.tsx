@@ -30,19 +30,19 @@ import {
 } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Site para Advogado | Criação Profissional para Escritórios de Advocacia',
+  title: { absolute: 'Criação de Site para Advogados que Capta Clientes no Google' },
   description: 'Criação de site para advogado com design exclusivo, SEO para o Google, hospedagem e e-mail profissional. Capte mais clientes a partir de 3x de R$ 285.',
   alternates: {
     canonical: '/',
   },
   openGraph: {
-    title: 'Site para Advogado | Criação Profissional para Escritórios de Advocacia',
+    title: 'Criação de Site para Advogados que Capta Clientes no Google',
     description: 'Criamos sites para advogados e escritórios de advocacia com design exclusivo, SEO otimizado e landing pages que captam clientes. Veja nosso portfólio.',
     url: '/',
     images: [{ url: '/images/site-para-advogados.webp', width: 800, height: 800, alt: 'Escritório de advocacia com site profissional' }],
   },
   twitter: {
-    title: 'Site para Advogado | Criação Profissional',
+    title: 'Criação de Site para Advogados que Capta Clientes',
     description: 'Criação de site para advogado com design exclusivo, SEO e captação de clientes. A partir de 3x de R$ 285,00.',
   },
 }
