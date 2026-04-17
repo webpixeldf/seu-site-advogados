@@ -182,16 +182,9 @@ export default function HomePage() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white font-lexend leading-tight mb-4">
               Criação de Site para Advogado
             </h1>
-            <p className="text-[#b58c61] text-2xl md:text-3xl lg:text-4xl font-semibold font-lexend leading-tight mb-6">
-              Seu escritório merece ser encontrado por quem realmente precisa de um advogado
-            </p>
-
-            {/* Paragraphs */}
-            <p className="text-gray-300 text-lg md:text-xl font-lexend leading-relaxed mb-4">
-              Especialistas em <strong>criação de site para advogados</strong> e escritórios de advocacia: design exclusivo, SEO e foco em captar clientes.
-            </p>
-            <p className="text-gray-300 text-lg md:text-xl font-lexend leading-relaxed mb-4">
-              Atendemos advogados autônomos, iniciantes e escritórios consolidados. Ao <strong>criar site para advogados</strong>, cada projeto é feito sob medida para gerar contatos 24 horas por dia.
+            {/* Paragraph */}
+            <p className="text-gray-300 text-lg md:text-xl font-lexend leading-relaxed mb-6">
+              Especialistas em <strong>criação de site para advogados</strong> autônomos, iniciantes ou escritórios consolidados. Design exclusivo, SEO e projetos sob medida para gerar contatos 24 horas por dia.
             </p>
 
             {/* Price */}
