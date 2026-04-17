@@ -188,10 +188,10 @@ export default function HomePage() {
 
             {/* Paragraphs */}
             <p className="text-gray-300 text-lg md:text-xl font-lexend leading-relaxed mb-4">
-              A Seu Site Advogados é especialista em <strong>criação de site para advogados</strong> e escritórios de advocacia. Se você precisa <strong>criar um site para advogado</strong> profissional, com design exclusivo, SEO otimizado e foco em captação de clientes, chegou ao lugar certo.
+              Especialistas em <strong>criação de site para advogados</strong> e escritórios de advocacia: design exclusivo, SEO e foco em captar clientes.
             </p>
             <p className="text-gray-300 text-lg md:text-xl font-lexend leading-relaxed mb-4">
-              Trabalhamos com <strong>criação de sites para advogados</strong> autônomos, iniciantes e escritórios consolidados. Ao <strong>criar site para advogados</strong>, cada projeto é desenvolvido sob medida, pronto para gerar contatos 24 horas por dia e fortalecer sua autoridade digital.
+              Atendemos advogados autônomos, iniciantes e escritórios consolidados. Ao <strong>criar site para advogados</strong>, cada projeto é feito sob medida para gerar contatos 24 horas por dia.
             </p>
 
             {/* Price */}
@@ -306,7 +306,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
             title="Site para advogados: o que muda no seu escritório na prática"
-            subtitle="Resultados concretos para quem investe em presença digital profissional."
+            subtitle="Veja os resultados reais de quem investe em um site para advogados bem estruturado."
           />
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -404,8 +404,7 @@ export default function HomePage() {
               </div>
 
               <p className="text-gray-600 font-lexend leading-relaxed mb-4">
-                Cada site jurídico é desenvolvido do zero, com base no seu
-                posicionamento e áreas de atuação.
+                Nossa criação de site para advogados entrega um projeto do zero, construído a partir do seu posicionamento e áreas de atuação.
               </p>
               <p className="text-gray-600 font-lexend leading-relaxed mb-8">
                 Além do design, cuidamos da parte que o Google valoriza:
@@ -472,7 +471,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
             title="O que está incluso no seu site para advogado"
-            subtitle="Todos esses recursos fazem parte do pacote. Sem custos extras e sem letras miúdas."
+            subtitle="Todo site para advogados que criamos inclui estes recursos — sem custos extras e sem letras miúdas."
           />
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -535,7 +534,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
             title="Como funciona a criação de site para advogados"
-            subtitle="Da primeira conversa ao site publicado — entenda cada etapa."
+            subtitle="Da primeira conversa até o site no ar — entenda cada etapa da nossa criação de sites para advogados."
             light
           />
 
@@ -683,7 +682,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
             title="O que nossos clientes dizem"
-            subtitle="Escritórios que já passaram pelo processo e compartilham a experiência."
+            subtitle="Advogados e escritórios que contrataram nossa criação de site para advogados e compartilham a experiência."
             light
           />
 
