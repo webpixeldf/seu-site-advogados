@@ -53,19 +53,6 @@ export async function generateStaticParams() {
   return Object.keys(cidades).map((slug) => ({ slug }))
 }
 
-const MAJOR_CITIES = new Set([
-  'sao-paulo',
-  'rio-de-janeiro',
-  'belo-horizonte',
-  'curitiba',
-  'porto-alegre',
-  'salvador',
-  'fortaleza',
-  'recife',
-  'goiania',
-  'florianopolis',
-])
-
 const cidadeData: Record<string, { oab: string; advogados: string; tribunal: string; fato: string }> = {
   'sao-paulo': {
     oab: 'OAB-SP',
@@ -144,7 +131,6 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     title: `Site para Advogados em ${cidade.nome} | Seu Site Advogados`,
     description: descBase,
     alternates: { canonical: `/site-para-advogados/${slug}` },
-    ...(!MAJOR_CITIES.has(slug) && { robots: { index: false, follow: true } }),
     openGraph: {
       title: `Site para Advogados em ${cidade.nome} - ${cidade.estado}`,
       description: descBase,
