@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     description: 'Especialistas em criação de site para advogados e escritórios de advocacia. Design profissional, SEO otimizado e presença digital que atrai e converte clientes.',
     images: [
       {
-        url: '/images/site-para-advogados.webp',
+        url: '/images/site-para-advogado.jpg',
         width: 800,
         height: 800,
         alt: 'Site para Advogados - Seu Site Advogados',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Site para Advogados | Seu Site Advogados',
     description: 'Especialistas em criação de site para advogados e escritórios de advocacia.',
-    images: ['/images/site-para-advogados.webp'],
+    images: ['/images/site-para-advogado.jpg'],
   },
   robots: {
     index: true,

@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     title: 'Contato | Seu Site Advogados',
     description: 'Solicite um orçamento para criação de site para advogados. WhatsApp (61) 99278-4283.',
     url: '/contatos',
-    images: [{ url: '/images/site-para-advogados.webp', width: 800, height: 800, alt: 'Seu Site Advogados' }],
+    images: [{ url: '/images/site-para-advogado.jpg', width: 800, height: 800, alt: 'Seu Site Advogados' }],
   },
 }
 

@@ -18,7 +18,7 @@ const siteSchema = {
       '@type': 'LocalBusiness',
       '@id': 'https://seusiteadvogados.com.br/#business',
       name: 'Seu Site Advogados',
-      image: 'https://seusiteadvogados.com.br/images/site-para-advogados.webp',
+      image: 'https://seusiteadvogados.com.br/images/site-para-advogado.jpg',
       logo: 'https://seusiteadvogados.com.br/images/seu-site-advogados-logo.webp',
       url: 'https://seusiteadvogados.com.br',
       telephone: '+5561992784283',

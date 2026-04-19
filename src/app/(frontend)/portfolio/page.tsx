@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: 'Portfólio | Seu Site Advogados',
     description: 'Conheça os sites para advogados e escritórios que desenvolvemos. Cases de sucesso com design profissional e SEO.',
     url: '/portfolio',
-    images: [{ url: '/images/site-para-advogados.webp', width: 800, height: 800, alt: 'Seu Site Advogados' }],
+    images: [{ url: '/images/site-para-advogado.jpg', width: 800, height: 800, alt: 'Seu Site Advogados' }],
   },
 }
 

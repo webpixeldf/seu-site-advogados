@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     title: 'Criação de Site para Advogados que Capta Clientes no Google',
     description: 'Criamos sites para advogados e escritórios de advocacia com design exclusivo, SEO otimizado e landing pages que captam clientes. Veja nosso portfólio.',
     url: '/',
-    images: [{ url: '/images/site-para-advogados.webp', width: 800, height: 800, alt: 'Escritório de advocacia com site profissional' }],
+    images: [{ url: '/images/site-para-advogado.jpg', width: 800, height: 800, alt: 'Escritório de advocacia com site profissional' }],
   },
   twitter: {
     title: 'Criação de Site para Advogados que Capta Clientes',
