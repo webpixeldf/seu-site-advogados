@@ -1,6 +1,8 @@
 import { MetadataRoute } from 'next'
 import { blogPosts } from './(frontend)/data/blogPosts'
 
+export const dynamic = 'force-static'
+
 const BASE_URL = 'https://seusiteadvogados.com.br'
 
 const cidades = [

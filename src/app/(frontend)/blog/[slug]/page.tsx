@@ -7,8 +7,9 @@ import { blogPosts, getRelatedPosts, getHomepageAnchor } from '../../data/blogPo
 import { getArticleContent } from '../../data/articles'
 import { getPayloadArticleBySlug } from '../../data/payloadArticles'
 
-// Revalidar a cada 1 hora
-export const revalidate = 3600
+export function generateStaticParams() {
+  return blogPosts.map((p) => ({ slug: p.slug }))
+}
 
 interface BlogPostPageProps {
   params: Promise<{ slug: string }>

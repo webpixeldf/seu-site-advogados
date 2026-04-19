@@ -98,38 +98,12 @@ export default function ContactForm() {
     }
 
     try {
-      // Save to Payload CMS via API
-      const res = await fetch('/api/contact', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          ...formData,
-          tipoSite: formData.tipoSite.join(', '),
-          pagina: window.location.pathname,
-          website: honeypotRef.current?.value || '', // honeypot field
-        }),
-      })
-
-      if (!res.ok) {
-        const data = await res.json()
-        if (res.status === 429) {
-          setError('Muitas tentativas. Aguarde alguns minutos e tente novamente.')
-          setLoading(false)
-          return
-        }
-        setError(data.error || 'Erro ao enviar. Tente novamente.')
-        setLoading(false)
-        return
-      }
-
-      // Open WhatsApp with the message
       const message = buildWhatsAppMessage(formData)
       const encoded = encodeURIComponent(message)
       window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${encoded}`, '_blank')
-
       setSubmitted(true)
     } catch {
-      setError('Erro de conexão. Verifique sua internet e tente novamente.')
+      setError('Não foi possível abrir o WhatsApp. Use o botão abaixo.')
     }
 
     setLoading(false)

@@ -6,9 +6,6 @@ import { Phone } from 'lucide-react'
 import { blogPosts } from '../data/blogPosts'
 import { getPayloadArticles } from '../data/payloadArticles'
 
-// Revalidar a cada 1 hora para mostrar artigos novos
-export const revalidate = 3600
-
 export const metadata: Metadata = {
   title: 'Blog Jurídico | Seu Site Advogados',
   description: 'Artigos e estratégias de marketing digital para advogados. SEO jurídico, redes sociais e captação de clientes para escritórios.',

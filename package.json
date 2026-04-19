@@ -1,26 +1,16 @@
 {
   "name": "seu-site-advogados",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
-  "description": "Site premium para captacao de clientes advogados",
+  "description": "Site estático para captação de clientes advogados",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "generate:types": "payload generate:types",
-    "generate:importmap": "payload generate:importmap"
+    "start": "next start"
   },
   "dependencies": {
-    "@payloadcms/db-sqlite": "^3.0.0",
-    "@payloadcms/next": "^3.0.0",
-    "@payloadcms/richtext-lexical": "^3.0.0",
-    "@payloadcms/ui": "^3.0.0",
-    "@types/better-sqlite3": "^7.6.13",
-    "better-sqlite3": "^12.8.0",
-    "graphql": "^16.13.2",
     "lucide-react": "^0.468.0",
     "next": "^15.4.11",
-    "payload": "^3.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "sharp": "^0.33.0"
