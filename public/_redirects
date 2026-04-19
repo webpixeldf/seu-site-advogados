@@ -142,8 +142,13 @@
 # === Quem somos específico ===
 /quem-somos/webpixel /quem-somos 301
 
-# === Arquivos de data (WordPress) ===
-# Datas específicas serão tratadas por regex genérico abaixo
+# === Arquivos de data (WordPress archives) ===
+/2024/*/* /blog 301
+/2024/* /blog 301
+/2024 /blog 301
+/2025/*/* /blog 301
+/2025/* /blog 301
+/2025 /blog 301
 
 # === WordPress legacy ===
 /wp-json/* /  301
