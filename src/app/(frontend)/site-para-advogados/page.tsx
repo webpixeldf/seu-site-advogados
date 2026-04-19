@@ -5,7 +5,7 @@ import { MapPin } from 'lucide-react'
 export const metadata: Metadata = {
   title: 'Criação de Site para Advogados em Todo o Brasil — Cidades Atendidas',
   description: 'Atendemos advogados e escritórios de advocacia em capitais e principais cidades do Brasil. Veja a lista completa de localidades onde criamos sites jurídicos.',
-  alternates: { canonical: '/site-para-advogados' },
+  alternates: { canonical: '/' },
 }
 
 const cidades = [
