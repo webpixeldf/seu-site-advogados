@@ -128,7 +128,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     : `Site profissional para advogados em ${cidade.nome}. Design exclusivo, otimização para buscas e hospedagem inclusa. Solicite uma proposta.`
 
   return {
-    title: `Site para Advogados em ${cidade.nome} | Seu Site Advogados`,
+    title: `Site para Advogados em ${cidade.nome} — ${cidade.estado}`,
     description: descBase,
     alternates: { canonical: `/site-para-advogados/${slug}` },
     openGraph: {
