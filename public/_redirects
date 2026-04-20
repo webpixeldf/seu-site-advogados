@@ -1,6 +1,20 @@
 # Redirects migrados do next.config.ts antigo
 # Formato: /origem /destino 301
 
+# === Normalização de trailing slash ===
+# No export estático, /manaus/ não encontra pagina. Remove a barra final
+# para que a regra do slug sem barra (abaixo) possa agir.
+/:a/ /:a 301
+/:a/:b/ /:a/:b 301
+/:a/:b/:c/ /:a/:b/:c 301
+
+# === Categorias raiz do WordPress antigo ===
+/redes-sociais /blog 301
+/site /blog 301
+/marketing /blog 301
+/seo /blog 301
+/advocacia /blog 301
+
 # === Slugs curtos do blog (WordPress legado) ===
 /hospedagem-de-site-para-advogados /blog/hospedagem-de-site-para-advogados 301
 /notion-para-advogados /blog/notion-para-advogados 301
