@@ -56,7 +56,7 @@ export async function generateStaticParams() {
 const cidadeData: Record<string, { oab: string; advogados: string; tribunal: string; fato: string }> = {
   'sao-paulo': {
     oab: 'OAB-SP',
-    advogados: 'Cerca de 380 mil advogados inscritos — a maior seccional do Brasil',
+    advogados: '380 mil advogados inscritos — a maior seccional do país',
     tribunal: 'TJSP (Tribunal de Justiça do Estado de São Paulo)',
     fato: 'O TJSP é considerado o maior tribunal do mundo em volume de processos, com mais de 21 milhões de feitos em andamento.',
   },
@@ -86,7 +86,7 @@ const cidadeData: Record<string, { oab: string; advogados: string; tribunal: str
   },
   'salvador': {
     oab: 'OAB-BA',
-    advogados: 'Cerca de 61 mil advogados ativos (79 mil inscritos no total)',
+    advogados: 'Cerca de 61 mil advogados ativos',
     tribunal: 'TJBA (Tribunal de Justiça do Estado da Bahia)',
     fato: 'A Bahia é a seccional com o maior número de advogados inscritos de toda a Região Nordeste.',
   },
