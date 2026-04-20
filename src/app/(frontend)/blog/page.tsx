@@ -69,7 +69,7 @@ export default async function BlogPage() {
               <BlogCard key={post.slug} {...post} />
             ))}
             {/* Artigos estáticos */}
-            {blogPosts.slice(0, 30).map((post) => (
+            {blogPosts.map((post) => (
               <BlogCard key={post.slug} {...post} />
             ))}
           </div>
