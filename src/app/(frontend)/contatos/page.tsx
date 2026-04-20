@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   alternates: { canonical: '/contatos' },
   other: { 'page-type': 'contact' },
   openGraph: {
+    type: 'website',
+    locale: 'pt_BR',
+    siteName: 'Seu Site Advogados',
     title: 'Contato | Seu Site Advogados',
     description: 'Solicite um orçamento para criação de site para advogados. WhatsApp (61) 99278-4283.',
     url: '/contatos',

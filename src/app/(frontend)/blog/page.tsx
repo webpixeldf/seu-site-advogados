@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   description: 'Artigos e estratégias de marketing digital para advogados. SEO jurídico, redes sociais e captação de clientes para escritórios.',
   alternates: { canonical: '/blog' },
   openGraph: {
+    type: 'website',
+    locale: 'pt_BR',
+    siteName: 'Seu Site Advogados',
     title: 'Blog Jurídico | Seu Site Advogados',
     description: 'Artigos e estratégias de marketing digital para advogados. SEO jurídico, redes sociais e captação de clientes.',
     url: '/blog',

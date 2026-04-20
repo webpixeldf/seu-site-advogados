@@ -6,10 +6,14 @@ export const metadata: Metadata = {
     'Politica de Privacidade do Seu Site Advogados. Saiba como coletamos, usamos e protegemos seus dados pessoais em conformidade com a LGPD.',
   alternates: { canonical: '/politica-de-privacidade' },
   openGraph: {
+    type: 'website',
+    locale: 'pt_BR',
+    siteName: 'Seu Site Advogados',
     title: 'Politica de Privacidade | Seu Site Advogados',
     description:
       'Saiba como coletamos, usamos e protegemos seus dados pessoais em conformidade com a LGPD.',
     url: '/politica-de-privacidade',
+    images: [{ url: '/images/site-para-advogado.jpg', width: 800, height: 800, alt: 'Seu Site Advogados' }],
   },
 }
 

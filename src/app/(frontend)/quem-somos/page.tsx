@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   description: 'Conheça o Seu Site Advogados: equipe especializada em criação de sites para advogados e escritórios de advocacia.',
   alternates: { canonical: '/quem-somos' },
   openGraph: {
+    type: 'website',
+    locale: 'pt_BR',
+    siteName: 'Seu Site Advogados',
     title: 'Quem Somos | Seu Site Advogados',
     description: 'Equipe especializada em criação de sites para advogados e escritórios de advocacia.',
     url: '/quem-somos',

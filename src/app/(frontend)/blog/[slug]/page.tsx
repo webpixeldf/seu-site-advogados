@@ -32,11 +32,13 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
       : `Leia o artigo completo sobre ${title.toLowerCase()} no blog do Seu Site Advogados.`,
     alternates: { canonical: `/blog/${slug}` },
     openGraph: {
+      type: 'article',
+      locale: 'pt_BR',
+      siteName: 'Seu Site Advogados',
       title,
       description: post?.resumo || `Artigo sobre ${title.toLowerCase()}`,
       url: `/blog/${slug}`,
-      type: 'article',
-      images: post ? [{ url: post.imagemUrl, alt: title }] : [],
+      images: post ? [{ url: post.imagemUrl, width: 1200, height: 630, alt: title }] : [],
     },
     twitter: {
       card: 'summary_large_image',

@@ -132,10 +132,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     description: descBase,
     alternates: { canonical: `/site-para-advogados/${slug}` },
     openGraph: {
+      type: 'website',
+      locale: 'pt_BR',
+      siteName: 'Seu Site Advogados',
       title: `Site para Advogados em ${cidade.nome} - ${cidade.estado}`,
       description: descBase,
       url: `/site-para-advogados/${slug}`,
-      images: [{ url: `/images/${cidade.imagem}`, alt: `Cidade de ${cidade.nome} - site para advogados` }],
+      images: [{ url: `/images/${cidade.imagem}`, width: 1200, height: 630, alt: `Cidade de ${cidade.nome} - site para advogados` }],
     },
   }
 }

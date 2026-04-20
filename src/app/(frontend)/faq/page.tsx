@@ -9,6 +9,9 @@ export const metadata: Metadata = {
   description: 'Respostas sobre domínio .adv.br, hospedagem, conformidade com a OAB, blog jurídico e outros detalhes técnicos do seu projeto.',
   alternates: { canonical: '/faq' },
   openGraph: {
+    type: 'website',
+    locale: 'pt_BR',
+    siteName: 'Seu Site Advogados',
     title: 'Dúvidas Frequentes | Seu Site Advogados',
     description: 'Respostas sobre domínio .adv.br, hospedagem, conformidade com a OAB, blog jurídico, relatórios de acesso e outros detalhes técnicos.',
     url: '/faq',

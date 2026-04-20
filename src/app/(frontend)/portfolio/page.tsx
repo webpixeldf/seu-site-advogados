@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   description: 'Conheça os sites para advogados e escritórios que desenvolvemos. Cases de sucesso com design profissional, SEO e alta conversão.',
   alternates: { canonical: '/portfolio' },
   openGraph: {
+    type: 'website',
+    locale: 'pt_BR',
+    siteName: 'Seu Site Advogados',
     title: 'Portfólio | Seu Site Advogados',
     description: 'Conheça os sites para advogados e escritórios que desenvolvemos. Cases de sucesso com design profissional e SEO.',
     url: '/portfolio',

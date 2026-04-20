@@ -36,6 +36,9 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
+    type: 'website',
+    locale: 'pt_BR',
+    siteName: 'Seu Site Advogados',
     title: 'Criação de Site para Advogados que Capta Clientes no Google',
     description: 'Criamos sites para advogados e escritórios de advocacia com design exclusivo, SEO otimizado e landing pages que captam clientes. Veja nosso portfólio.',
     url: '/',
