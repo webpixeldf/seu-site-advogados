@@ -1,6 +1,6 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
-import BlogCard from '../components/BlogCard'
+import BlogSearch from '../components/BlogSearch'
 import Breadcrumbs from '../components/Breadcrumbs'
 import { Phone } from 'lucide-react'
 import { blogPosts } from '../data/blogPosts'
@@ -66,16 +66,7 @@ export default async function BlogPage() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {/* Artigos do Payload (mais recentes primeiro) */}
-            {payloadArticles.map((post) => (
-              <BlogCard key={post.slug} {...post} />
-            ))}
-            {/* Artigos estáticos */}
-            {blogPosts.map((post) => (
-              <BlogCard key={post.slug} {...post} />
-            ))}
-          </div>
+          <BlogSearch posts={[...payloadArticles, ...blogPosts]} />
 
           {/* Internal link to homepage */}
           <div className="mt-16 text-center p-8 bg-white rounded-2xl border border-gray-200">
