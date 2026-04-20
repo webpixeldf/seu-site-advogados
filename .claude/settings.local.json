@@ -7,7 +7,10 @@
       "Bash(npm ls *)",
       "Bash(node scripts/gen-favicons.js)",
       "Bash(node -e ' *)",
-      "Bash(rm -f scripts/gen-favicons.js)"
+      "Bash(rm -f scripts/gen-favicons.js)",
+      "Bash(cp public/images/seu-site-advogados.webp public/images/seu-site-advogados-logo.webp)",
+      "Bash(node scripts/dup-trailing.js)",
+      "Bash(rm -f scripts/dup-trailing.js)"
     ]
   }
 }

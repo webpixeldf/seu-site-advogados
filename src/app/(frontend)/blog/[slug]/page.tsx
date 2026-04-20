@@ -25,15 +25,12 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
         .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
         .join(' ')
 
-  // Canonical para homepage em artigos que competem pela mesma keyword
-  const canonicalToHome = slug === 'criacao-de-site-para-advogados'
-
   return {
     title: title,
     description: post
       ? post.resumo
       : `Leia o artigo completo sobre ${title.toLowerCase()} no blog do Seu Site Advogados.`,
-    alternates: { canonical: canonicalToHome ? '/' : `/blog/${slug}` },
+    alternates: { canonical: `/blog/${slug}` },
     openGraph: {
       title,
       description: post?.resumo || `Artigo sobre ${title.toLowerCase()}`,
