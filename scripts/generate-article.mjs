@@ -24,6 +24,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
+import sharp from 'sharp'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
@@ -384,22 +385,23 @@ async function findImage() {
 
 const photo = await findImage()
 const photoUrl = photo.urls.regular // 1080px de largura
-const photoAlt = (photo.alt_description || photo.description || 'Imagem ilustrativa para escritório jurídico').slice(0, 200)
-const photoCredit = `Foto: ${photo.user.name} (Unsplash)`
+// Alt text em português usando o título do artigo (contém a palavra-chave principal)
+const photoAlt = topic.slice(0, 200)
 console.log(`📷 Imagem: ${photoUrl}`)
 
-// ---------- 7. Baixar imagem ----------
+// ---------- 7. Baixar e converter para WebP ----------
 const imagesDir = path.join(ROOT, 'public/images/blog')
 if (!fs.existsSync(imagesDir)) fs.mkdirSync(imagesDir, { recursive: true })
-const imageFile = path.join(imagesDir, `${slug}.jpg`)
-const imageUrlPath = `/images/blog/${slug}.jpg`
+const imageFile = path.join(imagesDir, `${slug}.webp`)
+const imageUrlPath = `/images/blog/${slug}.webp`
 
 if (!DRY_RUN) {
   const imgRes = await fetch(photoUrl)
   if (!imgRes.ok) throw new Error(`Falha ao baixar imagem: ${imgRes.status}`)
   const buf = Buffer.from(await imgRes.arrayBuffer())
-  fs.writeFileSync(imageFile, buf)
-  console.log(`💾 Imagem salva em ${imageFile} (${(buf.length / 1024).toFixed(1)} KB)`)
+  await sharp(buf).webp({ quality: 85 }).toFile(imageFile)
+  const stat = fs.statSync(imageFile)
+  console.log(`💾 Imagem WebP salva em ${imageFile} (${(stat.size / 1024).toFixed(1)} KB)`)
 
   // Trigger Unsplash download tracking (exigência da API gratuita)
   if (photo.links && photo.links.download_location) {
@@ -409,8 +411,8 @@ if (!DRY_RUN) {
   }
 }
 
-// ---------- 8. Inserir imagem no início do artigo ----------
-const heroImageHtml = `<p><img src="${imageUrlPath}" alt="${photoAlt.replace(/"/g, '&quot;')}" loading="lazy" /></p>\n<p><em>${photoCredit}</em></p>\n\n`
+// ---------- 8. Inserir imagem no início do artigo (sem legenda) ----------
+const heroImageHtml = `<p><img src="${imageUrlPath}" alt="${photoAlt.replace(/"/g, '&quot;')}" loading="lazy" /></p>\n\n`
 html = heroImageHtml + html
 
 // ---------- 9. Gerar resumo ----------

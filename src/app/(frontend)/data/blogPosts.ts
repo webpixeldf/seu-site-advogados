@@ -12,7 +12,7 @@ export const blogPosts: BlogPost[] = [
     titulo: "Como advogados podem usar o WhatsApp Business para captar clientes",
     slug: "como-advogados-podem-usar-o-whatsapp-business-para-captar-clientes",
     resumo: "Você já parou pra pensar quantos clientes perde por não responder rápido o suficiente? Pois é, no mundo da advocacia, a agilidade muitas vezes define quem leva a causa. O WhatsApp Business não é só...",
-    imagemUrl: "/images/blog/como-advogados-podem-usar-o-whatsapp-business-para-captar-clientes.jpg",
+    imagemUrl: "/images/blog/como-advogados-podem-usar-o-whatsapp-business-para-captar-clientes.webp",
     publishedAt: "2026-04-26",
     tags: ['blog', 'auto'],
   },
