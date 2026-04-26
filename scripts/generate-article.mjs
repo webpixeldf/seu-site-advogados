@@ -46,31 +46,199 @@ if (!UNSPLASH_KEY) {
 const readJson = (p) => JSON.parse(fs.readFileSync(p, 'utf-8'))
 const writeJson = (p, obj) => fs.writeFileSync(p, JSON.stringify(obj, null, 2) + '\n')
 
-// ---------- 1. Escolher tema ----------
+// Normaliza string para comparação (remove acentos, case, pontuação)
+function normalizeStr(s) {
+  return s
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9 ]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
 const TOPICS_PATH = path.join(ROOT, 'scripts/data/topics.json')
 const USED_TOPICS_PATH = path.join(ROOT, 'scripts/data/used-topics.json')
 const ANCHOR_POOL_PATH = path.join(ROOT, 'scripts/data/anchor-pool.json')
 const ANCHOR_HISTORY_PATH = path.join(ROOT, 'scripts/data/anchor-history.json')
 const PUBLISHED_TIMES_PATH = path.join(ROOT, 'scripts/data/published-times.log')
 
-const allTopics = readJson(TOPICS_PATH)
-const usedTopics = readJson(USED_TOPICS_PATH)
-const remaining = allTopics.filter((t) => !usedTopics.includes(t))
-if (remaining.length === 0) {
-  console.error('❌ Acabaram os temas em topics.json. Adicione mais.')
-  process.exit(1)
+// ---------- 0a. Gera novos temas via DeepSeek se necessário ----------
+async function generateNewTopics(existing, used, count = 15) {
+  const allKnown = [...new Set([...existing, ...used])]
+  const recent = allKnown.slice(-50) // últimos 50 como contexto
+
+  const prompt = `Você está criando pautas para um blog de marketing jurídico voltado para advogados brasileiros que querem captar clientes online.
+
+Lista de tópicos JÁ existentes (NÃO repita, NÃO crie variações):
+${recent.map((t, i) => `${i + 1}. ${t}`).join('\n')}
+
+Gere ${count} NOVOS tópicos de artigos seguindo estas regras:
+
+REGRAS RÍGIDAS:
+- NÃO repita nenhum tópico da lista acima
+- NÃO crie variações triviais (ex: "Como fazer X" e "X em 5 passos" são duplicatas)
+- Cada tópico deve abordar ângulo, ferramenta, área do direito, plataforma ou problema DIFERENTE dos da lista
+- Tópicos práticos com valor real para advogado brasileiro (cita OAB, situações reais, ferramentas específicas)
+- Foque em: marketing digital, captação de clientes, redes sociais, SEO, branding, ferramentas, gestão, áreas específicas do direito (trabalhista, família, tributário, criminal, etc), tendências (IA, digital), produtividade
+
+FORMATO:
+- Apenas o título de cada artigo, um por linha
+- SEM numeração, SEM bullets, SEM aspas
+- Cada linha começa com letra maiúscula (estilo de título)
+- Tamanho ideal: 50-80 caracteres por título
+
+Exemplo do formato esperado:
+Como advogados criminalistas podem usar Twitter sem violar a OAB
+LGPD para escritórios pequenos: implantação em 30 dias
+Direito do consumidor digital: o nicho que cresceu 200%
+
+Responda apenas com os ${count} títulos, nada mais.`
+
+  const res = await fetch('https://api.deepseek.com/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${DEEPSEEK_KEY}`,
+    },
+    body: JSON.stringify({
+      model: 'deepseek-chat',
+      messages: [
+        { role: 'system', content: 'Você cria pautas originais para blog jurídico brasileiro. Responda apenas com os títulos solicitados, um por linha.' },
+        { role: 'user', content: prompt },
+      ],
+      temperature: 0.95,
+      max_tokens: 1500,
+    }),
+  })
+  if (!res.ok) {
+    throw new Error(`DeepSeek (topics) erro ${res.status}: ${await res.text()}`)
+  }
+  const data = await res.json()
+  const text = data.choices[0].message.content
+
+  const candidates = text
+    .split('\n')
+    .map((l) => l.trim())
+    .filter((l) => l && l.length > 10)
+    .map((l) => l.replace(/^\d+[.)]\s*/, '').replace(/^[-*•]\s*/, '').replace(/^["']|["']$/g, '').trim())
+    .filter((l) => l.length >= 20 && l.length <= 130)
+
+  const knownNorm = new Set(allKnown.map(normalizeStr))
+  const uniques = []
+  for (const c of candidates) {
+    const n = normalizeStr(c)
+    if (!knownNorm.has(n) && !uniques.some((u) => normalizeStr(u) === n)) {
+      uniques.push(c)
+      knownNorm.add(n)
+    }
+  }
+  return uniques
 }
+
+let allTopics = readJson(TOPICS_PATH)
+const usedTopics = readJson(USED_TOPICS_PATH)
+let remaining = allTopics.filter((t) => !usedTopics.includes(t))
+
+// Se restam <= 5 temas, gera mais via DeepSeek
+if (remaining.length <= 5) {
+  console.log(`🪫 Restam apenas ${remaining.length} temas. Gerando 15 novos via DeepSeek...`)
+  const newTopics = await generateNewTopics(allTopics, usedTopics, 15)
+  if (newTopics.length === 0) {
+    console.error('❌ DeepSeek não retornou temas válidos.')
+    process.exit(1)
+  }
+  console.log(`📥 ${newTopics.length} novos temas adicionados:`)
+  newTopics.forEach((t) => console.log(`   • ${t}`))
+  allTopics = [...allTopics, ...newTopics]
+  if (!DRY_RUN) writeJson(TOPICS_PATH, allTopics)
+  remaining = allTopics.filter((t) => !usedTopics.includes(t))
+}
+
 const topic = remaining[0]
 console.log(`📝 Tema escolhido: ${topic}`)
 
-// ---------- 2. Escolher anchor inédito ----------
-const anchorPool = readJson(ANCHOR_POOL_PATH)
-const anchorHistory = readJson(ANCHOR_HISTORY_PATH)
-const remainingAnchors = anchorPool.filter((a) => !anchorHistory.includes(a))
-if (remainingAnchors.length === 0) {
-  console.error('❌ Acabaram os anchors em anchor-pool.json. Adicione mais.')
-  process.exit(1)
+// ---------- 0b. Gera novos anchors se necessário ----------
+async function generateNewAnchors(existing, used, count = 15) {
+  const allKnown = [...new Set([...existing, ...used])]
+
+  const prompt = `Crie ${count} variações de "anchor text" (texto âncora de link) para um link interno apontando para a home de um site de criação de site para advogados.
+
+Variações JÁ usadas (NÃO repita):
+${allKnown.slice(-40).map((t, i) => `${i + 1}. ${t}`).join('\n')}
+
+REGRAS:
+- Cada anchor deve conter naturalmente termos relacionados a "criação de site para advogados" (admite plural/singular)
+- Pode incluir adjetivos antes/depois (profissional, moderno, especializado, exclusivo, sob medida, etc.)
+- Pode usar sinônimos: "site jurídico", "presença digital para advogados", "site de advocacia", etc.
+- Tudo em minúsculas (anchors são geralmente lowercase)
+- Tamanho 4-12 palavras
+- Variações naturais que pareçam orgânicas em um texto
+
+FORMATO:
+- Apenas o anchor, um por linha
+- SEM numeração, SEM aspas, SEM hífen no início
+
+Responda apenas com os ${count} anchors.`
+
+  const res = await fetch('https://api.deepseek.com/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${DEEPSEEK_KEY}`,
+    },
+    body: JSON.stringify({
+      model: 'deepseek-chat',
+      messages: [
+        { role: 'system', content: 'Você cria anchor texts para SEO em português. Responda apenas com os anchors solicitados, um por linha.' },
+        { role: 'user', content: prompt },
+      ],
+      temperature: 0.9,
+      max_tokens: 1000,
+    }),
+  })
+  if (!res.ok) {
+    throw new Error(`DeepSeek (anchors) erro ${res.status}: ${await res.text()}`)
+  }
+  const data = await res.json()
+  const text = data.choices[0].message.content
+
+  const candidates = text
+    .split('\n')
+    .map((l) => l.trim())
+    .filter(Boolean)
+    .map((l) => l.replace(/^\d+[.)]\s*/, '').replace(/^[-*•]\s*/, '').replace(/^["']|["']$/g, '').toLowerCase().trim())
+    .filter((l) => l.length >= 10 && l.length <= 80)
+
+  const knownNorm = new Set(allKnown.map(normalizeStr))
+  const uniques = []
+  for (const c of candidates) {
+    const n = normalizeStr(c)
+    if (!knownNorm.has(n) && !uniques.some((u) => normalizeStr(u) === n)) {
+      uniques.push(c)
+      knownNorm.add(n)
+    }
+  }
+  return uniques
 }
+
+let anchorPool = readJson(ANCHOR_POOL_PATH)
+const anchorHistory = readJson(ANCHOR_HISTORY_PATH)
+let remainingAnchors = anchorPool.filter((a) => !anchorHistory.includes(a))
+
+if (remainingAnchors.length <= 5) {
+  console.log(`🪫 Restam apenas ${remainingAnchors.length} anchors. Gerando 15 novos via DeepSeek...`)
+  const newAnchors = await generateNewAnchors(anchorPool, anchorHistory, 15)
+  if (newAnchors.length === 0) {
+    console.error('❌ DeepSeek não retornou anchors válidos.')
+    process.exit(1)
+  }
+  console.log(`📥 ${newAnchors.length} novos anchors adicionados`)
+  anchorPool = [...anchorPool, ...newAnchors]
+  if (!DRY_RUN) writeJson(ANCHOR_POOL_PATH, anchorPool)
+  remainingAnchors = anchorPool.filter((a) => !anchorHistory.includes(a))
+}
+
 const anchor = remainingAnchors[Math.floor(Math.random() * remainingAnchors.length)]
 console.log(`🔗 Anchor: "${anchor}"`)
 

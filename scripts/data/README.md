@@ -43,13 +43,24 @@ Em **"Workflow permissions"**:
 | `anchor-history.json` | Anchors já usados (não repete) |
 | `published-times.log` | Horários hh:mm:ss já utilizados |
 
-## Quando os temas acabarem
+## Geração infinita (auto-renovação de temas e anchors)
 
-1. Adicione mais entradas em `topics.json`.
-2. Faça commit + push.
-3. Pronto, vai voltar a gerar.
+O sistema **se renova sozinho**:
 
-Mesmo lógica para `anchor-pool.json` se as variações acabarem.
+- Quando restam **5 ou menos temas** não usados, o script chama o DeepSeek
+  e pede 15 novos temas relacionados ao nicho jurídico/marketing.
+- Antes de adicionar, normaliza textos (remove acentos, case, pontuação) e
+  compara com TUDO que já foi usado. Garante zero repetição.
+- O mesmo acontece com anchors em `anchor-pool.json`.
+
+Resultado: **publicação infinita de artigos únicos**, sem você precisar
+adicionar nada manualmente.
+
+## Quando os temas acabarem (não vai mais acontecer)
+
+Você ainda pode editar manualmente `topics.json` e `anchor-pool.json` se
+quiser direcionar para temas específicos, mas o sistema também funciona
+sozinho indefinidamente.
 
 ## Rodar manualmente
 
