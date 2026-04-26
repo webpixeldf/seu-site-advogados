@@ -302,7 +302,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
             title="Site para advogados: o que muda no seu escritório na prática"
-            subtitle="Veja os resultados reais de quem investe em um site para advogados bem estruturado."
+            subtitle="Veja os resultados reais de quem investe em um site jurídico bem estruturado."
           />
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -400,7 +400,7 @@ export default function HomePage() {
               </div>
 
               <p className="text-gray-600 font-lexend leading-relaxed mb-4">
-                Nossa criação de site para advogados entrega um projeto do zero, construído a partir do seu posicionamento e áreas de atuação.
+                Nosso trabalho entrega um projeto do zero, construído a partir do seu posicionamento e áreas de atuação.
               </p>
               <p className="text-gray-600 font-lexend leading-relaxed mb-8">
                 Além do design, cuidamos da parte que o Google valoriza:
@@ -467,7 +467,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
             title="O que está incluso no seu site para advogado"
-            subtitle="Todo site para advogados que criamos inclui estes recursos — sem custos extras e sem letras miúdas."
+            subtitle="Todo site jurídico que criamos inclui estes recursos — sem custos extras e sem letras miúdas."
           />
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -678,7 +678,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
             title="O que nossos clientes dizem"
-            subtitle="Advogados e escritórios que contrataram nossa criação de site para advogados e compartilham a experiência."
+            subtitle="Advogados e escritórios que contrataram nosso trabalho e compartilham a experiência."
             light
           />
 
