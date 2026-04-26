@@ -90,8 +90,14 @@ jobs:
       - name: Aguardar delay aleatório (segundos únicos)
         if: steps.decide.outputs.publish == 'true'
         run: |
-          DELAY=$((RANDOM % 1500 + 30))
-          echo "Aguardando ${DELAY}s para horário único..."
+          # Disparo manual: delay curto (5-30s)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            DELAY=$((RANDOM % 25 + 5))
+          else
+            # Cron: delay longo para espalhar horários ao longo do dia (30-1500s)
+            DELAY=$((RANDOM % 1500 + 30))
+          fi
+          echo "Aguardando ${DELAY}s..."
           sleep $DELAY
 
       - name: Gerar artigo
