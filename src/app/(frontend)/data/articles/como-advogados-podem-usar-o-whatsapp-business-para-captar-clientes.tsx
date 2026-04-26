@@ -2,8 +2,6 @@ import { registerHtmlArticle } from './_auto-helper'
 
 registerHtmlArticle('como-advogados-podem-usar-o-whatsapp-business-para-captar-clientes', `<p><img src="/images/blog/como-advogados-podem-usar-o-whatsapp-business-para-captar-clientes.webp" alt="Como advogados podem usar o WhatsApp Business para captar clientes" loading="lazy" /></p>
 
-<p>Você já parou pra pensar quantos clientes perde por não responder rápido o suficiente? Pois é, no mundo da advocacia, a agilidade muitas vezes define quem leva a causa. O WhatsApp Business não é só mais um aplicativo de mensagem, é uma ferramenta que pode transformar a forma como você capta e fideliza clientes. Mas calma, não é só baixar e sair mandando mensagem. Tem um jeito certo de usar.</p>
-
 <h2>Por que o WhatsApp Business é um divisor de águas para advogados</h2>
 
 <p>O brasileiro médio passa mais de 2 horas por dia no WhatsApp. Isso é mais tempo do que gasta em qualquer outra rede social. Quando alguém precisa de um advogado, seja pra uma causa trabalhista em São Paulo ou uma questão de família em Belo Horizonte, o primeiro impulso é abrir o WhatsApp e perguntar: "Oi, tem um minuto?". Se você não tá ali, na hora, outro colega vai estar.</p>

@@ -411,20 +411,24 @@ if (!DRY_RUN) {
   }
 }
 
-// ---------- 8. Inserir imagem no início do artigo (sem legenda) ----------
-const heroImageHtml = `<p><img src="${imageUrlPath}" alt="${photoAlt.replace(/"/g, '&quot;')}" loading="lazy" /></p>\n\n`
-html = heroImageHtml + html
-
-// ---------- 9. Gerar resumo ----------
+// ---------- 8. Extrair resumo do primeiro parágrafo ----------
 function extractFirstParagraph(htmlStr) {
   const match = htmlStr.match(/<p[^>]*>([\s\S]*?)<\/p>/)
   if (!match) return ''
   return match[1].replace(/<[^>]+>/g, '').trim()
 }
-let resumo = extractFirstParagraph(html.replace(heroImageHtml, '')).slice(0, 200)
+let resumo = extractFirstParagraph(html).slice(0, 200)
 if (resumo.length === 200) {
   resumo = resumo.slice(0, 197).trim() + '...'
 }
+
+// ---------- 9. Remover o primeiro parágrafo do HTML (evita duplicar com AEO block) ----------
+// O resumo já vai aparecer no AEO Answer Block (caixa cinza no topo da página).
+html = html.replace(/^\s*<p[^>]*>[\s\S]*?<\/p>\s*/, '')
+
+// ---------- 10. Inserir imagem no início (sem legenda) ----------
+const heroImageHtml = `<p><img src="${imageUrlPath}" alt="${photoAlt.replace(/"/g, '&quot;')}" loading="lazy" /></p>\n\n`
+html = heroImageHtml + html
 
 // ---------- 10. Gerar horário hh:mm:ss único e dentro de 08-18 BRT ----------
 function generatePublishTime(usedTimes) {
