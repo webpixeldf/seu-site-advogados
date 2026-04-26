@@ -6,7 +6,6 @@ out
 .env.local
 _backup/
 _downloads/
-scripts/
 *.tar.gz
 
 # Arquivos de auditoria SEO (HTML dumps temporarios)
