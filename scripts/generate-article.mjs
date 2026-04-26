@@ -295,12 +295,20 @@ Especificações:
 - Use APENAS estas tags HTML: <p>, <h2>, <h3>, <ul>, <ol>, <li>, <strong>, <em>, <a>, <blockquote>
 - NÃO inclua o título principal H1 (já vem na página)
 - NÃO use markdown (sem asterisco, sem hífen no início de linha)
-- Estrutura recomendada:
-  * 1 parágrafo de introdução envolvente (sem dizer "neste artigo vamos...")
-  * 4-6 H2 cobrindo subtópicos
-  * Alguns H3 quando o subtópico merece divisão
-  * 1-2 listas com bullets quando agregar valor
-  * Parágrafo final que naturalmente convida à reflexão (sem CTA agressivo)
+
+DENSIDADE DE KEYWORDS (importante para SEO):
+- Mencione naturalmente "site para advogado" ou "site para advogados" 2 a 3 vezes ao longo do texto, contextualmente. NÃO force.
+  Exemplos de contexto que cabem: ao falar de presença digital, captação online, autoridade no Google, estrutura de conversão, hospedagem, blog jurídico, etc.
+- Mencione 1 vez a expressão "criação de site para advogado" ou "criação de site para advogados" (em qualquer ponto que fizer sentido).
+- Pode usar variações: "site jurídico", "presença digital para advogados", "site profissional para advocacia".
+- ATENÇÃO: distribua de forma orgânica. NÃO repita a mesma frase. NÃO concentre tudo no mesmo parágrafo. NUNCA force se ficar artificial.
+
+ESTRUTURA:
+- 1 parágrafo de introdução envolvente (sem dizer "neste artigo vamos...")
+- 4-6 H2 cobrindo subtópicos
+- Alguns H3 quando o subtópico merece divisão
+- 1-2 listas com bullets quando agregar valor
+- Parágrafo final que naturalmente convida à reflexão (sem CTA agressivo)
 
 IMPORTANTE: o resultado deve ser APENAS o HTML do conteúdo, começando com <p> e terminando com </p> ou </h2>. Sem explicações, sem markdown wrapper, sem comentários. Apenas o HTML puro.`
 
