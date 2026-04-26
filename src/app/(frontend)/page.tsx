@@ -30,7 +30,7 @@ import {
 } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: { absolute: 'Criação de Site para Advogados que Capta Clientes no Google' },
+  title: { absolute: 'Criação de Site para Advogado que Capta Clientes no Google' },
   description: 'Criação de site para advogado com design exclusivo, SEO para o Google, hospedagem e e-mail profissional. Capte mais clientes a partir de 3x de R$ 285.',
   alternates: {
     canonical: '/',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'pt_BR',
     siteName: 'Seu Site Advogados',
-    title: 'Criação de Site para Advogados que Capta Clientes no Google',
+    title: 'Criação de Site para Advogado que Capta Clientes no Google',
     description: 'Criamos sites para advogados e escritórios de advocacia com design exclusivo, SEO otimizado e landing pages que captam clientes. Veja nosso portfólio.',
     url: '/',
     images: [{ url: '/images/site-para-advogado.jpg', width: 800, height: 800, alt: 'Escritório de advocacia com site profissional' }],
@@ -187,7 +187,7 @@ export default function HomePage() {
             </h1>
             {/* Paragraph */}
             <p className="text-gray-300 text-lg md:text-xl font-lexend leading-relaxed mb-6">
-              Especialistas em <strong>criação de site para advogados</strong> autônomos, iniciantes ou escritórios consolidados. Design exclusivo, SEO e projetos sob medida para gerar contatos 24 horas por dia.
+              Especialistas em <strong>criação de site para advogado</strong> autônomo, iniciante ou escritório consolidado. Design exclusivo, SEO e projetos sob medida para gerar contatos 24 horas por dia.
             </p>
 
             {/* Price */}
