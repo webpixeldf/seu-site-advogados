@@ -10,7 +10,9 @@
       "Bash(rm -f scripts/gen-favicons.js)",
       "Bash(cp public/images/seu-site-advogados.webp public/images/seu-site-advogados-logo.webp)",
       "Bash(node scripts/dup-trailing.js)",
-      "Bash(rm -f scripts/dup-trailing.js)"
+      "Bash(rm -f scripts/dup-trailing.js)",
+      "Bash([ -f \"out/_next/static/chunks/app/\\(frontend\\)/$chunk\" ])",
+      "Bash(curl -sI \"https://seusiteadvogados.com.br/_next/static/chunks/app/\\(frontend\\)/layout-60282c192381de2b.js\")"
     ]
   }
 }

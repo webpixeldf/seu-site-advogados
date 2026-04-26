@@ -1,0 +1,120 @@
+name: Geração diária de artigo
+
+on:
+  # A cada 30min entre 11:00 e 20:30 UTC (08:00 e 17:30 BRT)
+  schedule:
+    - cron: '0,30 11-20 * * *'
+  # Permite rodar manualmente pelo botão "Run workflow"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Apenas simular (não publica nada)'
+        required: false
+        default: 'false'
+
+# Garante que apenas 1 execução por vez
+concurrency:
+  group: daily-article
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Verificar se já publicou hoje
+        id: check
+        run: |
+          TODAY=$(TZ='America/Sao_Paulo' date +%Y-%m-%d)
+          if grep -q "^${TODAY} " scripts/data/published-times.log 2>/dev/null; then
+            echo "Já publicou hoje (${TODAY}). Saindo."
+            echo "skip=true" >> $GITHUB_OUTPUT
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Decidir se publica nesta janela (probabilístico)
+        id: decide
+        if: steps.check.outputs.skip == 'false'
+        run: |
+          # BRT atual (UTC-3)
+          BRT_HOUR=$(TZ='America/Sao_Paulo' date +%H)
+          BRT_MIN=$(TZ='America/Sao_Paulo' date +%M)
+          # Probabilidade cresce com o tempo: 8h=10%, 17h=95%, 17:30=100% (forçado)
+          BRT_HOUR_NUM=$((10#$BRT_HOUR))
+          BRT_MIN_NUM=$((10#$BRT_MIN))
+          # Se passou de 17:30, força publicar
+          if [ "$BRT_HOUR_NUM" -ge 17 ] && [ "$BRT_MIN_NUM" -ge 30 ]; then
+            echo "Janela final atingida. Forçando publicação."
+            echo "publish=true" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          # Se for antes das 08h ou depois das 17h30, não publica
+          if [ "$BRT_HOUR_NUM" -lt 8 ] || [ "$BRT_HOUR_NUM" -gt 17 ]; then
+            echo "Fora da janela 08-17:30 BRT. Saindo."
+            echo "publish=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          # Probabilidade = (hora_atual - 8) / 10 + 0.1
+          # 08h: 10%, 12h: 50%, 16h: 90%
+          PROB=$(awk "BEGIN { printf \"%.0f\", ((${BRT_HOUR_NUM} - 8) / 10 + 0.1) * 100 }")
+          ROLL=$((RANDOM % 100))
+          echo "Hora: ${BRT_HOUR}:${BRT_MIN} BRT, prob: ${PROB}%, roll: ${ROLL}"
+          if [ "$ROLL" -lt "$PROB" ]; then
+            echo "publish=true" >> $GITHUB_OUTPUT
+          else
+            echo "Sorteio negativo. Tenta na próxima janela."
+            echo "publish=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Aguardar delay aleatório (segundos únicos)
+        if: steps.decide.outputs.publish == 'true'
+        run: |
+          DELAY=$((RANDOM % 1500 + 30))
+          echo "Aguardando ${DELAY}s para horário único..."
+          sleep $DELAY
+
+      - name: Gerar artigo
+        if: steps.decide.outputs.publish == 'true'
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          DRY_RUN: ${{ inputs.dry_run == 'true' && '1' || '' }}
+        run: node scripts/generate-article.mjs
+
+      - name: Configurar Git
+        if: steps.decide.outputs.publish == 'true' && inputs.dry_run != 'true'
+        run: |
+          git config user.name "blog-bot"
+          git config user.email "blog-bot@users.noreply.github.com"
+
+      - name: Commit e push
+        if: steps.decide.outputs.publish == 'true' && inputs.dry_run != 'true'
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nada novo para commitar (artigo pode ter sido criado mas falhou no meio)."
+            exit 0
+          fi
+          # Pega o último horário publicado pra meta-info
+          LATEST=$(tail -n 1 scripts/data/published-times.log)
+          git commit -m "feat(blog): novo artigo automatico
+
+          ${LATEST}
+
+          Gerado por GitHub Actions."
+          git push
