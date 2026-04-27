@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "SEO local: como aparecer no Google Maps quando buscam advogado",
+    slug: "seo-local-como-aparecer-no-google-maps-quando-buscam-advogado",
+    resumo: "Você já reparou como o Google Maps virou o novo \"bairro comercial\" da advocacia? Quando alguém precisa de um advogado, o primeiro reflexo não é mais abrir a lista telefônica ou pedir indicação pra...",
+    imagemUrl: "/images/blog/seo-local-como-aparecer-no-google-maps-quando-buscam-advogado.webp",
+    publishedAt: "2026-04-27",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Como advogados podem usar o WhatsApp Business para captar clientes",
     slug: "como-advogados-podem-usar-o-whatsapp-business-para-captar-clientes",
     resumo: "Você já parou pra pensar quantos clientes perde por não responder rápido o suficiente? Pois é, no mundo da advocacia, a agilidade muitas vezes define quem leva a causa. O WhatsApp Business não é só...",
