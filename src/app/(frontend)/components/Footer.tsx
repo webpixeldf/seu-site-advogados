@@ -139,8 +139,7 @@ export default function Footer() {
       <div className="border-t border-white/10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-500 text-sm font-lexend">
-            &copy; {new Date().getFullYear()} Seu Site Advogados. Todos os
-            direitos reservados.
+            Todos os Direitos Reservados &copy; {new Date().getFullYear()} Seu Site Advogados — CNPJ: 34.644.883/0001-94
           </p>
           <div className="flex gap-6">
             <Link

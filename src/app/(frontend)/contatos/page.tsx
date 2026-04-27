@@ -236,6 +236,15 @@ export default function ContatosPage() {
           </div>
         </div>
       </section>
+
+      {/* Empresa - dados de identificação */}
+      <section className="bg-white py-8 border-t border-gray-200">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <p className="text-gray-500 text-sm font-lexend">
+            Todos os Direitos Reservados &copy; {new Date().getFullYear()} Seu Site Advogados — CNPJ: 34.644.883/0001-94
+          </p>
+        </div>
+      </section>
     </>
   )
 }
