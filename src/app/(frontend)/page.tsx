@@ -31,7 +31,7 @@ import {
 
 export const metadata: Metadata = {
   title: { absolute: 'Criação de Site para Advogado que Capta Clientes no Google' },
-  description: 'Criação de site para advogado com design exclusivo, SEO para o Google, hospedagem e e-mail profissional. Capte mais clientes a partir de 3x de R$ 285.',
+  description: 'Criação de site para advogado com design exclusivo, SEO para o Google, hospedagem e e-mail profissional. Capte mais clientes a partir de 3x de R$ 260.',
   alternates: {
     canonical: '/',
   },
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     title: 'Criação de Site para Advogados que Capta Clientes',
-    description: 'Criação de site para advogado com design exclusivo, SEO e captação de clientes. A partir de 3x de R$ 285,00.',
+    description: 'Criação de site para advogado com design exclusivo, SEO e captação de clientes. A partir de 3x de R$ 260,00.',
   },
 }
 
@@ -57,7 +57,7 @@ const faqItems = [
   {
     pergunta: 'Quanto custa criar um site jurídico?',
     resposta:
-      'O valor inicial é de 3x de R$ 285,00. Projetos mais completos, como sites multipáginas com blog integrado, variam conforme a necessidade do escritório. Fale conosco pelo WhatsApp para receber uma proposta personalizada.',
+      'O valor inicial é de 3x de R$ 260,00. Projetos mais completos, como sites multipáginas com blog integrado, variam conforme a necessidade do escritório. Fale conosco pelo WhatsApp para receber uma proposta personalizada.',
   },
   {
     pergunta: 'Em quanto tempo o site fica pronto?',
@@ -193,8 +193,9 @@ export default function HomePage() {
             {/* Price */}
             <div className="mb-8">
               <span className="text-[#b58c61] font-lexend text-sm font-medium uppercase tracking-wider">A partir de</span>
-              <span className="block text-white font-lexend font-extrabold text-3xl md:text-4xl mt-1">
-                3x de R$ 285,00
+              <span className="block text-white font-lexend mt-1">
+                <span className="font-semibold text-xl md:text-2xl align-middle">3x </span>
+                <span className="font-extrabold text-3xl md:text-4xl align-middle">R$ 260,00</span>
               </span>
             </div>
 

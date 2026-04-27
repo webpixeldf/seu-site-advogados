@@ -253,7 +253,7 @@ export default async function CidadePage({ params }: { params: Promise<{ slug: s
               </p>
 
               <div className="inline-flex items-center bg-[#b58c61] rounded-lg px-5 py-2.5 mb-8">
-                <span className="text-white font-lexend font-bold">A partir de 3x de R$ 285,00</span>
+                <span className="text-white font-lexend font-bold">A partir de 3x de R$ 260,00</span>
               </div>
 
               <div className="flex flex-col sm:flex-row gap-4">

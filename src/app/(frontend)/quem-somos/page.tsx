@@ -112,7 +112,7 @@ export default function QuemSomos() {
                   Diferente de outras agências, não entregamos o site e desaparecemos. Atuamos como uma verdadeira agência de marketing jurídico ao seu lado: acompanhamos seus resultados, oferecemos suporte ágil e orientamos estratégias para que seu investimento retorne em forma de novos clientes.
                 </p>
                 <p className="text-gray-700 font-lexend leading-relaxed">
-                  E o melhor de tudo: ter um site jurídico profissional cabe no orçamento do seu escritório. Nossos planos começam a partir de 3x de R$ 285,00, já com hospedagem, e-mail profissional e suporte humanizado inclusos.
+                  E o melhor de tudo: ter um site jurídico profissional cabe no orçamento do seu escritório. Nossos planos começam a partir de 3x de R$ 260,00, já com hospedagem, e-mail profissional e suporte humanizado inclusos.
                 </p>
               </div>
               <div className="space-y-4">

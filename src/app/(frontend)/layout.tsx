@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     default: 'Site para Advogados | Seu Site Advogados',
     template: '%s | Seu Site Advogados',
   },
-  description: 'Especialistas em criação de site para advogados. Transforme sua experiência jurídica em uma presença digital que atrai e converte clientes. A partir de 3x de R$ 285,00.',
+  description: 'Especialistas em criação de site para advogados. Transforme sua experiência jurídica em uma presença digital que atrai e converte clientes. A partir de 3x de R$ 260,00.',
 }
 
 const siteSchema = {
@@ -25,7 +25,7 @@ const siteSchema = {
       email: 'webpixelbr@gmail.com',
       taxID: '34.644.883/0001-94',
       description: 'Especialistas em criação de site para advogados e escritórios de advocacia.',
-      priceRange: 'R$ 285 - R$ 2000',
+      priceRange: 'R$ 260 - R$ 2000',
       contactPoint: {
         '@type': 'ContactPoint',
         telephone: '+55-61-99278-4283',
@@ -88,7 +88,7 @@ const siteSchema = {
       areaServed: { '@type': 'Country', name: 'BR' },
       offers: {
         '@type': 'Offer',
-        price: '285.00',
+        price: '260.00',
         priceCurrency: 'BRL',
         availability: 'https://schema.org/InStock',
       },
