@@ -87,6 +87,10 @@ jobs:
             echo "publish=false" >> $GITHUB_OUTPUT
           fi
 
+      - name: Instalar sharp (para conversão WebP)
+        if: steps.decide.outputs.publish == 'true'
+        run: npm install --no-save sharp@^0.33.0
+
       - name: Aguardar delay aleatório (segundos únicos)
         if: steps.decide.outputs.publish == 'true'
         run: |
