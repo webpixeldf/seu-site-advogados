@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "7 erros comuns no Instagram de advogado e como evitar cada um",
+    slug: "7-erros-comuns-no-instagram-de-advogado-e-como-evitar-cada-um",
+    resumo: "Você passa horas pensando em posts, tira fotos no escritório, edita com carinho — e no final, só aparece seu colega de faculdade curtindo. Ou pior: você ganha seguidor, mas não ganha cliente. Se is...",
+    imagemUrl: "/images/blog/7-erros-comuns-no-instagram-de-advogado-e-como-evitar-cada-um.webp",
+    publishedAt: "2026-04-28",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "SEO local: como aparecer no Google Maps quando buscam advogado",
     slug: "seo-local-como-aparecer-no-google-maps-quando-buscam-advogado",
     resumo: "Você já reparou como o Google Maps virou o novo \"bairro comercial\" da advocacia? Quando alguém precisa de um advogado, o primeiro reflexo não é mais abrir a lista telefônica ou pedir indicação pra...",
