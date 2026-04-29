@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "ChatGPT na advocacia: usos práticos no dia a dia do escritório",
+    slug: "chatgpt-na-advocacia-usos-praticos-no-dia-a-dia-do-escritorio",
+    resumo: "Você já parou pra pensar em quanto tempo gasta, por semana, respondendo dúvidas repetitivas de clientes, ajustando minutas de contratos ou revisando petições? Se a resposta for \"muito mais do que g...",
+    imagemUrl: "/images/blog/chatgpt-na-advocacia-usos-praticos-no-dia-a-dia-do-escritorio.webp",
+    publishedAt: "2026-04-29",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "7 erros comuns no Instagram de advogado e como evitar cada um",
     slug: "7-erros-comuns-no-instagram-de-advogado-e-como-evitar-cada-um",
     resumo: "Você passa horas pensando em posts, tira fotos no escritório, edita com carinho — e no final, só aparece seu colega de faculdade curtindo. Ou pior: você ganha seguidor, mas não ganha cliente. Se is...",
