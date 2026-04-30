@@ -527,6 +527,55 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* ========== SECTION SOB MEDIDA ========== */}
+      <section className="bg-[#f5f5f3] py-20 md:py-28">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-3xl md:text-4xl font-bold text-[#162a2a] font-lexend mb-6 text-center">
+            Sites para advogados criados sob medida
+          </h2>
+          <div className="flex items-center justify-center gap-2 mb-8">
+            <span className="block w-8 h-1 bg-[#b58c61] rounded-full" />
+            <span className="block w-16 h-1 bg-[#b58c61] rounded-full" />
+          </div>
+
+          <div className="space-y-4 mb-8 max-w-3xl mx-auto">
+            <p className="text-gray-600 font-lexend leading-relaxed text-center">
+              Cada advogado tem uma história, uma especialidade e um público diferente.
+            </p>
+            <p className="text-gray-600 font-lexend leading-relaxed text-center">
+              Por isso, não trabalhamos com modelo pronto.
+            </p>
+            <p className="text-gray-700 font-lexend font-semibold leading-relaxed text-center">
+              Criamos sites para:
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-10 max-w-3xl mx-auto">
+            {[
+              'Advogados autônomos',
+              'Jovens advogados',
+              'Escritórios pequenos',
+              'Bancas consolidadas',
+              'Sociedades de advocacia',
+              'Especialistas em áreas específicas',
+              'Profissionais que querem fortalecer presença local',
+              'Escritórios que desejam melhorar a geração de contatos pelo Google',
+            ].map((item) => (
+              <div key={item} className="flex items-start gap-3 bg-white rounded-lg p-4 shadow-sm">
+                <div className="w-6 h-6 rounded-full bg-[#b58c61]/20 flex items-center justify-center shrink-0 mt-0.5">
+                  <CheckCircle size={14} className="text-[#b58c61]" />
+                </div>
+                <p className="text-gray-700 font-lexend text-sm leading-relaxed">{item}</p>
+              </div>
+            ))}
+          </div>
+
+          <p className="text-gray-600 font-lexend leading-relaxed text-center max-w-3xl mx-auto">
+            O visual, os textos e a estrutura do site são pensados para refletir o seu posicionamento.
+          </p>
+        </div>
+      </section>
+
       {/* ========== SECTION 8: PORTFOLIO ========== */}
       <section className="bg-white py-20 md:py-28">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
