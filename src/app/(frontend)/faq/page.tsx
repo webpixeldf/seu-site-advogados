@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: 'Dúvidas Frequentes | Seu Site Advogados',
     description: 'Respostas sobre domínio .adv.br, hospedagem, conformidade com a OAB, blog jurídico, relatórios de acesso e outros detalhes técnicos.',
     url: '/faq',
-    images: [{ url: '/images/site-para-advogado.jpg', width: 800, height: 800, alt: 'Seu Site Advogados' }],
+    images: [{ url: '/images/site-para-advogado.jpg', width: 1200, height: 630, alt: 'Seu Site Advogados' }],
   },
 }
 

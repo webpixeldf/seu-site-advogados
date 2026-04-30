@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: 'Quem Somos | Seu Site Advogados',
     description: 'Equipe especializada em criação de sites para advogados e escritórios de advocacia.',
     url: '/quem-somos',
-    images: [{ url: '/images/site-para-advogado.jpg', width: 800, height: 800, alt: 'Seu Site Advogados' }],
+    images: [{ url: '/images/site-para-advogado.jpg', width: 1200, height: 630, alt: 'Seu Site Advogados' }],
   },
 }
 

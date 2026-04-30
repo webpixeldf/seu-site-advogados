@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     description:
       'Saiba como coletamos, usamos e protegemos seus dados pessoais em conformidade com a LGPD.',
     url: '/politica-de-privacidade',
-    images: [{ url: '/images/site-para-advogado.jpg', width: 800, height: 800, alt: 'Seu Site Advogados' }],
+    images: [{ url: '/images/site-para-advogado.jpg', width: 1200, height: 630, alt: 'Seu Site Advogados' }],
   },
 }
 

@@ -29,6 +29,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
+    site: '@seusiteadvogados',
+    creator: '@seusiteadvogados',
     title: 'Site para Advogados | Seu Site Advogados',
     description: 'Especialistas em criação de site para advogados e escritórios de advocacia.',
     images: ['/images/site-para-advogado.jpg'],

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     title: 'Blog Jurídico | Seu Site Advogados',
     description: 'Artigos e estratégias de marketing digital para advogados. SEO jurídico, redes sociais e captação de clientes.',
     url: '/blog',
-    images: [{ url: '/images/site-para-advogado.jpg', width: 800, height: 800, alt: 'Seu Site Advogados' }],
+    images: [{ url: '/images/site-para-advogado.jpg', width: 1200, height: 630, alt: 'Seu Site Advogados' }],
   },
 }
 

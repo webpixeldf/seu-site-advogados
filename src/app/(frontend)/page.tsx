@@ -42,11 +42,15 @@ export const metadata: Metadata = {
     title: 'Criação de Site para Advogado que Capta Clientes no Google',
     description: 'Criamos sites para advogados e escritórios de advocacia com design exclusivo, SEO otimizado e landing pages que captam clientes. Veja nosso portfólio.',
     url: '/',
-    images: [{ url: '/images/site-para-advogado.jpg', width: 800, height: 800, alt: 'Escritório de advocacia com site profissional' }],
+    images: [{ url: '/images/site-para-advogado.jpg', width: 1200, height: 630, alt: 'Escritório de advocacia com site profissional' }],
   },
   twitter: {
+    card: 'summary_large_image',
+    site: '@seusiteadvogados',
+    creator: '@seusiteadvogados',
     title: 'Criação de Site para Advogados que Capta Clientes',
     description: 'Criação de site para advogado com design exclusivo, SEO e captação de clientes. A partir de 3x de R$ 260,00.',
+    images: ['/images/site-para-advogado.jpg'],
   },
 }
 
