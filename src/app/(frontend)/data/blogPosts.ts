@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Como criar um funil de vendas para escritórios de advocacia",
+    slug: "como-criar-um-funil-de-vendas-para-escritorios-de-advocacia",
+    resumo: "Você já parou pra pensar quantos potenciais clientes perdem o seu contato porque o site do seu escritório parece um catálogo telefônico parado no tempo? Não basta mais ter um endereço na internet....",
+    imagemUrl: "/images/blog/como-criar-um-funil-de-vendas-para-escritorios-de-advocacia.webp",
+    publishedAt: "2026-04-30",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "ChatGPT na advocacia: usos práticos no dia a dia do escritório",
     slug: "chatgpt-na-advocacia-usos-praticos-no-dia-a-dia-do-escritorio",
     resumo: "Você já parou pra pensar em quanto tempo gasta, por semana, respondendo dúvidas repetitivas de clientes, ajustando minutas de contratos ou revisando petições? Se a resposta for \"muito mais do que g...",
