@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import { Phone, Mail, MapPin, Instagram } from 'lucide-react'
+import { Phone, MapPin, Instagram } from 'lucide-react'
 
 export default function Footer() {
   const pageLinks = [
@@ -108,18 +108,6 @@ export default function Footer() {
                   </a>
                   <p className="text-gray-500 text-xs font-lexend">WhatsApp</p>
                 </div>
-              </li>
-              <li className="flex items-start gap-3">
-                <Mail
-                  size={18}
-                  className="text-[#b58c61] mt-0.5 shrink-0"
-                />
-                <a
-                  href="mailto:webpixelbr@gmail.com"
-                  className="text-gray-400 hover:text-[#b58c61] text-sm font-lexend transition-colors"
-                >
-                  webpixelbr@gmail.com
-                </a>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin

@@ -251,15 +251,6 @@ export default function PoliticaDePrivacidade() {
               </p>
               <div className="mt-4 p-6 bg-[#162a2a]/5 rounded-2xl">
                 <p className="leading-relaxed">
-                  <strong>E-mail:</strong>{' '}
-                  <a
-                    href="mailto:webpixelbr@gmail.com"
-                    className="text-[#b58c61] underline hover:text-[#de7322] transition-colors"
-                  >
-                    webpixelbr@gmail.com
-                  </a>
-                </p>
-                <p className="leading-relaxed mt-2">
                   <strong>WhatsApp:</strong>{' '}
                   <a
                     href="https://wa.me/5561992784283"
@@ -269,8 +260,8 @@ export default function PoliticaDePrivacidade() {
                   </a>
                 </p>
                 <p className="leading-relaxed mt-2">
-                  <strong>Endereco:</strong> SHIS, Quadra 06, Complexo Brasil 21
-                  - Asa Sul, Brasilia - DF
+                  <strong>Endereço:</strong> SHIS, Quadra 06, Complexo Brasil 21
+                  - Asa Sul, Brasília - DF
                 </p>
               </div>
               <p className="leading-relaxed mt-4">

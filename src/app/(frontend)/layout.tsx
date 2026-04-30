@@ -22,7 +22,6 @@ const siteSchema = {
       logo: 'https://seusiteadvogados.com.br/images/seu-site-advogados-logo.webp',
       url: 'https://seusiteadvogados.com.br',
       telephone: '+5561992784283',
-      email: 'webpixelbr@gmail.com',
       taxID: '34.644.883/0001-94',
       description: 'Especialistas em criação de site para advogados e escritórios de advocacia.',
       priceRange: 'R$ 260 - R$ 2000',

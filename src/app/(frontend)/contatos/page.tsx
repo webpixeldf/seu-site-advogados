@@ -2,7 +2,7 @@ import { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
 import ContactForm from '../components/ContactForm'
-import { Phone, Mail, MapPin, Clock, MessageCircle } from 'lucide-react'
+import { Phone, MapPin, Clock, MessageCircle } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Contato',
@@ -29,15 +29,6 @@ const contactCards = [
     content: '(61) 99278-4283',
     href: 'https://wa.me/5561992784283?text=Ol%C3%A1%21%20Vim%20do%20site%20seusiteadvogados.com.br%20e%20gostaria%20de%20um%20or%C3%A7amento.',
     sub: 'Atendimento ágil em horário comercial',
-  },
-  {
-    icon: Mail,
-    iconColor: 'text-[#b58c61]',
-    iconBg: 'bg-[#b58c61]/10',
-    title: 'E-mail',
-    content: 'webpixelbr@gmail.com',
-    href: 'mailto:webpixelbr@gmail.com',
-    sub: 'Retorno garantido em até 24 horas',
   },
   {
     icon: MapPin,
@@ -183,7 +174,6 @@ export default function ContatosPage() {
               {/* Address */}
               <address className="not-italic text-gray-400 font-lexend text-sm">
                 SHIS, Quadra 06, Complexo Brasil 21, Asa Sul, Brasília - DF<br />
-                <a href="mailto:webpixelbr@gmail.com">webpixelbr@gmail.com</a><br />
                 <a href="tel:+5561992784283">(61) 99278-4283</a>
               </address>
 
