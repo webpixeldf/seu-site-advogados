@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Newsletter jurídica: como construir uma audiência fiel mês a mês",
+    slug: "newsletter-juridica-como-construir-uma-audiencia-fiel-mes-a-mes",
+    resumo: "Você já parou pra pensar no número de clientes que passaram pelo seu escritório nos últimos anos e simplesmente nunca mais deram notícia? Pois é, a maioria dos advogados vive na correria de captar...",
+    imagemUrl: "/images/blog/newsletter-juridica-como-construir-uma-audiencia-fiel-mes-a-mes.webp",
+    publishedAt: "2026-05-01",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Como criar um funil de vendas para escritórios de advocacia",
     slug: "como-criar-um-funil-de-vendas-para-escritorios-de-advocacia",
     resumo: "Você já parou pra pensar quantos potenciais clientes perdem o seu contato porque o site do seu escritório parece um catálogo telefônico parado no tempo? Não basta mais ter um endereço na internet....",
