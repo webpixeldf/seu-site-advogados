@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Vídeos curtos no Reels: roteiros prontos para advogados começarem hoje",
+    slug: "videos-curtos-no-reels-roteiros-prontos-para-advogados-comecarem-hoje",
+    resumo: "Você abre o Instagram, vê um colega advogado com milhares de seguidores, comentários pedindo consulta, e pensa: \"Ele deve passar horas gravando, editando, pensando em pauta\". A verdade é que não. A...",
+    imagemUrl: "/images/blog/videos-curtos-no-reels-roteiros-prontos-para-advogados-comecarem-hoje.webp",
+    publishedAt: "2026-05-02",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Newsletter jurídica: como construir uma audiência fiel mês a mês",
     slug: "newsletter-juridica-como-construir-uma-audiencia-fiel-mes-a-mes",
     resumo: "Você já parou pra pensar no número de clientes que passaram pelo seu escritório nos últimos anos e simplesmente nunca mais deram notícia? Pois é, a maioria dos advogados vive na correria de captar...",
