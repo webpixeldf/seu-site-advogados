@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     'theme-color': '#162a2a',
   },
   verification: {
-    // google: 'seu-codigo-aqui', // Adicionar após verificar no Google Search Console
+    google: 'JdDWbq63pVCP9QhL0YzjAptwb1QoPRGabYzTEWz9dl0',
   },
 }
 
