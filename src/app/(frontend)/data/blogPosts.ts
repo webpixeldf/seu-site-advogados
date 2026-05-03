@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Como precificar serviços jurídicos sem afastar o cliente",
+    slug: "como-precificar-servicos-juridicos-sem-afastar-o-cliente",
+    resumo: "Precificar serviços jurídicos é, para muitos advogados, um verdadeiro enigma. Você sabe que seu conhecimento e tempo valem, mas também sente o peso de não querer parecer inacessível ou, pior, afast...",
+    imagemUrl: "/images/blog/como-precificar-servicos-juridicos-sem-afastar-o-cliente.webp",
+    publishedAt: "2026-05-03",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Vídeos curtos no Reels: roteiros prontos para advogados começarem hoje",
     slug: "videos-curtos-no-reels-roteiros-prontos-para-advogados-comecarem-hoje",
     resumo: "Você abre o Instagram, vê um colega advogado com milhares de seguidores, comentários pedindo consulta, e pensa: \"Ele deve passar horas gravando, editando, pensando em pauta\". A verdade é que não. A...",
