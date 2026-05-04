@@ -136,12 +136,6 @@ export default function Footer() {
             >
               Política de Privacidade
             </Link>
-            <Link
-              href="/contatos"
-              className="text-gray-500 hover:text-gray-400 text-sm font-lexend transition-colors"
-            >
-              Termos de Uso
-            </Link>
           </div>
         </div>
       </div>

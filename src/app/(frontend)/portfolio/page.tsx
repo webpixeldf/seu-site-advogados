@@ -92,7 +92,7 @@ function PortfolioGrid({ items }: { items: typeof onepageItems }) {
           key={item.url}
           href={item.url}
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noopener noreferrer nofollow"
           className="group relative block rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 bg-white"
         >
           <div className="relative aspect-[16/10] overflow-hidden">

@@ -21,6 +21,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/faq`, lastModified: now, changeFrequency: 'monthly', priority: 0.6 },
     { url: `${BASE_URL}/contatos`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${BASE_URL}/site-para-advogados`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${BASE_URL}/politica-de-privacidade`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
   ]
 
   const cidadePages: MetadataRoute.Sitemap = cidades.map((slug) => ({
