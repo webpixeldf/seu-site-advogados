@@ -190,11 +190,8 @@ export default function HomePage() {
               Criação de Site para Advogado
             </h1>
             {/* Paragraphs */}
-            <p className="text-gray-300 text-lg md:text-xl font-lexend leading-relaxed mb-4">
-              Seu escritório merece um site que trabalhe por você — mesmo fora do horário comercial. Atendemos advogados autônomos, jovens profissionais e bancas consolidadas que querem ser encontrados no Google com credibilidade, clareza e previsibilidade de contatos.
-            </p>
             <p className="text-gray-300 text-lg md:text-xl font-lexend leading-relaxed mb-6">
-              Desenvolvemos cada projeto do zero: design exclusivo, SEO técnico aplicado, páginas estratégicas por área de atuação e estrutura pensada para transformar visitante em cliente.
+              Criação de site para advogado com design exclusivo e SEO técnico. Atendemos autônomos, jovens profissionais e bancas consolidadas que querem ser encontrados no Google com credibilidade e previsibilidade de contatos — mesmo fora do horário comercial.
             </p>
 
             {/* Price */}
