@@ -100,6 +100,34 @@ const faqItems = [
   },
 ]
 
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'Web Pixel - Studio Criativo',
+  alternateName: 'Seu Site Advogados',
+  url: 'https://seusiteadvogados.com.br',
+  description: 'Criação de sites para advogados e escritórios de advocacia com design exclusivo e SEO técnico.',
+  taxID: '34.644.883/0001-94',
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'SHIS Quadra 06, Complexo Brasil 21',
+    addressLocality: 'Brasília',
+    addressRegion: 'DF',
+    postalCode: '71620-015',
+    addressCountry: 'BR',
+  },
+  contactPoint: {
+    '@type': 'ContactPoint',
+    telephone: '+55-61-99278-4283',
+    contactType: 'sales',
+    availableLanguage: 'Portuguese',
+    areaServed: 'BR',
+  },
+  sameAs: [
+    'https://www.instagram.com/criacaodesiteparaadvogados',
+  ],
+}
+
 const faqPageSchema = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
@@ -132,6 +160,10 @@ const breadcrumbSchema = {
 export default function HomePage() {
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+      />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqPageSchema) }}

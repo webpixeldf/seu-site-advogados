@@ -25,7 +25,7 @@ const config: Config = {
         mostarda: '#e99f45',
       },
       fontFamily: {
-        lexend: ['Lexend', 'sans-serif'],
+        lexend: ['var(--font-lexend)', 'sans-serif'],
       },
     },
   },
