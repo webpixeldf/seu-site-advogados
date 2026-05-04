@@ -8,10 +8,10 @@ interface CounterItem {
 }
 
 const counters: CounterItem[] = [
-  { value: 3, suffix: 'K+', label: 'Sites Criados' },
-  { value: 25, suffix: '+', label: 'Anos de Experiência' },
-  { value: 3, suffix: 'K+', label: 'Clientes Satisfeitos' },
-  { value: 5, suffix: 'K+', label: 'Projetos Entregues' },
+  { value: 52, suffix: '+', label: 'Sites Entregues' },
+  { value: 7, suffix: '', label: 'Anos de Mercado' },
+  { value: 52, suffix: '+', label: 'Clientes Atendidos' },
+  { value: 90, suffix: '+', label: 'Posts no Blog' },
 ]
 
 function AnimatedCounter({

@@ -840,15 +840,11 @@ export default function HomePage() {
               { slug: 'sao-paulo', anchor: 'São Paulo — SP' },
               { slug: 'rio-de-janeiro', anchor: 'Rio de Janeiro — RJ' },
               { slug: 'belo-horizonte', anchor: 'Belo Horizonte — MG' },
-              { slug: 'curitiba', anchor: 'Criação de site em Curitiba' },
-              { slug: 'porto-alegre', anchor: 'Advocacia em Porto Alegre' },
+              { slug: 'curitiba', anchor: 'Curitiba — PR' },
+              { slug: 'porto-alegre', anchor: 'Porto Alegre — RS' },
               { slug: 'salvador', anchor: 'Salvador — BA' },
-              { slug: 'fortaleza', anchor: 'Escritórios em Fortaleza' },
+              { slug: 'fortaleza', anchor: 'Fortaleza — CE' },
               { slug: 'recife', anchor: 'Recife — PE' },
-              { slug: 'goiania', anchor: 'Goiânia — GO' },
-              { slug: 'florianopolis', anchor: 'Site jurídico em Florianópolis' },
-              { slug: 'belem-do-para', anchor: 'Belém — PA' },
-              { slug: 'manaus', anchor: 'Manaus — AM' },
             ].map((c) => (
               <Link
                 key={c.slug}

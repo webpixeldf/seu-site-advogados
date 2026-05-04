@@ -6,14 +6,8 @@ export const dynamic = 'force-static'
 const BASE_URL = 'https://seusiteadvogados.com.br'
 
 const cidades = [
-  'alto-alegre', 'araraquara', 'belem-do-para', 'belo-horizonte', 'blumenau',
-  'boa-vista', 'campinas', 'campo-grande', 'caracarai', 'cascavel',
-  'caxias-do-sul', 'chapeco', 'curitiba', 'florianopolis', 'fortaleza',
-  'goiania', 'guarulhos', 'itajai', 'joao-pessoa', 'joinville',
-  'londrina', 'maceio', 'manaus', 'maringa', 'mogi-das-cruzes',
-  'porto-alegre', 'portugal', 'recife', 'ribeirao-preto', 'rio-de-janeiro',
-  'rorainopolis', 'salvador', 'santa-catarina', 'sao-jose-dos-campos',
-  'sao-luis', 'sao-paulo', 'uberlandia',
+  'sao-paulo', 'rio-de-janeiro', 'belo-horizonte', 'curitiba',
+  'porto-alegre', 'salvador', 'fortaleza', 'recife',
 ]
 
 export default function sitemap(): MetadataRoute.Sitemap {
