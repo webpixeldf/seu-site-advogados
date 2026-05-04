@@ -782,7 +782,7 @@ export default function HomePage() {
               </p>
               <div className="border-t border-white/10 pt-4">
                 <p className="text-white font-lexend font-semibold text-sm">Angelina Roberta</p>
-                <p className="text-gray-500 font-lexend text-xs">Advogada — angelinaroberta.adv.br</p>
+                <a href="https://angelinaroberta.adv.br/" target="_blank" rel="noopener noreferrer nofollow" className="text-[#b58c61] hover:text-[#de7322] font-lexend text-xs transition-colors">angelinaroberta.adv.br</a>
               </div>
             </div>
 
@@ -795,7 +795,7 @@ export default function HomePage() {
               </p>
               <div className="border-t border-white/10 pt-4">
                 <p className="text-white font-lexend font-semibold text-sm">Alexandre Vitorino</p>
-                <p className="text-gray-500 font-lexend text-xs">Advogado — avadvogados.com.br</p>
+                <a href="https://avadvogados.com.br/" target="_blank" rel="noopener noreferrer nofollow" className="text-[#b58c61] hover:text-[#de7322] font-lexend text-xs transition-colors">avadvogados.com.br</a>
               </div>
             </div>
 
@@ -808,7 +808,7 @@ export default function HomePage() {
               </p>
               <div className="border-t border-white/10 pt-4">
                 <p className="text-white font-lexend font-semibold text-sm">Guilherme Bonfim</p>
-                <p className="text-gray-500 font-lexend text-xs">Advogado — guilhermebonfim.com</p>
+                <a href="https://guilhermebonfim.com/" target="_blank" rel="noopener noreferrer nofollow" className="text-[#b58c61] hover:text-[#de7322] font-lexend text-xs transition-colors">guilhermebonfim.com</a>
               </div>
             </div>
           </div>
