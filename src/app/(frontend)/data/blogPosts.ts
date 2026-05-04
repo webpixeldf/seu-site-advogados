@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "LinkedIn para advogados: estratégia de autoridade em 2026",
+    slug: "linkedin-para-advogados-estrategia-de-autoridade-em-2026",
+    resumo: "Você abre o LinkedIn e vê o mesmo de sempre: um advogado postando foto do café, outro compartilhando decisão do STJ sem comentar nada, e aquele terceiro que só aparece para parabenizar aniversarian...",
+    imagemUrl: "/images/blog/linkedin-para-advogados-estrategia-de-autoridade-em-2026.webp",
+    publishedAt: "2026-05-04",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Como precificar serviços jurídicos sem afastar o cliente",
     slug: "como-precificar-servicos-juridicos-sem-afastar-o-cliente",
     resumo: "Precificar serviços jurídicos é, para muitos advogados, um verdadeiro enigma. Você sabe que seu conhecimento e tempo valem, mas também sente o peso de não querer parecer inacessível ou, pior, afast...",
