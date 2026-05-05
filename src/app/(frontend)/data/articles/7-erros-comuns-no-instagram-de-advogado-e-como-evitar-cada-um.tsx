@@ -4,7 +4,7 @@ registerHtmlArticle('7-erros-comuns-no-instagram-de-advogado-e-como-evitar-cada-
 
 <h2>1. Tratar o Instagram como um mural de fotos do escritório</h2>
 
-<p>Muita gente acha que postar a foto do café, do certificado na parede ou do código penal aberto na mesa já é conteúdo jurídico. Não é. O público que segue um advogado no Instagram não quer saber o que você comeu no almoço — quer solução pra um problema real. Ele está com medo de ser demitido, de perder a guarda do filho, de levar um processo trabalhista.</p>
+<p>Muita gente acha que postar a foto do café, do certificado na parede ou do código penal aberto na mesa já é conteúdo jurídico. Não é. O público que segue um advogado no Instagram não quer saber o que você comeu no almoço , quer solução pra um problema real. Ele está com medo de ser demitido, de perder a guarda do filho, de levar um processo trabalhista.</p>
 
 <p>O erro aqui é achar que "mostrar o dia a dia" gera autoridade. Gera, sim, desde que esse dia a dia mostre competência. Em vez de postar a caneta em cima do contrato, grave um vídeo explicando, em 60 segundos, quais são as três cláusulas mais perigosas num contrato de prestação de serviços. Isso sim vira autoridade.</p>
 
@@ -16,7 +16,7 @@ registerHtmlArticle('7-erros-comuns-no-instagram-de-advogado-e-como-evitar-cada-
 
 <h2>3. Postar só conteúdo genérico que qualquer advogado posta</h2>
 
-<p>Anda pelo feed de advogados no Instagram e você vai ver uma mesmice sem fim: "Você sabia que o prazo para entrar com a ação é de 5 anos?" ou "Direitos do consumidor: saiba os seus." Isso não diferencia você de ninguém. O problema não é o tema — é a abordagem.</p>
+<p>Anda pelo feed de advogados no Instagram e você vai ver uma mesmice sem fim: "Você sabia que o prazo para entrar com a ação é de 5 anos?" ou "Direitos do consumidor: saiba os seus." Isso não diferencia você de ninguém. O problema não é o tema , é a abordagem.</p>
 
 <p>Você precisa de um ângulo. Se você é advogado previdenciário, em vez de falar "como pedir aposentadoria", fale "o erro que faz o INSS negar seu pedido (e como evitar)". Se você é criminalista, em vez de "diferença entre prisão preventiva e temporária", fale "o que fazer se a polícia bater na sua porta às 6 da manhã". Conteúdo com tensão narrativa prende. Conteúdo genérico cansa.</p>
 
@@ -28,7 +28,7 @@ registerHtmlArticle('7-erros-comuns-no-instagram-de-advogado-e-como-evitar-cada-
 
 <h2>5. Não ter um site profissional pra receber quem chega do Instagram</h2>
 
-<p>Esse é o erro que mais dói: você faz um conteúdo incrível, a pessoa se interessa, clica no seu perfil — e não encontra nada além de um link do WhatsApp. Ou pior, encontra um link quebrado ou um site amador, feito às pressas. A pessoa que chega do Instagram está em fase de consideração. Ela quer saber se você é confiável, se tem experiência, se atende na região dela. O Instagram mostra o superficial. É no site que ela vai se aprofundar.</p>
+<p>Esse é o erro que mais dói: você faz um conteúdo incrível, a pessoa se interessa, clica no seu perfil , e não encontra nada além de um link do WhatsApp. Ou pior, encontra um link quebrado ou um site amador, feito às pressas. A pessoa que chega do Instagram está em fase de consideração. Ela quer saber se você é confiável, se tem experiência, se atende na região dela. O Instagram mostra o superficial. É no site que ela vai se aprofundar.</p>
 
 <p>Ter um site bem estruturado, com informações claras sobre áreas de atuação, currículo, endereço e depoimentos, é o que separa o advogado que parece sério do advogado que realmente é sério. E mais: um site bem feito aparece no Google quando a pessoa pesquisa seu nome ou "advogado em [sua cidade]". Por isso, a <a href="/" title="Criação de site profissional para advogados">criação de site profissional para advogados</a> deve andar de mãos dadas com sua estratégia de Instagram. Um alimenta o outro. E, acredite, muitos clientes fecham contrato depois de visitar o site, não depois de ver um story.</p>
 
@@ -44,8 +44,8 @@ registerHtmlArticle('7-erros-comuns-no-instagram-de-advogado-e-como-evitar-cada-
 
 <p>O Instagram é uma maratona, não um sprint. Muita gente começa animada, posta todo dia durante duas semanas, vê pouco resultado e abandona. Aí volta três meses depois, posta mais uma semana, some de novo. O algoritmo não entende esse comportamento e simplesmente para de te entregar. O público também esquece.</p>
 
-<p>A solução é simples: defina uma frequência que você consegue manter. Pode ser três vezes por semana, sem falta. Pode ser um post no feed e stories diários. O importante é não parar. Crie um calendário editorial básico: segunda é dica prática, quarta é case (sem expor cliente, claro), sexta é bastidor ou opinião sobre um assunto quente. E vai. Com três meses de consistência, os resultados aparecem — devagar no começo, depois mais rápido.</p>
+<p>A solução é simples: defina uma frequência que você consegue manter. Pode ser três vezes por semana, sem falta. Pode ser um post no feed e stories diários. O importante é não parar. Crie um calendário editorial básico: segunda é dica prática, quarta é case (sem expor cliente, claro), sexta é bastidor ou opinião sobre um assunto quente. E vai. Com três meses de consistência, os resultados aparecem , devagar no começo, depois mais rápido.</p>
 
 <h2>E aí, qual desses erros você está cometendo?</h2>
 
-<p>Não precisa corrigir tudo de uma vez. Escolhe um ou dois que mais doem e começa por eles. Troca o juridiquês por linguagem simples. Faz um story hoje mesmo respondendo uma dúvida real. E, se ainda não tem um site profissional pra receber quem chega do Instagram, coloca isso na lista de prioridades. Porque de nada adianta atrair gente pra porta se não tem ninguém pra receber. O marketing jurídico não é sobre aparecer — é sobre ser lembrado na hora da decisão. E o Instagram, bem usado, é só o começo de uma jornada que termina no fechamento do contrato.</p>`)
+<p>Não precisa corrigir tudo de uma vez. Escolhe um ou dois que mais doem e começa por eles. Troca o juridiquês por linguagem simples. Faz um story hoje mesmo respondendo uma dúvida real. E, se ainda não tem um site profissional pra receber quem chega do Instagram, coloca isso na lista de prioridades. Porque de nada adianta atrair gente pra porta se não tem ninguém pra receber. O marketing jurídico não é sobre aparecer , é sobre ser lembrado na hora da decisão. E o Instagram, bem usado, é só o começo de uma jornada que termina no fechamento do contrato.</p>`)

@@ -23,7 +23,7 @@ registerArticle('quais-sao-os-tipos-de-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A área exige conhecimento profundo do Código Penal, do Código de Processo Penal e das leis penais especiais. Além do domínio técnico, o criminalista precisa de habilidade oratória — especialmente no Tribunal do Júri — e resiliência emocional para lidar com casos graves.
+      A área exige conhecimento profundo do Código Penal, do Código de Processo Penal e das leis penais especiais. Além do domínio técnico, o criminalista precisa de habilidade oratória , especialmente no Tribunal do Júri , e resiliência emocional para lidar com casos graves.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Advogado civilista</h2>
@@ -43,13 +43,13 @@ registerArticle('quais-sao-os-tipos-de-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O advogado de família atua tanto no contencioso — quando há litígio entre as partes — quanto no consensual, elaborando acordos e mediando conflitos. A tendência atual é a busca por soluções extrajudiciais, como mediação e arbitragem familiar.
+      O advogado de família atua tanto no contencioso , quando há litígio entre as partes , quanto no consensual, elaborando acordos e mediando conflitos. A tendência atual é a busca por soluções extrajudiciais, como mediação e arbitragem familiar.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Advogado tributarista</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O tributarista é especialista em impostos, taxas e contribuições. Atua no planejamento tributário de empresas — buscando formas legais de reduzir a carga fiscal — e na defesa de contribuintes em processos administrativos e judiciais contra o Fisco.
+      O tributarista é especialista em impostos, taxas e contribuições. Atua no planejamento tributário de empresas , buscando formas legais de reduzir a carga fiscal , e na defesa de contribuintes em processos administrativos e judiciais contra o Fisco.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -59,7 +59,7 @@ registerArticle('quais-sao-os-tipos-de-advogados', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Advogado empresarial</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O advogado empresarial — ou societário — assessora empresas em questões relacionadas à sua constituição, operação e dissolução. Atua na elaboração de contratos sociais, acordos de sócios, fusões e aquisições, governança corporativa e compliance.
+      O advogado empresarial , ou societário , assessora empresas em questões relacionadas à sua constituição, operação e dissolução. Atua na elaboração de contratos sociais, acordos de sócios, fusões e aquisições, governança corporativa e compliance.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -73,7 +73,7 @@ registerArticle('quais-sao-os-tipos-de-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Após a Reforma da Previdência de 2019, essa área se tornou ainda mais complexa, com regras de transição e cálculos específicos que demandam conhecimento técnico aprofundado. O previdenciário atua tanto na esfera administrativa — junto ao INSS — quanto na judicial.
+      Após a Reforma da Previdência de 2019, essa área se tornou ainda mais complexa, com regras de transição e cálculos específicos que demandam conhecimento técnico aprofundado. O previdenciário atua tanto na esfera administrativa , junto ao INSS , quanto na judicial.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Advogado consumerista</h2>

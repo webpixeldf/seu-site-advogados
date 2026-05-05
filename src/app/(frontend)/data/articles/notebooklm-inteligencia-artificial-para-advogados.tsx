@@ -3,13 +3,13 @@ import { registerArticle } from './registry'
 registerArticle('notebooklm-inteligencia-artificial-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O NotebookLM é uma ferramenta de inteligência artificial desenvolvida pelo Google que permite interagir com documentos de forma conversacional. Em vez de ler centenas de páginas de legislação, jurisprudência ou doutrina, você faz upload dos documentos e conversa com eles — fazendo perguntas, pedindo resumos e cruzando informações. Para advogados, isso representa uma mudança significativa na forma de fazer pesquisa jurídica.
+      O NotebookLM é uma ferramenta de inteligência artificial desenvolvida pelo Google que permite interagir com documentos de forma conversacional. Em vez de ler centenas de páginas de legislação, jurisprudência ou doutrina, você faz upload dos documentos e conversa com eles , fazendo perguntas, pedindo resumos e cruzando informações. Para advogados, isso representa uma mudança significativa na forma de fazer pesquisa jurídica.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que é o NotebookLM</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O NotebookLM (anteriormente chamado de Project Tailwind) é um assistente de pesquisa baseado na tecnologia Gemini do Google. Diferente de chatbots genéricos como o ChatGPT, o NotebookLM trabalha exclusivamente com os documentos que você fornece. Isso significa que as respostas são baseadas nas suas fontes, não em informações gerais da internet, reduzindo significativamente o risco de "alucinações" — respostas inventadas que parecem plausíveis.
+      O NotebookLM (anteriormente chamado de Project Tailwind) é um assistente de pesquisa baseado na tecnologia Gemini do Google. Diferente de chatbots genéricos como o ChatGPT, o NotebookLM trabalha exclusivamente com os documentos que você fornece. Isso significa que as respostas são baseadas nas suas fontes, não em informações gerais da internet, reduzindo significativamente o risco de "alucinações" , respostas inventadas que parecem plausíveis.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -39,7 +39,7 @@ registerArticle('notebooklm-inteligencia-artificial-para-advogados', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Preparação para audiências e sustentações orais</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Carregue as peças do processo — petição inicial, contestação, decisões interlocutórias e documentos — e peça ao NotebookLM para resumir os pontos principais de cada parte, identificar contradições nos argumentos da parte contrária ou listar as provas mais relevantes. Essa visão consolidada ajuda na preparação para audiências e sustentações.
+      Carregue as peças do processo , petição inicial, contestação, decisões interlocutórias e documentos , e peça ao NotebookLM para resumir os pontos principais de cada parte, identificar contradições nos argumentos da parte contrária ou listar as provas mais relevantes. Essa visão consolidada ajuda na preparação para audiências e sustentações.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Pesquisa doutrinária</h3>
@@ -89,7 +89,7 @@ registerArticle('notebooklm-inteligencia-artificial-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A inteligência artificial está transformando a pesquisa jurídica, e o NotebookLM é uma das ferramentas mais acessíveis e seguras para advogados começarem a incorporar IA na rotina. O investimento de tempo para aprender a usar é mínimo, e o ganho em produtividade na pesquisa é significativo. A chave é tratar a ferramenta como assistente, não como substituto do julgamento profissional — assim como um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para escritório de advocacia</a> complementa, mas não substitui, o trabalho de captação presencial.
+      A inteligência artificial está transformando a pesquisa jurídica, e o NotebookLM é uma das ferramentas mais acessíveis e seguras para advogados começarem a incorporar IA na rotina. O investimento de tempo para aprender a usar é mínimo, e o ganho em produtividade na pesquisa é significativo. A chave é tratar a ferramenta como assistente, não como substituto do julgamento profissional , assim como um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para escritório de advocacia</a> complementa, mas não substitui, o trabalho de captação presencial.
     </p>
   </>
 ))

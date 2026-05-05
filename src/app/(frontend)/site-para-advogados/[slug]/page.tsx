@@ -27,7 +27,7 @@ export async function generateStaticParams() {
 const cidadeData: Record<string, { oab: string; advogados: string; tribunal: string; fato: string }> = {
   'sao-paulo': {
     oab: 'OAB-SP',
-    advogados: '380 mil advogados inscritos — a maior seccional do país',
+    advogados: '380 mil advogados inscritos , a maior seccional do país',
     tribunal: 'TJSP (Tribunal de Justiça do Estado de São Paulo)',
     fato: 'O TJSP é considerado o maior tribunal do mundo em volume de processos, com mais de 21 milhões de feitos em andamento.',
   },
@@ -65,7 +65,7 @@ const cidadeData: Record<string, { oab: string; advogados: string; tribunal: str
     oab: 'OAB-CE',
     advogados: 'Cerca de 35 mil advogados inscritos',
     tribunal: 'TJCE (Tribunal de Justiça do Estado do Ceará)',
-    fato: 'O Ceará tem 1 advogado para cada 266 habitantes — índice abaixo da média nacional.',
+    fato: 'O Ceará tem 1 advogado para cada 266 habitantes , índice abaixo da média nacional.',
   },
   'recife': {
     oab: 'OAB-PE',
@@ -87,7 +87,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     : `Site profissional para advogados em ${cidade.nome}. Design exclusivo, otimização para buscas e hospedagem inclusa. Solicite uma proposta.`
 
   return {
-    title: `Site para Advogados em ${cidade.nome} — ${cidade.estado}`,
+    title: `Site para Advogados em ${cidade.nome} , ${cidade.estado}`,
     description: descBase,
     alternates: { canonical: `/site-para-advogados/${slug}` },
     openGraph: {
@@ -108,7 +108,7 @@ function getFaqCidade(cidadeNome: string, estado: string, local: typeof cidadeDa
   return [
     {
       pergunta: `Vocês atendem advogados em ${cidadeNome} mesmo sendo de Brasília?`,
-      resposta: `Sim. Nosso processo é 100% digital — do briefing à entrega, tudo acontece online. Atendemos escritórios em todo o Brasil com a mesma qualidade. Se preferir, podemos fazer reuniões por videochamada para alinhar cada detalhe do projeto.`,
+      resposta: `Sim. Nosso processo é 100% digital , do briefing à entrega, tudo acontece online. Atendemos escritórios em todo o Brasil com a mesma qualidade. Se preferir, podemos fazer reuniões por videochamada para alinhar cada detalhe do projeto.`,
     },
     {
       pergunta: `O site vai me posicionar bem nas buscas em ${cidadeNome}?`,
@@ -116,11 +116,11 @@ function getFaqCidade(cidadeNome: string, estado: string, local: typeof cidadeDa
     },
     {
       pergunta: `Qual a vantagem de ter um site próprio em vez de usar só redes sociais em ${cidadeNome}?`,
-      resposta: `Redes sociais são importantes, mas você não controla o algoritmo nem a plataforma. Um site é seu — aparece nas buscas do Google quando alguém procura "advogado em ${cidadeNome}", transmite credibilidade e centraliza todas as informações do escritório em um lugar que você domina.`,
+      resposta: `Redes sociais são importantes, mas você não controla o algoritmo nem a plataforma. Um site é seu , aparece nas buscas do Google quando alguém procura "advogado em ${cidadeNome}", transmite credibilidade e centraliza todas as informações do escritório em um lugar que você domina.`,
     },
     {
       pergunta: `O conteúdo segue as diretrizes da ${oab}?`,
-      resposta: `Sim. Conhecemos as regras do Provimento 205/2021 sobre publicidade na advocacia. Todo texto é produzido para informar — sem linguagem mercantilista, sem promessas de resultado e sem captação ativa de clientes.`,
+      resposta: `Sim. Conhecemos as regras do Provimento 205/2021 sobre publicidade na advocacia. Todo texto é produzido para informar , sem linguagem mercantilista, sem promessas de resultado e sem captação ativa de clientes.`,
     },
   ]
 }

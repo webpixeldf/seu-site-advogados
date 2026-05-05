@@ -19,7 +19,7 @@ registerArticle('cartao-digital-para-advogado', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A vantagem principal é a praticidade. Em vez de carregar cartões impressos e torcer para que a outra pessoa não os perca, você compartilha um link ou um QR code que leva diretamente às suas informações. O destinatário pode salvar seu contato na agenda com um toque, acessar seu site, ver seu perfil no LinkedIn ou enviar um e-mail — tudo a partir do cartão digital.
+      A vantagem principal é a praticidade. Em vez de carregar cartões impressos e torcer para que a outra pessoa não os perca, você compartilha um link ou um QR code que leva diretamente às suas informações. O destinatário pode salvar seu contato na agenda com um toque, acessar seu site, ver seu perfil no LinkedIn ou enviar um e-mail , tudo a partir do cartão digital.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -27,13 +27,13 @@ registerArticle('cartao-digital-para-advogado', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O cartão digital de um advogado deve conter informações essenciais organizadas de forma clara. Nem tudo precisa estar lá — o objetivo é facilitar o contato, não sobrecarregar com dados.
+      O cartão digital de um advogado deve conter informações essenciais organizadas de forma clara. Nem tudo precisa estar lá , o objetivo é facilitar o contato, não sobrecarregar com dados.
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Nome completo:</strong> como você é conhecido profissionalmente. Se usa o nome social ou uma versão abreviada, use essa versão.</li>
       <li><strong className="text-[#162a2a]">Número da OAB:</strong> obrigatório para advogados. Inclua a seccional (exemplo: OAB/SP 123.456). Isso reforça a credibilidade e permite que o destinatário verifique sua inscrição.</li>
-      <li><strong className="text-[#162a2a]">Área de atuação:</strong> uma ou duas áreas principais. Evite listar cinco ou seis especialidades — isso dilui a mensagem em vez de fortalecê-la.</li>
+      <li><strong className="text-[#162a2a]">Área de atuação:</strong> uma ou duas áreas principais. Evite listar cinco ou seis especialidades , isso dilui a mensagem em vez de fortalecê-la.</li>
       <li><strong className="text-[#162a2a]">Telefone e WhatsApp:</strong> se possível, use um número profissional separado do pessoal. Indique se o número aceita mensagens por WhatsApp.</li>
       <li><strong className="text-[#162a2a]">E-mail profissional:</strong> preferencialmente com domínio próprio (nome@seuescritorio.com.br). E-mails em provedores gratuitos como Gmail e Hotmail são funcionais, mas transmitem menos profissionalismo.</li>
       <li><strong className="text-[#162a2a]">Site do escritório:</strong> se você tem uma <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">página profissional para advogado</a>, inclua o link. É o canal onde o potencial cliente pode conhecer melhor seu trabalho.</li>
@@ -58,7 +58,7 @@ registerArticle('cartao-digital-para-advogado', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O Canva é a ferramenta mais acessível para quem quer criar um cartão digital no formato de imagem. Ele oferece centenas de templates de cartões de visita que podem ser personalizados com suas cores, fontes e informações. O resultado é um arquivo PNG ou PDF que pode ser compartilhado por WhatsApp ou e-mail. A limitação é que o cartão em formato de imagem não permite interação — o destinatário não pode clicar em um link ou salvar o contato automaticamente.
+      O Canva é a ferramenta mais acessível para quem quer criar um cartão digital no formato de imagem. Ele oferece centenas de templates de cartões de visita que podem ser personalizados com suas cores, fontes e informações. O resultado é um arquivo PNG ou PDF que pode ser compartilhado por WhatsApp ou e-mail. A limitação é que o cartão em formato de imagem não permite interação , o destinatário não pode clicar em um link ou salvar o contato automaticamente.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -82,7 +82,7 @@ registerArticle('cartao-digital-para-advogado', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      A forma mais simples de criar um cartão digital é configurar seu próprio contato no celular com todas as informações profissionais e compartilhá-lo como vCard (.vcf). Esse método não exige nenhuma ferramenta externa e funciona em qualquer smartphone. A desvantagem é a falta de personalização visual — o contato chega sem logotipo ou identidade de marca.
+      A forma mais simples de criar um cartão digital é configurar seu próprio contato no celular com todas as informações profissionais e compartilhá-lo como vCard (.vcf). Esse método não exige nenhuma ferramenta externa e funciona em qualquer smartphone. A desvantagem é a falta de personalização visual , o contato chega sem logotipo ou identidade de marca.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -126,7 +126,7 @@ registerArticle('cartao-digital-para-advogado', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O número de inscrição na OAB deve estar presente. Evite incluir expressões que configurem captação indevida de clientela, como "consulta gratuita" ou "atendimento 24 horas". Títulos acadêmicos podem ser mencionados, desde que sejam verdadeiros e relevantes. Evite usar o cartão digital para disparo em massa — enviar seu cartão para centenas de contatos sem contexto pode ser interpretado como publicidade irregular.
+      O número de inscrição na OAB deve estar presente. Evite incluir expressões que configurem captação indevida de clientela, como "consulta gratuita" ou "atendimento 24 horas". Títulos acadêmicos podem ser mencionados, desde que sejam verdadeiros e relevantes. Evite usar o cartão digital para disparo em massa , enviar seu cartão para centenas de contatos sem contexto pode ser interpretado como publicidade irregular.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -146,7 +146,7 @@ registerArticle('cartao-digital-para-advogado', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O cartão digital não substitui o cartão impresso — ele o complementa. Na prática, o advogado que tem ambos os formatos está preparado para qualquer situação: o encontro presencial que pede um cartão físico e a conversa por WhatsApp que pede praticidade.
+      O cartão digital não substitui o cartão impresso , ele o complementa. Na prática, o advogado que tem ambos os formatos está preparado para qualquer situação: o encontro presencial que pede um cartão físico e a conversa por WhatsApp que pede praticidade.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

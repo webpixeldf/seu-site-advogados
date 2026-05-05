@@ -59,7 +59,7 @@ registerHtmlArticle('como-advogados-podem-usar-o-whatsapp-business-para-captar-c
 
 <p>Conheço uma advogada trabalhista de Santos que fechou três contratos só com o catálogo do WhatsApp. Ela colocou os serviços com preços fixos: "Consulta de 30 min - R$ 200", "Análise de documentos trabalhistas - R$ 350". O cliente via, perguntava um detalhe e fechava. Sem burocracia. Outro colega em Brasília usa as respostas rápidas pra explicar prazos processuais. Os clientes adoram porque sentem que ele é organizado.</p>
 
-<blockquote>"O WhatsApp Business me ajudou a reduzir o tempo de resposta de 4 horas pra 15 minutos. E isso fez minha taxa de conversão de leads disparar." — Dr. Marcos, advogado cível em Ribeirão Preto.</blockquote>
+<blockquote>"O WhatsApp Business me ajudou a reduzir o tempo de resposta de 4 horas pra 15 minutos. E isso fez minha taxa de conversão de leads disparar." , Dr. Marcos, advogado cível em Ribeirão Preto.</blockquote>
 
 <h2>O que evitar: erros comuns que afastam clientes</h2>
 

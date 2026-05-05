@@ -13,7 +13,7 @@ registerArticle('e-mail-para-advogado', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Além da imagem, existem vantagens práticas. E-mails com domínio próprio têm menor chance de cair em spam. Permitem criar endereços diferentes para cada função — contato@, financeiro@, drajuliana@ — organizando a comunicação do escritório. E caso um advogado saia da equipe, o e-mail permanece vinculado ao escritório, não à pessoa.
+      Além da imagem, existem vantagens práticas. E-mails com domínio próprio têm menor chance de cair em spam. Permitem criar endereços diferentes para cada função , contato@, financeiro@, drajuliana@ , organizando a comunicação do escritório. E caso um advogado saia da equipe, o e-mail permanece vinculado ao escritório, não à pessoa.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Passo a passo: como configurar seu e-mail profissional</h2>
@@ -54,10 +54,10 @@ registerArticle('e-mail-para-advogado', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">nome@escritorio.com.br</strong> — para cada advogado individualmente.</li>
-      <li><strong className="text-[#162a2a]">contato@escritorio.com.br</strong> — para atendimento geral.</li>
-      <li><strong className="text-[#162a2a]">financeiro@escritorio.com.br</strong> — para cobranças e pagamentos.</li>
-      <li><strong className="text-[#162a2a]">drajuliana@escritorio.com.br</strong> — formato mais pessoal, comum em escritórios menores.</li>
+      <li><strong className="text-[#162a2a]">nome@escritorio.com.br</strong> , para cada advogado individualmente.</li>
+      <li><strong className="text-[#162a2a]">contato@escritorio.com.br</strong> , para atendimento geral.</li>
+      <li><strong className="text-[#162a2a]">financeiro@escritorio.com.br</strong> , para cobranças e pagamentos.</li>
+      <li><strong className="text-[#162a2a]">drajuliana@escritorio.com.br</strong> , formato mais pessoal, comum em escritórios menores.</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Assinatura de e-mail profissional</h2>
@@ -72,7 +72,7 @@ registerArticle('e-mail-para-advogado', () => (
 
     <p className="text-gray-700 leading-relaxed">
       <strong className="text-[#162a2a]">Juliana Mendes</strong><br />
-      Advogada — OAB/SP 123.456<br />
+      Advogada , OAB/SP 123.456<br />
       Mendes Advocacia<br />
       (11) 99999-0000 | contato@mendesadvocacia.com.br<br />
       www.mendesadvocacia.com.br
@@ -93,7 +93,7 @@ registerArticle('e-mail-para-advogado', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Organização da caixa de entrada</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Use marcadores ou pastas para separar e-mails por cliente, processo ou assunto. No Gmail, os marcadores com cores funcionam bem. No Outlook, as pastas e categorias cumprem a mesma função. Outra técnica útil é a "caixa de entrada zero": processar cada e-mail que chega — responder, delegar, arquivar ou agendar — em vez de deixar acumular.
+      Use marcadores ou pastas para separar e-mails por cliente, processo ou assunto. No Gmail, os marcadores com cores funcionam bem. No Outlook, as pastas e categorias cumprem a mesma função. Outra técnica útil é a "caixa de entrada zero": processar cada e-mail que chega , responder, delegar, arquivar ou agendar , em vez de deixar acumular.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Confidencialidade e sigilo</h3>
@@ -108,14 +108,14 @@ registerArticle('e-mail-para-advogado', () => (
       <li><strong className="text-[#162a2a]">Usar e-mail pessoal para assuntos profissionais:</strong> mistura vida pessoal e trabalho, dificulta a organização e passa impressão de amadorismo.</li>
       <li><strong className="text-[#162a2a]">Não configurar SPF e DKIM:</strong> sem esses registros, seus e-mails têm mais chance de cair no spam do destinatário.</li>
       <li><strong className="text-[#162a2a]">Enviar anexos pesados sem compactar:</strong> PDFs de processos podem ser enormes. Use ferramentas de compressão ou compartilhe via Google Drive ou OneDrive.</li>
-      <li><strong className="text-[#162a2a]">Escrever assuntos vagos:</strong> "Processo" ou "Urgente" não ajudam. Prefira "Petição inicial — Processo nº 1234 — Silva vs. Souza".</li>
+      <li><strong className="text-[#162a2a]">Escrever assuntos vagos:</strong> "Processo" ou "Urgente" não ajudam. Prefira "Petição inicial , Processo nº 1234 , Silva vs. Souza".</li>
       <li><strong className="text-[#162a2a]">Responder a todos desnecessariamente:</strong> avalie se todos os destinatários realmente precisam receber sua resposta.</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Segurança do e-mail profissional</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Advogados lidam com dados sensíveis diariamente. Proteger o e-mail é obrigatório, não opcional. Ative a autenticação em dois fatores (2FA) em todas as contas — tanto no Google Workspace quanto no Microsoft 365, essa opção está disponível nas configurações de segurança. Use senhas fortes e únicas, preferencialmente gerenciadas por um gerenciador de senhas como Bitwarden ou 1Password.
+      Advogados lidam com dados sensíveis diariamente. Proteger o e-mail é obrigatório, não opcional. Ative a autenticação em dois fatores (2FA) em todas as contas , tanto no Google Workspace quanto no Microsoft 365, essa opção está disponível nas configurações de segurança. Use senhas fortes e únicas, preferencialmente gerenciadas por um gerenciador de senhas como Bitwarden ou 1Password.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -129,7 +129,7 @@ registerArticle('e-mail-para-advogado', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O e-mail profissional não é luxo — é infraestrutura básica. Assim como um escritório precisa de um endereço físico confiável, precisa de um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado com SEO</a> e um endereço digital que transmitam credibilidade. A configuração é rápida, o custo é acessível e o impacto na imagem do escritório é imediato.
+      O e-mail profissional não é luxo , é infraestrutura básica. Assim como um escritório precisa de um endereço físico confiável, precisa de um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado com SEO</a> e um endereço digital que transmitam credibilidade. A configuração é rápida, o custo é acessível e o impacto na imagem do escritório é imediato.
     </p>
   </>
 ))

@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('google-meu-negocio-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Quando alguém pesquisa "advogado trabalhista perto de mim" no Google, os primeiros resultados que aparecem não são sites — são fichas de escritórios no Google Maps, com endereço, telefone, avaliações e horário de funcionamento. Essa ficha é o Google Meu Negócio (hoje chamado oficialmente de Perfil da Empresa no Google). Se o seu escritório não está lá, você está invisível para uma parcela significativa dos potenciais clientes da sua região.
+      Quando alguém pesquisa "advogado trabalhista perto de mim" no Google, os primeiros resultados que aparecem não são sites , são fichas de escritórios no Google Maps, com endereço, telefone, avaliações e horário de funcionamento. Essa ficha é o Google Meu Negócio (hoje chamado oficialmente de Perfil da Empresa no Google). Se o seu escritório não está lá, você está invisível para uma parcela significativa dos potenciais clientes da sua região.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -15,7 +15,7 @@ registerArticle('google-meu-negocio-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A ficha exibe informações como nome do escritório, endereço, telefone, site, horário de atendimento, fotos, avaliações de clientes e até publicações feitas pelo próprio escritório. É uma das formas mais eficientes de aparecer nas buscas locais — aquelas em que o Google prioriza resultados próximos à localização de quem pesquisa.
+      A ficha exibe informações como nome do escritório, endereço, telefone, site, horário de atendimento, fotos, avaliações de clientes e até publicações feitas pelo próprio escritório. É uma das formas mais eficientes de aparecer nas buscas locais , aquelas em que o Google prioriza resultados próximos à localização de quem pesquisa.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -39,7 +39,7 @@ registerArticle('google-meu-negocio-para-advogados', () => (
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
-      Um perfil completo, bem otimizado e com boas avaliações tem chances reais de aparecer no chamado "pacote local" — os três resultados em destaque que aparecem antes dos resultados orgânicos. Estar nessa posição significa receber cliques e ligações sem gastar nada com anúncios.
+      Um perfil completo, bem otimizado e com boas avaliações tem chances reais de aparecer no chamado "pacote local" , os três resultados em destaque que aparecem antes dos resultados orgânicos. Estar nessa posição significa receber cliques e ligações sem gastar nada com anúncios.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -51,7 +51,7 @@ registerArticle('google-meu-negocio-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Entre em business.google.com com a conta Google que será usada para gerenciar o perfil. Se o escritório já tem uma conta Google (Gmail), use essa mesma conta. Se não, crie uma conta específica para o escritório — evite usar contas pessoais de sócios.
+      Entre em business.google.com com a conta Google que será usada para gerenciar o perfil. Se o escritório já tem uma conta Google (Gmail), use essa mesma conta. Se não, crie uma conta específica para o escritório , evite usar contas pessoais de sócios.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -59,7 +59,7 @@ registerArticle('google-meu-negocio-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Use o nome real do escritório, exatamente como está registrado na OAB. Não adicione palavras extras como "o melhor" ou "especialista em" — isso viola as diretrizes do Google e pode resultar na suspensão do perfil. Se o escritório se chama "Silva &amp; Associados Advocacia", cadastre exatamente assim.
+      Use o nome real do escritório, exatamente como está registrado na OAB. Não adicione palavras extras como "o melhor" ou "especialista em" , isso viola as diretrizes do Google e pode resultar na suspensão do perfil. Se o escritório se chama "Silva &amp; Associados Advocacia", cadastre exatamente assim.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -90,7 +90,7 @@ registerArticle('google-meu-negocio-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Informe o endereço completo do escritório. Se você atende em um coworking ou escritório virtual, use o endereço onde recebe clientes presencialmente. Se o atendimento é exclusivamente online, o Google permite criar um perfil sem endereço visível — nesse caso, você define a área de atendimento (por cidade ou região).
+      Informe o endereço completo do escritório. Se você atende em um coworking ou escritório virtual, use o endereço onde recebe clientes presencialmente. Se o atendimento é exclusivamente online, o Google permite criar um perfil sem endereço visível , nesse caso, você define a área de atendimento (por cidade ou região).
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -123,7 +123,7 @@ registerArticle('google-meu-negocio-para-advogados', () => (
         <strong className="text-[#162a2a]">Descrição:</strong> escreva um texto de até 750 caracteres descrevendo o escritório, áreas de atuação e diferenciais. Use palavras-chave naturais como "advogado trabalhista em Curitiba" ou "assessoria jurídica para empresas em Campinas".
       </li>
       <li>
-        <strong className="text-[#162a2a]">Fotos:</strong> adicione fotos reais do escritório — fachada, recepção, salas de reunião, equipe. Perfis com fotos recebem 42% mais solicitações de rota no Maps e 35% mais cliques no site, segundo dados do próprio Google.
+        <strong className="text-[#162a2a]">Fotos:</strong> adicione fotos reais do escritório , fachada, recepção, salas de reunião, equipe. Perfis com fotos recebem 42% mais solicitações de rota no Maps e 35% mais cliques no site, segundo dados do próprio Google.
       </li>
     </ul>
 
@@ -136,7 +136,7 @@ registerArticle('google-meu-negocio-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O nome, endereço e telefone (o chamado NAP — Name, Address, Phone) devem ser idênticos em todos os lugares: <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogados e escritórios</a>, redes sociais, diretórios jurídicos e Google Meu Negócio. Se no site o endereço está como "Rua XV de Novembro, 100" e no GMB como "R. XV de Novembro, 100, sala 5", o Google interpreta como inconsistência e pode prejudicar o ranqueamento.
+      O nome, endereço e telefone (o chamado NAP , Name, Address, Phone) devem ser idênticos em todos os lugares: <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogados e escritórios</a>, redes sociais, diretórios jurídicos e Google Meu Negócio. Se no site o endereço está como "Rua XV de Novembro, 100" e no GMB como "R. XV de Novembro, 100, sala 5", o Google interpreta como inconsistência e pode prejudicar o ranqueamento.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -144,7 +144,7 @@ registerArticle('google-meu-negocio-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O Google Meu Negócio permite publicar posts — textos curtos com imagem, semelhantes a posts de redes sociais. Use esse recurso para compartilhar artigos do blog, informar sobre mudanças na legislação ou comunicar novidades do escritório. Perfis ativos recebem mais destaque. Uma publicação por semana já é suficiente para manter o perfil relevante.
+      O Google Meu Negócio permite publicar posts , textos curtos com imagem, semelhantes a posts de redes sociais. Use esse recurso para compartilhar artigos do blog, informar sobre mudanças na legislação ou comunicar novidades do escritório. Perfis ativos recebem mais destaque. Uma publicação por semana já é suficiente para manter o perfil relevante.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -152,7 +152,7 @@ registerArticle('google-meu-negocio-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      A seção de perguntas e respostas do perfil permite que qualquer pessoa faça perguntas sobre o escritório. Monitore essa seção e responda rapidamente. Melhor ainda: antecipe-se e publique perguntas frequentes com respostas completas. Por exemplo: "Vocês atendem online?" — "Sim, realizamos atendimento por videoconferência para todas as áreas."
+      A seção de perguntas e respostas do perfil permite que qualquer pessoa faça perguntas sobre o escritório. Monitore essa seção e responda rapidamente. Melhor ainda: antecipe-se e publique perguntas frequentes com respostas completas. Por exemplo: "Vocês atendem online?" , "Sim, realizamos atendimento por videoconferência para todas as áreas."
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">

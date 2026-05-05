@@ -17,7 +17,7 @@ registerArticle('melhores-perguntas-para-fazer-a-um-advogado', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Há quanto tempo atua nessa área?</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Tempo de atuação não é garantia de qualidade, mas é um indicador relevante. Um advogado com dez anos de experiência em direito imobiliário provavelmente já enfrentou situações semelhantes à sua e conhece os caminhos do processo. Isso não significa que advogados mais jovens sejam menos competentes — mas a experiência específica conta.
+      Tempo de atuação não é garantia de qualidade, mas é um indicador relevante. Um advogado com dez anos de experiência em direito imobiliário provavelmente já enfrentou situações semelhantes à sua e conhece os caminhos do processo. Isso não significa que advogados mais jovens sejam menos competentes , mas a experiência específica conta.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Já atuou em casos parecidos com o meu?</h3>
@@ -31,7 +31,7 @@ registerArticle('melhores-perguntas-para-fazer-a-um-advogado', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Quais são as chances realistas do meu caso?</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Nenhum advogado ético garante resultados. Mas um bom profissional consegue avaliar as probabilidades com base na jurisprudência e nas particularidades do caso. Desconfie de quem promete vitória certa. Valorize quem explica os cenários possíveis — melhor resultado, pior resultado e resultado mais provável — com honestidade.
+      Nenhum advogado ético garante resultados. Mas um bom profissional consegue avaliar as probabilidades com base na jurisprudência e nas particularidades do caso. Desconfie de quem promete vitória certa. Valorize quem explica os cenários possíveis , melhor resultado, pior resultado e resultado mais provável , com honestidade.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Qual seria a estratégia para o meu caso?</h3>
@@ -57,7 +57,7 @@ registerArticle('melhores-perguntas-para-fazer-a-um-advogado', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Como são cobrados os honorários?</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Existem diferentes modelos de cobrança: valor fixo por serviço, honorários por hora trabalhada, percentual sobre o êxito (ad exitum) ou uma combinação. Cada modelo tem implicações diferentes para o seu bolso. Pergunte qual é o modelo e peça que seja detalhado por escrito. Honorários devem ser formalizados em contrato — desconfie de quem trabalha sem contrato escrito.
+      Existem diferentes modelos de cobrança: valor fixo por serviço, honorários por hora trabalhada, percentual sobre o êxito (ad exitum) ou uma combinação. Cada modelo tem implicações diferentes para o seu bolso. Pergunte qual é o modelo e peça que seja detalhado por escrito. Honorários devem ser formalizados em contrato , desconfie de quem trabalha sem contrato escrito.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Existem custos adicionais além dos honorários?</h3>
@@ -69,7 +69,7 @@ registerArticle('melhores-perguntas-para-fazer-a-um-advogado', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Qual é a forma de pagamento?</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Muitos escritórios oferecem parcelamento, pagamento por etapa ou combinação de entrada mais percentual sobre o resultado. Não hesite em perguntar — negociar condições de pagamento é normal e esperado. O importante é que tudo fique documentado no contrato de honorários.
+      Muitos escritórios oferecem parcelamento, pagamento por etapa ou combinação de entrada mais percentual sobre o resultado. Não hesite em perguntar , negociar condições de pagamento é normal e esperado. O importante é que tudo fique documentado no contrato de honorários.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Perguntas sobre comunicação e acompanhamento</h2>

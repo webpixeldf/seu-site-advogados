@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('e-mail-marketing-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O e-mail marketing continua sendo uma das ferramentas mais eficientes para manter relacionamentos profissionais — e na advocacia não é diferente. Enquanto redes sociais dependem de algoritmos imprevisíveis, o e-mail chega diretamente na caixa de entrada do seu contato. O desafio, porém, é usar essa ferramenta respeitando as regras do Código de Ética da OAB e o Provimento 205/2021.
+      O e-mail marketing continua sendo uma das ferramentas mais eficientes para manter relacionamentos profissionais , e na advocacia não é diferente. Enquanto redes sociais dependem de algoritmos imprevisíveis, o e-mail chega diretamente na caixa de entrada do seu contato. O desafio, porém, é usar essa ferramenta respeitando as regras do Código de Ética da OAB e o Provimento 205/2021.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Por que advogados devem investir em e-mail marketing</h2>
@@ -13,7 +13,7 @@ registerArticle('e-mail-marketing-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Na prática, um escritório que envia conteúdo relevante por e-mail se mantém presente na memória do destinatário. Quando essa pessoa precisar de um advogado — ou quando alguém pedir uma indicação — o nome do escritório aparece naturalmente.
+      Na prática, um escritório que envia conteúdo relevante por e-mail se mantém presente na memória do destinatário. Quando essa pessoa precisar de um advogado , ou quando alguém pedir uma indicação , o nome do escritório aparece naturalmente.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que a OAB permite e o que é proibido</h2>
@@ -45,7 +45,7 @@ registerArticle('e-mail-marketing-para-advogados', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Como construir uma lista de contatos de forma ética</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A base de qualquer estratégia de e-mail marketing é a lista de contatos — e ela precisa ser construída com consentimento. Isso significa que cada pessoa na sua lista optou voluntariamente por receber seus e-mails.
+      A base de qualquer estratégia de e-mail marketing é a lista de contatos , e ela precisa ser construída com consentimento. Isso significa que cada pessoa na sua lista optou voluntariamente por receber seus e-mails.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

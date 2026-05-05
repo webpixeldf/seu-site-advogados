@@ -73,12 +73,12 @@ registerArticle('advogado-pode-anunciar-no-google', () => (
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Uso de depoimentos de clientes</h3>
     <p className="text-gray-700 leading-relaxed">
-      Publicar depoimentos de clientes satisfeitos como forma de propaganda é proibido. Isso inclui prints de mensagens de agradecimento, vídeos de depoimentos e avaliações utilizadas em material publicitário. As avaliações no Google Meu Negócio, feitas espontaneamente pelos clientes, são uma área cinzenta — o advogado não pode solicitá-las de forma que configure mercantilização, mas avaliações genuínas e espontâneas são aceitas.
+      Publicar depoimentos de clientes satisfeitos como forma de propaganda é proibido. Isso inclui prints de mensagens de agradecimento, vídeos de depoimentos e avaliações utilizadas em material publicitário. As avaliações no Google Meu Negócio, feitas espontaneamente pelos clientes, são uma área cinzenta , o advogado não pode solicitá-las de forma que configure mercantilização, mas avaliações genuínas e espontâneas são aceitas.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Angariação em momento de vulnerabilidade</h3>
     <p className="text-gray-700 leading-relaxed">
-      Direcionar anúncios especificamente para pessoas em situação de vulnerabilidade — como vítimas de acidentes recentes ou familiares de falecidos — com objetivo de angariação é considerado antiético. Embora a segmentação do Google Ads não permita esse nível de direcionamento individual, é importante que o tom dos anúncios não explore situações de fragilidade.
+      Direcionar anúncios especificamente para pessoas em situação de vulnerabilidade , como vítimas de acidentes recentes ou familiares de falecidos , com objetivo de angariação é considerado antiético. Embora a segmentação do Google Ads não permita esse nível de direcionamento individual, é importante que o tom dos anúncios não explore situações de fragilidade.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Exemplos práticos: o que pode e o que não pode</h2>
@@ -88,7 +88,7 @@ registerArticle('advogado-pode-anunciar-no-google', () => (
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Permitido</h3>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li>"Escritório Silva Advocacia — Especialistas em Direito Trabalhista em Curitiba. OAB/PR 12345. Conheça nossas áreas de atuação."</li>
+      <li>"Escritório Silva Advocacia , Especialistas em Direito Trabalhista em Curitiba. OAB/PR 12345. Conheça nossas áreas de atuação."</li>
       <li>"Dúvidas sobre seus direitos trabalhistas? Saiba como funciona o processo de rescisão indireta. Artigo completo no nosso blog."</li>
       <li>"Advocacia empresarial preventiva em Belo Horizonte. Assessoria jurídica para pequenas e médias empresas. Agende uma reunião."</li>
     </ul>
@@ -106,12 +106,12 @@ registerArticle('advogado-pode-anunciar-no-google', () => (
       As punições por infrações éticas na publicidade vão desde advertência até suspensão do exercício profissional. Para minimizar riscos, adote as seguintes práticas:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Revise cada anúncio antes de publicar</strong> — pergunte-se se o texto tem caráter informativo ou se está vendendo um serviço como produto</li>
-      <li><strong className="text-[#162a2a]">Inclua sempre a identificação profissional</strong> — nome do advogado ou escritório e número da OAB</li>
-      <li><strong className="text-[#162a2a]">Evite superlativos</strong> — palavras como "melhor", "maior", "único" podem configurar publicidade comparativa</li>
-      <li><strong className="text-[#162a2a]">Documente suas campanhas</strong> — mantenha registros dos anúncios publicados para eventual defesa junto à OAB</li>
-      <li><strong className="text-[#162a2a]">Consulte a comissão de ética da sua seccional</strong> — em caso de dúvida, é possível fazer consulta prévia sobre a conformidade de uma campanha específica</li>
-      <li><strong className="text-[#162a2a]">Acompanhe atualizações normativas</strong> — as regras de publicidade na advocacia continuam evoluindo e é importante estar atualizado</li>
+      <li><strong className="text-[#162a2a]">Revise cada anúncio antes de publicar</strong> , pergunte-se se o texto tem caráter informativo ou se está vendendo um serviço como produto</li>
+      <li><strong className="text-[#162a2a]">Inclua sempre a identificação profissional</strong> , nome do advogado ou escritório e número da OAB</li>
+      <li><strong className="text-[#162a2a]">Evite superlativos</strong> , palavras como "melhor", "maior", "único" podem configurar publicidade comparativa</li>
+      <li><strong className="text-[#162a2a]">Documente suas campanhas</strong> , mantenha registros dos anúncios publicados para eventual defesa junto à OAB</li>
+      <li><strong className="text-[#162a2a]">Consulte a comissão de ética da sua seccional</strong> , em caso de dúvida, é possível fazer consulta prévia sobre a conformidade de uma campanha específica</li>
+      <li><strong className="text-[#162a2a]">Acompanhe atualizações normativas</strong> , as regras de publicidade na advocacia continuam evoluindo e é importante estar atualizado</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O cenário atual e a tendência futura</h2>

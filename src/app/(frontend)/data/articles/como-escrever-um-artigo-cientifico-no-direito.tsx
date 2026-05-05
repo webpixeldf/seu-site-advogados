@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('como-escrever-um-artigo-cientifico-no-direito', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Publicar artigos científicos é uma das formas mais sólidas de construir autoridade na área jurídica. Seja para progressão acadêmica, concursos ou simplesmente para contribuir com o debate jurídico, dominar a escrita acadêmica é uma habilidade que todo profissional do direito pode — e deveria — desenvolver. Este guia cobre todo o processo, da escolha do tema à publicação.
+      Publicar artigos científicos é uma das formas mais sólidas de construir autoridade na área jurídica. Seja para progressão acadêmica, concursos ou simplesmente para contribuir com o debate jurídico, dominar a escrita acadêmica é uma habilidade que todo profissional do direito pode , e deveria , desenvolver. Este guia cobre todo o processo, da escolha do tema à publicação.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Como escolher um bom tema</h2>
@@ -64,7 +64,7 @@ registerArticle('como-escrever-um-artigo-cientifico-no-direito', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Clareza acima de tudo</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O juridiquês excessivo não torna o texto mais acadêmico — torna-o mais difícil de ler. Use linguagem precisa, mas acessível. Se uma frase pode ser entendida de duas formas, reescreva. Se um parágrafo tem mais de dez linhas, divida. O objetivo é que o leitor compreenda seu argumento na primeira leitura.
+      O juridiquês excessivo não torna o texto mais acadêmico , torna-o mais difícil de ler. Use linguagem precisa, mas acessível. Se uma frase pode ser entendida de duas formas, reescreva. Se um parágrafo tem mais de dez linhas, divida. O objetivo é que o leitor compreenda seu argumento na primeira leitura.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Argumentação estruturada</h3>
@@ -76,7 +76,7 @@ registerArticle('como-escrever-um-artigo-cientifico-no-direito', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Citações e referências</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Cite corretamente todas as fontes. No Brasil, a maioria das revistas jurídicas usa o sistema autor-data da ABNT (NBR 10520 e NBR 6023). Algumas utilizam notas de rodapé. Verifique as normas da revista antes de formatar. Ferramentas como Zotero e Mendeley ajudam a gerenciar referências e gerar bibliografias automaticamente — vale o investimento de tempo para aprender a usá-las.
+      Cite corretamente todas as fontes. No Brasil, a maioria das revistas jurídicas usa o sistema autor-data da ABNT (NBR 10520 e NBR 6023). Algumas utilizam notas de rodapé. Verifique as normas da revista antes de formatar. Ferramentas como Zotero e Mendeley ajudam a gerenciar referências e gerar bibliografias automaticamente , vale o investimento de tempo para aprender a usá-las.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Revisão: o passo que muitos pulam</h2>

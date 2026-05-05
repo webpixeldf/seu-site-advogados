@@ -12,7 +12,7 @@ registerArticle('como-monetizar-um-canal-de-advocacia-no-youtube', () => (
       O primeiro modelo de monetização que vem à mente é o Google AdSense, que exibe anúncios antes, durante e depois dos vídeos. Para acessar esse recurso, o canal precisa atender aos requisitos do Programa de Parcerias do YouTube: no mínimo mil inscritos e quatro mil horas de exibição pública nos últimos doze meses, ou então mil inscritos e dez milhões de visualizações em Shorts nos últimos noventa dias.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      Atingir esses números em um canal jurídico costuma levar entre seis meses e dois anos, dependendo da consistência de publicação e da relevância dos temas abordados. Canais que tratam de assuntos com alta demanda de busca — como direito do consumidor, trabalhista e previdenciário — tendem a crescer mais rápido do que nichos muito específicos.
+      Atingir esses números em um canal jurídico costuma levar entre seis meses e dois anos, dependendo da consistência de publicação e da relevância dos temas abordados. Canais que tratam de assuntos com alta demanda de busca , como direito do consumidor, trabalhista e previdenciário , tendem a crescer mais rápido do que nichos muito específicos.
     </p>
     <p className="text-gray-700 leading-relaxed">
       Uma vez aprovado no programa, o valor recebido por mil visualizações (CPM) varia bastante. Canais jurídicos brasileiros costumam ter um CPM entre cinco e vinte reais, o que significa que um vídeo com dez mil visualizações pode render entre cinquenta e duzentos reais. Esse valor oscila conforme a época do ano, o perfil do público e os anunciantes ativos. Em resumo, o AdSense raramente será a principal fonte de receita de um canal jurídico, mas funciona como um complemento que cresce junto com a audiência.
@@ -41,7 +41,7 @@ registerArticle('como-monetizar-um-canal-de-advocacia-no-youtube', () => (
       Criar e vender cursos online é uma das formas mais escaláveis de monetizar o conhecimento jurídico construído por meio do canal. O YouTube funciona como uma vitrine: os vídeos gratuitos demonstram sua capacidade de ensinar, e o curso aprofunda o conteúdo de forma estruturada.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      O curso não precisa ser extenso. Um material de quatro a oito horas focado em um problema específico — como "Como Abrir um Escritório de Advocacia do Zero" ou "Prática Trabalhista para Advogados Iniciantes" — pode ter um preço entre duzentos e oitocentos reais e gerar vendas recorrentes enquanto o canal continuar atraindo novos espectadores. Plataformas como Hotmart, Kiwify e Eduzz facilitam a hospedagem e o processamento de pagamentos.
+      O curso não precisa ser extenso. Um material de quatro a oito horas focado em um problema específico , como "Como Abrir um Escritório de Advocacia do Zero" ou "Prática Trabalhista para Advogados Iniciantes" , pode ter um preço entre duzentos e oitocentos reais e gerar vendas recorrentes enquanto o canal continuar atraindo novos espectadores. Plataformas como Hotmart, Kiwify e Eduzz facilitam a hospedagem e o processamento de pagamentos.
     </p>
     <p className="text-gray-700 leading-relaxed">
       Outros infoprodutos que funcionam bem no nicho jurídico incluem modelos de petições, planilhas de controle processual, e-books sobre temas específicos e materiais de estudo para concursos ou exame da OAB. Esses produtos têm custo de produção baixo e margem de lucro alta.
@@ -76,7 +76,7 @@ registerArticle('como-monetizar-um-canal-de-advocacia-no-youtube', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Expectativas realistas sobre receita</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      É importante ser honesto sobre os números. A maioria dos canais jurídicos no YouTube não gera renda significativa com AdSense nos primeiros doze meses. O período inicial é de investimento — de tempo, energia e aprendizado. Os retornos financeiros mais expressivos costumam vir de forma indireta, por meio de clientes e oportunidades profissionais que surgem da visibilidade gerada pelo canal.
+      É importante ser honesto sobre os números. A maioria dos canais jurídicos no YouTube não gera renda significativa com AdSense nos primeiros doze meses. O período inicial é de investimento , de tempo, energia e aprendizado. Os retornos financeiros mais expressivos costumam vir de forma indireta, por meio de clientes e oportunidades profissionais que surgem da visibilidade gerada pelo canal.
     </p>
     <p className="text-gray-700 leading-relaxed">
       Uma linha do tempo realista para um advogado que publica um vídeo por semana com consistência:

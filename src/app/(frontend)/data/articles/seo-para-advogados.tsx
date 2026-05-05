@@ -15,7 +15,7 @@ registerArticle('seo-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      SEO significa Search Engine Optimization — otimização para mecanismos de busca. Em termos práticos, é tudo aquilo que você faz no seu site (e fora dele) para que o Google entenda do que o site trata e decida mostrá-lo quando alguém pesquisa um assunto relacionado.
+      SEO significa Search Engine Optimization , otimização para mecanismos de busca. Em termos práticos, é tudo aquilo que você faz no seu site (e fora dele) para que o Google entenda do que o site trata e decida mostrá-lo quando alguém pesquisa um assunto relacionado.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -23,7 +23,7 @@ registerArticle('seo-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Para advogados, o SEO tem um peso ainda maior do que para outros profissionais. A advocacia tem restrições de publicidade impostas pela OAB, o que limita o uso de anúncios pagos em muitas situações. O tráfego orgânico — aquele que vem das buscas naturais do Google — acaba sendo o canal mais sustentável e ético para atrair clientes pela internet.
+      Para advogados, o SEO tem um peso ainda maior do que para outros profissionais. A advocacia tem restrições de publicidade impostas pela OAB, o que limita o uso de anúncios pagos em muitas situações. O tráfego orgânico , aquele que vem das buscas naturais do Google , acaba sendo o canal mais sustentável e ético para atrair clientes pela internet.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -43,7 +43,7 @@ registerArticle('seo-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Exemplo ruim: &quot;Home — Escritório Silva &amp; Associados&quot;. Esse título não diz nada ao Google sobre o que o escritório faz. Exemplo melhor: &quot;Advogado Trabalhista em Curitiba — Escritório Silva &amp; Associados&quot;. Agora o Google sabe exatamente qual serviço você oferece e em que cidade.
+      Exemplo ruim: &quot;Home , Escritório Silva &amp; Associados&quot;. Esse título não diz nada ao Google sobre o que o escritório faz. Exemplo melhor: &quot;Advogado Trabalhista em Curitiba , Escritório Silva &amp; Associados&quot;. Agora o Google sabe exatamente qual serviço você oferece e em que cidade.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -67,7 +67,7 @@ registerArticle('seo-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Os headings são os títulos e subtítulos dentro da página. O H1 é o título principal — cada página deve ter apenas um. Os H2 são as seções principais e os H3, as subseções. Essa hierarquia ajuda o Google a entender a organização do conteúdo.
+      Os headings são os títulos e subtítulos dentro da página. O H1 é o título principal , cada página deve ter apenas um. Os H2 são as seções principais e os H3, as subseções. Essa hierarquia ajuda o Google a entender a organização do conteúdo.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -107,7 +107,7 @@ registerArticle('seo-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Os vilões mais comuns da velocidade em sites de advogados são: imagens gigantes (aquela foto do escritório com 5MB), excesso de plugins (se for WordPress), hospedagem barata e lenta, e código mal otimizado. Você pode testar a velocidade do seu site gratuitamente no PageSpeed Insights do Google — basta colar a URL e esperar o relatório.
+      Os vilões mais comuns da velocidade em sites de advogados são: imagens gigantes (aquela foto do escritório com 5MB), excesso de plugins (se for WordPress), hospedagem barata e lenta, e código mal otimizado. Você pode testar a velocidade do seu site gratuitamente no PageSpeed Insights do Google , basta colar a URL e esperar o relatório.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -115,7 +115,7 @@ registerArticle('seo-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Mais da metade dos acessos à internet no Brasil vem de dispositivos móveis. O Google adotou o &quot;mobile-first indexing&quot;, o que significa que ele avalia primeiro a versão mobile do seu site. Se o site não funciona bem no celular — texto pequeno demais, botões difíceis de clicar, layout quebrado — o ranking sofre.
+      Mais da metade dos acessos à internet no Brasil vem de dispositivos móveis. O Google adotou o &quot;mobile-first indexing&quot;, o que significa que ele avalia primeiro a versão mobile do seu site. Se o site não funciona bem no celular , texto pequeno demais, botões difíceis de clicar, layout quebrado , o ranking sofre.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -143,7 +143,7 @@ registerArticle('seo-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A maioria dos clientes de um escritório de advocacia vem da mesma cidade ou região. Quando alguém pesquisa &quot;advogado de família em Belo Horizonte&quot;, o Google mostra resultados locais — incluindo aquele mapa com três escritórios marcados. Estar nesse mapa pode significar dezenas de ligações por mês.
+      A maioria dos clientes de um escritório de advocacia vem da mesma cidade ou região. Quando alguém pesquisa &quot;advogado de família em Belo Horizonte&quot;, o Google mostra resultados locais , incluindo aquele mapa com três escritórios marcados. Estar nesse mapa pode significar dezenas de ligações por mês.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -155,7 +155,7 @@ registerArticle('seo-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Não crie o perfil e esqueça dele. O Google valoriza perfis ativos. Publique atualizações de vez em quando — pode ser um artigo que você escreveu, uma notícia relevante da sua área ou uma foto nova do escritório. Responda a todas as avaliações, inclusive as negativas (com profissionalismo, claro).
+      Não crie o perfil e esqueça dele. O Google valoriza perfis ativos. Publique atualizações de vez em quando , pode ser um artigo que você escreveu, uma notícia relevante da sua área ou uma foto nova do escritório. Responda a todas as avaliações, inclusive as negativas (com profissionalismo, claro).
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -163,7 +163,7 @@ registerArticle('seo-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      As avaliações no Google influenciam o ranking local. Escritórios com mais avaliações positivas tendem a aparecer acima dos concorrentes. Peça avaliações aos seus clientes satisfeitos — a maioria fará com prazer se você enviar o link direto. Não compre avaliações falsas. O Google detecta e pune esse tipo de prática.
+      As avaliações no Google influenciam o ranking local. Escritórios com mais avaliações positivas tendem a aparecer acima dos concorrentes. Peça avaliações aos seus clientes satisfeitos , a maioria fará com prazer se você enviar o link direto. Não compre avaliações falsas. O Google detecta e pune esse tipo de prática.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -171,7 +171,7 @@ registerArticle('seo-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      NAP é a sigla para Name, Address, Phone — nome, endereço e telefone. O Google cruza as informações do seu escritório em diferentes plataformas (Google Meu Negócio, OAB, JusBrasil, redes sociais, diretórios). Se o endereço está escrito de um jeito no Google e de outro no site, isso confunde o algoritmo e prejudica o ranking local.
+      NAP é a sigla para Name, Address, Phone , nome, endereço e telefone. O Google cruza as informações do seu escritório em diferentes plataformas (Google Meu Negócio, OAB, JusBrasil, redes sociais, diretórios). Se o endereço está escrito de um jeito no Google e de outro no site, isso confunde o algoritmo e prejudica o ranking local.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -199,10 +199,10 @@ registerArticle('seo-para-advogados', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Guias práticos:</strong> &quot;Como funciona o inventário judicial — passo a passo&quot;</li>
+      <li><strong className="text-[#162a2a]">Guias práticos:</strong> &quot;Como funciona o inventário judicial , passo a passo&quot;</li>
       <li><strong className="text-[#162a2a]">Perguntas e respostas:</strong> &quot;Posso ser preso por dívida? Entenda os casos&quot;</li>
       <li><strong className="text-[#162a2a]">Explicações de mudanças na lei:</strong> &quot;O que muda com a reforma tributária para pequenas empresas&quot;</li>
-      <li><strong className="text-[#162a2a]">Comparativos:</strong> &quot;Divórcio consensual vs. litigioso — diferenças, custos e prazos&quot;</li>
+      <li><strong className="text-[#162a2a]">Comparativos:</strong> &quot;Divórcio consensual vs. litigioso , diferenças, custos e prazos&quot;</li>
       <li><strong className="text-[#162a2a]">Casos práticos (sem identificar clientes):</strong> &quot;Como resolvemos um caso de assédio moral no trabalho&quot;</li>
     </ul>
 
@@ -211,7 +211,7 @@ registerArticle('seo-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Consistência importa mais do que volume. Dois artigos bem escritos por mês trazem mais resultado do que dez artigos rasos publicados de uma vez. O Google prefere sites que publicam conteúdo novo regularmente. Se você conseguir manter um ritmo de um artigo por semana, ótimo. Se só der para publicar a cada quinze dias, tudo bem — o importante é não parar.
+      Consistência importa mais do que volume. Dois artigos bem escritos por mês trazem mais resultado do que dez artigos rasos publicados de uma vez. O Google prefere sites que publicam conteúdo novo regularmente. Se você conseguir manter um ritmo de um artigo por semana, ótimo. Se só der para publicar a cada quinze dias, tudo bem , o importante é não parar.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -240,7 +240,7 @@ registerArticle('seo-para-advogados', () => (
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li>
-        <strong className="text-[#162a2a]">Site feito apenas com imagens:</strong> Alguns sites são praticamente um PDF online — todo o texto está dentro de imagens. O Google não lê texto em imagem. Se a sua página de &quot;Direito Tributário&quot; é uma imagem bonita com texto sobreposto, o Google não sabe do que ela trata.
+        <strong className="text-[#162a2a]">Site feito apenas com imagens:</strong> Alguns sites são praticamente um PDF online , todo o texto está dentro de imagens. O Google não lê texto em imagem. Se a sua página de &quot;Direito Tributário&quot; é uma imagem bonita com texto sobreposto, o Google não sabe do que ela trata.
       </li>
       <li>
         <strong className="text-[#162a2a]">Todas as áreas de atuação em uma única página:</strong> Se você atua em direito trabalhista, previdenciário e cível, cada área precisa de uma página separada com conteúdo específico. Uma página única com uma lista de áreas não ranqueia para nenhuma delas.
@@ -267,7 +267,7 @@ registerArticle('seo-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Essa é a pergunta que todo advogado faz — e a resposta que ninguém gosta de ouvir. SEO leva tempo. Para um site novo, espere entre 4 e 8 meses para começar a ver resultados consistentes nas buscas. Para um site que já existe e tem alguma autoridade, os resultados podem aparecer mais rápido, em 2 a 4 meses.
+      Essa é a pergunta que todo advogado faz , e a resposta que ninguém gosta de ouvir. SEO leva tempo. Para um site novo, espere entre 4 e 8 meses para começar a ver resultados consistentes nas buscas. Para um site que já existe e tem alguma autoridade, os resultados podem aparecer mais rápido, em 2 a 4 meses.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -297,14 +297,14 @@ registerArticle('seo-para-advogados', () => (
       <li>Cadastre seu escritório no Google Meu Negócio e preencha todas as informações</li>
       <li>Peça para 5 clientes satisfeitos deixarem uma avaliação no Google</li>
       <li>Teste seu site no celular e anote tudo que funciona mal</li>
-      <li>Faça uma lista das 10 perguntas que seus clientes mais fazem — cada uma pode virar um artigo</li>
+      <li>Faça uma lista das 10 perguntas que seus clientes mais fazem , cada uma pode virar um artigo</li>
       <li>Verifique se o seu site tem SSL (cadeado no navegador)</li>
       <li>Rode o PageSpeed Insights e veja a nota do seu site</li>
       <li>Confira se cada página tem um título diferente e descritivo</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
-      Para as questões técnicas — velocidade do site, sitemap, schema markup, otimização de imagens — você vai precisar de um desenvolvedor. Mas a estratégia de conteúdo, o Google Meu Negócio e a coleta de avaliações estão nas suas mãos.
+      Para as questões técnicas , velocidade do site, sitemap, schema markup, otimização de imagens , você vai precisar de um desenvolvedor. Mas a estratégia de conteúdo, o Google Meu Negócio e a coleta de avaliações estão nas suas mãos.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -316,7 +316,7 @@ registerArticle('seo-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A maioria dos escritórios de advocacia faz pouco ou nenhum trabalho de SEO. Isso significa que a barra para se destacar não é tão alta quanto parece. Um site bem otimizado, com conteúdo relevante e atualização regular, já supera a grande maioria dos concorrentes. O momento de começar é agora — cada mês que passa sem trabalhar o SEO é um mês a mais que você vai esperar pelos resultados.
+      A maioria dos escritórios de advocacia faz pouco ou nenhum trabalho de SEO. Isso significa que a barra para se destacar não é tão alta quanto parece. Um site bem otimizado, com conteúdo relevante e atualização regular, já supera a grande maioria dos concorrentes. O momento de começar é agora , cada mês que passa sem trabalhar o SEO é um mês a mais que você vai esperar pelos resultados.
     </p>
   </>
 ))

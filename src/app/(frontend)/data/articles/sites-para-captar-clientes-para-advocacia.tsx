@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('sites-para-captar-clientes-para-advocacia', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      A captação de clientes é um dos maiores desafios na advocacia. Com mais de um milhão de advogados ativos no Brasil, depender exclusivamente de indicações pessoais deixou de ser uma estratégia sustentável para a maioria dos profissionais. A internet oferece diversas plataformas e ferramentas que podem ampliar significativamente o alcance de um escritório — cada uma com características, vantagens e limitações distintas.
+      A captação de clientes é um dos maiores desafios na advocacia. Com mais de um milhão de advogados ativos no Brasil, depender exclusivamente de indicações pessoais deixou de ser uma estratégia sustentável para a maioria dos profissionais. A internet oferece diversas plataformas e ferramentas que podem ampliar significativamente o alcance de um escritório , cada uma com características, vantagens e limitações distintas.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -13,7 +13,7 @@ registerArticle('sites-para-captar-clientes-para-advocacia', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Google Meu Negócio: presença local obrigatória</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O Google Meu Negócio (atualmente chamado de Perfil da Empresa no Google) é, provavelmente, a ferramenta de captação mais subutilizada por advogados. Quando alguém pesquisa "advogado trabalhista em Curitiba" no Google, os primeiros resultados que aparecem são os perfis de empresas no mapa — antes mesmo dos resultados orgânicos dos sites.
+      O Google Meu Negócio (atualmente chamado de Perfil da Empresa no Google) é, provavelmente, a ferramenta de captação mais subutilizada por advogados. Quando alguém pesquisa "advogado trabalhista em Curitiba" no Google, os primeiros resultados que aparecem são os perfis de empresas no mapa , antes mesmo dos resultados orgânicos dos sites.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -49,7 +49,7 @@ registerArticle('sites-para-captar-clientes-para-advocacia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Para advogados empresariais, tributaristas, trabalhistas e de compliance, o LinkedIn é especialmente eficaz porque o público-alvo — empresários, gestores de RH, diretores financeiros — está ativo na plataforma. Publicar conteúdo relevante sobre mudanças na legislação, decisões judiciais importantes ou dicas práticas atrai exatamente as pessoas que podem se tornar clientes.
+      Para advogados empresariais, tributaristas, trabalhistas e de compliance, o LinkedIn é especialmente eficaz porque o público-alvo , empresários, gestores de RH, diretores financeiros , está ativo na plataforma. Publicar conteúdo relevante sobre mudanças na legislação, decisões judiciais importantes ou dicas práticas atrai exatamente as pessoas que podem se tornar clientes.
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
@@ -77,7 +77,7 @@ registerArticle('sites-para-captar-clientes-para-advocacia', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Diretórios jurídicos e plataformas de conexão</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Existem diversas plataformas que funcionam como diretórios de advogados, conectando profissionais a potenciais clientes. Plataformas como Justto, Jurídico Certo e outros serviços especializados oferecem modelos variados — alguns cobram mensalidade, outros cobram por lead gerado.
+      Existem diversas plataformas que funcionam como diretórios de advogados, conectando profissionais a potenciais clientes. Plataformas como Justto, Jurídico Certo e outros serviços especializados oferecem modelos variados , alguns cobram mensalidade, outros cobram por lead gerado.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -93,15 +93,15 @@ registerArticle('sites-para-captar-clientes-para-advocacia', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Instagram e outras redes sociais</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O Instagram se tornou um canal relevante para advogados que atuam em áreas voltadas ao consumidor final — direito de família, consumidor, trabalhista, previdenciário. O formato visual permite criar conteúdo educativo em carrosséis, reels e stories que atingem um público amplo.
+      O Instagram se tornou um canal relevante para advogados que atuam em áreas voltadas ao consumidor final , direito de família, consumidor, trabalhista, previdenciário. O formato visual permite criar conteúdo educativo em carrosséis, reels e stories que atingem um público amplo.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O desafio do Instagram é o alcance orgânico cada vez mais limitado e a natureza efêmera do conteúdo. Um post tem vida útil de poucas horas. Para manter relevância, é preciso publicar com alta frequência — o que demanda tempo e, muitas vezes, investimento em design e edição de vídeo.
+      O desafio do Instagram é o alcance orgânico cada vez mais limitado e a natureza efêmera do conteúdo. Um post tem vida útil de poucas horas. Para manter relevância, é preciso publicar com alta frequência , o que demanda tempo e, muitas vezes, investimento em design e edição de vídeo.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Outras redes como TikTok e YouTube também oferecem oportunidades, especialmente para advogados com facilidade para produzir conteúdo em vídeo. O YouTube tem a vantagem de ser um mecanismo de busca — vídeos bem otimizados continuam gerando visualizações por anos, diferente dos posts em redes sociais que desaparecem rapidamente do feed.
+      Outras redes como TikTok e YouTube também oferecem oportunidades, especialmente para advogados com facilidade para produzir conteúdo em vídeo. O YouTube tem a vantagem de ser um mecanismo de busca , vídeos bem otimizados continuam gerando visualizações por anos, diferente dos posts em redes sociais que desaparecem rapidamente do feed.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Comparação prática entre as opções</h2>
@@ -126,7 +126,7 @@ registerArticle('sites-para-captar-clientes-para-advocacia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O site é a base — com páginas de serviço, blog ativo e formulários de contato. O Google Meu Negócio garante visibilidade em buscas locais e direciona visitantes para o site. O LinkedIn e o Instagram distribuem conteúdo e direcionam seguidores para artigos no blog. O JusBrasil amplia o alcance de conteúdos estratégicos. Diretórios complementam a captação em áreas de alta demanda.
+      O site é a base , com páginas de serviço, blog ativo e formulários de contato. O Google Meu Negócio garante visibilidade em buscas locais e direciona visitantes para o site. O LinkedIn e o Instagram distribuem conteúdo e direcionam seguidores para artigos no blog. O JusBrasil amplia o alcance de conteúdos estratégicos. Diretórios complementam a captação em áreas de alta demanda.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -136,7 +136,7 @@ registerArticle('sites-para-captar-clientes-para-advocacia', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Considerações finais</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Não existe uma única plataforma que resolva a captação de clientes para advogados. Cada canal tem seu papel, seu público e suas limitações. O erro mais comum é investir todo o esforço em uma única plataforma — especialmente uma que você não controla — e ficar vulnerável a mudanças de algoritmo ou políticas.
+      Não existe uma única plataforma que resolva a captação de clientes para advogados. Cada canal tem seu papel, seu público e suas limitações. O erro mais comum é investir todo o esforço em uma única plataforma , especialmente uma que você não controla , e ficar vulnerável a mudanças de algoritmo ou políticas.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

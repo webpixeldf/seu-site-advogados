@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('como-montar-um-escritorio-de-advocacia-digital', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Montar um escritório de advocacia digital do zero é uma das formas mais acessíveis de iniciar na profissão ou expandir uma atuação já existente. Com investimento inicial significativamente menor que o modelo tradicional, o escritório digital permite ao advogado começar a operar de forma profissional em poucas semanas — desde que siga os passos certos.
+      Montar um escritório de advocacia digital do zero é uma das formas mais acessíveis de iniciar na profissão ou expandir uma atuação já existente. Com investimento inicial significativamente menor que o modelo tradicional, o escritório digital permite ao advogado começar a operar de forma profissional em poucas semanas , desde que siga os passos certos.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Planejamento inicial: antes de qualquer ferramenta</h2>
@@ -27,7 +27,7 @@ registerArticle('como-montar-um-escritorio-de-advocacia-digital', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Se a opção for constituir uma sociedade de advocacia, o registro deve ser feito na OAB — e não na Junta Comercial. Advogados individuais podem atuar como autônomos ou como sociedade unipessoal de advocacia, que oferece vantagens tributárias em muitos municípios.
+      Se a opção for constituir uma sociedade de advocacia, o registro deve ser feito na OAB , e não na Junta Comercial. Advogados individuais podem atuar como autônomos ou como sociedade unipessoal de advocacia, que oferece vantagens tributárias em muitos municípios.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Certificado digital</h3>
@@ -112,7 +112,7 @@ registerArticle('como-montar-um-escritorio-de-advocacia-digital', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Parcerias com outros profissionais — contadores, consultores de RH, médicos — também são uma fonte valiosa de indicações mútuas. Participar de eventos e comunidades online da sua área de atuação amplia a rede de contatos de forma natural.
+      Parcerias com outros profissionais , contadores, consultores de RH, médicos , também são uma fonte valiosa de indicações mútuas. Participar de eventos e comunidades online da sua área de atuação amplia a rede de contatos de forma natural.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Custos estimados para começar</h2>
@@ -131,7 +131,7 @@ registerArticle('como-montar-um-escritorio-de-advocacia-digital', () => (
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
-      Comparado ao custo de montar um escritório físico — que facilmente ultrapassa R$ 30.000 entre aluguel, reforma, mobília e equipamentos —, o modelo digital é significativamente mais acessível.
+      Comparado ao custo de montar um escritório físico , que facilmente ultrapassa R$ 30.000 entre aluguel, reforma, mobília e equipamentos ,, o modelo digital é significativamente mais acessível.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Erros comuns que devem ser evitados</h2>

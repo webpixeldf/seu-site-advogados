@@ -10,7 +10,7 @@ registerArticle('marketing-digital-para-advogados-iniciantes', () => (
       Você acabou de tirar sua carteira da OAB, montou um escritório pequeno ou está atendendo de
       casa, e percebeu algo que ninguém te contou na faculdade: saber direito não é suficiente para
       ter clientes. A realidade é que a advocacia hoje funciona como qualquer outra prestação de
-      serviço — quem não é encontrado, não é contratado.
+      serviço , quem não é encontrado, não é contratado.
     </p>
 
     <p className="text-gray-700 leading-relaxed mt-4">
@@ -46,7 +46,7 @@ registerArticle('marketing-digital-para-advogados-iniciantes', () => (
     <p className="text-gray-700 leading-relaxed mt-4">
       Funciona assim: quando alguém pesquisa &quot;advogado familiar em Goiânia&quot; ou
       &quot;advogado trabalhista perto de mim&quot;, o Google mostra um mapa com os profissionais
-      cadastrados na região. Se seu perfil estiver completo e bem avaliado, você aparece ali —
+      cadastrados na região. Se seu perfil estiver completo e bem avaliado, você aparece ali ,
       de graça, sem pagar nenhum anúncio.
     </p>
 
@@ -77,7 +77,7 @@ registerArticle('marketing-digital-para-advogados-iniciantes', () => (
         região que atende.
       </li>
       <li>
-        Peça avaliações a cada cliente que atender bem. Essa é a parte mais importante — perfis com
+        Peça avaliações a cada cliente que atender bem. Essa é a parte mais importante , perfis com
         mais avaliações positivas aparecem primeiro.
       </li>
     </ul>
@@ -127,7 +127,7 @@ registerArticle('marketing-digital-para-advogados-iniciantes', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed mt-4">
-      Complete seu perfil com cuidado. A seção &quot;Sobre&quot; não é um currículo — é uma
+      Complete seu perfil com cuidado. A seção &quot;Sobre&quot; não é um currículo , é uma
       apresentação de como você resolve problemas para seus clientes. Em vez de listar suas
       formações, explique o que você faz e para quem.
     </p>
@@ -157,7 +157,7 @@ registerArticle('marketing-digital-para-advogados-iniciantes', () => (
     <p className="text-gray-700 leading-relaxed mt-4">
       Cada uma dessas dúvidas vira um post no Instagram, um artigo no LinkedIn ou um texto no blog.
       Não complique. Use linguagem acessível, explique o direito como se estivesse conversando com
-      um amigo leigo. Evite juridiquês — ele afasta as pessoas em vez de atrair.
+      um amigo leigo. Evite juridiquês , ele afasta as pessoas em vez de atrair.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -172,7 +172,7 @@ registerArticle('marketing-digital-para-advogados-iniciantes', () => (
       </li>
       <li>
         <strong>Reels curtos (30 a 60 segundos):</strong> você na câmera explicando algo de forma
-        direta. Não precisa de cenário profissional — um fundo limpo e boa iluminação bastam.
+        direta. Não precisa de cenário profissional , um fundo limpo e boa iluminação bastam.
       </li>
       <li>
         <strong>Texto no LinkedIn:</strong> conte um caso (sem identificar o cliente, claro) e
@@ -229,8 +229,8 @@ registerArticle('marketing-digital-para-advogados-iniciantes', () => (
     <p className="text-gray-700 leading-relaxed">
       Com R$ 0, usando apenas Google Meu Negócio, Instagram e LinkedIn, um advogado que publica
       conteúdo 3 vezes por semana e pede avaliações aos clientes pode esperar seus primeiros
-      contatos orgânicos em 2 a 4 meses. O volume será baixo no início — talvez 3 a 5 contatos
-      por mês — mas tende a crescer à medida que o perfil ganha autoridade.
+      contatos orgânicos em 2 a 4 meses. O volume será baixo no início , talvez 3 a 5 contatos
+      por mês , mas tende a crescer à medida que o perfil ganha autoridade.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">

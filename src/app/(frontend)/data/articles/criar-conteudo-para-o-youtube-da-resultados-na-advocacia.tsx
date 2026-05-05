@@ -13,7 +13,7 @@ registerArticle('criar-conteudo-para-o-youtube-da-resultados-na-advocacia', () =
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O primeiro cenário é o do advogado que atua em áreas de grande demanda popular, como direito trabalhista, previdenciário ou de família. Esses profissionais criam vídeos respondendo dúvidas frequentes do público leigo — perguntas que as pessoas digitam no Google e no YouTube todos os dias. Com o tempo, esses vídeos se posicionam nas buscas e geram um fluxo constante de visualizações e contatos.
+      O primeiro cenário é o do advogado que atua em áreas de grande demanda popular, como direito trabalhista, previdenciário ou de família. Esses profissionais criam vídeos respondendo dúvidas frequentes do público leigo , perguntas que as pessoas digitam no Google e no YouTube todos os dias. Com o tempo, esses vídeos se posicionam nas buscas e geram um fluxo constante de visualizações e contatos.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

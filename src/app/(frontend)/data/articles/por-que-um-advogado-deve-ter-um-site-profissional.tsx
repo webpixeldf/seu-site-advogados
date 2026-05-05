@@ -7,7 +7,7 @@ registerArticle('por-que-um-advogado-deve-ter-um-site-profissional', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Hoje, a primeira coisa que uma pessoa faz ao receber uma indicação de advogado é pesquisar o nome dele no Google. Se não encontra nada — ou encontra um perfil desatualizado em uma rede social —, a confiança diminui antes mesmo do primeiro contato. Um site profissional resolve esse problema e abre portas que a indicação sozinha não consegue abrir.
+      Hoje, a primeira coisa que uma pessoa faz ao receber uma indicação de advogado é pesquisar o nome dele no Google. Se não encontra nada , ou encontra um perfil desatualizado em uma rede social ,, a confiança diminui antes mesmo do primeiro contato. Um site profissional resolve esse problema e abre portas que a indicação sozinha não consegue abrir.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Credibilidade: a primeira impressão acontece online</h2>
@@ -17,7 +17,7 @@ registerArticle('por-que-um-advogado-deve-ter-um-site-profissional', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O contrário também é verdade. Um advogado sem site, com apenas uma página de Facebook desatualizada ou um perfil genérico em diretório jurídico, passa a impressão de ser menos estabelecido. Isso não reflete necessariamente a realidade — existem excelentes profissionais sem presença digital —, mas a percepção do cliente é o que determina a decisão de entrar em contato ou não.
+      O contrário também é verdade. Um advogado sem site, com apenas uma página de Facebook desatualizada ou um perfil genérico em diretório jurídico, passa a impressão de ser menos estabelecido. Isso não reflete necessariamente a realidade , existem excelentes profissionais sem presença digital ,, mas a percepção do cliente é o que determina a decisão de entrar em contato ou não.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -31,7 +31,7 @@ registerArticle('por-que-um-advogado-deve-ter-um-site-profissional', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Pesquisa no Google:</strong> o cliente digita o problema jurídico que está enfrentando — "como pedir pensão alimentícia", "direitos na demissão sem justa causa" — e encontra advogados que publicaram conteúdo sobre esses temas.</li>
+      <li><strong className="text-[#162a2a]">Pesquisa no Google:</strong> o cliente digita o problema jurídico que está enfrentando , "como pedir pensão alimentícia", "direitos na demissão sem justa causa" , e encontra advogados que publicaram conteúdo sobre esses temas.</li>
       <li><strong className="text-[#162a2a]">Validação do profissional:</strong> mesmo quando recebe uma indicação, o cliente pesquisa o nome do advogado no Google para conferir credenciais, avaliações e presença digital.</li>
       <li><strong className="text-[#162a2a]">Comparação:</strong> com a internet, o cliente pode comparar vários escritórios em minutos. Quem tem site profissional com informações claras sai na frente de quem não tem.</li>
       <li><strong className="text-[#162a2a]">Contato digital:</strong> muitos clientes preferem enviar uma mensagem pelo formulário do site ou pelo WhatsApp antes de ligar. A barreira de entrada é menor quando o primeiro contato é digital.</li>
@@ -40,11 +40,11 @@ registerArticle('por-que-um-advogado-deve-ter-um-site-profissional', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Presença no Google: ser encontrado por quem precisa de você</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Todos os dias, milhares de pessoas pesquisam termos relacionados a serviços jurídicos no Google. "Advogado trabalhista em Belo Horizonte", "quanto custa um inventário", "como funciona o divórcio litigioso" — são buscas reais feitas por pessoas com problemas jurídicos concretos que precisam de orientação profissional.
+      Todos os dias, milhares de pessoas pesquisam termos relacionados a serviços jurídicos no Google. "Advogado trabalhista em Belo Horizonte", "quanto custa um inventário", "como funciona o divórcio litigioso" , são buscas reais feitas por pessoas com problemas jurídicos concretos que precisam de orientação profissional.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Sem um site, o advogado simplesmente não existe para essas pessoas. Ter um site otimizado para SEO significa aparecer nos resultados de busca quando alguém pesquisa termos relacionados às suas áreas de atuação. Isso equivale a ter uma placa na rua mais movimentada da cidade — exceto que, na internet, o fluxo de pessoas é infinitamente maior.
+      Sem um site, o advogado simplesmente não existe para essas pessoas. Ter um site otimizado para SEO significa aparecer nos resultados de busca quando alguém pesquisa termos relacionados às suas áreas de atuação. Isso equivale a ter uma placa na rua mais movimentada da cidade , exceto que, na internet, o fluxo de pessoas é infinitamente maior.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -58,11 +58,11 @@ registerArticle('por-que-um-advogado-deve-ter-um-site-profissional', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O tráfego orgânico — visitantes que chegam ao site por meio de pesquisas no Google — oferece uma fonte complementar e previsível de potenciais clientes. Um site com conteúdo relevante pode atrair dezenas ou centenas de visitantes por dia, todos os dias, sem custo por clique. Desses visitantes, uma porcentagem entrará em contato, gerando leads que se somam às indicações tradicionais.
+      O tráfego orgânico , visitantes que chegam ao site por meio de pesquisas no Google , oferece uma fonte complementar e previsível de potenciais clientes. Um site com conteúdo relevante pode atrair dezenas ou centenas de visitantes por dia, todos os dias, sem custo por clique. Desses visitantes, uma porcentagem entrará em contato, gerando leads que se somam às indicações tradicionais.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A diversificação de fontes de clientes torna o escritório mais resiliente. Se as indicações diminuem em determinado período — algo que pode acontecer por diversos motivos —, o tráfego orgânico continua gerando oportunidades. É uma rede de segurança que também funciona como motor de crescimento.
+      A diversificação de fontes de clientes torna o escritório mais resiliente. Se as indicações diminuem em determinado período , algo que pode acontecer por diversos motivos ,, o tráfego orgânico continua gerando oportunidades. É uma rede de segurança que também funciona como motor de crescimento.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Vantagem competitiva: a maioria dos advogados ainda não investe em digital</h2>
@@ -86,13 +86,13 @@ registerArticle('por-que-um-advogado-deve-ter-um-site-profissional', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Isso reduz o tempo gasto com consultas improdutivas — aquelas em que o potencial cliente tem uma demanda completamente fora da área de atuação do escritório ou expectativas incompatíveis com o serviço oferecido. O site faz uma pré-qualificação automática, direcionando as pessoas certas para o contato e afastando naturalmente as que não se encaixam no perfil.
+      Isso reduz o tempo gasto com consultas improdutivas , aquelas em que o potencial cliente tem uma demanda completamente fora da área de atuação do escritório ou expectativas incompatíveis com o serviço oferecido. O site faz uma pré-qualificação automática, direcionando as pessoas certas para o contato e afastando naturalmente as que não se encaixam no perfil.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que um site profissional precisa ter</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Não basta ter um site — ele precisa ser profissional. Um site amador, com design ultrapassado, textos genéricos e que não funciona bem no celular pode causar mais mal do que bem. Os elementos essenciais de um site jurídico profissional incluem:
+      Não basta ter um site , ele precisa ser profissional. Um site amador, com design ultrapassado, textos genéricos e que não funciona bem no celular pode causar mais mal do que bem. Os elementos essenciais de um site jurídico profissional incluem:
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
@@ -124,7 +124,7 @@ registerArticle('por-que-um-advogado-deve-ter-um-site-profissional', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      <strong className="text-[#162a2a]">"Redes sociais são suficientes."</strong> Redes sociais são complementares, não substitutas. Você não é dono do seu perfil no Instagram ou no LinkedIn — a plataforma pode mudar algoritmos, suspender contas ou simplesmente perder relevância. O site é o único espaço digital que pertence inteiramente a você.
+      <strong className="text-[#162a2a]">"Redes sociais são suficientes."</strong> Redes sociais são complementares, não substitutas. Você não é dono do seu perfil no Instagram ou no LinkedIn , a plataforma pode mudar algoritmos, suspender contas ou simplesmente perder relevância. O site é o único espaço digital que pertence inteiramente a você.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Considerações finais</h2>

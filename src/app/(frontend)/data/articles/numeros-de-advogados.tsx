@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('numeros-de-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O Brasil tem mais advogados do que a maioria dos países do mundo — e esse número continua crescendo. Entender o panorama quantitativo da advocacia brasileira ajuda profissionais a tomar decisões estratégicas sobre carreira, especialização e posicionamento de mercado. Aqui estão os números que todo advogado deveria conhecer.
+      O Brasil tem mais advogados do que a maioria dos países do mundo , e esse número continua crescendo. Entender o panorama quantitativo da advocacia brasileira ajuda profissionais a tomar decisões estratégicas sobre carreira, especialização e posicionamento de mercado. Aqui estão os números que todo advogado deveria conhecer.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Quantos advogados existem no Brasil</h2>
@@ -19,7 +19,7 @@ registerArticle('numeros-de-advogados', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Distribuição por estado</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A distribuição de advogados pelo território brasileiro é extremamente desigual. São Paulo lidera com folga, concentrando mais de 300 mil inscritos ativos — quase um quarto do total nacional. Rio de Janeiro vem em segundo, com cerca de 180 mil, seguido por Minas Gerais, com aproximadamente 130 mil.
+      A distribuição de advogados pelo território brasileiro é extremamente desigual. São Paulo lidera com folga, concentrando mais de 300 mil inscritos ativos , quase um quarto do total nacional. Rio de Janeiro vem em segundo, com cerca de 180 mil, seguido por Minas Gerais, com aproximadamente 130 mil.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -29,7 +29,7 @@ registerArticle('numeros-de-advogados', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Crescimento ao longo dos anos</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O número de advogados no Brasil cresceu de forma acelerada nas últimas duas décadas. Em 2000, havia cerca de 400 mil advogados inscritos na OAB. Em 2010, esse número já havia dobrado para 800 mil. Em 2020, ultrapassou 1,2 milhão. O crescimento é impulsionado principalmente pela expansão das faculdades de direito — o Brasil tem mais de 1.800 cursos de direito autorizados pelo MEC, mais do que todo o restante do mundo somado.
+      O número de advogados no Brasil cresceu de forma acelerada nas últimas duas décadas. Em 2000, havia cerca de 400 mil advogados inscritos na OAB. Em 2010, esse número já havia dobrado para 800 mil. Em 2020, ultrapassou 1,2 milhão. O crescimento é impulsionado principalmente pela expansão das faculdades de direito , o Brasil tem mais de 1.800 cursos de direito autorizados pelo MEC, mais do que todo o restante do mundo somado.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -43,7 +43,7 @@ registerArticle('numeros-de-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Nos últimos anos, foram realizados cerca de três exames por ano, com aproximadamente 100 a 150 mil inscritos em cada edição. Mesmo com taxas de aprovação relativamente baixas, o fluxo de novos advogados permanece significativo — estimado entre 50 e 80 mil novos inscritos por ano.
+      Nos últimos anos, foram realizados cerca de três exames por ano, com aproximadamente 100 a 150 mil inscritos em cada edição. Mesmo com taxas de aprovação relativamente baixas, o fluxo de novos advogados permanece significativo , estimado entre 50 e 80 mil novos inscritos por ano.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Perfil demográfico da advocacia brasileira</h2>
@@ -51,7 +51,7 @@ registerArticle('numeros-de-advogados', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Gênero</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      As mulheres já são maioria nas faculdades de direito e vêm aumentando sua participação na advocacia. Dados recentes indicam que aproximadamente 49% dos advogados com inscrição ativa são mulheres — uma paridade que era inimaginável há 30 anos. Nas faixas etárias mais jovens (até 35 anos), as mulheres já são maioria. A questão que permanece é a representatividade em posições de liderança: sócias de grandes escritórios e desembargadoras ainda são proporcionalmente poucas.
+      As mulheres já são maioria nas faculdades de direito e vêm aumentando sua participação na advocacia. Dados recentes indicam que aproximadamente 49% dos advogados com inscrição ativa são mulheres , uma paridade que era inimaginável há 30 anos. Nas faixas etárias mais jovens (até 35 anos), as mulheres já são maioria. A questão que permanece é a representatividade em posições de liderança: sócias de grandes escritórios e desembargadoras ainda são proporcionalmente poucas.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Faixa etária</h3>
@@ -103,7 +103,7 @@ registerArticle('numeros-de-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Os números do mercado jurídico brasileiro não são animadores à primeira vista, mas contam apenas parte da história. O mercado é grande, mas também é diverso. As oportunidades existem — estão nos nichos, nas novas tecnologias, nos mercados menos explorados e na capacidade de cada profissional de se posicionar de forma estratégica.
+      Os números do mercado jurídico brasileiro não são animadores à primeira vista, mas contam apenas parte da história. O mercado é grande, mas também é diverso. As oportunidades existem , estão nos nichos, nas novas tecnologias, nos mercados menos explorados e na capacidade de cada profissional de se posicionar de forma estratégica.
     </p>
   </>
 ))

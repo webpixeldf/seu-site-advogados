@@ -7,7 +7,7 @@ registerArticle('a-importancia-de-ter-um-site-profissional-para-advogados', () =
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Um site não é apenas uma vitrine — é o principal ponto de contato entre o advogado e pessoas que precisam de ajuda jurídica. Ele funciona 24 horas por dia, projeta a imagem do escritório, demonstra expertise e facilita o primeiro contato. Neste artigo, vamos explorar em detalhes por que ter um site profissional deixou de ser opcional na advocacia moderna.
+      Um site não é apenas uma vitrine , é o principal ponto de contato entre o advogado e pessoas que precisam de ajuda jurídica. Ele funciona 24 horas por dia, projeta a imagem do escritório, demonstra expertise e facilita o primeiro contato. Neste artigo, vamos explorar em detalhes por que ter um site profissional deixou de ser opcional na advocacia moderna.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Primeira impressão: você tem poucos segundos</h2>
@@ -17,7 +17,7 @@ registerArticle('a-importancia-de-ter-um-site-profissional-para-advogados', () =
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Para advogados, essa primeira impressão precisa comunicar três coisas: profissionalismo, confiabilidade e competência. Um site com design amador, textos confusos ou imagens genéricas de banco de dados transmite exatamente o oposto. Já um site com visual limpo, conteúdo bem escrito e elementos de credibilidade — como foto profissional, número da OAB e depoimentos — cria uma impressão positiva imediata.
+      Para advogados, essa primeira impressão precisa comunicar três coisas: profissionalismo, confiabilidade e competência. Um site com design amador, textos confusos ou imagens genéricas de banco de dados transmite exatamente o oposto. Já um site com visual limpo, conteúdo bem escrito e elementos de credibilidade , como foto profissional, número da OAB e depoimentos , cria uma impressão positiva imediata.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -31,11 +31,11 @@ registerArticle('a-importancia-de-ter-um-site-profissional-para-advogados', () =
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Essa disponibilidade constante é especialmente valiosa em áreas do direito ligadas a situações de urgência. Direito criminal, direito de família, acidentes de trânsito — são demandas que surgem fora do horário comercial. Um site com formulário de contato, botão de WhatsApp e conteúdo informativo permite que o potencial cliente dê o primeiro passo a qualquer hora.
+      Essa disponibilidade constante é especialmente valiosa em áreas do direito ligadas a situações de urgência. Direito criminal, direito de família, acidentes de trânsito , são demandas que surgem fora do horário comercial. Um site com formulário de contato, botão de WhatsApp e conteúdo informativo permite que o potencial cliente dê o primeiro passo a qualquer hora.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Além disso, dados de analytics mostram que uma parcela relevante dos acessos a sites jurídicos acontece entre 19h e 23h — horário em que as pessoas estão em casa, com mais tempo para pesquisar e refletir sobre seus problemas. Se o seu site está no ar e bem posicionado, ele capta essas pessoas. Se não está, elas vão para o concorrente.
+      Além disso, dados de analytics mostram que uma parcela relevante dos acessos a sites jurídicos acontece entre 19h e 23h , horário em que as pessoas estão em casa, com mais tempo para pesquisar e refletir sobre seus problemas. Se o seu site está no ar e bem posicionado, ele capta essas pessoas. Se não está, elas vão para o concorrente.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Demonstração de expertise: mostre o que você sabe</h2>
@@ -64,7 +64,7 @@ registerArticle('a-importancia-de-ter-um-site-profissional-para-advogados', () =
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Etapa 1: Consciência do problema</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O cliente ainda não sabe que precisa de um advogado. Ele sabe que tem um problema — foi demitido, está se divorciando, recebeu uma notificação — e pesquisa no Google para entender a situação. Artigos de blog captam esses visitantes com conteúdo informativo e educativo.
+      O cliente ainda não sabe que precisa de um advogado. Ele sabe que tem um problema , foi demitido, está se divorciando, recebeu uma notificação , e pesquisa no Google para entender a situação. Artigos de blog captam esses visitantes com conteúdo informativo e educativo.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Etapa 2: Consideração da solução</h3>
@@ -76,7 +76,7 @@ registerArticle('a-importancia-de-ter-um-site-profissional-para-advogados', () =
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Etapa 3: Decisão de contato</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O cliente decidiu que quer falar com um advogado. Agora ele procura a forma mais fácil de entrar em contato. Formulário, WhatsApp, telefone, agendamento online — quanto mais opções acessíveis e visíveis, maior a chance de conversão. Muitos sites perdem potenciais clientes nessa etapa por esconderem as informações de contato ou por terem formulários complicados demais.
+      O cliente decidiu que quer falar com um advogado. Agora ele procura a forma mais fácil de entrar em contato. Formulário, WhatsApp, telefone, agendamento online , quanto mais opções acessíveis e visíveis, maior a chance de conversão. Muitos sites perdem potenciais clientes nessa etapa por esconderem as informações de contato ou por terem formulários complicados demais.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Objeções comuns respondidas</h2>
@@ -88,7 +88,7 @@ registerArticle('a-importancia-de-ter-um-site-profissional-para-advogados', () =
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">"Já tenho redes sociais, isso basta"</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Redes sociais são excelentes para relacionamento e distribuição de conteúdo, mas têm limitações sérias como substituta de um site. O alcance orgânico no Instagram e Facebook caiu drasticamente nos últimos anos — você publica, mas apenas uma fração dos seus seguidores vê. Além disso, o conteúdo das redes sociais é efêmero. Um post de ontem já está enterrado. Um artigo no site pode gerar tráfego por anos.
+      Redes sociais são excelentes para relacionamento e distribuição de conteúdo, mas têm limitações sérias como substituta de um site. O alcance orgânico no Instagram e Facebook caiu drasticamente nos últimos anos , você publica, mas apenas uma fração dos seus seguidores vê. Além disso, o conteúdo das redes sociais é efêmero. Um post de ontem já está enterrado. Um artigo no site pode gerar tráfego por anos.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -110,7 +110,7 @@ registerArticle('a-importancia-de-ter-um-site-profissional-para-advogados', () =
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">"Vou fazer quando tiver mais tempo"</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O tempo ideal para ter criado um site foi há anos. SEO é um jogo de longo prazo — quanto mais cedo o site é publicado e o conteúdo começa a ser indexado, mais rápido os resultados orgânicos aparecem. Adiar é perder posições para concorrentes que já começaram.
+      O tempo ideal para ter criado um site foi há anos. SEO é um jogo de longo prazo , quanto mais cedo o site é publicado e o conteúdo começa a ser indexado, mais rápido os resultados orgânicos aparecem. Adiar é perder posições para concorrentes que já começaram.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O site como parte de uma estratégia maior</h2>

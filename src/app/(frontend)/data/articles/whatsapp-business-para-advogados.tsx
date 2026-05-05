@@ -10,7 +10,7 @@ registerArticle('whatsapp-business-para-advogados', () => (
       Passo 1: Instalação e configuração inicial
     </h2>
     <p className="text-gray-700 leading-relaxed">
-      Baixe o WhatsApp Business na Play Store ou App Store — é um aplicativo separado do WhatsApp convencional. Você pode usar o mesmo número do escritório ou um número novo. Se já usa o WhatsApp comum com um número comercial, o app oferece a opção de migrar suas conversas durante a instalação.
+      Baixe o WhatsApp Business na Play Store ou App Store , é um aplicativo separado do WhatsApp convencional. Você pode usar o mesmo número do escritório ou um número novo. Se já usa o WhatsApp comum com um número comercial, o app oferece a opção de migrar suas conversas durante a instalação.
     </p>
     <p className="text-gray-700 leading-relaxed">
       Após instalar, o aplicativo pedirá para verificar o número via SMS ou ligação. Feita a verificação, você acessa a tela de configuração do perfil comercial. É aqui que o trabalho estratégico começa.
@@ -23,7 +23,7 @@ registerArticle('whatsapp-business-para-advogados', () => (
       Acesse <strong className="text-[#162a2a]">Configurações &gt; Ferramentas comerciais &gt; Perfil comercial</strong> e preencha todos os campos disponíveis:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Nome da empresa:</strong> use o nome do escritório ou seu nome profissional completo (ex: "Oliveira Advocacia" ou "Dr. Rafael Oliveira — Advogado")</li>
+      <li><strong className="text-[#162a2a]">Nome da empresa:</strong> use o nome do escritório ou seu nome profissional completo (ex: "Oliveira Advocacia" ou "Dr. Rafael Oliveira , Advogado")</li>
       <li><strong className="text-[#162a2a]">Categoria:</strong> selecione "Serviço jurídico" ou "Escritório de advocacia"</li>
       <li><strong className="text-[#162a2a]">Descrição:</strong> escreva um texto curto informando áreas de atuação, cidade e número da OAB. Exemplo: "Escritório especializado em Direito Trabalhista e Previdenciário. Atendimento em Curitiba e região metropolitana. OAB/PR 54.321"</li>
       <li><strong className="text-[#162a2a]">Endereço:</strong> inclua o endereço do escritório para aparecer no mapa</li>
@@ -113,7 +113,7 @@ registerArticle('whatsapp-business-para-advogados', () => (
       WhatsApp Web e múltiplos dispositivos
     </h3>
     <p className="text-gray-700 leading-relaxed">
-      Use o WhatsApp Web no computador do escritório para digitar respostas mais longas com agilidade. O recurso de múltiplos dispositivos permite que até quatro aparelhos estejam conectados simultaneamente — útil quando mais de uma pessoa no escritório precisa responder mensagens.
+      Use o WhatsApp Web no computador do escritório para digitar respostas mais longas com agilidade. O recurso de múltiplos dispositivos permite que até quatro aparelhos estejam conectados simultaneamente , útil quando mais de uma pessoa no escritório precisa responder mensagens.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -152,7 +152,7 @@ registerArticle('whatsapp-business-para-advogados', () => (
       Conclusão prática
     </h2>
     <p className="text-gray-700 leading-relaxed">
-      Configurar o WhatsApp Business leva poucos minutos, e quando integrado a um bom trabalho de <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criar site para escritório de advocacia</a>, o impacto na organização e na imagem profissional do escritório é significativo. Com o perfil completo, mensagens automáticas configuradas, etiquetas organizadas e respostas rápidas cadastradas, você reduz o tempo gasto com tarefas repetitivas e oferece uma experiência de atendimento que diferencia seu escritório da concorrência. O investimento é zero — o retorno, considerável.
+      Configurar o WhatsApp Business leva poucos minutos, e quando integrado a um bom trabalho de <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criar site para escritório de advocacia</a>, o impacto na organização e na imagem profissional do escritório é significativo. Com o perfil completo, mensagens automáticas configuradas, etiquetas organizadas e respostas rápidas cadastradas, você reduz o tempo gasto com tarefas repetitivas e oferece uma experiência de atendimento que diferencia seu escritório da concorrência. O investimento é zero , o retorno, considerável.
     </p>
   </>
 ))

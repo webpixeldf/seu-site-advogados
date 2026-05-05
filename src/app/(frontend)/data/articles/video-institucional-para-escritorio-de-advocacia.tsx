@@ -18,7 +18,7 @@ registerArticle('video-institucional-para-escritorio-de-advocacia', () => (
       <li><strong className="text-[#162a2a]">Captação de talentos:</strong> escritórios em crescimento que precisam atrair bons profissionais podem usar o vídeo institucional para mostrar o ambiente de trabalho e a cultura do escritório.</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      Se o escritório ainda está em fase inicial, uma alternativa mais acessível é gravar vídeos de apresentação pessoal para o site e redes sociais. Esses vídeos cumprem parte da função do institucional — humanizar o escritório e gerar confiança — sem exigir o mesmo nível de investimento.
+      Se o escritório ainda está em fase inicial, uma alternativa mais acessível é gravar vídeos de apresentação pessoal para o site e redes sociais. Esses vídeos cumprem parte da função do institucional , humanizar o escritório e gerar confiança , sem exigir o mesmo nível de investimento.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que incluir no vídeo institucional</h2>
@@ -30,12 +30,12 @@ registerArticle('video-institucional-para-escritorio-de-advocacia', () => (
       Elementos que compõem um bom vídeo institucional jurídico:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Apresentação do escritório:</strong> nome, localização, tempo de atuação e missão em uma ou duas frases. Evite clichês como "excelência e compromisso" — seja específico sobre o que diferencia o seu escritório.</li>
+      <li><strong className="text-[#162a2a]">Apresentação do escritório:</strong> nome, localização, tempo de atuação e missão em uma ou duas frases. Evite clichês como "excelência e compromisso" , seja específico sobre o que diferencia o seu escritório.</li>
       <li><strong className="text-[#162a2a]">Áreas de atuação:</strong> destaque as principais áreas com exemplos concretos do tipo de problema que o escritório resolve. "Atuamos em direito empresarial, ajudando empresas de médio porte a estruturar operações societárias e contratos comerciais" é mais eficiente do que listar dez áreas genéricas.</li>
       <li><strong className="text-[#162a2a]">Equipe:</strong> apresente os sócios e profissionais-chave. Mostrar os rostos das pessoas que o cliente vai encontrar no escritório gera confiança e humaniza a marca.</li>
-      <li><strong className="text-[#162a2a]">Estrutura física:</strong> imagens do escritório — recepção, salas de reunião, biblioteca. Isso transmite organização e profissionalismo. Se o escritório funciona em formato remoto ou híbrido, mostre o ambiente de trabalho e as ferramentas tecnológicas utilizadas.</li>
+      <li><strong className="text-[#162a2a]">Estrutura física:</strong> imagens do escritório , recepção, salas de reunião, biblioteca. Isso transmite organização e profissionalismo. Se o escritório funciona em formato remoto ou híbrido, mostre o ambiente de trabalho e as ferramentas tecnológicas utilizadas.</li>
       <li><strong className="text-[#162a2a]">Depoimentos de clientes:</strong> se possível e com autorização, inclua depoimentos breves de clientes satisfeitos. Nada constrói credibilidade com mais eficiência do que a validação de terceiros.</li>
-      <li><strong className="text-[#162a2a]">Chamada para ação:</strong> encerre com orientações claras sobre como entrar em contato — telefone, e-mail, formulário do site ou link de agendamento.</li>
+      <li><strong className="text-[#162a2a]">Chamada para ação:</strong> encerre com orientações claras sobre como entrar em contato , telefone, e-mail, formulário do site ou link de agendamento.</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Quanto custa produzir um vídeo institucional</h2>
@@ -79,7 +79,7 @@ registerArticle('video-institucional-para-escritorio-de-advocacia', () => (
       <li>Portfólio com trabalhos no segmento jurídico ou corporativo.</li>
       <li>Inclusão de roteiro e direção no escopo do serviço.</li>
       <li>Número de revisões incluídas no orçamento.</li>
-      <li>Prazo de entrega realista — produções de qualidade costumam levar entre duas e seis semanas.</li>
+      <li>Prazo de entrega realista , produções de qualidade costumam levar entre duas e seis semanas.</li>
       <li>Cessão dos direitos de uso das imagens captadas.</li>
       <li>Formato de entrega compatível com as plataformas onde o vídeo será publicado.</li>
     </ul>

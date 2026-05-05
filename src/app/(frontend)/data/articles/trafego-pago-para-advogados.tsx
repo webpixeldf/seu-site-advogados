@@ -3,21 +3,21 @@ import { registerArticle } from './registry'
 registerArticle('trafego-pago-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Investir em tráfego pago é uma das formas mais rápidas de atrair clientes para um escritório de advocacia. Mas a pergunta que todo advogado faz é: onde investir — Google Ads ou Meta Ads? A resposta depende da sua área de atuação, do perfil do seu cliente e do quanto você está disposto a investir. Neste artigo, vamos comparar as duas plataformas de forma prática para que você tome a decisão certa.
+      Investir em tráfego pago é uma das formas mais rápidas de atrair clientes para um escritório de advocacia. Mas a pergunta que todo advogado faz é: onde investir , Google Ads ou Meta Ads? A resposta depende da sua área de atuação, do perfil do seu cliente e do quanto você está disposto a investir. Neste artigo, vamos comparar as duas plataformas de forma prática para que você tome a decisão certa.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">A diferença fundamental entre Google e Meta</h2>
     <p className="text-gray-700 leading-relaxed">
-      Para entender onde investir, é preciso compreender a diferença de comportamento do usuário em cada plataforma. No Google, a pessoa está ativamente buscando uma solução. Ela digita "advogado para revisão de contrato" porque tem essa necessidade agora. Já no Meta (Facebook e Instagram), a pessoa está navegando no feed, vendo conteúdo de amigos e entretenimento — seu anúncio aparece como uma interrupção.
+      Para entender onde investir, é preciso compreender a diferença de comportamento do usuário em cada plataforma. No Google, a pessoa está ativamente buscando uma solução. Ela digita "advogado para revisão de contrato" porque tem essa necessidade agora. Já no Meta (Facebook e Instagram), a pessoa está navegando no feed, vendo conteúdo de amigos e entretenimento , seu anúncio aparece como uma interrupção.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      Essa diferença é crucial. O Google captura demanda existente. O Meta cria demanda. Ambas as abordagens funcionam, mas para serviços jurídicos que envolvem urgência — como uma ação trabalhista após demissão ou uma defesa criminal — o Google tende a ser mais eficiente. Para serviços que as pessoas adiam ou nem sabem que precisam — como planejamento sucessório ou proteção patrimonial — o Meta pode funcionar melhor ao educar o público.
+      Essa diferença é crucial. O Google captura demanda existente. O Meta cria demanda. Ambas as abordagens funcionam, mas para serviços jurídicos que envolvem urgência , como uma ação trabalhista após demissão ou uma defesa criminal , o Google tende a ser mais eficiente. Para serviços que as pessoas adiam ou nem sabem que precisam , como planejamento sucessório ou proteção patrimonial , o Meta pode funcionar melhor ao educar o público.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Google Ads: vantagens e limitações</h2>
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Pontos fortes</h3>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li>Alta intenção de compra — o usuário já está procurando um advogado</li>
+      <li>Alta intenção de compra , o usuário já está procurando um advogado</li>
       <li>Resultados rápidos e mensuráveis desde a primeira semana</li>
       <li>Segmentação por localização geográfica precisa</li>
       <li>Possibilidade de aparecer no topo dos resultados imediatamente</li>
@@ -27,24 +27,24 @@ registerArticle('trafego-pago-para-advogados', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Limitações</h3>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li>Custo por clique elevado em áreas jurídicas competitivas</li>
-      <li>Volume de buscas limitado — se poucas pessoas pesquisam sua especialidade na sua região, o alcance será pequeno</li>
+      <li>Volume de buscas limitado , se poucas pessoas pesquisam sua especialidade na sua região, o alcance será pequeno</li>
       <li>Exige conhecimento técnico para configuração e otimização</li>
-      <li>Não constrói marca — quando você para de pagar, para de aparecer</li>
+      <li>Não constrói marca , quando você para de pagar, para de aparecer</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Meta Ads: vantagens e limitações</h2>
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Pontos fortes</h3>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li>Custo por clique geralmente mais baixo que o Google</li>
-      <li>Alcance massivo — praticamente todo brasileiro usa Instagram ou Facebook</li>
+      <li>Alcance massivo , praticamente todo brasileiro usa Instagram ou Facebook</li>
       <li>Possibilidade de segmentar por interesses, comportamentos e dados demográficos</li>
       <li>Formatos visuais que permitem construir autoridade e confiança</li>
-      <li>Bom para remarketing — impactar novamente quem visitou seu site</li>
+      <li>Bom para remarketing , impactar novamente quem visitou seu site</li>
     </ul>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Limitações</h3>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li>Menor intenção de compra — o usuário não estava procurando um advogado</li>
+      <li>Menor intenção de compra , o usuário não estava procurando um advogado</li>
       <li>Leads geralmente menos qualificados, exigindo um processo de nutrição</li>
       <li>Dependência de criativos (imagens e vídeos) de qualidade</li>
       <li>Restrições de segmentação para temas jurídicos sensíveis</li>
@@ -58,7 +58,7 @@ registerArticle('trafego-pago-para-advogados', () => (
       <li><strong className="text-[#162a2a]">Direito trabalhista:</strong> Google Ads tende a ser mais eficiente, pois a pessoa acabou de ser demitida e busca ativamente um advogado</li>
       <li><strong className="text-[#162a2a]">Direito de família:</strong> Google Ads para divórcio e guarda (urgência), Meta Ads para planejamento sucessório e testamento (educação)</li>
       <li><strong className="text-[#162a2a]">Direito empresarial:</strong> Google Ads para demandas pontuais, Meta Ads com conteúdo educativo para atrair empresários</li>
-      <li><strong className="text-[#162a2a]">Direito imobiliário:</strong> ambas funcionam bem — Google para quem busca ajuda com contrato, Meta para quem precisa ser alertado sobre riscos</li>
+      <li><strong className="text-[#162a2a]">Direito imobiliário:</strong> ambas funcionam bem , Google para quem busca ajuda com contrato, Meta para quem precisa ser alertado sobre riscos</li>
       <li><strong className="text-[#162a2a]">Direito previdenciário:</strong> Google Ads é forte para "como dar entrada na aposentadoria", Meta funciona para alertar sobre revisões de benefício</li>
       <li><strong className="text-[#162a2a]">Direito criminal:</strong> Google Ads quase exclusivamente, pois a necessidade é imediata e urgente</li>
     </ul>
@@ -71,9 +71,9 @@ registerArticle('trafego-pago-para-advogados', () => (
       Se o orçamento permite investir nas duas plataformas, uma divisão comum é:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">70% Google Ads / 30% Meta Ads</strong> — para quem prioriza geração direta de leads</li>
-      <li><strong className="text-[#162a2a]">50% Google Ads / 50% Meta Ads</strong> — para quem quer equilibrar captação imediata e construção de marca</li>
-      <li><strong className="text-[#162a2a]">30% Google Ads / 70% Meta Ads</strong> — para áreas onde a educação do cliente é mais importante que a busca ativa</li>
+      <li><strong className="text-[#162a2a]">70% Google Ads / 30% Meta Ads</strong> , para quem prioriza geração direta de leads</li>
+      <li><strong className="text-[#162a2a]">50% Google Ads / 50% Meta Ads</strong> , para quem quer equilibrar captação imediata e construção de marca</li>
+      <li><strong className="text-[#162a2a]">30% Google Ads / 70% Meta Ads</strong> , para áreas onde a educação do cliente é mais importante que a busca ativa</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
       Independente da divisão, reserve ao menos R$ 1.500 a R$ 2.000 por mês para cada plataforma. Valores menores dificultam a coleta de dados suficientes para otimização e tornam os resultados inconsistentes.

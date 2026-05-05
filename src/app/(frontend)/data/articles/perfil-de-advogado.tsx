@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('perfil-de-advogado', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O perfil profissional online de um advogado é, muitas vezes, o primeiro contato que um potencial cliente tem com o profissional. Antes de ligar, enviar mensagem ou agendar uma consulta, a pessoa pesquisa. E o que ela encontra — ou não encontra — determina se vai ou não fazer contato. Construir uma presença profissional online sólida não é vaidade; é estratégia de negócio.
+      O perfil profissional online de um advogado é, muitas vezes, o primeiro contato que um potencial cliente tem com o profissional. Antes de ligar, enviar mensagem ou agendar uma consulta, a pessoa pesquisa. E o que ela encontra , ou não encontra , determina se vai ou não fazer contato. Construir uma presença profissional online sólida não é vaidade; é estratégia de negócio.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Por que a presença online importa</h2>
@@ -19,13 +19,13 @@ registerArticle('perfil-de-advogado', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O site profissional como base</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O site é o ativo digital mais importante do advogado. É o único canal sobre o qual se tem controle total — diferentemente das redes sociais, que podem mudar regras de alcance ou até encerrar contas. <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">Criar site para advogado</a> é investir em uma sede virtual do escritório que transmite profissionalismo em cada detalhe.
+      O site é o ativo digital mais importante do advogado. É o único canal sobre o qual se tem controle total , diferentemente das redes sociais, que podem mudar regras de alcance ou até encerrar contas. <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">Criar site para advogado</a> é investir em uma sede virtual do escritório que transmite profissionalismo em cada detalhe.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Elementos essenciais</h3>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Página sobre o advogado:</strong> formação acadêmica, especializações, tempo de experiência, número de inscrição na OAB e uma foto profissional de qualidade. Evite textos genéricos — conte sua trajetória de forma pessoal e autêntica.</li>
+      <li><strong className="text-[#162a2a]">Página sobre o advogado:</strong> formação acadêmica, especializações, tempo de experiência, número de inscrição na OAB e uma foto profissional de qualidade. Evite textos genéricos , conte sua trajetória de forma pessoal e autêntica.</li>
       <li><strong className="text-[#162a2a]">Áreas de atuação:</strong> descrição clara de cada área em que o advogado atua, com linguagem acessível ao leigo. O visitante precisa se identificar com o problema descrito e entender que encontrou o profissional certo.</li>
       <li><strong className="text-[#162a2a]">Formas de contato:</strong> telefone, WhatsApp, e-mail e formulário de contato visíveis em todas as páginas. Quanto mais fácil for entrar em contato, maior a taxa de conversão.</li>
       <li><strong className="text-[#162a2a]">Blog:</strong> conteúdo informativo que demonstra conhecimento e ajuda no posicionamento do site nos mecanismos de busca.</li>
@@ -47,11 +47,11 @@ registerArticle('perfil-de-advogado', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Perfil no Google Meu Negócio</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O Google Meu Negócio (agora chamado Perfil da Empresa no Google) é uma ferramenta gratuita que coloca o escritório no mapa — literalmente. Quando alguém pesquisa "advogado trabalhista em Curitiba", os resultados do Google Meu Negócio aparecem antes dos resultados orgânicos.
+      O Google Meu Negócio (agora chamado Perfil da Empresa no Google) é uma ferramenta gratuita que coloca o escritório no mapa , literalmente. Quando alguém pesquisa "advogado trabalhista em Curitiba", os resultados do Google Meu Negócio aparecem antes dos resultados orgânicos.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Para ter um perfil eficiente, preencha todas as informações: endereço, telefone, horário de funcionamento, site, áreas de atuação e fotos do escritório ou do profissional. O diferencial está nas avaliações — clientes satisfeitos que deixam avaliações positivas aumentam significativamente a credibilidade do perfil.
+      Para ter um perfil eficiente, preencha todas as informações: endereço, telefone, horário de funcionamento, site, áreas de atuação e fotos do escritório ou do profissional. O diferencial está nas avaliações , clientes satisfeitos que deixam avaliações positivas aumentam significativamente a credibilidade do perfil.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">LinkedIn para advogados</h2>
@@ -93,7 +93,7 @@ registerArticle('perfil-de-advogado', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Recomendações práticas: contrate um fotógrafo para uma sessão de fotos profissionais. Use roupas que condizem com sua área de atuação. Prefira fundo neutro ou um ambiente que remeta ao contexto profissional. Mantenha a expressão séria mas acessível — nem carrancudo, nem sorriso exagerado.
+      Recomendações práticas: contrate um fotógrafo para uma sessão de fotos profissionais. Use roupas que condizem com sua área de atuação. Prefira fundo neutro ou um ambiente que remeta ao contexto profissional. Mantenha a expressão séria mas acessível , nem carrancudo, nem sorriso exagerado.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Consistência entre canais</h2>
@@ -103,7 +103,7 @@ registerArticle('perfil-de-advogado', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Defina uma identidade visual (cores, tipografia, logotipo) e aplique em todos os canais. Use a mesma foto profissional em todos os perfis. Mantenha informações de contato atualizadas e consistentes. Essa coerência transmite organização e profissionalismo — qualidades que o cliente projeta na qualidade do serviço jurídico.
+      Defina uma identidade visual (cores, tipografia, logotipo) e aplique em todos os canais. Use a mesma foto profissional em todos os perfis. Mantenha informações de contato atualizadas e consistentes. Essa coerência transmite organização e profissionalismo , qualidades que o cliente projeta na qualidade do serviço jurídico.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que evitar</h2>

@@ -56,7 +56,7 @@ registerHtmlArticle('seo-local-como-aparecer-no-google-maps-quando-buscam-advoga
 
 <h3>Diretórios jurídicos e listas locais</h3>
 
-<p>Além do Google Meu Negócio, cadastre seu escritório em diretórios confiáveis como JusBrasil, Escavador, e também em listas de empresas locais como o Guia Mais ou Páginas Amarelas (sim, elas ainda existem e geram backlinks). O importante é que o NAP (Nome, Endereço, Telefone) seja idêntico em todos eles. Qualquer variação — como "Rua" vs "R." ou "Avenida" vs "Av." — pode confundir o Google e prejudicar seu ranking.</p>
+<p>Além do Google Meu Negócio, cadastre seu escritório em diretórios confiáveis como JusBrasil, Escavador, e também em listas de empresas locais como o Guia Mais ou Páginas Amarelas (sim, elas ainda existem e geram backlinks). O importante é que o NAP (Nome, Endereço, Telefone) seja idêntico em todos eles. Qualquer variação , como "Rua" vs "R." ou "Avenida" vs "Av." , pode confundir o Google e prejudicar seu ranking.</p>
 
 <h2>O papel do site na conversão do SEO local</h2>
 
@@ -66,7 +66,7 @@ registerHtmlArticle('seo-local-como-aparecer-no-google-maps-quando-buscam-advoga
 
 <p>Outro ponto que muitos ignoram: a velocidade do site impacta diretamente o SEO local. O Google prioriza sites que carregam rápido, especialmente em dispositivos móveis. Se o seu site demora 5 segundos pra abrir, você pode até estar na primeira posição do Maps, mas o cliente já vai ter clicado no segundo resultado antes de você carregar. É um desperdício de oportunidade.</p>
 
-<p>E não se esqueça do conteúdo do site. As páginas de área de atuação, como já falamos, precisam ser localizadas. Mas também é essencial que o site tenha uma página "Sobre" que conte a história do escritório e mostre a proximidade com a comunidade local. "Somos um escritório que atende a região da Zona Sul do Rio há mais de 10 anos" — isso soa natural e informa o Google sobre sua relevância geográfica.</p>
+<p>E não se esqueça do conteúdo do site. As páginas de área de atuação, como já falamos, precisam ser localizadas. Mas também é essencial que o site tenha uma página "Sobre" que conte a história do escritório e mostre a proximidade com a comunidade local. "Somos um escritório que atende a região da Zona Sul do Rio há mais de 10 anos" , isso soa natural e informa o Google sobre sua relevância geográfica.</p>
 
 <h2>Monitoramento e ajustes: o SEO local nunca está pronto</h2>
 

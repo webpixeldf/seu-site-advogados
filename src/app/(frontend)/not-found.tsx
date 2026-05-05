@@ -10,7 +10,7 @@ export default function NotFound() {
         </h1>
         <p className="text-gray-400 font-lexend leading-relaxed mb-8">
           A página que você procura não existe ou foi movida.
-          Mas não se preocupe — você pode voltar para a página inicial
+          Mas não se preocupe , você pode voltar para a página inicial
           ou explorar nosso conteúdo.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">

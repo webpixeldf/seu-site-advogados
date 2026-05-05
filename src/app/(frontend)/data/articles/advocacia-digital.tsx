@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('advocacia-digital', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      A advocacia digital deixou de ser tendência para se tornar realidade consolidada no Brasil. Com o avanço dos processos eletrônicos, audiências por videoconferência e a possibilidade de atender clientes de qualquer lugar do país, o escritório online se transformou em uma alternativa viável — e, em muitos casos, mais eficiente — ao modelo tradicional presencial.
+      A advocacia digital deixou de ser tendência para se tornar realidade consolidada no Brasil. Com o avanço dos processos eletrônicos, audiências por videoconferência e a possibilidade de atender clientes de qualquer lugar do país, o escritório online se transformou em uma alternativa viável , e, em muitos casos, mais eficiente , ao modelo tradicional presencial.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que é advocacia digital</h2>
@@ -13,7 +13,7 @@ registerArticle('advocacia-digital', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O conceito não se limita a ter um site ou perfil nas redes sociais. Um escritório de advocacia digital opera com infraestrutura tecnológica que substitui — parcial ou totalmente — o espaço físico tradicional. O advogado pode trabalhar de casa, de um coworking jurídico ou de qualquer local com acesso à internet.
+      O conceito não se limita a ter um site ou perfil nas redes sociais. Um escritório de advocacia digital opera com infraestrutura tecnológica que substitui , parcial ou totalmente , o espaço físico tradicional. O advogado pode trabalhar de casa, de um coworking jurídico ou de qualquer local com acesso à internet.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Como funciona um escritório online na prática</h2>
@@ -49,7 +49,7 @@ registerArticle('advocacia-digital', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A automação de tarefas repetitivas — como geração de contratos padronizados e envio de lembretes de prazos — libera tempo para que o advogado se dedique ao que realmente importa: a estratégia jurídica de cada caso.
+      A automação de tarefas repetitivas , como geração de contratos padronizados e envio de lembretes de prazos , libera tempo para que o advogado se dedique ao que realmente importa: a estratégia jurídica de cada caso.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Vantagens da advocacia digital</h2>
@@ -73,7 +73,7 @@ registerArticle('advocacia-digital', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Há também limitações práticas. Algumas diligências exigem presença física — audiências de instrução em determinadas varas, atendimento a clientes presos, reuniões com peritos e visitas a cartórios que ainda operam de forma analógica. O advogado digital precisa ter um plano para essas situações.
+      Há também limitações práticas. Algumas diligências exigem presença física , audiências de instrução em determinadas varas, atendimento a clientes presos, reuniões com peritos e visitas a cartórios que ainda operam de forma analógica. O advogado digital precisa ter um plano para essas situações.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Ferramentas essenciais para operar digitalmente</h2>
@@ -104,7 +104,7 @@ registerArticle('advocacia-digital', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Áreas jurídicas que mais se beneficiam do modelo digital</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Algumas áreas do Direito se adaptam melhor ao formato online. O Direito do Consumidor, por exemplo, lida com demandas que podem ser integralmente resolvidas por meios digitais — desde a análise documental até a audiência no Juizado Especial.
+      Algumas áreas do Direito se adaptam melhor ao formato online. O Direito do Consumidor, por exemplo, lida com demandas que podem ser integralmente resolvidas por meios digitais , desde a análise documental até a audiência no Juizado Especial.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

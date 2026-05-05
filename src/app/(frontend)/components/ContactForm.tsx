@@ -157,7 +157,7 @@ export default function ContactForm() {
       onSubmit={handleSubmit}
       className="bg-white rounded-2xl shadow-xl p-8 md:p-12 space-y-6"
     >
-      {/* Honeypot — invisible to users, bots fill it */}
+      {/* Honeypot , invisible to users, bots fill it */}
       <div className="absolute -left-[9999px]" aria-hidden="true">
         <label htmlFor="website">Deixe em branco</label>
         <input

@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('youtube-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O YouTube é a segunda maior plataforma de buscas do mundo, atrás apenas do Google. Milhões de brasileiros acessam a plataforma diariamente para tirar dúvidas, aprender algo novo e buscar soluções para problemas reais — inclusive problemas jurídicos. Para advogados que desejam construir autoridade e atrair clientes de forma orgânica, o YouTube representa uma oportunidade concreta. Mas será que vale a pena investir tempo e recursos nessa estratégia? Vamos analisar com profundidade.
+      O YouTube é a segunda maior plataforma de buscas do mundo, atrás apenas do Google. Milhões de brasileiros acessam a plataforma diariamente para tirar dúvidas, aprender algo novo e buscar soluções para problemas reais , inclusive problemas jurídicos. Para advogados que desejam construir autoridade e atrair clientes de forma orgânica, o YouTube representa uma oportunidade concreta. Mas será que vale a pena investir tempo e recursos nessa estratégia? Vamos analisar com profundidade.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Por que o YouTube faz sentido para advogados</h2>
@@ -44,7 +44,7 @@ registerArticle('youtube-para-advogados', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Formatos que geram resultados</h3>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Explicação de direitos:</strong> "Fui demitido sem justa causa — quais são meus direitos?", "Posso perder a guarda dos meus filhos?"</li>
+      <li><strong className="text-[#162a2a]">Explicação de direitos:</strong> "Fui demitido sem justa causa , quais são meus direitos?", "Posso perder a guarda dos meus filhos?"</li>
       <li><strong className="text-[#162a2a]">Passo a passo de processos:</strong> "Como dar entrada no divórcio consensual", "Como funciona a revisão do FGTS"</li>
       <li><strong className="text-[#162a2a]">Análise de mudanças legislativas:</strong> quando uma nova lei é aprovada, explicar seus impactos de forma acessível gera picos de busca.</li>
       <li><strong className="text-[#162a2a]">Desmistificação de mitos:</strong> "É verdade que herança de cônjuge não precisa de inventário?", "Quem bate atrás é sempre culpado?"</li>
@@ -89,7 +89,7 @@ registerArticle('youtube-para-advogados', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Mês 1 a 3: fundação</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Publique pelo menos um vídeo por semana. Foque em temas com volume de busca comprovado — use o autocomplete do YouTube para descobrir o que as pessoas estão pesquisando. Nessa fase, não se preocupe com perfeição. O objetivo é criar o hábito e melhorar a cada gravação.
+      Publique pelo menos um vídeo por semana. Foque em temas com volume de busca comprovado , use o autocomplete do YouTube para descobrir o que as pessoas estão pesquisando. Nessa fase, não se preocupe com perfeição. O objetivo é criar o hábito e melhorar a cada gravação.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Mês 3 a 6: otimização</h3>

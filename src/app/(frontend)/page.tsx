@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     title: 'Criação de Site para Advogado que Gera Clientes Todos os Dias',
     description: 'Sites rápidos, profissionais e otimizados para advogados. Design exclusivo, SEO técnico e estrutura de conversão. Veja nosso portfólio.',
     url: '/',
-    images: [{ url: '/images/site-para-advogado.jpg', width: 1200, height: 630, alt: 'Site profissional para escritório de advocacia — Seu Site Advogados' }],
+    images: [{ url: '/images/site-para-advogado.jpg', width: 1200, height: 630, alt: 'Site profissional para escritório de advocacia , Seu Site Advogados' }],
   },
   twitter: {
     card: 'summary_large_image',
@@ -61,7 +61,7 @@ const faqItems = [
   {
     pergunta: 'Quanto custa um site para escritório de advocacia?',
     resposta:
-      'Nossos projetos começam em 3 parcelas de R$ 260,00. Esse valor inclui design exclusivo, hospedagem no primeiro ano, e-mail profissional e suporte. Para sites maiores — com blog, múltiplas páginas de serviço e SEO local — o orçamento é ajustado conforme a complexidade. Enviamos uma proposta detalhada sem compromisso pelo WhatsApp.',
+      'Nossos projetos começam em 3 parcelas de R$ 260,00. Esse valor inclui design exclusivo, hospedagem no primeiro ano, e-mail profissional e suporte. Para sites maiores , com blog, múltiplas páginas de serviço e SEO local , o orçamento é ajustado conforme a complexidade. Enviamos uma proposta detalhada sem compromisso pelo WhatsApp.',
   },
   {
     pergunta: 'Qual o prazo de entrega?',
@@ -71,17 +71,17 @@ const faqItems = [
   {
     pergunta: 'O site realmente traz clientes ou é só um cartão de visita?',
     resposta:
-      'Traz clientes — quando bem feito. A lógica é simples: mais de 78% das pessoas pesquisam no Google antes de contratar um serviço jurídico. Se seu escritório aparece entre os primeiros resultados com um site profissional, claro e bem organizado, a chance de receber contato é real. Vários clientes nossos relatam consultas que chegaram exclusivamente pelo site.',
+      'Traz clientes , quando bem feito. A lógica é simples: mais de 78% das pessoas pesquisam no Google antes de contratar um serviço jurídico. Se seu escritório aparece entre os primeiros resultados com um site profissional, claro e bem organizado, a chance de receber contato é real. Vários clientes nossos relatam consultas que chegaram exclusivamente pelo site.',
   },
   {
     pergunta: 'Eu preciso escrever os textos do site?',
     resposta:
-      'Não. Nossa equipe de conteúdo produz todos os textos — da página inicial às descrições de áreas de atuação — com foco em clareza, conversão e respeito às regras de publicidade da OAB. Você revisa e aprova antes da publicação.',
+      'Não. Nossa equipe de conteúdo produz todos os textos , da página inicial às descrições de áreas de atuação , com foco em clareza, conversão e respeito às regras de publicidade da OAB. Você revisa e aprova antes da publicação.',
   },
   {
     pergunta: 'Sou advogado recém-formado. Um site serve para mim?',
     resposta:
-      'Serve — e pode ser o diferencial que acelera sua entrada no mercado. Enquanto a maioria dos iniciantes depende apenas de indicações e redes sociais, um site próprio permite que pessoas te encontrem diretamente, conheçam suas áreas de interesse e entrem em contato sem intermédio de ninguém.',
+      'Serve , e pode ser o diferencial que acelera sua entrada no mercado. Enquanto a maioria dos iniciantes depende apenas de indicações e redes sociais, um site próprio permite que pessoas te encontrem diretamente, conheçam suas áreas de interesse e entrem em contato sem intermédio de ninguém.',
   },
   {
     pergunta: 'Eu atendo sozinho. Vale a pena ter site?',
@@ -89,14 +89,14 @@ const faqItems = [
       'Sim. Na advocacia autônoma, cada minuto gasto explicando o básico é tempo que você deixa de advogar. Um site resolve isso: o potencial cliente chega na conversa já sabendo quem você é, o que faz e como funciona seu atendimento. Isso filtra contatos, reduz ruído e acelera a decisão de contratar.',
   },
   {
-    pergunta: 'Site próprio ou só redes sociais — qual a diferença prática?',
+    pergunta: 'Site próprio ou só redes sociais , qual a diferença prática?',
     resposta:
-      'No Instagram ou LinkedIn, você depende do algoritmo da plataforma para ser visto — e concorre com entretenimento. No Google, a pessoa já está procurando ativamente um advogado. Um site próprio interessa justamente a quem tem intenção de contratar. Além disso, é um ativo seu: você controla o conteúdo, o visual e a mensagem, sem risco de ter o perfil bloqueado ou a plataforma mudar as regras.',
+      'No Instagram ou LinkedIn, você depende do algoritmo da plataforma para ser visto , e concorre com entretenimento. No Google, a pessoa já está procurando ativamente um advogado. Um site próprio interessa justamente a quem tem intenção de contratar. Além disso, é um ativo seu: você controla o conteúdo, o visual e a mensagem, sem risco de ter o perfil bloqueado ou a plataforma mudar as regras.',
   },
   {
     pergunta: 'Qual a diferença entre site institucional e landing page?',
     resposta:
-      'A landing page tem foco único — geralmente um serviço, uma região ou uma campanha. É enxuta e feita para converter rápido. O site institucional é mais abrangente: comporta várias áreas de atuação, blog, página sobre o escritório, FAQ e uma estrutura pensada para crescer em tráfego orgânico ao longo do tempo. Muitos clientes começam com a landing e depois expandem para o site completo.',
+      'A landing page tem foco único , geralmente um serviço, uma região ou uma campanha. É enxuta e feita para converter rápido. O site institucional é mais abrangente: comporta várias áreas de atuação, blog, página sobre o escritório, FAQ e uma estrutura pensada para crescer em tráfego orgânico ao longo do tempo. Muitos clientes começam com a landing e depois expandem para o site completo.',
   },
 ]
 
@@ -223,7 +223,7 @@ export default function HomePage() {
             </h1>
             {/* Paragraphs */}
             <p className="text-gray-300 text-lg md:text-xl font-lexend leading-relaxed mb-6">
-              Fortaleça sua presença digital com sites rápidos, alto desempenho no PageSpeed Insights, design profissional e SEO técnico. Somos especializados em criação de site para advogado em todo o Brasil, gerando autoridade e contatos qualificados.
+              Fortaleça sua presença digital com sites rápidos, alto desempenho no PageSpeed Insights, design profissional e SEO técnico. Somos especializados em criação de site para advogado, gerando autoridade e contatos qualificados.
             </p>
 
             {/* Price */}
@@ -281,14 +281,8 @@ export default function HomePage() {
                 <span className="block w-16 h-1 bg-[#b58c61] rounded-full" />
               </div>
 
-              <p className="text-gray-600 font-lexend leading-relaxed mb-4">
-                É uma história que ouvimos quase toda semana: o advogado entrega um trabalho excelente, recebe elogios de clientes anteriores, mas os contatos novos não aparecem com regularidade. Um mês cheio, outro quase parado. E não há como prever.
-              </p>
-              <p className="text-gray-600 font-lexend leading-relaxed mb-4">
-                Indicação boca a boca sempre terá valor — ninguém discute isso. Mas depender exclusivamente dela é como navegar sem bússola: você não decide quando o próximo cliente vai ligar.
-              </p>
               <p className="text-gray-600 font-lexend leading-relaxed mb-8">
-                Um <strong>site para advogado</strong> bem estruturado muda essa dinâmica porque cria um canal ativo de presença digital — um lugar onde o potencial cliente te encontra, entende sua especialidade e decide entrar em contato, tudo no mesmo momento em que está pesquisando no Google.
+                Um <strong>site para advogado</strong> ou um escritório de advocacia bem estruturado muda essa dinâmica porque cria um canal ativo de presença digital, um lugar onde o potencial cliente te encontra, entende sua especialidade e decide entrar em contato, tudo no mesmo momento em que está pesquisando no Google.
               </p>
 
               <h3 className="text-xl font-bold text-[#162a2a] font-lexend mb-5">
@@ -313,10 +307,6 @@ export default function HomePage() {
                 ))}
               </div>
 
-              <p className="text-gray-600 font-lexend leading-relaxed mb-8">
-                Quando alguém pesquisa por um advogado, está comparando — mesmo sem saber. Um site profissional, com informações bem organizadas e visual cuidado, pesa muito nessa comparação silenciosa.
-              </p>
-
               <a
                 href={WHATSAPP_URL}
                 target="_blank"
@@ -336,17 +326,8 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
             title="Criação de site para advogado que gera confiança antes da consulta"
-            subtitle="O cliente jurídico chega com dúvida, certo receio e pressa para entender se o caso dele tem solução. A primeira impressão define se a conversa vai acontecer."
+            subtitle=""
           />
-
-          <div className="max-w-3xl mx-auto mb-12 space-y-4">
-            <p className="text-gray-600 font-lexend text-base md:text-lg leading-relaxed text-center">
-              Um site bem estruturado faz esse trabalho antes mesmo de você atender o telefone: mostra quem você é, organiza suas especialidades e antecipa as perguntas que todo cliente em potencial faz.
-            </p>
-            <p className="text-gray-600 font-lexend text-base md:text-lg leading-relaxed text-center">
-              Na prática, o impacto aparece em quatro frentes:
-            </p>
-          </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             <div className="bg-white rounded-2xl p-8 hover:shadow-xl transition-all duration-300 hover:-translate-y-1">
@@ -369,7 +350,7 @@ export default function HomePage() {
                 Independência de indicações
               </h3>
               <p className="text-gray-600 font-lexend text-sm leading-relaxed">
-                Seu site se torna um canal permanente de entrada de contatos. O cliente potencial te encontra pesquisando diretamente — sem precisar conhecer ninguém que indique seu nome.
+                Seu site se torna um canal permanente de entrada de contatos. O cliente potencial te encontra pesquisando diretamente , sem precisar conhecer ninguém que indique seu nome.
               </p>
             </div>
 
@@ -393,7 +374,7 @@ export default function HomePage() {
                 Imagem profissional sólida
               </h3>
               <p className="text-gray-600 font-lexend text-sm leading-relaxed">
-                Um site lento, desatualizado ou mal diagramado passa a impressão errada. Um projeto moderno, limpo e rápido comunica organização e cuidado — exatamente o que o cliente busca.
+                Um site lento, desatualizado ou mal diagramado passa a impressão errada. Um projeto moderno, limpo e rápido comunica organização e cuidado , exatamente o que o cliente busca.
               </p>
             </div>
           </div>
@@ -426,7 +407,7 @@ export default function HomePage() {
             <ServiceCard
               icon={<TrendingUp size={28} />}
               title="SEO aplicado desde o início"
-              description="Otimização não é uma camada extra que colocamos depois. Ela está na arquitetura das páginas, na hierarquia de headings, nas URLs, nas meta tags e na velocidade de carregamento — tudo pensado para o Google entender e ranquear seu site."
+              description="Otimização não é uma camada extra que colocamos depois. Ela está na arquitetura das páginas, na hierarquia de headings, nas URLs, nas meta tags e na velocidade de carregamento , tudo pensado para o Google entender e ranquear seu site."
               variant="dark"
             />
             <ServiceCard
@@ -438,7 +419,7 @@ export default function HomePage() {
             <ServiceCard
               icon={<Users size={28} />}
               title="Estrutura orientada a resultado"
-              description="Cada seção do site existe por um motivo: informar, reduzir objeções, gerar confiança e aproximar o visitante da decisão de contato. Nada é decorativo — tudo trabalha para converter."
+              description="Cada seção do site existe por um motivo: informar, reduzir objeções, gerar confiança e aproximar o visitante da decisão de contato. Nada é decorativo , tudo trabalha para converter."
               variant="dark"
             />
           </div>
@@ -460,10 +441,10 @@ export default function HomePage() {
               </div>
 
               <p className="text-gray-600 font-lexend leading-relaxed mb-4">
-                Cada projeto parte de três pilares: o posicionamento do escritório, as áreas de atuação e o perfil de cliente que você quer alcançar. Não existe receita pronta — o que funciona para um tributarista não serve para um criminalista, e vice-versa.
+                Cada projeto parte de três pilares: o posicionamento do escritório, as áreas de atuação e o perfil de cliente que você quer alcançar. Não existe receita pronta , o que funciona para um tributarista não serve para um criminalista, e vice-versa.
               </p>
               <p className="text-gray-600 font-lexend leading-relaxed mb-8">
-                Nosso objetivo vai além de entregar uma interface bonita. Construímos uma presença digital rápida, segura e preparada para performar nas buscas — o tipo de site que o Google entende e que o visitante confia.
+                Nosso objetivo vai além de entregar uma interface bonita. Construímos uma presença digital rápida, segura e preparada para performar nas buscas , o tipo de site que o Google entende e que o visitante confia.
               </p>
 
               <p className="text-gray-700 font-lexend font-semibold leading-relaxed mb-4">
@@ -572,7 +553,7 @@ export default function HomePage() {
           </div>
 
           <p className="text-gray-600 font-lexend leading-relaxed text-center max-w-3xl mx-auto">
-            O visual, a linguagem e a estrutura do site são pensados para traduzir o posicionamento do escritório — sem artificialidade, sem fórmulas prontas.
+            O visual, a linguagem e a estrutura do site são pensados para traduzir o posicionamento do escritório , sem artificialidade, sem fórmulas prontas.
           </p>
         </div>
       </section>
@@ -623,7 +604,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
             title="Etapas para a criação de um site para advocacia"
-            subtitle="Da primeira conversa até o site no ar — entenda cada etapa do nosso processo."
+            subtitle="Da primeira conversa até o site no ar , entenda cada etapa do nosso processo."
             light
           />
 
@@ -644,7 +625,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-white font-lexend font-bold text-lg mb-3">2. Planejamento</h3>
               <p className="text-gray-400 font-lexend text-sm leading-relaxed">
-                Mapeamos as páginas necessárias, organizamos a hierarquia de informação, definimos os pontos de contato e traçamos a estratégia de SEO — palavra por palavra, seção por seção.
+                Mapeamos as páginas necessárias, organizamos a hierarquia de informação, definimos os pontos de contato e traçamos a estratégia de SEO , palavra por palavra, seção por seção.
               </p>
             </div>
 
@@ -654,7 +635,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-white font-lexend font-bold text-lg mb-3">3. Conteúdo e layout</h3>
               <p className="text-gray-400 font-lexend text-sm leading-relaxed">
-                Produzimos os textos e criamos o design. Você recebe o material completo para revisão — layout, redação e fluxo de navegação — antes de qualquer linha de código.
+                Produzimos os textos e criamos o design. Você recebe o material completo para revisão , layout, redação e fluxo de navegação , antes de qualquer linha de código.
               </p>
             </div>
 
@@ -664,7 +645,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-white font-lexend font-bold text-lg mb-3">4. Desenvolvimento</h3>
               <p className="text-gray-400 font-lexend text-sm leading-relaxed">
-                Programamos com foco em três pilares: velocidade de carregamento, adaptação a qualquer dispositivo e SEO técnico — meta tags, dados estruturados, sitemap e indexação.
+                Programamos com foco em três pilares: velocidade de carregamento, adaptação a qualquer dispositivo e SEO técnico , meta tags, dados estruturados, sitemap e indexação.
               </p>
             </div>
 
@@ -684,7 +665,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-white font-lexend font-bold text-lg mb-3">6. Acompanhamento</h3>
               <p className="text-gray-400 font-lexend text-sm leading-relaxed">
-                Após a entrega, você conta com suporte para ajustes, atualizações e dúvidas. Mantemos o relacionamento ativo porque site parado perde posição — e a gente não deixa isso acontecer.
+                Após a entrega, você conta com suporte para ajustes, atualizações e dúvidas. Mantemos o relacionamento ativo porque site parado perde posição , e a gente não deixa isso acontecer.
               </p>
             </div>
           </div>
@@ -846,14 +827,14 @@ export default function HomePage() {
           />
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 mt-10">
             {[
-              { slug: 'sao-paulo', anchor: 'São Paulo — SP' },
-              { slug: 'rio-de-janeiro', anchor: 'Rio de Janeiro — RJ' },
-              { slug: 'belo-horizonte', anchor: 'Belo Horizonte — MG' },
-              { slug: 'curitiba', anchor: 'Curitiba — PR' },
-              { slug: 'porto-alegre', anchor: 'Porto Alegre — RS' },
-              { slug: 'salvador', anchor: 'Salvador — BA' },
-              { slug: 'fortaleza', anchor: 'Fortaleza — CE' },
-              { slug: 'recife', anchor: 'Recife — PE' },
+              { slug: 'sao-paulo', anchor: 'São Paulo , SP' },
+              { slug: 'rio-de-janeiro', anchor: 'Rio de Janeiro , RJ' },
+              { slug: 'belo-horizonte', anchor: 'Belo Horizonte , MG' },
+              { slug: 'curitiba', anchor: 'Curitiba , PR' },
+              { slug: 'porto-alegre', anchor: 'Porto Alegre , RS' },
+              { slug: 'salvador', anchor: 'Salvador , BA' },
+              { slug: 'fortaleza', anchor: 'Fortaleza , CE' },
+              { slug: 'recife', anchor: 'Recife , PE' },
             ].map((c) => (
               <Link
                 key={c.slug}
@@ -884,7 +865,7 @@ export default function HomePage() {
             Seu escritório merece um site à altura do seu trabalho
           </h2>
           <p className="text-gray-300 font-lexend text-lg md:text-xl leading-relaxed mb-10 max-w-2xl mx-auto">
-            Uma conversa rápida já é suficiente para traçarmos um caminho claro para o seu projeto — sem compromisso, sem letra miúda.
+            Uma conversa rápida já é suficiente para traçarmos um caminho claro para o seu projeto , sem compromisso, sem letra miúda.
           </p>
           <a
             href={WHATSAPP_URL}

@@ -25,7 +25,7 @@ registerArticle('posts-para-advogados', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Conteúdo de autoridade: mostrando experiência</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Além de educar, é importante mostrar que você tem prática real. Isso não significa divulgar resultados de processos — o que seria antiético — mas compartilhar experiências de forma adequada.
+      Além de educar, é importante mostrar que você tem prática real. Isso não significa divulgar resultados de processos , o que seria antiético , mas compartilhar experiências de forma adequada.
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
@@ -69,7 +69,7 @@ registerArticle('posts-para-advogados', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Planejamento: como manter a consistência</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O maior desafio não é criar um post — é manter a regularidade. A solução é planejar com antecedência. Reserve um período por semana (uma ou duas horas) para criar o conteúdo da semana seguinte. Use ferramentas de agendamento como o Meta Business Suite (para Instagram e Facebook) ou o Buffer para programar as publicações.
+      O maior desafio não é criar um post , é manter a regularidade. A solução é planejar com antecedência. Reserve um período por semana (uma ou duas horas) para criar o conteúdo da semana seguinte. Use ferramentas de agendamento como o Meta Business Suite (para Instagram e Facebook) ou o Buffer para programar as publicações.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -95,11 +95,11 @@ registerArticle('posts-para-advogados', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Limites éticos a observar</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O Provimento 205/2021 permitiu mais liberdade para advogados nas redes sociais, mas alguns limites permanecem. Não divulgue valores de causas, não faça promessas de resultado e não use linguagem sensacionalista. Conteúdo educativo e informativo está liberado — captação mercantilista continua proibida. Na dúvida, pergunte-se: "Este post informa ou vende?" Se a resposta for a segunda, revise.
+      O Provimento 205/2021 permitiu mais liberdade para advogados nas redes sociais, mas alguns limites permanecem. Não divulgue valores de causas, não faça promessas de resultado e não use linguagem sensacionalista. Conteúdo educativo e informativo está liberado , captação mercantilista continua proibida. Na dúvida, pergunte-se: "Este post informa ou vende?" Se a resposta for a segunda, revise.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Produzir conteúdo para redes sociais não é desviar do trabalho jurídico — é uma extensão dele. Cada post é uma oportunidade de educar, demonstrar competência e se conectar com pessoas que podem precisar do seu serviço. Combinado com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para captação de clientes jurídicos</a>, o conteúdo nas redes sociais forma uma estratégia completa. O advogado que domina essa habilidade está um passo à frente no mercado.
+      Produzir conteúdo para redes sociais não é desviar do trabalho jurídico , é uma extensão dele. Cada post é uma oportunidade de educar, demonstrar competência e se conectar com pessoas que podem precisar do seu serviço. Combinado com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para captação de clientes jurídicos</a>, o conteúdo nas redes sociais forma uma estratégia completa. O advogado que domina essa habilidade está um passo à frente no mercado.
     </p>
   </>
 ))

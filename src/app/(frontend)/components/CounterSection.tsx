@@ -8,9 +8,9 @@ interface CounterItem {
 }
 
 const counters: CounterItem[] = [
-  { value: 52, suffix: '+', label: 'Sites Entregues' },
-  { value: 7, suffix: '', label: 'Anos de Mercado' },
-  { value: 52, suffix: '+', label: 'Clientes Atendidos' },
+  { value: 150, suffix: '+', label: 'Sites Entregues' },
+  { value: 20, suffix: '+', label: 'Anos de Mercado' },
+  { value: 140, suffix: '+', label: 'Clientes Atendidos' },
   { value: 90, suffix: '+', label: 'Posts no Blog' },
 ]
 

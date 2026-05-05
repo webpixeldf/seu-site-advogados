@@ -17,7 +17,7 @@ registerArticle('landing-page-de-alta-conversao-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Advogados que investem em tráfego pago — Google Ads ou Meta Ads — precisam de landing pages. Direcionar anúncios para a página inicial de um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado iniciante</a> genérico desperdiça dinheiro. O visitante chega, não encontra rapidamente o que procurava e sai. Uma landing page elimina distrações e conduz o visitante para a conversão.
+      Advogados que investem em tráfego pago , Google Ads ou Meta Ads , precisam de landing pages. Direcionar anúncios para a página inicial de um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado iniciante</a> genérico desperdiça dinheiro. O visitante chega, não encontra rapidamente o que procurava e sai. Uma landing page elimina distrações e conduz o visitante para a conversão.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Headline: o primeiro elemento que o visitante lê</h2>
@@ -27,7 +27,7 @@ registerArticle('landing-page-de-alta-conversao-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Headlines eficazes para advogados falam diretamente sobre o problema do cliente. Exemplos práticos: "Sofreu um acidente de trabalho? Saiba quais são seus direitos e como buscar indenização" ou "Divórcio sem desgaste — resolva sua situação com segurança jurídica". A headline deve ser específica, clara e gerar identificação imediata.
+      Headlines eficazes para advogados falam diretamente sobre o problema do cliente. Exemplos práticos: "Sofreu um acidente de trabalho? Saiba quais são seus direitos e como buscar indenização" ou "Divórcio sem desgaste , resolva sua situação com segurança jurídica". A headline deve ser específica, clara e gerar identificação imediata.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -54,7 +54,7 @@ registerArticle('landing-page-de-alta-conversao-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Posicione o formulário acima da dobra — ou seja, visível sem precisar rolar a página. Se a landing page for longa, repita o formulário ou o botão de CTA em diferentes pontos da página. Muitos visitantes decidem entrar em contato depois de ler uma seção específica, e ter o formulário por perto nesse momento aumenta as chances de conversão.
+      Posicione o formulário acima da dobra , ou seja, visível sem precisar rolar a página. Se a landing page for longa, repita o formulário ou o botão de CTA em diferentes pontos da página. Muitos visitantes decidem entrar em contato depois de ler uma seção específica, e ter o formulário por perto nesse momento aumenta as chances de conversão.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -92,7 +92,7 @@ registerArticle('landing-page-de-alta-conversao-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      No mobile, o espaço é limitado. A headline precisa ser curta e legível. O formulário deve ter campos grandes o suficiente para tocar confortavelmente. O botão de CTA precisa ocupar boa parte da largura da tela. Imagens pesadas devem ser otimizadas para não prejudicar o tempo de carregamento — cada segundo a mais de loading pode reduzir a conversão em até 20%.
+      No mobile, o espaço é limitado. A headline precisa ser curta e legível. O formulário deve ter campos grandes o suficiente para tocar confortavelmente. O botão de CTA precisa ocupar boa parte da largura da tela. Imagens pesadas devem ser otimizadas para não prejudicar o tempo de carregamento , cada segundo a mais de loading pode reduzir a conversão em até 20%.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -110,7 +110,7 @@ registerArticle('landing-page-de-alta-conversao-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Ferramentas como Google Optimize, VWO ou até funcionalidades nativas de construtores de landing pages permitem rodar testes A/B sem necessidade de conhecimento técnico avançado. O importante é ter volume de tráfego suficiente para que os resultados sejam estatisticamente relevantes — geralmente pelo menos 100 conversões por variação.
+      Ferramentas como Google Optimize, VWO ou até funcionalidades nativas de construtores de landing pages permitem rodar testes A/B sem necessidade de conhecimento técnico avançado. O importante é ter volume de tráfego suficiente para que os resultados sejam estatisticamente relevantes , geralmente pelo menos 100 conversões por variação.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Erros comuns em landing pages jurídicas</h2>
@@ -134,7 +134,7 @@ registerArticle('landing-page-de-alta-conversao-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O investimento em uma landing page bem feita se paga rapidamente quando combinado com tráfego qualificado. Cada elemento descrito aqui pode ser implementado gradualmente. Comece pelo básico — headline, formulário e CTA — e vá adicionando prova social, trust signals e testes A/B conforme os resultados começarem a aparecer. O segredo está em medir, ajustar e repetir.
+      O investimento em uma landing page bem feita se paga rapidamente quando combinado com tráfego qualificado. Cada elemento descrito aqui pode ser implementado gradualmente. Comece pelo básico , headline, formulário e CTA , e vá adicionando prova social, trust signals e testes A/B conforme os resultados começarem a aparecer. O segredo está em medir, ajustar e repetir.
     </p>
   </>
 ))

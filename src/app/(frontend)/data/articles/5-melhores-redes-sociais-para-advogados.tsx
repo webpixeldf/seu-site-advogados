@@ -81,7 +81,7 @@ registerArticle('5-melhores-redes-sociais-para-advogados', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">4. TikTok</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O TikTok deixou de ser uma rede apenas para adolescentes. No Brasil, a plataforma tem mais de 80 milhões de usuários, com uma base crescente na faixa dos 25 a 45 anos — exatamente o público que consome serviços jurídicos. Advogados que criam conteúdo nessa plataforma relatam alcance orgânico que nenhuma outra rede oferece atualmente.
+      O TikTok deixou de ser uma rede apenas para adolescentes. No Brasil, a plataforma tem mais de 80 milhões de usuários, com uma base crescente na faixa dos 25 a 45 anos , exatamente o público que consome serviços jurídicos. Advogados que criam conteúdo nessa plataforma relatam alcance orgânico que nenhuma outra rede oferece atualmente.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Para quem funciona melhor</h3>

@@ -19,7 +19,7 @@ registerArticle('melhor-cor-para-advogado', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Quando um potencial cliente acessa um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado iniciante</a> ou de um escritório consolidado, a paleta de cores é processada pelo cérebro antes mesmo do conteúdo textual. Cores escuras e sóbrias tendem a ativar associações de profissionalismo e estabilidade. Cores vibrantes e saturadas podem gerar uma sensação de energia que, no contexto jurídico, nem sempre é positiva — o cliente quer segurança, não agitação.
+      Quando um potencial cliente acessa um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado iniciante</a> ou de um escritório consolidado, a paleta de cores é processada pelo cérebro antes mesmo do conteúdo textual. Cores escuras e sóbrias tendem a ativar associações de profissionalismo e estabilidade. Cores vibrantes e saturadas podem gerar uma sensação de energia que, no contexto jurídico, nem sempre é positiva , o cliente quer segurança, não agitação.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -35,11 +35,11 @@ registerArticle('melhor-cor-para-advogado', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Bancos, seguradoras e instituições governamentais usam azul-marinho pelas mesmas razões. Quando um escritório de advocacia adota essa cor, ele se posiciona automaticamente nesse universo de instituições confiáveis. O azul-marinho também tem a vantagem de ser versátil — combina bem com branco, cinza, dourado e praticamente qualquer cor neutra.
+      Bancos, seguradoras e instituições governamentais usam azul-marinho pelas mesmas razões. Quando um escritório de advocacia adota essa cor, ele se posiciona automaticamente nesse universo de instituições confiáveis. O azul-marinho também tem a vantagem de ser versátil , combina bem com branco, cinza, dourado e praticamente qualquer cor neutra.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A desvantagem do azul-marinho é justamente sua popularidade. Muitos escritórios usam essa cor, o que pode dificultar a diferenciação. Se a sua região tem dezenas de escritórios com sites em azul-marinho, considere variações — azul-petróleo, azul-acinzentado — ou combine o azul com uma cor de apoio menos convencional para se destacar sem perder a seriedade.
+      A desvantagem do azul-marinho é justamente sua popularidade. Muitos escritórios usam essa cor, o que pode dificultar a diferenciação. Se a sua região tem dezenas de escritórios com sites em azul-marinho, considere variações , azul-petróleo, azul-acinzentado , ou combine o azul com uma cor de apoio menos convencional para se destacar sem perder a seriedade.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -47,7 +47,7 @@ registerArticle('melhor-cor-para-advogado', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O verde-escuro é uma alternativa elegante ao azul para advogados que querem se diferenciar mantendo a sobriedade. Ele transmite equilíbrio, crescimento, harmonia e estabilidade. Na cultura ocidental, o verde também está associado à justiça e à imparcialidade — não por acaso, mesas de tribunais historicamente usam tecido verde.
+      O verde-escuro é uma alternativa elegante ao azul para advogados que querem se diferenciar mantendo a sobriedade. Ele transmite equilíbrio, crescimento, harmonia e estabilidade. Na cultura ocidental, o verde também está associado à justiça e à imparcialidade , não por acaso, mesas de tribunais historicamente usam tecido verde.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -63,7 +63,7 @@ registerArticle('melhor-cor-para-advogado', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O bordô — também chamado de vinho ou marsala — é uma cor que comunica autoridade, poder e sofisticação. Ele carrega a energia do vermelho, mas em uma versão contida e madura. Enquanto o vermelho puro pode parecer agressivo ou comercial demais para a advocacia, o bordô mantém a intensidade sob controle e transmite peso e presença.
+      O bordô , também chamado de vinho ou marsala , é uma cor que comunica autoridade, poder e sofisticação. Ele carrega a energia do vermelho, mas em uma versão contida e madura. Enquanto o vermelho puro pode parecer agressivo ou comercial demais para a advocacia, o bordô mantém a intensidade sob controle e transmite peso e presença.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -79,7 +79,7 @@ registerArticle('melhor-cor-para-advogado', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O dourado é a cor do prestígio, da excelência e da tradição. Na advocacia, ele funciona como um acento que eleva a percepção de qualidade da marca. Detalhes em dourado — no logotipo, em linhas divisórias, em ícones ou em bordas de cartão de visita — adicionam uma camada de sofisticação que poucas outras cores conseguem.
+      O dourado é a cor do prestígio, da excelência e da tradição. Na advocacia, ele funciona como um acento que eleva a percepção de qualidade da marca. Detalhes em dourado , no logotipo, em linhas divisórias, em ícones ou em bordas de cartão de visita , adicionam uma camada de sofisticação que poucas outras cores conseguem.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -99,7 +99,7 @@ registerArticle('melhor-cor-para-advogado', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Vermelho vivo:</strong> associado a urgência, perigo e agressividade. Pode funcionar como pequeno acento em botões de ação, mas como cor principal transmite agitação — o oposto de confiança.</li>
+      <li><strong className="text-[#162a2a]">Vermelho vivo:</strong> associado a urgência, perigo e agressividade. Pode funcionar como pequeno acento em botões de ação, mas como cor principal transmite agitação , o oposto de confiança.</li>
       <li><strong className="text-[#162a2a]">Laranja:</strong> transmite energia e acessibilidade, mas pode parecer informal demais para o contexto jurídico. Funciona para escritórios voltados a startups, mas é arriscado para atuações mais tradicionais.</li>
       <li><strong className="text-[#162a2a]">Amarelo:</strong> otimismo e atenção, mas também pode ser associado a cautela. Em grandes quantidades, cansa a vista e dificulta a leitura. Pode funcionar como acento mínimo.</li>
       <li><strong className="text-[#162a2a]">Rosa e lilás:</strong> não são tradicionalmente associados à advocacia. Podem funcionar em nichos específicos, como direito de família ou direito da mulher, mas exigem execução muito cuidadosa para não comprometer a percepção de seriedade.</li>
@@ -131,7 +131,7 @@ registerArticle('melhor-cor-para-advogado', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Para garantir essa coerência, registre os códigos exatos de cada cor: hexadecimal para digital, CMYK para impressão. Crie um documento simples com essas referências e compartilhe com qualquer pessoa que produza materiais para o escritório — seja um designer, uma gráfica ou você mesmo usando o Canva.
+      Para garantir essa coerência, registre os códigos exatos de cada cor: hexadecimal para digital, CMYK para impressão. Crie um documento simples com essas referências e compartilhe com qualquer pessoa que produza materiais para o escritório , seja um designer, uma gráfica ou você mesmo usando o Canva.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

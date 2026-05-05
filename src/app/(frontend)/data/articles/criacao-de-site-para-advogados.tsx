@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('criacao-de-site-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Um site profissional é a base da presença digital de qualquer escritório de advocacia. Diferente das redes sociais, onde o conteúdo é efêmero e o alcance depende de algoritmos, o site é um espaço próprio do advogado — controlado, permanente e encontrável no Google. Este guia aborda os elementos essenciais, os custos envolvidos e os critérios para escolher a melhor solução.
+      Um site profissional é a base da presença digital de qualquer escritório de advocacia. Diferente das redes sociais, onde o conteúdo é efêmero e o alcance depende de algoritmos, o site é um espaço próprio do advogado , controlado, permanente e encontrável no Google. Este guia aborda os elementos essenciais, os custos envolvidos e os critérios para escolher a melhor solução.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Por que todo advogado precisa de um site</h2>
@@ -27,7 +27,7 @@ registerArticle('criacao-de-site-para-advogados', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Página sobre o advogado ou escritório</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      A página "Sobre" é uma das mais visitadas em sites de advogados. O cliente quer saber quem é o profissional antes de confiar nele. Inclua formação acadêmica, especializações, tempo de atuação, número da OAB e uma foto profissional. Escreva em primeira pessoa e com naturalidade — a página "Sobre" é onde a conexão humana acontece.
+      A página "Sobre" é uma das mais visitadas em sites de advogados. O cliente quer saber quem é o profissional antes de confiar nele. Inclua formação acadêmica, especializações, tempo de atuação, número da OAB e uma foto profissional. Escreva em primeira pessoa e com naturalidade , a página "Sobre" é onde a conexão humana acontece.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Áreas de atuação detalhadas</h3>
@@ -51,7 +51,7 @@ registerArticle('criacao-de-site-para-advogados', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Depoimentos de clientes</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Uma seção com depoimentos reais de clientes satisfeitos reforça a confiança do visitante. Use depoimentos que destaquem qualidades como atendimento, transparência e competência — sem mencionar valores de causas ou garantir resultados, respeitando o Código de Ética.
+      Uma seção com depoimentos reais de clientes satisfeitos reforça a confiança do visitante. Use depoimentos que destaquem qualidades como atendimento, transparência e competência , sem mencionar valores de causas ou garantir resultados, respeitando o Código de Ética.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Quanto custa criar um site para advogado</h2>

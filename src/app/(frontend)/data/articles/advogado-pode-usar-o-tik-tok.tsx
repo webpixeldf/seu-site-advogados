@@ -9,17 +9,17 @@ registerArticle('advogado-pode-usar-o-tik-tok', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Por que o TikTok merece atenção</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O TikTok tem mais de 80 milhões de usuários ativos no Brasil. A base de usuários, que inicialmente era dominada por adolescentes, hoje inclui uma parcela significativa de adultos entre 25 e 45 anos — o público que mais demanda serviços jurídicos. A plataforma oferece algo que nenhuma outra rede social oferece na mesma proporção: alcance orgânico massivo para contas novas e pequenas.
+      O TikTok tem mais de 80 milhões de usuários ativos no Brasil. A base de usuários, que inicialmente era dominada por adolescentes, hoje inclui uma parcela significativa de adultos entre 25 e 45 anos , o público que mais demanda serviços jurídicos. A plataforma oferece algo que nenhuma outra rede social oferece na mesma proporção: alcance orgânico massivo para contas novas e pequenas.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Enquanto no Instagram uma conta nova leva meses para ganhar os primeiros mil seguidores, no TikTok um único vídeo relevante pode atingir centenas de milhares de visualizações. Isso acontece porque o algoritmo do TikTok distribui conteúdo com base no interesse do usuário, não no tamanho da conta. Para advogados que estão começando sua presença digital — inclusive com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado</a> —, essa é uma vantagem enorme.
+      Enquanto no Instagram uma conta nova leva meses para ganhar os primeiros mil seguidores, no TikTok um único vídeo relevante pode atingir centenas de milhares de visualizações. Isso acontece porque o algoritmo do TikTok distribui conteúdo com base no interesse do usuário, não no tamanho da conta. Para advogados que estão começando sua presença digital , inclusive com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado</a> ,, essa é uma vantagem enorme.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Limites éticos no TikTok</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      As mesmas regras que se aplicam a qualquer rede social valem para o TikTok. O formato da plataforma — vídeos curtos, informais e diretos — pode criar a tentação de ultrapassar limites. Conhecê-los evita problemas.
+      As mesmas regras que se aplicam a qualquer rede social valem para o TikTok. O formato da plataforma , vídeos curtos, informais e diretos , pode criar a tentação de ultrapassar limites. Conhecê-los evita problemas.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Proibido: captação direta de clientela</h3>
@@ -31,7 +31,7 @@ registerArticle('advogado-pode-usar-o-tik-tok', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Proibido: divulgar resultados financeiros</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      "Consegui R$ 100 mil para meu cliente em uma causa trabalhista" é o tipo de conteúdo que viraliza facilmente no TikTok — e que pode gerar processo disciplinar na OAB. A divulgação de valores obtidos em processos é considerada publicidade mercantilista. O formato de "storytelling" do TikTok torna essa tentação particularmente forte, então mantenha a vigilância.
+      "Consegui R$ 100 mil para meu cliente em uma causa trabalhista" é o tipo de conteúdo que viraliza facilmente no TikTok , e que pode gerar processo disciplinar na OAB. A divulgação de valores obtidos em processos é considerada publicidade mercantilista. O formato de "storytelling" do TikTok torna essa tentação particularmente forte, então mantenha a vigilância.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Proibido: sensacionalismo e espetacularização</h3>
@@ -68,13 +68,13 @@ registerArticle('advogado-pode-usar-o-tik-tok', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Linguagem e tom</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O TikTok é uma plataforma informal. Isso não significa ser vulgar ou descuidado — significa falar como se estivesse explicando algo para um amigo. Abandone o juridiquês. Use frases curtas. Vá direto ao ponto. Os primeiros três segundos do vídeo determinam se a pessoa vai continuar assistindo, então comece com uma frase que capture a atenção imediatamente.
+      O TikTok é uma plataforma informal. Isso não significa ser vulgar ou descuidado , significa falar como se estivesse explicando algo para um amigo. Abandone o juridiquês. Use frases curtas. Vá direto ao ponto. Os primeiros três segundos do vídeo determinam se a pessoa vai continuar assistindo, então comece com uma frase que capture a atenção imediatamente.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Frequência de publicação</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O algoritmo do TikTok favorece contas que publicam com frequência. O ideal é de três a cinco vídeos por semana. Se parecer muito, comece com dois por semana e aumente gradualmente. Reserve um período — por exemplo, uma hora no sábado — para gravar vários vídeos de uma vez e programe as publicações ao longo da semana.
+      O algoritmo do TikTok favorece contas que publicam com frequência. O ideal é de três a cinco vídeos por semana. Se parecer muito, comece com dois por semana e aumente gradualmente. Reserve um período , por exemplo, uma hora no sábado , para gravar vários vídeos de uma vez e programe as publicações ao longo da semana.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Hashtags e descrição</h3>
@@ -86,11 +86,11 @@ registerArticle('advogado-pode-usar-o-tik-tok', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Advogados que se destacam no TikTok</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Existem vários perfis de advogados brasileiros que construíram audiências expressivas no TikTok com conteúdo ético e informativo. Observe como eles estruturam os vídeos, qual linguagem usam, como iniciam cada vídeo e com que frequência publicam. Não copie — aprenda com o que funciona e adapte para sua área e personalidade.
+      Existem vários perfis de advogados brasileiros que construíram audiências expressivas no TikTok com conteúdo ético e informativo. Observe como eles estruturam os vídeos, qual linguagem usam, como iniciam cada vídeo e com que frequência publicam. Não copie , aprenda com o que funciona e adapte para sua área e personalidade.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O TikTok é uma ferramenta, e como toda ferramenta, pode ser usada bem ou mal. Para advogados que entendem os limites éticos e investem em conteúdo de qualidade, a plataforma oferece uma oportunidade sem precedentes de alcançar milhares de potenciais clientes com investimento financeiro zero. O pré-requisito não é ser extrovertido ou engraçado — é ser claro, útil e consistente.
+      O TikTok é uma ferramenta, e como toda ferramenta, pode ser usada bem ou mal. Para advogados que entendem os limites éticos e investem em conteúdo de qualidade, a plataforma oferece uma oportunidade sem precedentes de alcançar milhares de potenciais clientes com investimento financeiro zero. O pré-requisito não é ser extrovertido ou engraçado , é ser claro, útil e consistente.
     </p>
   </>
 ))

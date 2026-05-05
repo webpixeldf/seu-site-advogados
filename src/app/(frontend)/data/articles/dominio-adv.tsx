@@ -13,7 +13,7 @@ registerArticle('dominio-adv', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que é o domínio .adv.br</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Domínio é o endereço que as pessoas digitam no navegador para acessar um site. Por exemplo: "escritoriosilva.adv.br". A extensão .adv.br é uma das categorias de domínio restrito gerenciadas pelo Registro.br — o órgão responsável pelo registro de domínios no Brasil, vinculado ao NIC.br.
+      Domínio é o endereço que as pessoas digitam no navegador para acessar um site. Por exemplo: "escritoriosilva.adv.br". A extensão .adv.br é uma das categorias de domínio restrito gerenciadas pelo Registro.br , o órgão responsável pelo registro de domínios no Brasil, vinculado ao NIC.br.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -55,7 +55,7 @@ registerArticle('dominio-adv', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Passo 2: Verificar disponibilidade do domínio</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Na página inicial do Registro.br, use a ferramenta de busca para verificar se o domínio desejado está disponível. Digite o nome que deseja — por exemplo, "escritoriosilva" — e selecione a extensão .adv.br. O sistema informará se o domínio está livre para registro ou se já foi registrado por outra pessoa.
+      Na página inicial do Registro.br, use a ferramenta de busca para verificar se o domínio desejado está disponível. Digite o nome que deseja , por exemplo, "escritoriosilva" , e selecione a extensão .adv.br. O sistema informará se o domínio está livre para registro ou se já foi registrado por outra pessoa.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -99,7 +99,7 @@ registerArticle('dominio-adv', () => (
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Familiaridade:</strong> o público em geral está mais acostumado com endereços .com.br. Algumas pessoas podem estranhar a extensão .adv.br ou não saber digitá-la corretamente.</li>
-      <li><strong className="text-[#162a2a]">Flexibilidade:</strong> se o escritório eventualmente expandir para áreas além da advocacia pura — consultoria empresarial, por exemplo — o .com.br é mais versátil.</li>
+      <li><strong className="text-[#162a2a]">Flexibilidade:</strong> se o escritório eventualmente expandir para áreas além da advocacia pura , consultoria empresarial, por exemplo , o .com.br é mais versátil.</li>
       <li><strong className="text-[#162a2a]">Facilidade de registro:</strong> não exige validação na OAB, o que torna o processo mais rápido e simples.</li>
     </ul>
 
@@ -112,7 +112,7 @@ registerArticle('dominio-adv', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Configuração de DNS: como conectar o domínio ao site</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Registrar o domínio é apenas o primeiro passo. Para que ele funcione e exiba seu site quando alguém digitar o endereço no navegador, é preciso configurar o DNS (Domain Name System). O DNS é o sistema que traduz o nome do domínio em um endereço IP — o número que identifica o servidor onde o site está hospedado.
+      Registrar o domínio é apenas o primeiro passo. Para que ele funcione e exiba seu site quando alguém digitar o endereço no navegador, é preciso configurar o DNS (Domain Name System). O DNS é o sistema que traduz o nome do domínio em um endereço IP , o número que identifica o servidor onde o site está hospedado.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Opção 1: Usar o DNS do Registro.br</h3>
@@ -134,7 +134,7 @@ registerArticle('dominio-adv', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A propagação do DNS — o tempo que leva para a configuração se espalhar por todos os servidores da internet — pode levar de algumas horas até 48 horas. Durante esse período, o site pode ficar intermitentemente acessível. Isso é normal e temporário.
+      A propagação do DNS , o tempo que leva para a configuração se espalhar por todos os servidores da internet , pode levar de algumas horas até 48 horas. Durante esse período, o site pode ficar intermitentemente acessível. Isso é normal e temporário.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">E-mail profissional com domínio .adv.br</h2>
@@ -150,7 +150,7 @@ registerArticle('dominio-adv', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Cuidados com a renovação e manutenção do domínio</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Domínios precisam ser renovados anualmente. Se o pagamento não for efetuado até a data de vencimento, o domínio entra em período de expiração e, após um prazo, é liberado para registro por qualquer outra pessoa. Perder um domínio pode ser desastroso — alguém pode registrá-lo e você perde o endereço do seu site, os e-mails profissionais e todo o histórico de SEO associado.
+      Domínios precisam ser renovados anualmente. Se o pagamento não for efetuado até a data de vencimento, o domínio entra em período de expiração e, após um prazo, é liberado para registro por qualquer outra pessoa. Perder um domínio pode ser desastroso , alguém pode registrá-lo e você perde o endereço do seu site, os e-mails profissionais e todo o histórico de SEO associado.
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
@@ -162,7 +162,7 @@ registerArticle('dominio-adv', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Considerações finais</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O domínio .adv.br é mais do que um endereço na internet — é uma declaração de identidade profissional. Ele comunica imediatamente que o site pertence a um advogado ou escritório regularmente inscrito na OAB, o que reforça a credibilidade perante clientes e colegas de profissão.
+      O domínio .adv.br é mais do que um endereço na internet , é uma declaração de identidade profissional. Ele comunica imediatamente que o site pertence a um advogado ou escritório regularmente inscrito na OAB, o que reforça a credibilidade perante clientes e colegas de profissão.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

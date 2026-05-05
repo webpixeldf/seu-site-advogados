@@ -13,10 +13,10 @@ registerArticle('bio-para-instagram-de-advocacia', () => (
       Após analisar perfis de advogados com alto engajamento, um padrão se repete na bio dos que conseguem converter visitantes em seguidores e clientes. A estrutura tem quatro camadas:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Linha 1 — Identificação profissional:</strong> nome, título e número da OAB</li>
-      <li><strong className="text-[#162a2a]">Linha 2 — Especialidade:</strong> área de atuação principal (e secundária, se relevante)</li>
-      <li><strong className="text-[#162a2a]">Linha 3 — Localização ou diferencial:</strong> cidade de atendimento ou uma informação que gere confiança</li>
-      <li><strong className="text-[#162a2a]">Linha 4 — CTA (chamada para ação):</strong> o que a pessoa deve fazer agora</li>
+      <li><strong className="text-[#162a2a]">Linha 1 , Identificação profissional:</strong> nome, título e número da OAB</li>
+      <li><strong className="text-[#162a2a]">Linha 2 , Especialidade:</strong> área de atuação principal (e secundária, se relevante)</li>
+      <li><strong className="text-[#162a2a]">Linha 3 , Localização ou diferencial:</strong> cidade de atendimento ou uma informação que gere confiança</li>
+      <li><strong className="text-[#162a2a]">Linha 4 , CTA (chamada para ação):</strong> o que a pessoa deve fazer agora</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
       Essa estrutura respeita a forma como as pessoas escaneiam informações em telas pequenas: de cima para baixo, buscando o essencial primeiro. Cada linha responde a uma pergunta do visitante: "Quem é essa pessoa?", "Ela trabalha com o que eu preciso?", "Atende na minha região?" e "Como faço para falar com ela?".
@@ -29,7 +29,7 @@ registerArticle('bio-para-instagram-de-advocacia', () => (
       Incluir o número de inscrição na OAB não é uma exigência explícita do Provimento 205/2021 para redes sociais, mas é altamente recomendado por dois motivos. Primeiro, transmite credibilidade e permite que o visitante verifique sua inscrição no site da OAB. Segundo, diferencia você de "consultores jurídicos" e outros perfis que não possuem habilitação para exercer a advocacia.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      O formato mais usado é: "OAB/UF 123.456" ou "Advogado(a) | OAB/UF 123.456". Se o espaço estiver apertado, o número pode ir no campo "nome" do perfil em vez da bio — o Instagram permite até 30 caracteres no nome, e muitos advogados usam algo como "Dra. Ana Silva | OAB/SP".
+      O formato mais usado é: "OAB/UF 123.456" ou "Advogado(a) | OAB/UF 123.456". Se o espaço estiver apertado, o número pode ir no campo "nome" do perfil em vez da bio , o Instagram permite até 30 caracteres no nome, e muitos advogados usam algo como "Dra. Ana Silva | OAB/SP".
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -39,10 +39,10 @@ registerArticle('bio-para-instagram-de-advocacia', () => (
       A última linha da bio deve indicar claramente o próximo passo. Sem uma chamada para ação, o visitante consome a informação e vai embora. As CTAs mais eficientes para advogados são:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">"Agende sua consulta ↓"</strong> — direciona para o link na bio, que pode levar ao WhatsApp ou a uma página de agendamento</li>
-      <li><strong className="text-[#162a2a]">"Tire suas dúvidas pelo link ↓"</strong> — tom informativo, dentro das normas da OAB</li>
-      <li><strong className="text-[#162a2a]">"Atendimento online e presencial ↓"</strong> — comunica flexibilidade de atendimento</li>
-      <li><strong className="text-[#162a2a]">"Conteúdo jurídico toda semana"</strong> — foca no valor do perfil como fonte de informação</li>
+      <li><strong className="text-[#162a2a]">"Agende sua consulta ↓"</strong> , direciona para o link na bio, que pode levar ao WhatsApp ou a uma página de agendamento</li>
+      <li><strong className="text-[#162a2a]">"Tire suas dúvidas pelo link ↓"</strong> , tom informativo, dentro das normas da OAB</li>
+      <li><strong className="text-[#162a2a]">"Atendimento online e presencial ↓"</strong> , comunica flexibilidade de atendimento</li>
+      <li><strong className="text-[#162a2a]">"Conteúdo jurídico toda semana"</strong> , foca no valor do perfil como fonte de informação</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
       Evite CTAs genéricas como "Link na bio" (redundante) ou agressivas como "Contrate agora" (proibido pela OAB). A seta para baixo (↓) é amplamente usada porque direciona o olhar para o link clicável.
@@ -57,7 +57,7 @@ registerArticle('bio-para-instagram-de-advocacia', () => (
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Link direto para o WhatsApp:</strong> usando o formato wa.me/5511999999999 com uma mensagem pré-preenchida. É a opção mais direta para geração de consultas</li>
       <li><strong className="text-[#162a2a]">Site do escritório:</strong> ideal se o site tem uma página de contato clara e informações sobre áreas de atuação</li>
-      <li><strong className="text-[#162a2a]">Página de links (Linktree ou similar):</strong> permite oferecer múltiplas opções — WhatsApp, site, blog, Google Maps. Útil quando você quer direcionar para mais de um destino</li>
+      <li><strong className="text-[#162a2a]">Página de links (Linktree ou similar):</strong> permite oferecer múltiplas opções , WhatsApp, site, blog, Google Maps. Útil quando você quer direcionar para mais de um destino</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
       Se seu objetivo principal é gerar contatos, o link direto para o WhatsApp ou para uma <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">página profissional para advogado</a> costuma converter melhor do que qualquer outra opção. O clique leva a pessoa diretamente para a conversa, sem intermediários.
@@ -74,7 +74,7 @@ registerArticle('bio-para-instagram-de-advocacia', () => (
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li>Use emojis como marcadores, não como decoração. A balança da justiça (⚖️), a pasta de documentos (📋) e o pin de localização (📍) são os mais apropriados para contexto jurídico</li>
-      <li>Limite a dois ou três emojis no total — excesso transmite amadorismo</li>
+      <li>Limite a dois ou três emojis no total , excesso transmite amadorismo</li>
       <li>Nunca use emojis que trivializem a profissão ou que tenham conotação informal (💪, 🔥, 😎)</li>
       <li>Use-os no início de cada linha como bullet points visuais, facilitando a leitura rápida</li>
     </ul>
@@ -158,7 +158,7 @@ registerArticle('bio-para-instagram-de-advocacia', () => (
     </h2>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Bio vazia ou incompleta:</strong> um perfil sem bio transmite desleixo. Se a pessoa chegou até seu perfil, a bio é o que fecha a decisão de seguir ou sair</li>
-      <li><strong className="text-[#162a2a]">Listar muitas áreas de atuação:</strong> "Trabalhista, Cível, Criminal, Tributário, Ambiental, Digital" — quando você é tudo, não é especialista em nada aos olhos do cliente. Foque em uma ou duas áreas</li>
+      <li><strong className="text-[#162a2a]">Listar muitas áreas de atuação:</strong> "Trabalhista, Cível, Criminal, Tributário, Ambiental, Digital" , quando você é tudo, não é especialista em nada aos olhos do cliente. Foque em uma ou duas áreas</li>
       <li><strong className="text-[#162a2a]">Frases motivacionais em vez de informação:</strong> "Justiça é a constante e perpétua vontade de dar a cada um o que lhe pertence" não ajuda o cliente a entender o que você faz</li>
       <li><strong className="text-[#162a2a]">Não incluir localização:</strong> advocacia é um serviço frequentemente local. O cliente quer saber se você atende na cidade dele</li>
       <li><strong className="text-[#162a2a]">Link quebrado ou desatualizado:</strong> verifique mensalmente se o link da bio está funcionando. Links que levam a páginas de erro destroem a credibilidade construída pelo conteúdo</li>
@@ -186,7 +186,7 @@ registerArticle('bio-para-instagram-de-advocacia', () => (
       Conclusão prática
     </h2>
     <p className="text-gray-700 leading-relaxed">
-      A bio do Instagram é um espaço pequeno com impacto desproporcional. Ela precisa comunicar quem você é, o que faz, onde atende e como a pessoa pode agir — tudo em 150 caracteres. Use a estrutura de quatro linhas como ponto de partida, adapte os exemplos à sua realidade e revise a bio a cada trimestre. Uma boa bio não substitui bom conteúdo, mas garante que o conteúdo tenha a chance de ser visto por quem realmente importa.
+      A bio do Instagram é um espaço pequeno com impacto desproporcional. Ela precisa comunicar quem você é, o que faz, onde atende e como a pessoa pode agir , tudo em 150 caracteres. Use a estrutura de quatro linhas como ponto de partida, adapte os exemplos à sua realidade e revise a bio a cada trimestre. Uma boa bio não substitui bom conteúdo, mas garante que o conteúdo tenha a chance de ser visto por quem realmente importa.
     </p>
   </>
 ))

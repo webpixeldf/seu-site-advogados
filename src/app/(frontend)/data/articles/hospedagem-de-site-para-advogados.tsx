@@ -11,7 +11,7 @@ registerArticle('hospedagem-de-site-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Hospedagem é o serviço que mantém seu site acessível na internet. Quando alguém digita o endereço do seu escritório no navegador, os arquivos do site precisam estar armazenados em um servidor — um computador ligado 24 horas, conectado à internet. A empresa de hospedagem fornece esse servidor e cuida da infraestrutura para que o site funcione continuamente.
+      Hospedagem é o serviço que mantém seu site acessível na internet. Quando alguém digita o endereço do seu escritório no navegador, os arquivos do site precisam estar armazenados em um servidor , um computador ligado 24 horas, conectado à internet. A empresa de hospedagem fornece esse servidor e cuida da infraestrutura para que o site funcione continuamente.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -27,7 +27,7 @@ registerArticle('hospedagem-de-site-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Nesse modelo, o site do seu escritório divide o mesmo servidor com dezenas ou centenas de outros sites. É a opção mais barata — os planos costumam variar entre R$ 10 e R$ 40 por mês. Para um site institucional de advocacia com tráfego moderado (até 5 mil visitas mensais), funciona bem na maioria dos casos.
+      Nesse modelo, o site do seu escritório divide o mesmo servidor com dezenas ou centenas de outros sites. É a opção mais barata , os planos costumam variar entre R$ 10 e R$ 40 por mês. Para um site institucional de advocacia com tráfego moderado (até 5 mil visitas mensais), funciona bem na maioria dos casos.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -91,7 +91,7 @@ registerArticle('hospedagem-de-site-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O SSL é o que faz o site exibir o cadeado de segurança e usar HTTPS. É obrigatório para qualquer site que coleta dados — e o site de um escritório certamente tem formulários de contato. Além da segurança, o Google penaliza sites sem SSL no ranqueamento. A maioria dos provedores oferece SSL gratuito via Let&apos;s Encrypt. Se o provedor cobra extra por isso, procure outro.
+      O SSL é o que faz o site exibir o cadeado de segurança e usar HTTPS. É obrigatório para qualquer site que coleta dados , e o site de um escritório certamente tem formulários de contato. Além da segurança, o Google penaliza sites sem SSL no ranqueamento. A maioria dos provedores oferece SSL gratuito via Let&apos;s Encrypt. Se o provedor cobra extra por isso, procure outro.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -162,7 +162,7 @@ registerArticle('hospedagem-de-site-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A hospedagem do site é infraestrutura, não enfeite. Ela afeta a velocidade, a segurança, o posicionamento no Google e a experiência de quem visita o site do seu escritório. Um bom <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">desenvolvimento de site para advogado</a> começa pela escolha da hospedagem certa. Para a maioria dos advogados, uma hospedagem compartilhada de qualidade ou uma solução cloud acessível resolve. O importante é priorizar velocidade, estabilidade, suporte e segurança — e não tomar a decisão apenas pelo preço. Um site que funciona bem transmite profissionalismo antes mesmo do primeiro contato com o cliente.
+      A hospedagem do site é infraestrutura, não enfeite. Ela afeta a velocidade, a segurança, o posicionamento no Google e a experiência de quem visita o site do seu escritório. Um bom <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">desenvolvimento de site para advogado</a> começa pela escolha da hospedagem certa. Para a maioria dos advogados, uma hospedagem compartilhada de qualidade ou uma solução cloud acessível resolve. O importante é priorizar velocidade, estabilidade, suporte e segurança , e não tomar a decisão apenas pelo preço. Um site que funciona bem transmite profissionalismo antes mesmo do primeiro contato com o cliente.
     </p>
   </>
 ))

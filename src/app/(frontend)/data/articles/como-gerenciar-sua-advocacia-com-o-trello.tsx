@@ -9,7 +9,7 @@ registerArticle('como-gerenciar-sua-advocacia-com-o-trello', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que é o Trello e por que funciona para advogados</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O Trello é uma ferramenta de gerenciamento de projetos baseada em quadros (boards), listas e cartões. Pense nele como um mural digital onde você organiza tarefas visualmente, movendo cartões entre colunas conforme o andamento. A interface é intuitiva — se você sabe usar post-its, sabe usar o Trello.
+      O Trello é uma ferramenta de gerenciamento de projetos baseada em quadros (boards), listas e cartões. Pense nele como um mural digital onde você organiza tarefas visualmente, movendo cartões entre colunas conforme o andamento. A interface é intuitiva , se você sabe usar post-its, sabe usar o Trello.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -44,9 +44,9 @@ registerArticle('como-gerenciar-sua-advocacia-com-o-trello', () => (
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Descrição:</strong> resumo do caso, tese principal e estratégia adotada.</li>
-      <li><strong className="text-[#162a2a]">Checklists:</strong> lista de tarefas do processo. "Reunir documentos", "Protocolar petição", "Preparar para audiência" — cada item pode ser marcado conforme é concluído.</li>
+      <li><strong className="text-[#162a2a]">Checklists:</strong> lista de tarefas do processo. "Reunir documentos", "Protocolar petição", "Preparar para audiência" , cada item pode ser marcado conforme é concluído.</li>
       <li><strong className="text-[#162a2a]">Datas de vencimento:</strong> prazos processuais com alertas. O Trello envia notificações antes do vencimento, funcionando como um lembrete automático.</li>
-      <li><strong className="text-[#162a2a]">Anexos:</strong> documentos do processo podem ser anexados ao cartão. PDFs de petições, decisões, procurações — tudo organizado em um só lugar.</li>
+      <li><strong className="text-[#162a2a]">Anexos:</strong> documentos do processo podem ser anexados ao cartão. PDFs de petições, decisões, procurações , tudo organizado em um só lugar.</li>
       <li><strong className="text-[#162a2a]">Etiquetas coloridas:</strong> use cores para classificar os processos. Vermelho para urgente, amarelo para atenção, verde para em dia, azul para consultivo. A visualização por cores permite identificar prioridades com um olhar.</li>
       <li><strong className="text-[#162a2a]">Comentários:</strong> registre anotações e atualizações diretamente no cartão. Se trabalha com outros advogados, os comentários servem como registro de comunicação interna sobre o caso.</li>
     </ul>
@@ -109,7 +109,7 @@ registerArticle('como-gerenciar-sua-advocacia-com-o-trello', () => (
       <li><strong className="text-[#162a2a]">Revise diariamente:</strong> reserve cinco minutos no início do dia para revisar o quadro, verificar prazos e organizar prioridades.</li>
       <li><strong className="text-[#162a2a]">Atualize em tempo real:</strong> quando receber uma decisão judicial ou concluir uma tarefa, atualize o cartão imediatamente. Deixar para depois gera acúmulo.</li>
       <li><strong className="text-[#162a2a]">Arquive cartões concluídos:</strong> cartões de processos encerrados devem ser arquivados (não excluídos) para manter o quadro limpo mas preservar o histórico.</li>
-      <li><strong className="text-[#162a2a]">Use o app no celular:</strong> o aplicativo mobile do Trello permite consultar e atualizar cartões de qualquer lugar — no fórum, na audiência ou em deslocamento.</li>
+      <li><strong className="text-[#162a2a]">Use o app no celular:</strong> o aplicativo mobile do Trello permite consultar e atualizar cartões de qualquer lugar , no fórum, na audiência ou em deslocamento.</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">

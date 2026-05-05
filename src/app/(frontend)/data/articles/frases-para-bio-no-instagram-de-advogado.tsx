@@ -90,7 +90,7 @@ registerArticle('frases-para-bio-no-instagram-de-advogado', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Atualize regularmente</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Se você está promovendo um webinar, mude a chamada para ação temporariamente. Se mudou de cidade ou incluiu uma nova área de atuação, atualize a bio. Ela não é estática — deve refletir o momento atual do seu trabalho.
+      Se você está promovendo um webinar, mude a chamada para ação temporariamente. Se mudou de cidade ou incluiu uma nova área de atuação, atualize a bio. Ela não é estática , deve refletir o momento atual do seu trabalho.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Pense como seu cliente</h3>
@@ -104,7 +104,7 @@ registerArticle('frases-para-bio-no-instagram-de-advogado', () => (
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Bio genérica demais:</strong> "Advogado | Justiça | Ética | Compromisso" não diz nada. Seja específico sobre o que você faz e para quem.</li>
       <li><strong className="text-[#162a2a]">Excesso de informações:</strong> tentar listar sete áreas de atuação em 150 caracteres resulta em uma bio confusa. Foque nas duas ou três principais.</li>
-      <li><strong className="text-[#162a2a]">Sem chamada para ação:</strong> o visitante chegou ao seu perfil — e agora? Diga o que ele deve fazer: agendar consulta, clicar no link, enviar mensagem.</li>
+      <li><strong className="text-[#162a2a]">Sem chamada para ação:</strong> o visitante chegou ao seu perfil , e agora? Diga o que ele deve fazer: agendar consulta, clicar no link, enviar mensagem.</li>
       <li><strong className="text-[#162a2a]">Foto de perfil inadequada:</strong> a bio inclui a foto. Use uma foto profissional, com boa iluminação e fundo neutro. Evite fotos de viagem, selfies ou imagens com outras pessoas.</li>
       <li><strong className="text-[#162a2a]">Link quebrado ou desatualizado:</strong> verifique regularmente se o link da bio está funcionando. Um link que leva para uma página de erro é pior do que não ter link.</li>
     </ul>
@@ -116,7 +116,7 @@ registerArticle('frases-para-bio-no-instagram-de-advogado', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Uma boa bio no Instagram é um investimento de poucos minutos que trabalha a seu favor continuamente. Teste diferentes versões, observe quais geram mais cliques no link e mais mensagens diretas, e ajuste conforme os resultados. O perfil do Instagram é, para muitos potenciais clientes, o primeiro contato com o advogado — e a bio é a primeira impressão.
+      Uma boa bio no Instagram é um investimento de poucos minutos que trabalha a seu favor continuamente. Teste diferentes versões, observe quais geram mais cliques no link e mais mensagens diretas, e ajuste conforme os resultados. O perfil do Instagram é, para muitos potenciais clientes, o primeiro contato com o advogado , e a bio é a primeira impressão.
     </p>
   </>
 ))

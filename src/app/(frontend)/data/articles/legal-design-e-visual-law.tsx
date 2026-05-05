@@ -3,13 +3,13 @@ import { registerArticle } from './registry'
 registerArticle('legal-design-e-visual-law', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Contratos com dezenas de páginas em fonte 10, termos de uso que ninguém lê, petições intermináveis — o direito tem um problema de comunicação. Legal design e visual law são abordagens que buscam resolver isso, tornando documentos jurídicos mais claros, acessíveis e eficientes. Não se trata de simplificar o direito, mas de comunicá-lo melhor.
+      Contratos com dezenas de páginas em fonte 10, termos de uso que ninguém lê, petições intermináveis , o direito tem um problema de comunicação. Legal design e visual law são abordagens que buscam resolver isso, tornando documentos jurídicos mais claros, acessíveis e eficientes. Não se trata de simplificar o direito, mas de comunicá-lo melhor.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que é legal design</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Legal design é a aplicação do design thinking ao universo jurídico. Significa projetar documentos, processos e serviços jurídicos com foco na experiência do usuário — que pode ser o cliente, o juiz, um servidor público ou qualquer pessoa que precise entender informações legais.
+      Legal design é a aplicação do design thinking ao universo jurídico. Significa projetar documentos, processos e serviços jurídicos com foco na experiência do usuário , que pode ser o cliente, o juiz, um servidor público ou qualquer pessoa que precise entender informações legais.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -31,7 +31,7 @@ registerArticle('legal-design-e-visual-law', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Contratos visuais</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Um contrato de locação tradicional tem parágrafos densos sobre prazos, valores, multas e obrigações. Um contrato com visual law pode incluir uma tabela resumo no início com os dados principais (valor do aluguel, data de vencimento, prazo do contrato), ícones indicando obrigações do locador e do locatário, e um fluxograma mostrando o passo a passo em caso de rescisão. O conteúdo jurídico é o mesmo — a forma de apresentá-lo é que muda.
+      Um contrato de locação tradicional tem parágrafos densos sobre prazos, valores, multas e obrigações. Um contrato com visual law pode incluir uma tabela resumo no início com os dados principais (valor do aluguel, data de vencimento, prazo do contrato), ícones indicando obrigações do locador e do locatário, e um fluxograma mostrando o passo a passo em caso de rescisão. O conteúdo jurídico é o mesmo , a forma de apresentá-lo é que muda.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Petições com elementos visuais</h3>
@@ -75,7 +75,7 @@ registerArticle('legal-design-e-visual-law', () => (
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Hierarquia visual:</strong> use tamanhos de fonte diferentes para títulos, subtítulos e corpo do texto. O leitor precisa identificar rapidamente a estrutura do documento.</li>
       <li><strong className="text-[#162a2a]">Espaço em branco:</strong> parágrafos com espaçamento adequado e margens generosas facilitam a leitura. Texto apertado cansa os olhos e desestimula a leitura.</li>
-      <li><strong className="text-[#162a2a]">Cores com propósito:</strong> use cores para destacar informações importantes, não para decorar. Azul para links, vermelho para alertas, verde para itens concluídos — a cor deve transmitir significado.</li>
+      <li><strong className="text-[#162a2a]">Cores com propósito:</strong> use cores para destacar informações importantes, não para decorar. Azul para links, vermelho para alertas, verde para itens concluídos , a cor deve transmitir significado.</li>
       <li><strong className="text-[#162a2a]">Consistência:</strong> mantenha o mesmo padrão visual em todo o documento. Se usou ícones em uma cláusula, use em todas. Se destacou prazos em negrito, destaque todos.</li>
       <li><strong className="text-[#162a2a]">Tipografia legível:</strong> fontes como Arial, Calibri ou Helvetica em tamanho 11 ou 12 são legíveis em tela e no papel. Evite fontes decorativas em documentos formais.</li>
     </ul>
@@ -83,7 +83,7 @@ registerArticle('legal-design-e-visual-law', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que o Judiciário pensa sobre visual law</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O uso de elementos visuais em petições não é regulamentado especificamente, mas também não é proibido. O CNJ tem demonstrado interesse no tema, e tribunais como o TJ-SP já promoveram eventos sobre legal design. Na prática, juízes têm recebido bem petições com elementos visuais, desde que esses elementos complementem — e não substituam — a argumentação jurídica.
+      O uso de elementos visuais em petições não é regulamentado especificamente, mas também não é proibido. O CNJ tem demonstrado interesse no tema, e tribunais como o TJ-SP já promoveram eventos sobre legal design. Na prática, juízes têm recebido bem petições com elementos visuais, desde que esses elementos complementem , e não substituam , a argumentação jurídica.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -93,7 +93,7 @@ registerArticle('legal-design-e-visual-law', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Linguagem simples: a base do legal design</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Antes de pensar em ícones e fluxogramas, o primeiro passo do legal design é simplificar a linguagem. Substituir "outrossim" por "além disso", trocar "destarte" por "portanto", eliminar latinismos desnecessários. A linguagem simples não é imprecisa — é eficiente. Um contrato que o cliente consegue ler e entender sem precisar ligar para o advogado é um contrato melhor.
+      Antes de pensar em ícones e fluxogramas, o primeiro passo do legal design é simplificar a linguagem. Substituir "outrossim" por "além disso", trocar "destarte" por "portanto", eliminar latinismos desnecessários. A linguagem simples não é imprecisa , é eficiente. Um contrato que o cliente consegue ler e entender sem precisar ligar para o advogado é um contrato melhor.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -107,7 +107,7 @@ registerArticle('legal-design-e-visual-law', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Legal design e visual law não são tendências passageiras. São respostas a um problema real: a comunicação jurídica tradicional é ineficiente. Advogados que investem em clareza e acessibilidade na forma como se comunicam — inclusive na <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criação de sites jurídicos</a> — ganham a confiança dos clientes e o respeito dos magistrados. O direito é complexo por natureza — a forma de comunicá-lo não precisa ser.
+      Legal design e visual law não são tendências passageiras. São respostas a um problema real: a comunicação jurídica tradicional é ineficiente. Advogados que investem em clareza e acessibilidade na forma como se comunicam , inclusive na <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criação de sites jurídicos</a> , ganham a confiança dos clientes e o respeito dos magistrados. O direito é complexo por natureza , a forma de comunicá-lo não precisa ser.
     </p>
   </>
 ))

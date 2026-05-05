@@ -12,7 +12,7 @@ registerHtmlArticle('videos-curtos-no-reels-roteiros-prontos-para-advogados-come
 
 <h2>Estrutura de um roteiro que converte (e não cansa)</h2>
 
-<p>Existe uma fórmula simples que funciona pra qualquer área do direito. Ela tem três partes: <strong>gancho, problema e solução com CTA</strong>. O gancho precisa fisgar nos primeiros 3 segundos. O problema é a dor que seu cliente ideal sente. A solução é mostrar que você sabe resolver, sem dar a resposta completa de graça — a não ser que seja algo tão simples que sirva pra construir autoridade.</p>
+<p>Existe uma fórmula simples que funciona pra qualquer área do direito. Ela tem três partes: <strong>gancho, problema e solução com CTA</strong>. O gancho precisa fisgar nos primeiros 3 segundos. O problema é a dor que seu cliente ideal sente. A solução é mostrar que você sabe resolver, sem dar a resposta completa de graça , a não ser que seja algo tão simples que sirva pra construir autoridade.</p>
 
 <p>Vou te dar um exemplo concreto. Imagine que você é advogado trabalhista. Seu roteiro pode ser assim:</p>
 

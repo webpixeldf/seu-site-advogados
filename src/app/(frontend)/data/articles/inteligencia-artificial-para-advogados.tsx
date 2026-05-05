@@ -29,11 +29,11 @@ registerArticle('inteligencia-artificial-para-advogados', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Onde a IA ajuda na redação</h3>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Estruturação de peças</strong> — a IA organiza os argumentos em uma sequência lógica, o que é útil para advogados em início de carreira ou em áreas menos familiares</li>
-      <li><strong className="text-[#162a2a]">Primeira versão de contratos</strong> — gerar minutas com cláusulas padrão para depois personalizar ao caso concreto</li>
-      <li><strong className="text-[#162a2a]">Resumos de documentos longos</strong> — sintetizar acórdãos, laudos periciais ou contratos extensos em pontos principais</li>
-      <li><strong className="text-[#162a2a]">Tradução jurídica</strong> — traduzir documentos com vocabulário técnico entre português e outros idiomas</li>
-      <li><strong className="text-[#162a2a]">Reformulação de textos</strong> — reescrever parágrafos para maior clareza ou adaptar a linguagem ao público-alvo</li>
+      <li><strong className="text-[#162a2a]">Estruturação de peças</strong> , a IA organiza os argumentos em uma sequência lógica, o que é útil para advogados em início de carreira ou em áreas menos familiares</li>
+      <li><strong className="text-[#162a2a]">Primeira versão de contratos</strong> , gerar minutas com cláusulas padrão para depois personalizar ao caso concreto</li>
+      <li><strong className="text-[#162a2a]">Resumos de documentos longos</strong> , sintetizar acórdãos, laudos periciais ou contratos extensos em pontos principais</li>
+      <li><strong className="text-[#162a2a]">Tradução jurídica</strong> , traduzir documentos com vocabulário técnico entre português e outros idiomas</li>
+      <li><strong className="text-[#162a2a]">Reformulação de textos</strong> , reescrever parágrafos para maior clareza ou adaptar a linguagem ao público-alvo</li>
     </ul>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Onde a IA falha na redação</h3>
@@ -85,10 +85,10 @@ registerArticle('inteligencia-artificial-para-advogados', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Sigilo profissional</strong> — ao inserir dados de clientes em ferramentas de IA como o ChatGPT, essas informações podem ser utilizadas para treinamento do modelo. Nunca insira dados pessoais, números de processo ou informações sigilosas em ferramentas sem garantia de privacidade.</li>
-      <li><strong className="text-[#162a2a]">Responsabilidade profissional</strong> — erros em peças geradas por IA são responsabilidade do advogado. A revisão é obrigatória, não opcional.</li>
-      <li><strong className="text-[#162a2a]">Transparência com o cliente</strong> — embora não haja obrigação legal de informar que usou IA, a transparência com o cliente sobre os métodos de trabalho fortalece a relação de confiança.</li>
-      <li><strong className="text-[#162a2a]">Competência técnica</strong> — usar IA sem entender seus limites pode resultar em trabalho de baixa qualidade. O advogado precisa conhecer a ferramenta antes de aplicá-la em casos reais.</li>
+      <li><strong className="text-[#162a2a]">Sigilo profissional</strong> , ao inserir dados de clientes em ferramentas de IA como o ChatGPT, essas informações podem ser utilizadas para treinamento do modelo. Nunca insira dados pessoais, números de processo ou informações sigilosas em ferramentas sem garantia de privacidade.</li>
+      <li><strong className="text-[#162a2a]">Responsabilidade profissional</strong> , erros em peças geradas por IA são responsabilidade do advogado. A revisão é obrigatória, não opcional.</li>
+      <li><strong className="text-[#162a2a]">Transparência com o cliente</strong> , embora não haja obrigação legal de informar que usou IA, a transparência com o cliente sobre os métodos de trabalho fortalece a relação de confiança.</li>
+      <li><strong className="text-[#162a2a]">Competência técnica</strong> , usar IA sem entender seus limites pode resultar em trabalho de baixa qualidade. O advogado precisa conhecer a ferramenta antes de aplicá-la em casos reais.</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que é real e o que é exagero</h2>
@@ -128,7 +128,7 @@ registerArticle('inteligencia-artificial-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Por fim, mantenha-se atualizado. A velocidade de evolução das ferramentas de IA é sem precedentes. O que não funciona bem hoje pode se tornar indispensável em seis meses. Advogados que acompanham essa evolução e investem em um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site jurídico profissional</a> terão vantagem competitiva real nos próximos anos — não porque a IA substituirá o trabalho jurídico, mas porque tornará mais eficientes aqueles que souberem usá-la.
+      Por fim, mantenha-se atualizado. A velocidade de evolução das ferramentas de IA é sem precedentes. O que não funciona bem hoje pode se tornar indispensável em seis meses. Advogados que acompanham essa evolução e investem em um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site jurídico profissional</a> terão vantagem competitiva real nos próximos anos , não porque a IA substituirá o trabalho jurídico, mas porque tornará mais eficientes aqueles que souberem usá-la.
     </p>
   </>
 ))

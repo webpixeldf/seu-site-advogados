@@ -142,7 +142,7 @@ export default function PortfolioPage() {
             Nossos Trabalhos
           </span>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white font-lexend mb-6">
-            Sites para Advogados — <span className="text-[#b58c61]">Nosso Portfólio</span>
+            Sites para Advogados , <span className="text-[#b58c61]">Nosso Portfólio</span>
           </h1>
           <p className="text-gray-400 font-lexend text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
             Conheça alguns dos sites que desenvolvemos para advogados e escritórios de advocacia em todo o Brasil. Cada projeto é personalizado para refletir a identidade e os objetivos do profissional jurídico. <Link href="/quem-somos" className="text-[#b58c61] hover:text-[#de7322] underline underline-offset-2 transition-colors duration-300">Saiba mais sobre nossa equipe</Link> e como trabalhamos.

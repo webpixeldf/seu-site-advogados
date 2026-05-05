@@ -76,19 +76,19 @@ export default function PoliticaDePrivacidade() {
               </p>
               <ul className="list-disc pl-6 space-y-2 mt-4">
                 <li>
-                  <strong>Nome completo</strong> — para identificacao e
+                  <strong>Nome completo</strong> , para identificacao e
                   personalizacao do atendimento.
                 </li>
                 <li>
-                  <strong>Endereco de e-mail</strong> — para envio de respostas
+                  <strong>Endereco de e-mail</strong> , para envio de respostas
                   e comunicacoes relacionadas a sua solicitacao.
                 </li>
                 <li>
-                  <strong>Numero de telefone</strong> — para contato direto,
+                  <strong>Numero de telefone</strong> , para contato direto,
                   quando necessario.
                 </li>
                 <li>
-                  <strong>Mensagem</strong> — o conteudo que voce envia pelo
+                  <strong>Mensagem</strong> , o conteudo que voce envia pelo
                   formulario.
                 </li>
               </ul>
@@ -171,7 +171,7 @@ export default function PoliticaDePrivacidade() {
               </p>
               <ul className="list-disc pl-6 space-y-2 mt-4">
                 <li>
-                  <strong>Cloudflare</strong> — servico de CDN e protecao contra
+                  <strong>Cloudflare</strong> , servico de CDN e protecao contra
                   ataques DDoS. A Cloudflare pode coletar dados tecnicos
                   (endereco IP, tipo de navegador) para fins de seguranca.
                   Consulte a{' '}
@@ -186,7 +186,7 @@ export default function PoliticaDePrivacidade() {
                   .
                 </li>
                 <li>
-                  <strong>WhatsApp</strong> — utilizamos links diretos para o
+                  <strong>WhatsApp</strong> , utilizamos links diretos para o
                   WhatsApp para facilitar o contato. Ao clicar, voce sera
                   redirecionado para a plataforma do WhatsApp, sujeita a{' '}
                   <a
@@ -214,27 +214,27 @@ export default function PoliticaDePrivacidade() {
               </p>
               <ul className="list-disc pl-6 space-y-2 mt-4">
                 <li>
-                  <strong>Acesso</strong> — solicitar quais dados pessoais seus
+                  <strong>Acesso</strong> , solicitar quais dados pessoais seus
                   estao armazenados.
                 </li>
                 <li>
-                  <strong>Correcao</strong> — solicitar a atualizacao de dados
+                  <strong>Correcao</strong> , solicitar a atualizacao de dados
                   incompletos ou incorretos.
                 </li>
                 <li>
-                  <strong>Exclusao</strong> — solicitar a remocao dos seus dados
+                  <strong>Exclusao</strong> , solicitar a remocao dos seus dados
                   pessoais do nosso banco de dados.
                 </li>
                 <li>
-                  <strong>Revogacao de consentimento</strong> — retirar o
+                  <strong>Revogacao de consentimento</strong> , retirar o
                   consentimento dado anteriormente para o uso dos seus dados.
                 </li>
                 <li>
-                  <strong>Portabilidade</strong> — solicitar a transferencia dos
+                  <strong>Portabilidade</strong> , solicitar a transferencia dos
                   seus dados para outro prestador de servico.
                 </li>
                 <li>
-                  <strong>Informacao</strong> — saber com quais entidades seus
+                  <strong>Informacao</strong> , saber com quais entidades seus
                   dados foram compartilhados.
                 </li>
               </ul>

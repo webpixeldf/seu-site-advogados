@@ -23,11 +23,11 @@ registerArticle('notion-para-advogados', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Processos</strong> — banco de dados com todos os casos ativos e arquivados</li>
-      <li><strong className="text-[#162a2a]">Clientes</strong> — cadastro com dados de contato, documentos e histórico</li>
-      <li><strong className="text-[#162a2a]">Prazos</strong> — visualização em calendário e lista de todas as datas relevantes</li>
-      <li><strong className="text-[#162a2a]">Modelos</strong> — templates de petições, contratos e documentos recorrentes</li>
-      <li><strong className="text-[#162a2a]">Reuniões</strong> — anotações organizadas por data e cliente</li>
+      <li><strong className="text-[#162a2a]">Processos</strong> , banco de dados com todos os casos ativos e arquivados</li>
+      <li><strong className="text-[#162a2a]">Clientes</strong> , cadastro com dados de contato, documentos e histórico</li>
+      <li><strong className="text-[#162a2a]">Prazos</strong> , visualização em calendário e lista de todas as datas relevantes</li>
+      <li><strong className="text-[#162a2a]">Modelos</strong> , templates de petições, contratos e documentos recorrentes</li>
+      <li><strong className="text-[#162a2a]">Reuniões</strong> , anotações organizadas por data e cliente</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
@@ -41,14 +41,14 @@ registerArticle('notion-para-advogados', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Número do processo</strong> — tipo texto</li>
-      <li><strong className="text-[#162a2a]">Cliente</strong> — tipo relação (vinculado ao banco de clientes)</li>
-      <li><strong className="text-[#162a2a]">Vara/Tribunal</strong> — tipo select com as opções mais comuns</li>
-      <li><strong className="text-[#162a2a]">Status</strong> — tipo select (em andamento, aguardando, arquivado, etc.)</li>
-      <li><strong className="text-[#162a2a]">Próximo prazo</strong> — tipo data</li>
-      <li><strong className="text-[#162a2a]">Área</strong> — tipo select (cível, trabalhista, criminal, tributário)</li>
-      <li><strong className="text-[#162a2a]">Valor da causa</strong> — tipo número</li>
-      <li><strong className="text-[#162a2a]">Responsável</strong> — tipo pessoa (útil em escritórios com mais de um advogado)</li>
+      <li><strong className="text-[#162a2a]">Número do processo</strong> , tipo texto</li>
+      <li><strong className="text-[#162a2a]">Cliente</strong> , tipo relação (vinculado ao banco de clientes)</li>
+      <li><strong className="text-[#162a2a]">Vara/Tribunal</strong> , tipo select com as opções mais comuns</li>
+      <li><strong className="text-[#162a2a]">Status</strong> , tipo select (em andamento, aguardando, arquivado, etc.)</li>
+      <li><strong className="text-[#162a2a]">Próximo prazo</strong> , tipo data</li>
+      <li><strong className="text-[#162a2a]">Área</strong> , tipo select (cível, trabalhista, criminal, tributário)</li>
+      <li><strong className="text-[#162a2a]">Valor da causa</strong> , tipo número</li>
+      <li><strong className="text-[#162a2a]">Responsável</strong> , tipo pessoa (útil em escritórios com mais de um advogado)</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
@@ -62,9 +62,9 @@ registerArticle('notion-para-advogados', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Novo processo contencioso</strong> — checklist com etapas (petição inicial, contestação, réplica, audiência, sentença), campos para dados da parte contrária e anotações sobre estratégia</li>
-      <li><strong className="text-[#162a2a]">Nova consultoria</strong> — campos para escopo, prazo de entrega do parecer e documentos recebidos</li>
-      <li><strong className="text-[#162a2a]">Novo cliente</strong> — formulário com dados pessoais, documentos necessários e checklist de onboarding</li>
+      <li><strong className="text-[#162a2a]">Novo processo contencioso</strong> , checklist com etapas (petição inicial, contestação, réplica, audiência, sentença), campos para dados da parte contrária e anotações sobre estratégia</li>
+      <li><strong className="text-[#162a2a]">Nova consultoria</strong> , campos para escopo, prazo de entrega do parecer e documentos recebidos</li>
+      <li><strong className="text-[#162a2a]">Novo cliente</strong> , formulário com dados pessoais, documentos necessários e checklist de onboarding</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
@@ -102,10 +102,10 @@ registerArticle('notion-para-advogados', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Google Calendar</strong> — sincroniza prazos e audiências cadastrados no Notion diretamente com sua agenda, gerando lembretes automáticos no celular</li>
-      <li><strong className="text-[#162a2a]">Google Drive</strong> — incorpore documentos e pastas do Drive dentro das páginas do Notion, mantendo tudo centralizado</li>
-      <li><strong className="text-[#162a2a]">Zapier ou Make</strong> — crie automações como "quando um novo processo é cadastrado, enviar e-mail de boas-vindas ao cliente"</li>
-      <li><strong className="text-[#162a2a]">Slack ou WhatsApp (via integrações)</strong> — receba notificações quando prazos estiverem próximos</li>
+      <li><strong className="text-[#162a2a]">Google Calendar</strong> , sincroniza prazos e audiências cadastrados no Notion diretamente com sua agenda, gerando lembretes automáticos no celular</li>
+      <li><strong className="text-[#162a2a]">Google Drive</strong> , incorpore documentos e pastas do Drive dentro das páginas do Notion, mantendo tudo centralizado</li>
+      <li><strong className="text-[#162a2a]">Zapier ou Make</strong> , crie automações como "quando um novo processo é cadastrado, enviar e-mail de boas-vindas ao cliente"</li>
+      <li><strong className="text-[#162a2a]">Slack ou WhatsApp (via integrações)</strong> , receba notificações quando prazos estiverem próximos</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
@@ -156,7 +156,7 @@ registerArticle('notion-para-advogados', () => (
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
-      O Notion não substitui um software jurídico completo com integração aos tribunais, mas funciona como um excelente complemento para organização interna. Muitos advogados usam o sistema do tribunal para acompanhamento processual e o Notion para gestão do dia a dia, estratégia e relacionamento com clientes — complementando essas ferramentas com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site profissional para advogado</a> que centraliza a comunicação com o público. O importante é encontrar o equilíbrio entre organização e praticidade, sem transformar a ferramenta em mais uma fonte de burocracia.
+      O Notion não substitui um software jurídico completo com integração aos tribunais, mas funciona como um excelente complemento para organização interna. Muitos advogados usam o sistema do tribunal para acompanhamento processual e o Notion para gestão do dia a dia, estratégia e relacionamento com clientes , complementando essas ferramentas com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site profissional para advogado</a> que centraliza a comunicação com o público. O importante é encontrar o equilíbrio entre organização e praticidade, sem transformar a ferramenta em mais uma fonte de burocracia.
     </p>
   </>
 ))

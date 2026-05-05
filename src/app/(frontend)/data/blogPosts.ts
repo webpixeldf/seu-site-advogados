@@ -74,7 +74,7 @@ export const blogPosts: BlogPost[] = [
   {
     titulo: "7 erros comuns no Instagram de advogado e como evitar cada um",
     slug: "7-erros-comuns-no-instagram-de-advogado-e-como-evitar-cada-um",
-    resumo: "Você passa horas pensando em posts, tira fotos no escritório, edita com carinho — e no final, só aparece seu colega de faculdade curtindo. Ou pior: você ganha seguidor, mas não ganha cliente. Se is...",
+    resumo: "Você passa horas pensando em posts, tira fotos no escritório, edita com carinho , e no final, só aparece seu colega de faculdade curtindo. Ou pior: você ganha seguidor, mas não ganha cliente. Se is...",
     imagemUrl: "/images/blog/7-erros-comuns-no-instagram-de-advogado-e-como-evitar-cada-um.webp",
     publishedAt: "2026-04-28",
     tags: ['blog', 'auto'],
@@ -109,7 +109,7 @@ export const blogPosts: BlogPost[] = [
   {
     titulo: 'Notion para Advogados',
     slug: 'notion-para-advogados',
-    resumo: 'Modelos prontos de dashboards, controle de prazos e banco de peças no Notion — tudo adaptado para a rotina jurídica.',
+    resumo: 'Modelos prontos de dashboards, controle de prazos e banco de peças no Notion , tudo adaptado para a rotina jurídica.',
     imagemUrl: '/images/Notion-para-Advogados.webp',
     publishedAt: '2025-01-17',
     tags: ['ferramentas', 'gestao', 'produtividade'],
@@ -669,7 +669,7 @@ export const blogPosts: BlogPost[] = [
   {
     titulo: 'Frases para bio no Instagram de advogado',
     slug: 'frases-para-bio-no-instagram-de-advogado',
-    resumo: '25 frases prontas para copiar e adaptar na bio do Instagram jurídico — organizadas por área de atuação e tom de voz.',
+    resumo: '25 frases prontas para copiar e adaptar na bio do Instagram jurídico , organizadas por área de atuação e tom de voz.',
     imagemUrl: '/images/Frases-para-bio-no-Instagram-de-advogado.webp',
     publishedAt: '2024-09-24',
     tags: ['instagram', 'redes-sociais', 'branding'],

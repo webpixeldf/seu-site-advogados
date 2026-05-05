@@ -59,7 +59,7 @@ registerArticle('como-achar-um-advogado-pelo-nome', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Os endereços seguem o padrão oab[sigla do estado].org.br — por exemplo, oabsp.org.br para São Paulo, oabrj.org.br para Rio de Janeiro e oabmg.org.br para Minas Gerais. A seção de consulta ao quadro de advogados geralmente está disponível na página inicial.
+      Os endereços seguem o padrão oab[sigla do estado].org.br , por exemplo, oabsp.org.br para São Paulo, oabrj.org.br para Rio de Janeiro e oabmg.org.br para Minas Gerais. A seção de consulta ao quadro de advogados geralmente está disponível na página inicial.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Pesquisa no Google</h2>
@@ -89,7 +89,7 @@ registerArticle('como-achar-um-advogado-pelo-nome', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Para pesquisar, basta digitar o nome do advogado na barra de busca do LinkedIn e filtrar por "Pessoas". Os resultados mostram foto, título profissional, localização e conexões em comum — informações que ajudam a confirmar se é a pessoa certa.
+      Para pesquisar, basta digitar o nome do advogado na barra de busca do LinkedIn e filtrar por "Pessoas". Os resultados mostram foto, título profissional, localização e conexões em comum , informações que ajudam a confirmar se é a pessoa certa.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Consulta em tribunais</h2>
@@ -115,7 +115,7 @@ registerArticle('como-achar-um-advogado-pelo-nome', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Plataformas de avaliação</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Além do Google Meu Negócio, existem plataformas específicas onde advogados são avaliados por clientes. O JusBrasil, por exemplo, permite que usuários avaliem profissionais com quem tiveram experiência. Essas avaliações — embora devam ser lidas com senso crítico — oferecem uma perspectiva sobre a experiência real de clientes anteriores.
+      Além do Google Meu Negócio, existem plataformas específicas onde advogados são avaliados por clientes. O JusBrasil, por exemplo, permite que usuários avaliem profissionais com quem tiveram experiência. Essas avaliações , embora devam ser lidas com senso crítico , oferecem uma perspectiva sobre a experiência real de clientes anteriores.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Quando o advogado não é encontrado</h2>
@@ -134,7 +134,7 @@ registerArticle('como-achar-um-advogado-pelo-nome', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Verificação como proteção</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Pesquisar um advogado pelo nome antes de contratá-lo não é desconfiança — é prudência. Golpes envolvendo falsos advogados existem e podem causar prejuízos financeiros e processuais graves. A verificação no CNA da OAB leva menos de um minuto e garante que o profissional está habilitado para exercer a profissão.
+      Pesquisar um advogado pelo nome antes de contratá-lo não é desconfiança , é prudência. Golpes envolvendo falsos advogados existem e podem causar prejuízos financeiros e processuais graves. A verificação no CNA da OAB leva menos de um minuto e garante que o profissional está habilitado para exercer a profissão.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

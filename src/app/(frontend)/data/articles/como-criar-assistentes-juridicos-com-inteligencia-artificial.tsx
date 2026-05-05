@@ -57,14 +57,14 @@ registerArticle('como-criar-assistentes-juridicos-com-inteligencia-artificial', 
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Assistente de petições</strong> — configurado com as regras de formatação do seu tribunal, estilo de argumentação preferido e modelos de peças do escritório</li>
-      <li><strong className="text-[#162a2a]">Revisor de contratos</strong> — treinado para identificar cláusulas de risco, inconsistências e pontos que merecem negociação</li>
-      <li><strong className="text-[#162a2a]">Pesquisador jurídico</strong> — configurado para buscar fundamentos legais, organizar argumentos e sugerir teses aplicáveis ao caso</li>
-      <li><strong className="text-[#162a2a]">Assistente de atendimento</strong> — preparado para ajudar na triagem inicial de consultas, identificando a área do direito e os documentos necessários</li>
+      <li><strong className="text-[#162a2a]">Assistente de petições</strong> , configurado com as regras de formatação do seu tribunal, estilo de argumentação preferido e modelos de peças do escritório</li>
+      <li><strong className="text-[#162a2a]">Revisor de contratos</strong> , treinado para identificar cláusulas de risco, inconsistências e pontos que merecem negociação</li>
+      <li><strong className="text-[#162a2a]">Pesquisador jurídico</strong> , configurado para buscar fundamentos legais, organizar argumentos e sugerir teses aplicáveis ao caso</li>
+      <li><strong className="text-[#162a2a]">Assistente de atendimento</strong> , preparado para ajudar na triagem inicial de consultas, identificando a área do direito e os documentos necessários</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
-      Para criar um GPT, acesse "Explore GPTs" e clique em "Create". Na aba de configuração, defina o nome, a descrição, as instruções detalhadas e faça upload de documentos de referência — como modelos de petição, manuais internos ou tabelas de prazos. Esses documentos alimentam o contexto da IA e tornam as respostas mais alinhadas ao seu trabalho.
+      Para criar um GPT, acesse "Explore GPTs" e clique em "Create". Na aba de configuração, defina o nome, a descrição, as instruções detalhadas e faça upload de documentos de referência , como modelos de petição, manuais internos ou tabelas de prazos. Esses documentos alimentam o contexto da IA e tornam as respostas mais alinhadas ao seu trabalho.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Prompts eficientes para trabalho jurídico</h2>
@@ -104,7 +104,7 @@ registerArticle('como-criar-assistentes-juridicos-com-inteligencia-artificial', 
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O fluxo funciona assim: você cria um prompt-base para cada tipo de documento — contrato de honorários, procuração, notificação extrajudicial, petição inicial padrão. Quando precisa de um novo documento, insere os dados específicos do caso no prompt e a IA gera o texto completo. Você revisa, ajusta e finaliza.
+      O fluxo funciona assim: você cria um prompt-base para cada tipo de documento , contrato de honorários, procuração, notificação extrajudicial, petição inicial padrão. Quando precisa de um novo documento, insere os dados específicos do caso no prompt e a IA gera o texto completo. Você revisa, ajusta e finaliza.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -118,11 +118,11 @@ registerArticle('como-criar-assistentes-juridicos-com-inteligencia-artificial', 
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Alucinações</strong> — a IA pode inventar artigos de lei, números de processo e citações doutrinárias que não existem. Toda referência precisa ser verificada manualmente.</li>
-      <li><strong className="text-[#162a2a]">Desatualização</strong> — os modelos de linguagem têm uma data de corte no treinamento. Mudanças legislativas recentes podem não estar refletidas nas respostas.</li>
-      <li><strong className="text-[#162a2a]">Falta de contexto processual</strong> — a IA não tem acesso aos autos do processo, às decisões anteriores ou ao histórico do caso. Ela trabalha apenas com o que você fornece no prompt.</li>
-      <li><strong className="text-[#162a2a]">Ausência de julgamento estratégico</strong> — a IA não avalia se uma tese é viável no tribunal específico, se o juiz tem histórico de decidir de determinada forma ou se a estratégia processual faz sentido no contexto do caso.</li>
-      <li><strong className="text-[#162a2a]">Limites de contexto</strong> — cada conversa tem um limite de texto que a IA consegue processar. Documentos muito longos podem precisar ser divididos em partes.</li>
+      <li><strong className="text-[#162a2a]">Alucinações</strong> , a IA pode inventar artigos de lei, números de processo e citações doutrinárias que não existem. Toda referência precisa ser verificada manualmente.</li>
+      <li><strong className="text-[#162a2a]">Desatualização</strong> , os modelos de linguagem têm uma data de corte no treinamento. Mudanças legislativas recentes podem não estar refletidas nas respostas.</li>
+      <li><strong className="text-[#162a2a]">Falta de contexto processual</strong> , a IA não tem acesso aos autos do processo, às decisões anteriores ou ao histórico do caso. Ela trabalha apenas com o que você fornece no prompt.</li>
+      <li><strong className="text-[#162a2a]">Ausência de julgamento estratégico</strong> , a IA não avalia se uma tese é viável no tribunal específico, se o juiz tem histórico de decidir de determinada forma ou se a estratégia processual faz sentido no contexto do caso.</li>
+      <li><strong className="text-[#162a2a]">Limites de contexto</strong> , cada conversa tem um limite de texto que a IA consegue processar. Documentos muito longos podem precisar ser divididos em partes.</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Questões éticas e de sigilo</h2>
@@ -136,20 +136,20 @@ registerArticle('como-criar-assistentes-juridicos-com-inteligencia-artificial', 
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Anonimize os dados</strong> — substitua nomes reais por fictícios, remova números de processo e dados pessoais antes de inserir na IA</li>
-      <li><strong className="text-[#162a2a]">Use versões com privacidade</strong> — o ChatGPT Team e Enterprise não utilizam dados para treinamento. O Claude oferece garantias similares em seus planos pagos</li>
-      <li><strong className="text-[#162a2a]">Desative o histórico</strong> — nas configurações do ChatGPT, é possível desativar o uso de conversas para treinamento</li>
-      <li><strong className="text-[#162a2a]">Defina uma política interna</strong> — estabeleça regras claras sobre o que pode e o que não pode ser inserido em ferramentas de IA</li>
+      <li><strong className="text-[#162a2a]">Anonimize os dados</strong> , substitua nomes reais por fictícios, remova números de processo e dados pessoais antes de inserir na IA</li>
+      <li><strong className="text-[#162a2a]">Use versões com privacidade</strong> , o ChatGPT Team e Enterprise não utilizam dados para treinamento. O Claude oferece garantias similares em seus planos pagos</li>
+      <li><strong className="text-[#162a2a]">Desative o histórico</strong> , nas configurações do ChatGPT, é possível desativar o uso de conversas para treinamento</li>
+      <li><strong className="text-[#162a2a]">Defina uma política interna</strong> , estabeleça regras claras sobre o que pode e o que não pode ser inserido em ferramentas de IA</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
-      O Código de Ética da OAB impõe ao advogado o dever de sigilo sobre informações do cliente. Esse dever se estende ao uso de tecnologia. Usar ferramentas de IA sem precauções equivale a discutir detalhes de um caso em um local público — a responsabilidade recai sobre o advogado.
+      O Código de Ética da OAB impõe ao advogado o dever de sigilo sobre informações do cliente. Esse dever se estende ao uso de tecnologia. Usar ferramentas de IA sem precauções equivale a discutir detalhes de um caso em um local público , a responsabilidade recai sobre o advogado.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Como implementar no escritório</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A implementação deve ser gradual. Comece com um advogado testando a ferramenta em tarefas de baixo risco — resumos internos, rascunhos iniciais e pesquisa preliminar. Documente os resultados, identifique os casos de uso mais produtivos e crie um guia interno de boas práticas.
+      A implementação deve ser gradual. Comece com um advogado testando a ferramenta em tarefas de baixo risco , resumos internos, rascunhos iniciais e pesquisa preliminar. Documente os resultados, identifique os casos de uso mais produtivos e crie um guia interno de boas práticas.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

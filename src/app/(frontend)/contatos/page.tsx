@@ -60,7 +60,7 @@ export default function ContatosPage() {
             Entre em Contato
           </span>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white font-lexend mb-6">
-            Contato — <span className="text-[#b58c61]">Solicite uma Proposta para Seu Escritório</span>
+            Contato , <span className="text-[#b58c61]">Solicite uma Proposta para Seu Escritório</span>
           </h1>
           <p className="text-gray-400 font-lexend text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
             Quer saber mais sobre a criação de site para advogados ou solicitar um orçamento personalizado? <Link href="/portfolio" className="text-[#b58c61] hover:text-[#de7322] underline underline-offset-2 transition-colors duration-300">Conheça nossos projetos</Link> e veja a qualidade do nosso trabalho. Estamos prontos para atender você pelo canal de sua preferência.
@@ -76,7 +76,7 @@ export default function ContatosPage() {
           </h2>
           <div className="text-gray-600 font-lexend text-base md:text-lg leading-relaxed space-y-4">
             <p>
-              Trabalhamos com advogados e escritórios de advocacia em todo o Brasil. Seja para criar um site do zero, redesenhar um site existente ou adicionar funcionalidades como blog jurídico e captação de leads, nossa equipe está pronta para ajudar. Atendemos de forma 100% digital — do briefing à entrega, tudo acontece online, sem que você precise sair do escritório.
+              Trabalhamos com advogados e escritórios de advocacia em todo o Brasil. Seja para criar um site do zero, redesenhar um site existente ou adicionar funcionalidades como blog jurídico e captação de leads, nossa equipe está pronta para ajudar. Atendemos de forma 100% digital , do briefing à entrega, tudo acontece online, sem que você precise sair do escritório.
             </p>
             <p>
               Nosso processo é simples e transparente: você nos conta sobre sua área de atuação, seus objetivos e o perfil dos clientes que deseja alcançar. A partir disso, desenvolvemos um projeto personalizado com design profissional, otimização para mecanismos de busca (SEO) e estrutura pensada para converter visitantes em contatos reais. Cada detalhe é planejado para transmitir credibilidade e autoridade no meio jurídico.
@@ -231,7 +231,7 @@ export default function ContatosPage() {
       <section className="bg-white py-8 border-t border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-gray-500 text-sm font-lexend">
-            Todos os Direitos Reservados &copy; {new Date().getFullYear()} Seu Site Advogados — CNPJ: 34.644.883/0001-94
+            Todos os Direitos Reservados &copy; {new Date().getFullYear()} Seu Site Advogados , CNPJ: 34.644.883/0001-94
           </p>
         </div>
       </section>

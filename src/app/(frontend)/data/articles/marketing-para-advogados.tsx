@@ -9,14 +9,14 @@ registerArticle('marketing-para-advogados', () => (
     <p className="text-gray-700 leading-relaxed">
       Marketing jurídico é o conjunto de ações que um advogado ou escritório utiliza para se tornar
       conhecido, atrair clientes e construir autoridade na sua área de atuação. Diferente do que
-      muita gente pensa, a OAB não proíbe marketing — ela regulamenta. A diferença é enorme.
+      muita gente pensa, a OAB não proíbe marketing , ela regulamenta. A diferença é enorme.
     </p>
 
     <p className="text-gray-700 leading-relaxed mt-4">
       O Provimento 205/2021 do Conselho Federal da OAB atualizou as regras sobre publicidade
       advocatícia e trouxe mais liberdade para os profissionais. Antes, qualquer menção a valores ou
       resultados era vista com maus olhos. Agora, o advogado pode produzir conteúdo educativo,
-      manter presença ativa nas redes sociais e até utilizar anúncios pagos — desde que respeite
+      manter presença ativa nas redes sociais e até utilizar anúncios pagos , desde que respeite
       alguns limites.
     </p>
 
@@ -34,7 +34,7 @@ registerArticle('marketing-para-advogados', () => (
 
     <p className="text-gray-700 leading-relaxed mt-4">
       O ponto central é: o marketing jurídico precisa ter caráter informativo. Você não está vendendo
-      um produto — está mostrando sua competência para resolver problemas reais de pessoas reais.
+      um produto , está mostrando sua competência para resolver problemas reais de pessoas reais.
       Essa mentalidade muda completamente a forma como você se posiciona.
     </p>
 
@@ -55,7 +55,7 @@ registerArticle('marketing-para-advogados', () => (
       O marketing offline continua relevante, especialmente para advogados que atuam em cidades
       menores ou em áreas como direito de família e direito criminal, onde a indicação boca a boca
       pesa muito. Palestras em associações comerciais, participação em eventos da comunidade,
-      networking em câmaras de comércio e até a placa do escritório bem posicionada — tudo isso
+      networking em câmaras de comércio e até a placa do escritório bem posicionada , tudo isso
       gera visibilidade.
     </p>
 
@@ -120,7 +120,7 @@ registerArticle('marketing-para-advogados', () => (
 
     <p className="text-gray-700 leading-relaxed mt-4">
       Um advogado previdenciário que escreve um artigo completo sobre &quot;como dar entrada na
-      aposentadoria por invalidez&quot; pode atrair centenas de visitantes por mês — pessoas que
+      aposentadoria por invalidez&quot; pode atrair centenas de visitantes por mês , pessoas que
       estão exatamente no momento de contratar um profissional. O segredo é escrever sobre as
       dúvidas reais dos seus clientes, não sobre teses jurídicas abstratas.
     </p>
@@ -132,7 +132,7 @@ registerArticle('marketing-para-advogados', () => (
     <p className="text-gray-700 leading-relaxed">
       Essa é a estratégia com melhor custo-benefício para advogados, porque é gratuita e gera
       resultados rápidos. Quando alguém pesquisa &quot;advogado trabalhista em Curitiba&quot;, os
-      primeiros resultados que aparecem são do Google Meu Negócio — aqueles cards com mapa, telefone,
+      primeiros resultados que aparecem são do Google Meu Negócio , aqueles cards com mapa, telefone,
       avaliações e fotos.
     </p>
 
@@ -219,7 +219,7 @@ registerArticle('marketing-para-advogados', () => (
     <p className="text-gray-700 leading-relaxed mt-4">
       Um erro menos óbvio, mas igualmente prejudicial, é investir em marketing sem ter estrutura para
       atender a demanda gerada. De nada adianta atrair 50 contatos por mês se você demora três dias
-      para responder uma mensagem no WhatsApp. O marketing traz o cliente até a porta — o
+      para responder uma mensagem no WhatsApp. O marketing traz o cliente até a porta , o
       atendimento é o que converte.
     </p>
 
@@ -285,7 +285,7 @@ registerArticle('marketing-para-advogados', () => (
     <p className="text-gray-700 leading-relaxed">
       Marketing para advogados não é um luxo reservado a grandes escritórios. É uma necessidade para
       qualquer profissional que quer crescer na advocacia atual. O mercado está cada vez mais
-      competitivo — são mais de 1,3 milhão de advogados no Brasil — e quem não se posiciona fica
+      competitivo , são mais de 1,3 milhão de advogados no Brasil , e quem não se posiciona fica
       invisível.
     </p>
 

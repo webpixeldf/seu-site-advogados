@@ -12,7 +12,7 @@ registerArticle('como-gravar-videos-da-advocacia-para-o-youtube', () => (
       A dúvida mais comum de quem está começando é sobre o equipamento de captação. A resposta direta: um celular com câmera decente já resolve. Smartphones lançados nos últimos três ou quatro anos gravam em Full HD ou 4K, o que é mais do que suficiente para o YouTube. Câmeras DSLR ou mirrorless entregam uma imagem superior, com desfoque de fundo mais bonito e melhor desempenho em ambientes com pouca luz, mas representam um investimento que nem sempre faz sentido no início.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      Se você optar pelo celular, use a câmera traseira, que tem qualidade superior à frontal. Apoie o aparelho em um tripé — existem modelos compactos por menos de cinquenta reais — e grave na horizontal. Evite segurar o celular na mão, pois a trepidação compromete a credibilidade do vídeo. Caso decida investir em uma câmera dedicada, modelos como a Canon SL3 ou a Sony ZV-1 são boas opções de entrada para criadores de conteúdo.
+      Se você optar pelo celular, use a câmera traseira, que tem qualidade superior à frontal. Apoie o aparelho em um tripé , existem modelos compactos por menos de cinquenta reais , e grave na horizontal. Evite segurar o celular na mão, pois a trepidação compromete a credibilidade do vídeo. Caso decida investir em uma câmera dedicada, modelos como a Canon SL3 ou a Sony ZV-1 são boas opções de entrada para criadores de conteúdo.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Iluminação: o detalhe que separa o amador do profissional</h2>
@@ -33,7 +33,7 @@ registerArticle('como-gravar-videos-da-advocacia-para-o-youtube', () => (
       Para celular, um microfone de lapela com fio é a solução mais acessível. Modelos como o Boya BY-M1 custam por volta de sessenta reais e fazem uma diferença enorme. Se você gravar com câmera, um microfone shotgun como o Rode VideoMicro é uma boa escolha. Para quem grava no escritório e quer a melhor qualidade possível, microfones USB de mesa como o Blue Yeti ou o HyperX SoloCast são excelentes para captar a voz com clareza.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      Além do microfone, cuide do ambiente. Grave em um cômodo com móveis, cortinas e tapetes — esses elementos absorvem o som e reduzem o eco. Ambientes vazios com paredes lisas criam reverberação que nenhum microfone resolve completamente. Feche janelas e desligue ventiladores e aparelhos de ar-condicionado durante a gravação.
+      Além do microfone, cuide do ambiente. Grave em um cômodo com móveis, cortinas e tapetes , esses elementos absorvem o som e reduzem o eco. Ambientes vazios com paredes lisas criam reverberação que nenhum microfone resolve completamente. Feche janelas e desligue ventiladores e aparelhos de ar-condicionado durante a gravação.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Roteiro: como estruturar o conteúdo do vídeo</h2>
@@ -47,7 +47,7 @@ registerArticle('como-gravar-videos-da-advocacia-para-o-youtube', () => (
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Gancho inicial (10 a 15 segundos):</strong> apresente o problema ou a dúvida que o vídeo vai resolver. Seja direto. Exemplo: "Você sabia que o inquilino pode rescindir o contrato de aluguel antes do prazo sem pagar multa em determinadas situações?"</li>
       <li><strong className="text-[#162a2a]">Desenvolvimento (corpo do vídeo):</strong> divida o tema em três a cinco pontos principais. Explique cada um com linguagem acessível, usando exemplos práticos. Evite jargão jurídico desnecessário.</li>
-      <li><strong className="text-[#162a2a]">Conclusão e chamada para ação:</strong> resuma os pontos principais em duas ou três frases e oriente o espectador sobre o próximo passo — pode ser assistir outro vídeo, se inscrever no canal ou buscar orientação profissional.</li>
+      <li><strong className="text-[#162a2a]">Conclusão e chamada para ação:</strong> resuma os pontos principais em duas ou três frases e oriente o espectador sobre o próximo passo , pode ser assistir outro vídeo, se inscrever no canal ou buscar orientação profissional.</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
       Mantenha os vídeos entre sete e quinze minutos. Vídeos muito curtos não aprofundam o tema o suficiente para gerar autoridade. Vídeos longos demais perdem a atenção do espectador, especialmente quando o canal é novo e ainda não tem uma audiência fiel.
@@ -56,7 +56,7 @@ registerArticle('como-gravar-videos-da-advocacia-para-o-youtube', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Dicas para falar com naturalidade diante da câmera</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Muitos advogados travam quando a câmera liga. Isso é normal e melhora com a prática. Algumas estratégias ajudam no início: grave olhando para a lente da câmera como se fosse o olho de um cliente que está na sua frente. Use um teleprompter no celular ou computador com os tópicos principais para não perder o fio da meada. Fale em tom conversacional, como se estivesse explicando o assunto para um amigo. Não tente ser perfeito — pequenas imperfeições tornam o vídeo mais humano e aumentam a conexão com quem assiste.
+      Muitos advogados travam quando a câmera liga. Isso é normal e melhora com a prática. Algumas estratégias ajudam no início: grave olhando para a lente da câmera como se fosse o olho de um cliente que está na sua frente. Use um teleprompter no celular ou computador com os tópicos principais para não perder o fio da meada. Fale em tom conversacional, como se estivesse explicando o assunto para um amigo. Não tente ser perfeito , pequenas imperfeições tornam o vídeo mais humano e aumentam a conexão com quem assiste.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Edição: o que cortar e o que manter</h2>
@@ -109,10 +109,10 @@ registerArticle('como-gravar-videos-da-advocacia-para-o-youtube', () => (
       <li>Usar linguagem excessivamente técnica sem traduzir para o público leigo.</li>
       <li>Publicar sem thumbnail personalizada, usando o frame automático do YouTube.</li>
       <li>Não incluir chamada para ação ao final do vídeo.</li>
-      <li>Esperar ter equipamento perfeito para começar — o melhor momento para publicar o primeiro vídeo é agora, com o que você tem.</li>
+      <li>Esperar ter equipamento perfeito para começar , o melhor momento para publicar o primeiro vídeo é agora, com o que você tem.</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      O YouTube recompensa quem aparece de forma consistente. Seus primeiros vídeos não serão perfeitos, e tudo bem. A habilidade de gravar, editar e se comunicar diante da câmera melhora a cada publicação. O importante é começar com uma estrutura básica de qualidade — bom áudio, boa iluminação e conteúdo útil — e evoluir com o tempo.
+      O YouTube recompensa quem aparece de forma consistente. Seus primeiros vídeos não serão perfeitos, e tudo bem. A habilidade de gravar, editar e se comunicar diante da câmera melhora a cada publicação. O importante é começar com uma estrutura básica de qualidade , bom áudio, boa iluminação e conteúdo útil , e evoluir com o tempo.
     </p>
   </>
 ))

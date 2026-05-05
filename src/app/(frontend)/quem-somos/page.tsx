@@ -48,10 +48,10 @@ export default function QuemSomos() {
             Sobre Nós
           </span>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white font-lexend mb-6">
-            Seu Site Advogados — <span className="text-[#b58c61]">Quem Está Por Trás do Projeto</span>
+            Seu Site Advogados , <span className="text-[#b58c61]">Quem Está Por Trás do Projeto</span>
           </h1>
           <p className="text-gray-300 font-lexend text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
-            Somos a agência de marketing jurídico que transforma escritórios de advocacia em referência digital. Criação de site para advogados é a nossa especialidade — e o seu crescimento, a nossa missão.
+            Somos a agência de marketing jurídico que transforma escritórios de advocacia em referência digital. Criação de site para advogados é a nossa especialidade , e o seu crescimento, a nossa missão.
           </p>
         </div>
       </section>
@@ -87,7 +87,7 @@ export default function QuemSomos() {
                 <span className="text-[#b58c61]">site jurídico</span>
               </h2>
               <p className="text-gray-700 font-lexend leading-relaxed">
-                Nascemos com um propósito claro: criar sites para advogados que realmente geram resultados. Não queríamos ser mais uma empresa genérica de tecnologia — queríamos nos tornar a referência em criação de site para advogados no Brasil.
+                Nascemos com um propósito claro: criar sites para advogados que realmente geram resultados. Não queríamos ser mais uma empresa genérica de tecnologia , queríamos nos tornar a referência em criação de site para advogados no Brasil.
               </p>
               <p className="text-gray-700 font-lexend leading-relaxed">
                 Desde então, já desenvolvemos dezenas de sites jurídicos para advogados autônomos e escritórios de advocacia em todo o país. <Link href="/portfolio" className="text-[#de7322] hover:text-[#b58c61] underline underline-offset-2 transition-colors duration-300">Veja nosso portfólio</Link> e confira os resultados. Conhecemos a fundo o mercado jurídico, dominamos as diretrizes da OAB sobre publicidade e sabemos exatamente quais termos os seus futuros clientes digitam no Google quando precisam de um advogado.
@@ -132,7 +132,7 @@ export default function QuemSomos() {
           {/* Mission text */}
           <div className="max-w-3xl mx-auto mt-20 text-center space-y-6">
             <p className="text-gray-700 font-lexend leading-relaxed text-lg">
-              <strong className="text-[#162a2a]">O que nos motiva?</strong> Saber que cada site para advogados que entregamos se torna uma máquina de captação de clientes. Ver escritórios que antes viviam apenas de indicações passando a receber contatos semanais pelo Google — esse é o resultado que nos faz acordar todos os dias prontos para trabalhar.
+              <strong className="text-[#162a2a]">O que nos motiva?</strong> Saber que cada site para advogados que entregamos se torna uma máquina de captação de clientes. Ver escritórios que antes viviam apenas de indicações passando a receber contatos semanais pelo Google , esse é o resultado que nos faz acordar todos os dias prontos para trabalhar.
             </p>
             <p className="text-gray-700 font-lexend leading-relaxed text-lg">
               Se você chegou até aqui, já demonstrou que leva a sério a presença digital do seu escritório. O próximo passo é simples: <Link href="/contatos" className="text-[#de7322] hover:text-[#b58c61] underline underline-offset-2 transition-colors duration-300">entre em contato com nossa equipe</Link> e descubra como podemos transformar o seu site jurídico em uma fonte constante de novos clientes. Aproveite também para <Link href="/blog" className="text-[#de7322] hover:text-[#b58c61] underline underline-offset-2 transition-colors duration-300">conferir nosso blog</Link> com dicas práticas sobre marketing jurídico.
@@ -150,7 +150,7 @@ export default function QuemSomos() {
             <span className="text-[#b58c61]">site que seu escritório merece?</span>
           </h2>
           <p className="text-gray-400 font-lexend text-lg max-w-xl mx-auto mb-10 leading-relaxed">
-            Fale agora com nossa equipe pelo WhatsApp, conte sobre o seu escritório e receba uma proposta personalizada de criação de site para advogados — sem compromisso.
+            Fale agora com nossa equipe pelo WhatsApp, conte sobre o seu escritório e receba uma proposta personalizada de criação de site para advogados , sem compromisso.
           </p>
           <a
             href="https://wa.me/5561992784283?text=Ol%C3%A1%21%20Vim%20do%20site%20seusiteadvogados.com.br%20e%20gostaria%20de%20um%20or%C3%A7amento."
@@ -168,7 +168,7 @@ export default function QuemSomos() {
       <section className="bg-white py-8 border-t border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-gray-500 text-sm font-lexend">
-            Todos os Direitos Reservados &copy; {new Date().getFullYear()} Seu Site Advogados — CNPJ: 34.644.883/0001-94
+            Todos os Direitos Reservados &copy; {new Date().getFullYear()} Seu Site Advogados , CNPJ: 34.644.883/0001-94
           </p>
         </div>
       </section>

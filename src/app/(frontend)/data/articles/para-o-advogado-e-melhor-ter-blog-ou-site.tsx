@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('para-o-advogado-e-melhor-ter-blog-ou-site', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Essa é uma das dúvidas mais comuns entre advogados que estão começando a investir em presença digital: vale mais a pena ter um blog ou um site? A pergunta, na verdade, parte de um mal-entendido. Blog e site não são opostos — são complementares. Mas entender a função de cada um é essencial para definir uma estratégia que gere resultados reais.
+      Essa é uma das dúvidas mais comuns entre advogados que estão começando a investir em presença digital: vale mais a pena ter um blog ou um site? A pergunta, na verdade, parte de um mal-entendido. Blog e site não são opostos , são complementares. Mas entender a função de cada um é essencial para definir uma estratégia que gere resultados reais.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -27,11 +27,11 @@ registerArticle('para-o-advogado-e-melhor-ter-blog-ou-site', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que é um blog jurídico</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Um blog é uma seção do site onde são publicados artigos com regularidade. Diferente das páginas fixas, o blog é dinâmico — novos conteúdos são adicionados periodicamente, abordando temas relevantes para o público-alvo do escritório.
+      Um blog é uma seção do site onde são publicados artigos com regularidade. Diferente das páginas fixas, o blog é dinâmico , novos conteúdos são adicionados periodicamente, abordando temas relevantes para o público-alvo do escritório.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      No contexto jurídico, o blog serve para responder às dúvidas que potenciais clientes pesquisam no Google. "Quanto tempo demora um divórcio?", "Como funciona a rescisão indireta?", "O que fazer quando o plano de saúde nega uma cirurgia?" — são perguntas reais que milhares de pessoas fazem todos os dias. Cada artigo do blog é uma oportunidade de atrair essas pessoas para o seu site.
+      No contexto jurídico, o blog serve para responder às dúvidas que potenciais clientes pesquisam no Google. "Quanto tempo demora um divórcio?", "Como funciona a rescisão indireta?", "O que fazer quando o plano de saúde nega uma cirurgia?" , são perguntas reais que milhares de pessoas fazem todos os dias. Cada artigo do blog é uma oportunidade de atrair essas pessoas para o seu site.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -41,7 +41,7 @@ registerArticle('para-o-advogado-e-melhor-ter-blog-ou-site', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O impacto do blog no SEO</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      SEO é a otimização para mecanismos de busca — o conjunto de práticas que fazem um site aparecer nos primeiros resultados do Google. E é aqui que o blog faz a maior diferença.
+      SEO é a otimização para mecanismos de busca , o conjunto de práticas que fazem um site aparecer nos primeiros resultados do Google. E é aqui que o blog faz a maior diferença.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -49,12 +49,12 @@ registerArticle('para-o-advogado-e-melhor-ter-blog-ou-site', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Páginas fixas do site</strong> competem por termos amplos como "advogado trabalhista em São Paulo" — palavras-chave com alta concorrência.</li>
-      <li><strong className="text-[#162a2a]">Artigos do blog</strong> competem por termos de cauda longa como "posso ser demitido durante atestado médico" — perguntas específicas com menos concorrência e intenção de busca clara.</li>
+      <li><strong className="text-[#162a2a]">Páginas fixas do site</strong> competem por termos amplos como "advogado trabalhista em São Paulo" , palavras-chave com alta concorrência.</li>
+      <li><strong className="text-[#162a2a]">Artigos do blog</strong> competem por termos de cauda longa como "posso ser demitido durante atestado médico" , perguntas específicas com menos concorrência e intenção de busca clara.</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
-      Além disso, o Google favorece sites que publicam conteúdo relevante com regularidade. Um site que recebe novos artigos toda semana demonstra ao algoritmo que está ativo e atualizado, o que tende a melhorar o posicionamento de todas as páginas — inclusive as fixas.
+      Além disso, o Google favorece sites que publicam conteúdo relevante com regularidade. Um site que recebe novos artigos toda semana demonstra ao algoritmo que está ativo e atualizado, o que tende a melhorar o posicionamento de todas as páginas , inclusive as fixas.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Blog sem site: funciona?</h2>
@@ -77,7 +77,7 @@ registerArticle('para-o-advogado-e-melhor-ter-blog-ou-site', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Sem blog, o site depende de tráfego direto (alguém digita o endereço), de indicações ou de anúncios pagos. Ele não participa da conversa que acontece todos os dias no Google quando milhões de pessoas pesquisam sobre questões jurídicas. É como ter uma loja em um prédio sem placa na rua — quem já conhece encontra, mas novos clientes passam direto.
+      Sem blog, o site depende de tráfego direto (alguém digita o endereço), de indicações ou de anúncios pagos. Ele não participa da conversa que acontece todos os dias no Google quando milhões de pessoas pesquisam sobre questões jurídicas. É como ter uma loja em um prédio sem placa na rua , quem já conhece encontra, mas novos clientes passam direto.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -87,7 +87,7 @@ registerArticle('para-o-advogado-e-melhor-ter-blog-ou-site', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">A resposta certa: site com blog integrado</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A estratégia mais eficaz combina as duas coisas. O site fornece a estrutura institucional — credibilidade, apresentação das áreas de atuação, informações de contato. O blog atrai tráfego orgânico, demonstra conhecimento prático e cria múltiplos pontos de entrada para novos visitantes.
+      A estratégia mais eficaz combina as duas coisas. O site fornece a estrutura institucional , credibilidade, apresentação das áreas de atuação, informações de contato. O blog atrai tráfego orgânico, demonstra conhecimento prático e cria múltiplos pontos de entrada para novos visitantes.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -97,7 +97,7 @@ registerArticle('para-o-advogado-e-melhor-ter-blog-ou-site', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Como montar uma estratégia de conteúdo para o blog</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Ter um blog não significa publicar qualquer coisa. Uma estratégia de conteúdo eficaz começa pela pesquisa de palavras-chave — descobrir o que seu público-alvo realmente pesquisa no Google. Ferramentas como Google Keyword Planner, Ubersuggest ou Semrush ajudam nessa tarefa.
+      Ter um blog não significa publicar qualquer coisa. Uma estratégia de conteúdo eficaz começa pela pesquisa de palavras-chave , descobrir o que seu público-alvo realmente pesquisa no Google. Ferramentas como Google Keyword Planner, Ubersuggest ou Semrush ajudam nessa tarefa.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Escolha de temas</h3>
@@ -133,7 +133,7 @@ registerArticle('para-o-advogado-e-melhor-ter-blog-ou-site', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Considerações finais</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Blog e site não são escolhas excludentes. O site é a fundação. O blog é o motor de crescimento. Juntos, eles criam um ecossistema digital que atrai visitantes, demonstra expertise e converte leitores em clientes — e tudo começa com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para captação de clientes jurídicos</a>. Advogados que entendem essa dinâmica e investem em conteúdo de qualidade constroem uma vantagem competitiva que cresce com o tempo e se torna cada vez mais difícil de ser replicada pela concorrência.
+      Blog e site não são escolhas excludentes. O site é a fundação. O blog é o motor de crescimento. Juntos, eles criam um ecossistema digital que atrai visitantes, demonstra expertise e converte leitores em clientes , e tudo começa com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para captação de clientes jurídicos</a>. Advogados que entendem essa dinâmica e investem em conteúdo de qualidade constroem uma vantagem competitiva que cresce com o tempo e se torna cada vez mais difícil de ser replicada pela concorrência.
     </p>
   </>
 ))

@@ -23,7 +23,7 @@ registerArticle('landing-page-e-site-institucional', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que é uma landing page para advogados</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Uma landing page é uma página única, sem navegação, focada em uma ação específica. Geralmente está ligada a uma campanha de tráfego pago — Google Ads, Facebook Ads ou Instagram Ads. O visitante chega, encontra informações sobre um problema jurídico específico e é conduzido a preencher um formulário ou entrar em contato.
+      Uma landing page é uma página única, sem navegação, focada em uma ação específica. Geralmente está ligada a uma campanha de tráfego pago , Google Ads, Facebook Ads ou Instagram Ads. O visitante chega, encontra informações sobre um problema jurídico específico e é conduzido a preencher um formulário ou entrar em contato.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -68,7 +68,7 @@ registerArticle('landing-page-e-site-institucional', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Desvantagens do site institucional</h3>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li>Resultados mais demorados — SEO leva meses para gerar tráfego consistente</li>
+      <li>Resultados mais demorados , SEO leva meses para gerar tráfego consistente</li>
       <li>Custo inicial mais alto por conta de mais páginas e complexidade</li>
       <li>Necessidade de produção contínua de conteúdo para manter relevância</li>
       <li>Taxa de conversão geralmente menor que uma landing page otimizada</li>
@@ -88,7 +88,7 @@ registerArticle('landing-page-e-site-institucional', () => (
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li>Resultados rápidos quando combinada com tráfego pago</li>
-      <li>Taxa de conversão superior — foco em uma única ação</li>
+      <li>Taxa de conversão superior , foco em uma única ação</li>
       <li>Custo de criação menor do que um site completo</li>
       <li>Facilidade de mensuração e otimização via testes A/B</li>
       <li>Mensagem altamente direcionada para um público específico</li>
@@ -120,7 +120,7 @@ registerArticle('landing-page-e-site-institucional', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">A abordagem híbrida: site institucional com landing pages</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A estratégia mais completa combina os dois formatos. O site institucional serve como base — apresenta o escritório, publica conteúdo para SEO, recebe tráfego orgânico e funciona como referência de credibilidade. As landing pages são criadas para campanhas específicas de tráfego pago, cada uma focada em um serviço ou problema jurídico.
+      A estratégia mais completa combina os dois formatos. O site institucional serve como base , apresenta o escritório, publica conteúdo para SEO, recebe tráfego orgânico e funciona como referência de credibilidade. As landing pages são criadas para campanhas específicas de tráfego pago, cada uma focada em um serviço ou problema jurídico.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -152,7 +152,7 @@ registerArticle('landing-page-e-site-institucional', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O mais importante é entender que presença digital não é um gasto — é um investimento com retorno mensurável. Ter um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado autônomo</a> bem feito é o primeiro passo. Independentemente do formato escolhido, o fundamental é que a execução seja profissional, que o conteúdo fale a língua do cliente e que exista um processo claro para transformar visitantes em clientes reais do escritório.
+      O mais importante é entender que presença digital não é um gasto , é um investimento com retorno mensurável. Ter um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado autônomo</a> bem feito é o primeiro passo. Independentemente do formato escolhido, o fundamental é que a execução seja profissional, que o conteúdo fale a língua do cliente e que exista um processo claro para transformar visitantes em clientes reais do escritório.
     </p>
   </>
 ))

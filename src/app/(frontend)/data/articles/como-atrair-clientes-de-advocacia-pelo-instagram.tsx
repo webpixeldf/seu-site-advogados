@@ -3,14 +3,14 @@ import { registerArticle } from './registry'
 registerArticle('como-atrair-clientes-de-advocacia-pelo-instagram', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Atrair clientes pelo Instagram exige mais do que postar frases bonitas sobre justiça. Exige estratégia de conteúdo, consistência e um entendimento claro de como o algoritmo funciona a favor de quem produz conteúdo relevante. Para advogados, o Instagram é uma vitrine que funciona 24 horas por dia — mas só gera resultados quando o conteúdo responde às dúvidas reais de quem precisa de assistência jurídica. Este artigo detalha o caminho completo: do conteúdo estratégico à conversão de seguidores em clientes.
+      Atrair clientes pelo Instagram exige mais do que postar frases bonitas sobre justiça. Exige estratégia de conteúdo, consistência e um entendimento claro de como o algoritmo funciona a favor de quem produz conteúdo relevante. Para advogados, o Instagram é uma vitrine que funciona 24 horas por dia , mas só gera resultados quando o conteúdo responde às dúvidas reais de quem precisa de assistência jurídica. Este artigo detalha o caminho completo: do conteúdo estratégico à conversão de seguidores em clientes.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
       Estratégia de conteúdo: o que publicar para atrair clientes
     </h2>
     <p className="text-gray-700 leading-relaxed">
-      O erro mais comum de advogados no Instagram é produzir conteúdo para outros advogados. Posts com linguagem técnica, citações de artigos de lei e análises doutrinárias atraem colegas de profissão — não clientes. O cliente potencial busca respostas para problemas concretos, em linguagem que ele entenda.
+      O erro mais comum de advogados no Instagram é produzir conteúdo para outros advogados. Posts com linguagem técnica, citações de artigos de lei e análises doutrinárias atraem colegas de profissão , não clientes. O cliente potencial busca respostas para problemas concretos, em linguagem que ele entenda.
     </p>
     <p className="text-gray-700 leading-relaxed">
       O conteúdo que atrai clientes segue um princípio simples: <strong className="text-[#162a2a]">identifique a dor, explique o direito, mostre o caminho</strong>. Em vez de postar "Art. 186 do Código Civil: aquele que, por ação ou omissão voluntária...", publique "Se uma empresa causou prejuízo a você, a lei garante que ela precisa reparar o dano. Entenda como funciona."
@@ -33,15 +33,15 @@ registerArticle('como-atrair-clientes-de-advocacia-pelo-instagram', () => (
       Hashtags ainda funcionam no Instagram, mas o uso precisa ser estratégico. Publicar 30 hashtags genéricas como #advogado #direito #justiça não gera alcance qualificado. A abordagem eficiente combina três tipos de hashtags:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Hashtags de nicho (volume médio):</strong> #direitotrabalhista, #direitodoconsumidor, #pensaoalimenticia — termos que seu público-alvo realmente pesquisa</li>
-      <li><strong className="text-[#162a2a]">Hashtags locais:</strong> #advogadoSP, #advocaciaCuritiba, #direitoBH — essenciais para quem atende presencialmente</li>
-      <li><strong className="text-[#162a2a]">Hashtags de problema:</strong> #demitido, #nomenegativado, #divorcio — termos que a pessoa em situação de necessidade pode pesquisar</li>
+      <li><strong className="text-[#162a2a]">Hashtags de nicho (volume médio):</strong> #direitotrabalhista, #direitodoconsumidor, #pensaoalimenticia , termos que seu público-alvo realmente pesquisa</li>
+      <li><strong className="text-[#162a2a]">Hashtags locais:</strong> #advogadoSP, #advocaciaCuritiba, #direitoBH , essenciais para quem atende presencialmente</li>
+      <li><strong className="text-[#162a2a]">Hashtags de problema:</strong> #demitido, #nomenegativado, #divorcio , termos que a pessoa em situação de necessidade pode pesquisar</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      Use entre 5 e 15 hashtags por post. Coloque-as no primeiro comentário (em vez da legenda) para manter o visual limpo. Crie grupos de hashtags por tema e alterne entre eles — usar sempre o mesmo conjunto sinaliza spam para o algoritmo.
+      Use entre 5 e 15 hashtags por post. Coloque-as no primeiro comentário (em vez da legenda) para manter o visual limpo. Crie grupos de hashtags por tema e alterne entre eles , usar sempre o mesmo conjunto sinaliza spam para o algoritmo.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      Ferramenta útil: a própria barra de pesquisa do Instagram mostra quantas publicações cada hashtag tem. Prefira hashtags com 10 mil a 500 mil publicações — as muito grandes (acima de 1 milhão) são dominadas por perfis grandes e seu conteúdo se perde rapidamente.
+      Ferramenta útil: a própria barra de pesquisa do Instagram mostra quantas publicações cada hashtag tem. Prefira hashtags com 10 mil a 500 mil publicações , as muito grandes (acima de 1 milhão) são dominadas por perfis grandes e seu conteúdo se perde rapidamente.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -53,11 +53,11 @@ registerArticle('como-atrair-clientes-de-advocacia-pelo-instagram', () => (
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Localização nos posts:</strong> marque a cidade ou o bairro em cada publicação. Isso faz seus posts aparecerem quando alguém navega por conteúdo daquela localização</li>
       <li><strong className="text-[#162a2a]">Hashtags geográficas:</strong> inclua o nome da cidade e do estado em hashtags específicas</li>
-      <li><strong className="text-[#162a2a]">Parcerias locais:</strong> interaja e faça colaborações com outros profissionais da sua cidade — contadores, corretores de imóveis, psicólogos. Cada um tem uma audiência que pode precisar do seu serviço</li>
+      <li><strong className="text-[#162a2a]">Parcerias locais:</strong> interaja e faça colaborações com outros profissionais da sua cidade , contadores, corretores de imóveis, psicólogos. Cada um tem uma audiência que pode precisar do seu serviço</li>
       <li><strong className="text-[#162a2a]">Conteúdo sobre legislação local:</strong> posts sobre leis municipais ou estaduais específicas atraem um público geograficamente relevante</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      Um advogado imobiliário em Florianópolis, por exemplo, pode criar um Reel sobre "As 3 cláusulas mais perigosas em contratos de aluguel em Florianópolis" — o conteúdo é relevante, local e diretamente conectado a um problema real do público.
+      Um advogado imobiliário em Florianópolis, por exemplo, pode criar um Reel sobre "As 3 cláusulas mais perigosas em contratos de aluguel em Florianópolis" , o conteúdo é relevante, local e diretamente conectado a um problema real do público.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -83,9 +83,9 @@ registerArticle('como-atrair-clientes-de-advocacia-pelo-instagram', () => (
       Entender o funil ajuda a saber o que esperar em cada etapa e onde otimizar:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Topo do funil — Alcance:</strong> seus posts e Reels são vistos por pessoas que ainda não te conhecem. O conteúdo educativo amplo atrai esse público</li>
-      <li><strong className="text-[#162a2a]">Meio do funil — Engajamento:</strong> a pessoa começa a seguir seu perfil, curtir posts, salvar conteúdos. Ela está consumindo informação e avaliando sua competência</li>
-      <li><strong className="text-[#162a2a]">Fundo do funil — Conversão:</strong> ela manda uma DM, clica no link da bio ou acessa seu <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para captação de clientes jurídicos</a>. O atendimento humano entra em cena</li>
+      <li><strong className="text-[#162a2a]">Topo do funil , Alcance:</strong> seus posts e Reels são vistos por pessoas que ainda não te conhecem. O conteúdo educativo amplo atrai esse público</li>
+      <li><strong className="text-[#162a2a]">Meio do funil , Engajamento:</strong> a pessoa começa a seguir seu perfil, curtir posts, salvar conteúdos. Ela está consumindo informação e avaliando sua competência</li>
+      <li><strong className="text-[#162a2a]">Fundo do funil , Conversão:</strong> ela manda uma DM, clica no link da bio ou acessa seu <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para captação de clientes jurídicos</a>. O atendimento humano entra em cena</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
       O tempo entre o primeiro contato com seu conteúdo e a decisão de entrar em contato varia. Alguns fazem isso imediatamente; outros acompanham seu perfil por semanas antes de agir. Isso reforça a importância da consistência: você precisa estar publicando quando o potencial cliente estiver pronto para procurar um advogado.
@@ -99,13 +99,13 @@ registerArticle('como-atrair-clientes-de-advocacia-pelo-instagram', () => (
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Salvamentos:</strong> quando alguém salva seu post, significa que ele é útil o suficiente para ser revisitado. É o indicador mais forte de relevância</li>
-      <li><strong className="text-[#162a2a]">Compartilhamentos:</strong> a pessoa achou o conteúdo relevante a ponto de enviar para alguém — provavelmente alguém que precisa de um advogado</li>
+      <li><strong className="text-[#162a2a]">Compartilhamentos:</strong> a pessoa achou o conteúdo relevante a ponto de enviar para alguém , provavelmente alguém que precisa de um advogado</li>
       <li><strong className="text-[#162a2a]">DMs recebidas:</strong> o número de mensagens diretas é o indicador mais próximo de geração de leads</li>
       <li><strong className="text-[#162a2a]">Cliques no link da bio:</strong> quantas pessoas estão seguindo o caminho até o WhatsApp ou site</li>
       <li><strong className="text-[#162a2a]">Alcance de não-seguidores:</strong> mostra se o conteúdo está chegando a pessoas novas, ampliando sua base de potenciais clientes</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      Acompanhe essas métricas semanalmente no Instagram Insights (disponível em contas profissionais). Identifique quais temas e formatos geram mais salvamentos e DMs — e produza mais conteúdo nessa linha.
+      Acompanhe essas métricas semanalmente no Instagram Insights (disponível em contas profissionais). Identifique quais temas e formatos geram mais salvamentos e DMs , e produza mais conteúdo nessa linha.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -132,7 +132,7 @@ registerArticle('como-atrair-clientes-de-advocacia-pelo-instagram', () => (
       Conclusão prática
     </h2>
     <p className="text-gray-700 leading-relaxed">
-      Atrair clientes pelo Instagram na advocacia é um processo que combina conteúdo relevante, presença consistente e atendimento ágil nas DMs. Não existe atalho — perfis que geram resultados são aqueles que publicam conteúdo útil com frequência, usam hashtags e localização de forma estratégica e respondem rapidamente quando o potencial cliente dá o próximo passo. Comece hoje com três posts por semana, acompanhe as métricas que importam e ajuste a estratégia com base nos dados. Os resultados se acumulam com o tempo.
+      Atrair clientes pelo Instagram na advocacia é um processo que combina conteúdo relevante, presença consistente e atendimento ágil nas DMs. Não existe atalho , perfis que geram resultados são aqueles que publicam conteúdo útil com frequência, usam hashtags e localização de forma estratégica e respondem rapidamente quando o potencial cliente dá o próximo passo. Comece hoje com três posts por semana, acompanhe as métricas que importam e ajuste a estratégia com base nos dados. Os resultados se acumulam com o tempo.
     </p>
   </>
 ))

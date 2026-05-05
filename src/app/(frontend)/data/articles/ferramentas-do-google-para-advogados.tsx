@@ -115,10 +115,10 @@ registerArticle('ferramentas-do-google-para-advogados', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Anotações de reunião</strong> — registrar pontos discutidos com cliente durante uma reunião rápida</li>
-      <li><strong className="text-[#162a2a]">Listas de providências</strong> — criar checklists de documentos necessários para cada processo</li>
-      <li><strong className="text-[#162a2a]">Lembretes por localização</strong> — configurar um lembrete que aparece quando você chega ao fórum, por exemplo</li>
-      <li><strong className="text-[#162a2a]">Notas com etiquetas</strong> — organizar anotações por cliente, área do direito ou tipo de tarefa</li>
+      <li><strong className="text-[#162a2a]">Anotações de reunião</strong> , registrar pontos discutidos com cliente durante uma reunião rápida</li>
+      <li><strong className="text-[#162a2a]">Listas de providências</strong> , criar checklists de documentos necessários para cada processo</li>
+      <li><strong className="text-[#162a2a]">Lembretes por localização</strong> , configurar um lembrete que aparece quando você chega ao fórum, por exemplo</li>
+      <li><strong className="text-[#162a2a]">Notas com etiquetas</strong> , organizar anotações por cliente, área do direito ou tipo de tarefa</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
@@ -136,7 +136,7 @@ registerArticle('ferramentas-do-google-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Nenhuma dessas ferramentas substitui um software jurídico especializado para gestão processual completa. Mas para advogados que estão começando, que trabalham sozinhos ou que querem complementar suas ferramentas existentes sem custo adicional, o ecossistema Google oferece uma base sólida e profissional para organizar o trabalho e atrair clientes — especialmente quando combinado com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogados e escritórios</a> bem otimizado.
+      Nenhuma dessas ferramentas substitui um software jurídico especializado para gestão processual completa. Mas para advogados que estão começando, que trabalham sozinhos ou que querem complementar suas ferramentas existentes sem custo adicional, o ecossistema Google oferece uma base sólida e profissional para organizar o trabalho e atrair clientes , especialmente quando combinado com um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogados e escritórios</a> bem otimizado.
     </p>
   </>
 ))

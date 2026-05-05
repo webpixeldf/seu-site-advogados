@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('como-ser-advogado-do-google', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Ser "o advogado do Google" na sua cidade significa que, quando alguém pesquisa por um advogado da sua área, seu nome aparece consistentemente nos primeiros resultados. Não se trata de um título oficial — é o resultado prático de dominar as buscas locais. Este artigo explica como construir essa posição de forma estratégica e sustentável.
+      Ser "o advogado do Google" na sua cidade significa que, quando alguém pesquisa por um advogado da sua área, seu nome aparece consistentemente nos primeiros resultados. Não se trata de um título oficial , é o resultado prático de dominar as buscas locais. Este artigo explica como construir essa posição de forma estratégica e sustentável.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que significa dominar as buscas locais</h2>
@@ -11,12 +11,12 @@ registerArticle('como-ser-advogado-do-google', () => (
       Quando falamos em dominar as buscas locais, estamos falando de aparecer em três lugares simultaneamente para as pesquisas relevantes da sua área de atuação:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">No pacote local (mapa)</strong> — os três resultados com mapa que aparecem logo após os anúncios</li>
-      <li><strong className="text-[#162a2a]">Nos resultados orgânicos</strong> — a listagem natural de sites na primeira página</li>
-      <li><strong className="text-[#162a2a]">Nos anúncios pagos</strong> — ocupando também o espaço patrocinado quando o investimento justifica</li>
+      <li><strong className="text-[#162a2a]">No pacote local (mapa)</strong> , os três resultados com mapa que aparecem logo após os anúncios</li>
+      <li><strong className="text-[#162a2a]">Nos resultados orgânicos</strong> , a listagem natural de sites na primeira página</li>
+      <li><strong className="text-[#162a2a]">Nos anúncios pagos</strong> , ocupando também o espaço patrocinado quando o investimento justifica</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      Quando seu escritório aparece em dois ou três desses espaços ao mesmo tempo — o que exige ter um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado que converte</a> —, a percepção do potencial cliente muda. Você deixa de ser "mais um advogado" e passa a ser a referência óbvia. A confiança aumenta e a probabilidade de contato cresce significativamente.
+      Quando seu escritório aparece em dois ou três desses espaços ao mesmo tempo , o que exige ter um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado que converte</a> ,, a percepção do potencial cliente muda. Você deixa de ser "mais um advogado" e passa a ser a referência óbvia. A confiança aumenta e a probabilidade de contato cresce significativamente.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Análise da concorrência: entendendo o campo de batalha</h2>
@@ -42,11 +42,11 @@ registerArticle('como-ser-advogado-do-google', () => (
       O Perfil da Empresa no Google é o caminho mais rápido para aparecer nas buscas locais. Para dominar o pacote local, você precisa ir além do básico:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Complete 100% do perfil</strong> — preencha absolutamente todos os campos disponíveis, incluindo horários especiais, formas de atendimento e acessibilidade</li>
-      <li><strong className="text-[#162a2a]">Publique posts semanais</strong> — compartilhe informações úteis, mudanças na legislação, dicas jurídicas. Isso sinaliza ao Google que o perfil é ativo</li>
-      <li><strong className="text-[#162a2a]">Acumule avaliações</strong> — tenha um processo para solicitar avaliações de clientes satisfeitos. Um fluxo constante de avaliações recentes pesa mais que um acúmulo antigo</li>
-      <li><strong className="text-[#162a2a]">Adicione fotos regularmente</strong> — perfis com fotos recentes têm melhor desempenho</li>
-      <li><strong className="text-[#162a2a]">Responda perguntas</strong> — a seção de perguntas e respostas permite que você antecipe dúvidas comuns de potenciais clientes</li>
+      <li><strong className="text-[#162a2a]">Complete 100% do perfil</strong> , preencha absolutamente todos os campos disponíveis, incluindo horários especiais, formas de atendimento e acessibilidade</li>
+      <li><strong className="text-[#162a2a]">Publique posts semanais</strong> , compartilhe informações úteis, mudanças na legislação, dicas jurídicas. Isso sinaliza ao Google que o perfil é ativo</li>
+      <li><strong className="text-[#162a2a]">Acumule avaliações</strong> , tenha um processo para solicitar avaliações de clientes satisfeitos. Um fluxo constante de avaliações recentes pesa mais que um acúmulo antigo</li>
+      <li><strong className="text-[#162a2a]">Adicione fotos regularmente</strong> , perfis com fotos recentes têm melhor desempenho</li>
+      <li><strong className="text-[#162a2a]">Responda perguntas</strong> , a seção de perguntas e respostas permite que você antecipe dúvidas comuns de potenciais clientes</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Estratégia 2: Conteúdo que responde todas as perguntas</h2>
@@ -57,8 +57,8 @@ registerArticle('como-ser-advogado-do-google', () => (
       A estratégia é criar o que se chama de cluster de conteúdo. Funciona assim:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li>Crie uma <strong className="text-[#162a2a]">página pilar</strong> sobre sua área principal — por exemplo, uma página completa sobre "Direito Trabalhista" cobrindo os principais temas</li>
-      <li>Produza <strong className="text-[#162a2a]">artigos satélites</strong> sobre subtemas específicos — "como calcular horas extras", "diferença entre demissão e justa causa", "quando cabe dano moral trabalhista"</li>
+      <li>Crie uma <strong className="text-[#162a2a]">página pilar</strong> sobre sua área principal , por exemplo, uma página completa sobre "Direito Trabalhista" cobrindo os principais temas</li>
+      <li>Produza <strong className="text-[#162a2a]">artigos satélites</strong> sobre subtemas específicos , "como calcular horas extras", "diferença entre demissão e justa causa", "quando cabe dano moral trabalhista"</li>
       <li>Faça <strong className="text-[#162a2a]">links internos</strong> entre a página pilar e os artigos satélites, criando uma rede de conteúdo interligada</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
@@ -114,14 +114,14 @@ registerArticle('como-ser-advogado-do-google', () => (
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Medindo o progresso</h2>
     <p className="text-gray-700 leading-relaxed">
-      Não basta executar as ações — é preciso acompanhar os resultados para saber o que está funcionando. Os indicadores mais importantes são:
+      Não basta executar as ações , é preciso acompanhar os resultados para saber o que está funcionando. Os indicadores mais importantes são:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Posições no ranking</strong> — monitore suas posições para as palavras-chave mais importantes usando ferramentas como SEMrush ou Ubersuggest</li>
-      <li><strong className="text-[#162a2a]">Tráfego orgânico</strong> — acompanhe no Google Analytics quantas visitas vêm das buscas orgânicas</li>
-      <li><strong className="text-[#162a2a]">Impressões e cliques no Search Console</strong> — quantas vezes seu site apareceu nas buscas e quantos cliques recebeu</li>
-      <li><strong className="text-[#162a2a]">Contatos gerados</strong> — quantos leads vieram do tráfego orgânico</li>
-      <li><strong className="text-[#162a2a]">Visualizações do perfil do Google</strong> — o próprio painel do Google Meu Negócio mostra quantas pessoas visualizaram seu perfil</li>
+      <li><strong className="text-[#162a2a]">Posições no ranking</strong> , monitore suas posições para as palavras-chave mais importantes usando ferramentas como SEMrush ou Ubersuggest</li>
+      <li><strong className="text-[#162a2a]">Tráfego orgânico</strong> , acompanhe no Google Analytics quantas visitas vêm das buscas orgânicas</li>
+      <li><strong className="text-[#162a2a]">Impressões e cliques no Search Console</strong> , quantas vezes seu site apareceu nas buscas e quantos cliques recebeu</li>
+      <li><strong className="text-[#162a2a]">Contatos gerados</strong> , quantos leads vieram do tráfego orgânico</li>
+      <li><strong className="text-[#162a2a]">Visualizações do perfil do Google</strong> , o próprio painel do Google Meu Negócio mostra quantas pessoas visualizaram seu perfil</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
       Revise esses números mensalmente e ajuste sua estratégia com base nos dados. Se artigos sobre determinado tema geram mais tráfego e contatos, produza mais conteúdo sobre esse tema. Se uma área de atuação não gera buscas na sua região, redirecione o esforço para onde há demanda real. O domínio do Google é construído com dados e persistência, não com achismo.

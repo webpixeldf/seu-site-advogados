@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { MapPin } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Criação de Site para Advogados em Todo o Brasil — Cidades Atendidas',
+  title: 'Criação de Site para Advogados em Todo o Brasil , Cidades Atendidas',
   description: 'Atendemos advogados e escritórios de advocacia em capitais e principais cidades do Brasil. Veja a lista completa de localidades onde criamos sites jurídicos.',
   alternates: { canonical: '/site-para-advogados' },
 }
@@ -47,7 +47,7 @@ export default function CidadesIndexPage() {
                 className="flex items-center gap-2 bg-white hover:bg-[#162a2a] hover:text-white text-[#162a2a] px-4 py-3 rounded-lg font-lexend text-sm font-medium transition-all duration-300 shadow-sm hover:shadow-md group"
               >
                 <MapPin size={16} className="text-[#b58c61] group-hover:text-[#de7322] transition-colors flex-shrink-0" />
-                <span className="truncate">{c.nome} — {c.estado}</span>
+                <span className="truncate">{c.nome} , {c.estado}</span>
               </Link>
             ))}
           </div>

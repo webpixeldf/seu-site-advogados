@@ -11,9 +11,9 @@ registerArticle('como-aparecer-no-google-como-advogado', () => (
       O Google usa robôs chamados crawlers para rastrear e indexar páginas da internet. Quando alguém faz uma pesquisa, o algoritmo analisa centenas de fatores para decidir quais páginas são mais relevantes para aquela busca específica. Para advogados, os resultados geralmente aparecem em três formatos:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Anúncios pagos</strong> — aparecem no topo com a etiqueta "Patrocinado"</li>
-      <li><strong className="text-[#162a2a]">Pacote local (mapa)</strong> — mostra três negócios locais com mapa, avaliações e dados de contato</li>
-      <li><strong className="text-[#162a2a]">Resultados orgânicos</strong> — listagem natural de sites relevantes para a busca</li>
+      <li><strong className="text-[#162a2a]">Anúncios pagos</strong> , aparecem no topo com a etiqueta "Patrocinado"</li>
+      <li><strong className="text-[#162a2a]">Pacote local (mapa)</strong> , mostra três negócios locais com mapa, avaliações e dados de contato</li>
+      <li><strong className="text-[#162a2a]">Resultados orgânicos</strong> , listagem natural de sites relevantes para a busca</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
       O ideal é que seu escritório apareça tanto no pacote local quanto nos resultados orgânicos. Para isso, o primeiro passo é <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criar site para advogado</a> com estrutura otimizada. Cada formato de resultado exige uma estratégia diferente, mas ambos compartilham princípios comuns de relevância e autoridade.
@@ -29,7 +29,7 @@ registerArticle('como-aparecer-no-google-como-advogado', () => (
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li>Acesse business.google.com e crie ou reivindique o perfil do seu escritório</li>
       <li>Preencha todas as informações: nome, endereço, telefone, horário de funcionamento, site</li>
-      <li>Escolha as categorias corretas — "Advogado" como principal e subcategorias como "Advogado trabalhista" ou "Advogado de família"</li>
+      <li>Escolha as categorias corretas , "Advogado" como principal e subcategorias como "Advogado trabalhista" ou "Advogado de família"</li>
       <li>Adicione fotos reais do escritório, da equipe e da fachada</li>
       <li>Escreva uma descrição completa com suas áreas de atuação e diferenciais</li>
       <li>Mantenha o perfil atualizado com posts regulares sobre temas jurídicos</li>
@@ -48,12 +48,12 @@ registerArticle('como-aparecer-no-google-como-advogado', () => (
       Os elementos técnicos essenciais para um site de advocacia são:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Velocidade de carregamento</strong> — seu site deve carregar em menos de 3 segundos. Use o PageSpeed Insights do Google para testar</li>
-      <li><strong className="text-[#162a2a]">Design responsivo</strong> — o site precisa funcionar perfeitamente em celulares, já que mais de 70% das buscas são feitas por dispositivos móveis</li>
-      <li><strong className="text-[#162a2a]">Certificado SSL</strong> — o endereço deve começar com https://, indicando que a conexão é segura</li>
-      <li><strong className="text-[#162a2a]">Estrutura de URLs</strong> — URLs limpas e descritivas como /advogado-trabalhista-sao-paulo em vez de /pagina?id=123</li>
-      <li><strong className="text-[#162a2a]">Sitemap XML</strong> — um arquivo que lista todas as páginas do site e facilita a indexação pelo Google</li>
-      <li><strong className="text-[#162a2a]">Dados estruturados</strong> — marcação Schema.org do tipo "LegalService" que ajuda o Google a entender as informações do escritório</li>
+      <li><strong className="text-[#162a2a]">Velocidade de carregamento</strong> , seu site deve carregar em menos de 3 segundos. Use o PageSpeed Insights do Google para testar</li>
+      <li><strong className="text-[#162a2a]">Design responsivo</strong> , o site precisa funcionar perfeitamente em celulares, já que mais de 70% das buscas são feitas por dispositivos móveis</li>
+      <li><strong className="text-[#162a2a]">Certificado SSL</strong> , o endereço deve começar com https://, indicando que a conexão é segura</li>
+      <li><strong className="text-[#162a2a]">Estrutura de URLs</strong> , URLs limpas e descritivas como /advogado-trabalhista-sao-paulo em vez de /pagina?id=123</li>
+      <li><strong className="text-[#162a2a]">Sitemap XML</strong> , um arquivo que lista todas as páginas do site e facilita a indexação pelo Google</li>
+      <li><strong className="text-[#162a2a]">Dados estruturados</strong> , marcação Schema.org do tipo "LegalService" que ajuda o Google a entender as informações do escritório</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Conteúdo: a estratégia que mais gera resultados a longo prazo</h2>
@@ -79,13 +79,13 @@ registerArticle('como-aparecer-no-google-como-advogado', () => (
       <li>Título com a palavra-chave principal</li>
       <li>Introdução que apresente o problema e o que o leitor vai encontrar no texto</li>
       <li>Subtítulos organizados com H2 e H3 que cubram o tema de forma completa</li>
-      <li>Parágrafos curtos e linguagem acessível — evite juridiquês desnecessário</li>
+      <li>Parágrafos curtos e linguagem acessível , evite juridiquês desnecessário</li>
       <li>Chamada para ação discreta ao final, como um convite para entrar em contato se precisar de orientação profissional</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Backlinks: construindo autoridade</h2>
     <p className="text-gray-700 leading-relaxed">
-      Backlinks são links de outros sites que apontam para o seu. O Google interpreta isso como um voto de confiança — quanto mais sites relevantes linkam para você, mais autoridade seu site ganha. Para advogados, as melhores fontes de backlinks são:
+      Backlinks são links de outros sites que apontam para o seu. O Google interpreta isso como um voto de confiança , quanto mais sites relevantes linkam para você, mais autoridade seu site ganha. Para advogados, as melhores fontes de backlinks são:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li>Diretórios jurídicos como JusBrasil, Migalhas e sites da OAB seccional</li>
@@ -119,7 +119,7 @@ registerArticle('como-aparecer-no-google-como-advogado', () => (
       <li><strong className="text-[#162a2a]">3 a 4 meses:</strong> Primeiras páginas começam a aparecer nos resultados, geralmente na segunda ou terceira página do Google</li>
       <li><strong className="text-[#162a2a]">5 a 8 meses:</strong> Artigos bem otimizados começam a alcançar a primeira página para termos menos competitivos</li>
       <li><strong className="text-[#162a2a]">8 a 12 meses:</strong> Resultados consistentes com tráfego orgânico crescente. O Perfil da Empresa começa a ranquear bem no pacote local</li>
-      <li><strong className="text-[#162a2a]">12+ meses:</strong> Efeito composto — o acúmulo de conteúdo e autoridade gera crescimento exponencial de tráfego</li>
+      <li><strong className="text-[#162a2a]">12+ meses:</strong> Efeito composto , o acúmulo de conteúdo e autoridade gera crescimento exponencial de tráfego</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
       Essa linha do tempo varia conforme a concorrência na sua cidade e área de atuação. Advogados em cidades menores podem ver resultados mais rápidos por haver menos competição. Em capitais como São Paulo, o processo tende a ser mais demorado.

@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('nome-para-escritorio-de-advocacia', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O nome de um escritório de advocacia é a primeira decisão de marca que um advogado precisa tomar — e uma das mais duradouras. Diferente de um logotipo ou de um site, que podem ser redesenhados a qualquer momento, mudar o nome de um escritório depois que ele já está estabelecido tem custos altos: documentação, comunicação com clientes, registros na OAB, domínio, redes sociais e todo o reconhecimento construído ao longo dos anos.
+      O nome de um escritório de advocacia é a primeira decisão de marca que um advogado precisa tomar , e uma das mais duradouras. Diferente de um logotipo ou de um site, que podem ser redesenhados a qualquer momento, mudar o nome de um escritório depois que ele já está estabelecido tem custos altos: documentação, comunicação com clientes, registros na OAB, domínio, redes sociais e todo o reconhecimento construído ao longo dos anos.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -26,7 +26,7 @@ registerArticle('nome-para-escritorio-de-advocacia', () => (
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
-      Essas regras se referem à razão social registrada na OAB. Na prática do dia a dia, muitos escritórios utilizam versões simplificadas do nome para fins de comunicação e marketing — desde que não violem as normas éticas. Por exemplo, um escritório cuja razão social é "Silva, Oliveira e Mendes Sociedade de Advogados" pode se apresentar como "Silva Oliveira Advogados" em seu site e materiais.
+      Essas regras se referem à razão social registrada na OAB. Na prática do dia a dia, muitos escritórios utilizam versões simplificadas do nome para fins de comunicação e marketing , desde que não violem as normas éticas. Por exemplo, um escritório cuja razão social é "Silva, Oliveira e Mendes Sociedade de Advogados" pode se apresentar como "Silva Oliveira Advogados" em seu site e materiais.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -42,7 +42,7 @@ registerArticle('nome-para-escritorio-de-advocacia', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      É o formato mais tradicional e ainda o mais usado. Exemplos fictícios: "Monteiro Advogados", "Campos Advocacia". A vantagem é a simplicidade e a conexão direta entre o profissional e a marca. A desvantagem é que o nome fica vinculado a uma pessoa — se o advogado sai da sociedade ou se aposenta, a marca pode perder sentido.
+      É o formato mais tradicional e ainda o mais usado. Exemplos fictícios: "Monteiro Advogados", "Campos Advocacia". A vantagem é a simplicidade e a conexão direta entre o profissional e a marca. A desvantagem é que o nome fica vinculado a uma pessoa , se o advogado sai da sociedade ou se aposenta, a marca pode perder sentido.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -58,7 +58,7 @@ registerArticle('nome-para-escritorio-de-advocacia', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Alguns escritórios optam por incluir a área de atuação no nome: "Ribeiro Advocacia Tributária", "Costa Direito Imobiliário". Esse formato tem a vantagem de comunicar imediatamente a especialidade do escritório. A desvantagem é a perda de flexibilidade — se o escritório decidir ampliar sua atuação no futuro, o nome pode se tornar limitante.
+      Alguns escritórios optam por incluir a área de atuação no nome: "Ribeiro Advocacia Tributária", "Costa Direito Imobiliário". Esse formato tem a vantagem de comunicar imediatamente a especialidade do escritório. A desvantagem é a perda de flexibilidade , se o escritório decidir ampliar sua atuação no futuro, o nome pode se tornar limitante.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -66,7 +66,7 @@ registerArticle('nome-para-escritorio-de-advocacia', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Advogados que atuam sozinhos podem usar seu nome pessoal: "Dra. Carolina Mendes — Advogada", "Lucas Teixeira Advocacia". Esse formato funciona bem para quem está construindo uma marca pessoal e quer ser reconhecido como referência individual. A decisão entre usar o nome completo ou apenas o sobrenome depende do quanto o advogado quer que a marca seja pessoal ou institucional.
+      Advogados que atuam sozinhos podem usar seu nome pessoal: "Dra. Carolina Mendes , Advogada", "Lucas Teixeira Advocacia". Esse formato funciona bem para quem está construindo uma marca pessoal e quer ser reconhecido como referência individual. A decisão entre usar o nome completo ou apenas o sobrenome depende do quanto o advogado quer que a marca seja pessoal ou institucional.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -78,7 +78,7 @@ registerArticle('nome-para-escritorio-de-advocacia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Para verificar a disponibilidade, acesse o site Registro.br para domínios .com.br ou serviços como Namecheap e GoDaddy para domínios .com. Verifique também a disponibilidade nas redes sociais — Instagram, LinkedIn e Facebook — para garantir que o nome possa ser usado de forma consistente em todos os canais.
+      Para verificar a disponibilidade, acesse o site Registro.br para domínios .com.br ou serviços como Namecheap e GoDaddy para domínios .com. Verifique também a disponibilidade nas redes sociais , Instagram, LinkedIn e Facebook , para garantir que o nome possa ser usado de forma consistente em todos os canais.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -109,7 +109,7 @@ registerArticle('nome-para-escritorio-de-advocacia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O processo de registro de marca no INPI leva em média 12 a 18 meses e pode ser feito diretamente pelo site do instituto ou com auxílio de um profissional especializado em propriedade intelectual. O investimento é relativamente baixo considerando a proteção que oferece — as taxas iniciais ficam em torno de R$ 355 para microempresas e profissionais individuais.
+      O processo de registro de marca no INPI leva em média 12 a 18 meses e pode ser feito diretamente pelo site do instituto ou com auxílio de um profissional especializado em propriedade intelectual. O investimento é relativamente baixo considerando a proteção que oferece , as taxas iniciais ficam em torno de R$ 355 para microempresas e profissionais individuais.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -129,7 +129,7 @@ registerArticle('nome-para-escritorio-de-advocacia', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O nome do escritório de advocacia é o alicerce da marca. Ele precisa estar em conformidade com as regras da OAB, ser memorável, funcionar bem em meios digitais e refletir o posicionamento desejado. A melhor hora para acertar essa escolha é no início — mas se o nome atual não funciona, ajustá-lo é melhor do que conviver com um problema que se acumula ao longo do tempo.
+      O nome do escritório de advocacia é o alicerce da marca. Ele precisa estar em conformidade com as regras da OAB, ser memorável, funcionar bem em meios digitais e refletir o posicionamento desejado. A melhor hora para acertar essa escolha é no início , mas se o nome atual não funciona, ajustá-lo é melhor do que conviver com um problema que se acumula ao longo do tempo.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

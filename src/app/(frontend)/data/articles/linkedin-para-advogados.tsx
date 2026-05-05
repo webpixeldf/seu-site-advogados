@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('linkedin-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O LinkedIn é, hoje, a maior rede profissional do mundo — e também uma das plataformas mais subutilizadas por advogados no Brasil. Muitos profissionais do Direito criam um perfil, adicionam alguns colegas de faculdade e nunca mais abrem o aplicativo. Enquanto isso, outros advogados usam a mesma rede para fechar contratos de assessoria jurídica, atrair clientes corporativos e construir uma reputação que vai além do boca a boca tradicional.
+      O LinkedIn é, hoje, a maior rede profissional do mundo , e também uma das plataformas mais subutilizadas por advogados no Brasil. Muitos profissionais do Direito criam um perfil, adicionam alguns colegas de faculdade e nunca mais abrem o aplicativo. Enquanto isso, outros advogados usam a mesma rede para fechar contratos de assessoria jurídica, atrair clientes corporativos e construir uma reputação que vai além do boca a boca tradicional.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -15,7 +15,7 @@ registerArticle('linkedin-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Enquanto outras redes sociais exigem entretenimento e dinamismo visual, o LinkedIn premia profundidade. Uma publicação que explica as implicações jurídicas de uma nova lei trabalhista pode alcançar milhares de visualizações — algo impensável no Instagram, onde esse mesmo conteúdo passaria despercebido.
+      Enquanto outras redes sociais exigem entretenimento e dinamismo visual, o LinkedIn premia profundidade. Uma publicação que explica as implicações jurídicas de uma nova lei trabalhista pode alcançar milhares de visualizações , algo impensável no Instagram, onde esse mesmo conteúdo passaria despercebido.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -31,7 +31,7 @@ registerArticle('linkedin-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O perfil do LinkedIn não é um currículo — é uma página de vendas disfarçada de apresentação profissional. Cada seção precisa ser pensada para responder uma pergunta implícita do visitante: &quot;essa pessoa pode resolver o meu problema?&quot;
+      O perfil do LinkedIn não é um currículo , é uma página de vendas disfarçada de apresentação profissional. Cada seção precisa ser pensada para responder uma pergunta implícita do visitante: &quot;essa pessoa pode resolver o meu problema?&quot;
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -39,7 +39,7 @@ registerArticle('linkedin-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Use uma foto profissional com boa iluminação e fundo neutro. Perfis com foto recebem até 21 vezes mais visualizações. O banner — aquela imagem de capa no topo — deve ser aproveitado estrategicamente. Coloque o nome do escritório, sua área de atuação principal ou uma frase que resuma o que você faz. Exemplo: &quot;Assessoria jurídica empresarial focada em proteção patrimonial e contratos.&quot;
+      Use uma foto profissional com boa iluminação e fundo neutro. Perfis com foto recebem até 21 vezes mais visualizações. O banner , aquela imagem de capa no topo , deve ser aproveitado estrategicamente. Coloque o nome do escritório, sua área de atuação principal ou uma frase que resuma o que você faz. Exemplo: &quot;Assessoria jurídica empresarial focada em proteção patrimonial e contratos.&quot;
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -61,7 +61,7 @@ registerArticle('linkedin-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      A seção &quot;Sobre&quot; é onde você conta a sua história profissional de forma direcionada. Evite listar todas as áreas em que já atuou. Foque no nicho principal, nos tipos de problema que resolve e nos resultados concretos que entrega. Estruture o texto em três parágrafos curtos: quem você é, o que faz e como o visitante pode entrar em contato. Inclua palavras-chave relevantes — &quot;direito empresarial&quot;, &quot;contratos&quot;, &quot;compliance&quot; — porque o LinkedIn tem um mecanismo de busca interno que indexa esse campo.
+      A seção &quot;Sobre&quot; é onde você conta a sua história profissional de forma direcionada. Evite listar todas as áreas em que já atuou. Foque no nicho principal, nos tipos de problema que resolve e nos resultados concretos que entrega. Estruture o texto em três parágrafos curtos: quem você é, o que faz e como o visitante pode entrar em contato. Inclua palavras-chave relevantes , &quot;direito empresarial&quot;, &quot;contratos&quot;, &quot;compliance&quot; , porque o LinkedIn tem um mecanismo de busca interno que indexa esse campo.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -69,7 +69,7 @@ registerArticle('linkedin-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Na seção de experiência, descreva suas posições como se estivesse explicando para um leigo. Em vez de &quot;Atuação em contencioso cível&quot;, escreva &quot;Representação de empresas em disputas comerciais, recuperação de créditos e negociação de acordos.&quot; Quem visita seu perfil geralmente não é advogado — é um potencial cliente que precisa entender rapidamente se você atende à necessidade dele.
+      Na seção de experiência, descreva suas posições como se estivesse explicando para um leigo. Em vez de &quot;Atuação em contencioso cível&quot;, escreva &quot;Representação de empresas em disputas comerciais, recuperação de créditos e negociação de acordos.&quot; Quem visita seu perfil geralmente não é advogado , é um potencial cliente que precisa entender rapidamente se você atende à necessidade dele.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -113,7 +113,7 @@ registerArticle('linkedin-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O LinkedIn valoriza posicionamento. Quando você opina sobre um tema jurídico relevante — com argumentos sólidos — gera debate nos comentários, e o algoritmo distribui seu post para mais pessoas. Evite polêmicas políticas e foque em temas da sua área de atuação.
+      O LinkedIn valoriza posicionamento. Quando você opina sobre um tema jurídico relevante , com argumentos sólidos , gera debate nos comentários, e o algoritmo distribui seu post para mais pessoas. Evite polêmicas políticas e foque em temas da sua área de atuação.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -137,7 +137,7 @@ registerArticle('linkedin-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O InMail é o recurso de mensagem direta para pessoas fora da sua rede. Está disponível nos planos pagos (Premium e Sales Navigator). Para advogados que atendem empresas, pode ser uma ferramenta poderosa — desde que usada com moderação e inteligência.
+      O InMail é o recurso de mensagem direta para pessoas fora da sua rede. Está disponível nos planos pagos (Premium e Sales Navigator). Para advogados que atendem empresas, pode ser uma ferramenta poderosa , desde que usada com moderação e inteligência.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -205,7 +205,7 @@ registerArticle('linkedin-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O advogado que investe em <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">presença digital para advogado</a> e trata o LinkedIn como ferramenta estratégica — e não como currículo online — tem uma vantagem competitiva real. Enquanto a maioria dos colegas ainda depende exclusivamente de indicação e eventos presenciais, quem domina o LinkedIn abre um canal de geração de oportunidades que funciona 24 horas por dia, sete dias por semana, sem custo de mídia e com total conformidade às normas da OAB.
+      O advogado que investe em <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">presença digital para advogado</a> e trata o LinkedIn como ferramenta estratégica , e não como currículo online , tem uma vantagem competitiva real. Enquanto a maioria dos colegas ainda depende exclusivamente de indicação e eventos presenciais, quem domina o LinkedIn abre um canal de geração de oportunidades que funciona 24 horas por dia, sete dias por semana, sem custo de mídia e com total conformidade às normas da OAB.
     </p>
   </>
 ))

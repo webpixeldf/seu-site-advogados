@@ -40,12 +40,12 @@ registerArticle('como-atrair-clientes-para-advogados-no-youtube', () => (
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">CTA verbal no final do vídeo:</strong> "Se você está passando por essa situação e precisa de orientação jurídica, o link para agendar uma consulta está na descrição deste vídeo."</li>
-      <li><strong className="text-[#162a2a]">CTA no meio do vídeo:</strong> insira uma menção breve durante o desenvolvimento do conteúdo. "Se esse tema se aplica ao seu caso, eu posso ajudar — as informações de contato estão aqui embaixo."</li>
+      <li><strong className="text-[#162a2a]">CTA no meio do vídeo:</strong> insira uma menção breve durante o desenvolvimento do conteúdo. "Se esse tema se aplica ao seu caso, eu posso ajudar , as informações de contato estão aqui embaixo."</li>
       <li><strong className="text-[#162a2a]">CTA visual:</strong> adicione um texto na tela durante a edição com seu telefone, e-mail ou link do site. Mantenha visível por cinco a dez segundos.</li>
       <li><strong className="text-[#162a2a]">CTA de engajamento:</strong> peça para o espectador comentar, curtir e se inscrever. Isso não gera clientes diretamente, mas aumenta o alcance do vídeo e, consequentemente, as chances de captação.</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      O tom do CTA deve ser informativo, não comercial. A diferença entre orientar alguém a buscar ajuda profissional e fazer propaganda agressiva é sutil, mas importante — tanto para a percepção do público quanto para o cumprimento das normas da OAB.
+      O tom do CTA deve ser informativo, não comercial. A diferença entre orientar alguém a buscar ajuda profissional e fazer propaganda agressiva é sutil, mas importante , tanto para a percepção do público quanto para o cumprimento das normas da OAB.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Otimização da descrição do vídeo</h2>
@@ -57,7 +57,7 @@ registerArticle('como-atrair-clientes-para-advogados-no-youtube', () => (
       Uma descrição bem estruturada deve conter:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Resumo do conteúdo (primeiras duas linhas):</strong> o YouTube exibe apenas as duas primeiras linhas antes do "mostrar mais". Use esse espaço para incluir a informação mais importante — geralmente o link de contato ou agendamento.</li>
+      <li><strong className="text-[#162a2a]">Resumo do conteúdo (primeiras duas linhas):</strong> o YouTube exibe apenas as duas primeiras linhas antes do "mostrar mais". Use esse espaço para incluir a informação mais importante , geralmente o link de contato ou agendamento.</li>
       <li><strong className="text-[#162a2a]">Descrição detalhada do vídeo:</strong> entre 150 e 300 palavras explicando o que o vídeo aborda. Inclua palavras-chave relevantes de forma natural. Isso ajuda o YouTube a entender sobre o que é o vídeo e mostrá-lo para as pessoas certas.</li>
       <li><strong className="text-[#162a2a]">Links de contato:</strong> telefone com DDD, link do WhatsApp, endereço do site e link para agendamento online, se houver.</li>
       <li><strong className="text-[#162a2a]">Timestamps:</strong> divisão do vídeo em capítulos com marcação de tempo. Além de melhorar a experiência, os capítulos podem aparecer como resultados individuais nas buscas do Google.</li>

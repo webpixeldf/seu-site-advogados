@@ -34,7 +34,7 @@ registerArticle('captacao-de-clientes-na-advocacia', () => (
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
-      A linha entre o permitido e o proibido nem sempre é clara, e as interpretações variam entre as seccionais. Na dúvida, o conteúdo educativo — que informa o público sem oferecer diretamente o serviço — é o caminho mais seguro.
+      A linha entre o permitido e o proibido nem sempre é clara, e as interpretações variam entre as seccionais. Na dúvida, o conteúdo educativo , que informa o público sem oferecer diretamente o serviço , é o caminho mais seguro.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Marketing de conteúdo: a estratégia central</h2>
@@ -50,7 +50,7 @@ registerArticle('captacao-de-clientes-na-advocacia', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Blog no site</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Um blog com artigos otimizados para mecanismos de busca é o ativo digital mais valioso que um advogado pode construir. Diferentemente de postagens em redes sociais — que desaparecem em horas —, um artigo bem posicionado no Google gera visitas por meses ou anos.
+      Um blog com artigos otimizados para mecanismos de busca é o ativo digital mais valioso que um advogado pode construir. Diferentemente de postagens em redes sociais , que desaparecem em horas ,, um artigo bem posicionado no Google gera visitas por meses ou anos.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -64,7 +64,7 @@ registerArticle('captacao-de-clientes-na-advocacia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O Instagram funciona bem para conteúdo visual rápido — carrosséis explicando direitos, stories respondendo dúvidas e reels sobre temas do momento. O LinkedIn é ideal para construir autoridade entre pares e captar clientes corporativos. O YouTube permite aprofundar temas em vídeos mais longos e tem excelente indexação no Google.
+      O Instagram funciona bem para conteúdo visual rápido , carrosséis explicando direitos, stories respondendo dúvidas e reels sobre temas do momento. O LinkedIn é ideal para construir autoridade entre pares e captar clientes corporativos. O YouTube permite aprofundar temas em vídeos mais longos e tem excelente indexação no Google.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">SEO: ser encontrado quando o cliente procura</h2>
@@ -88,7 +88,7 @@ registerArticle('captacao-de-clientes-na-advocacia', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Networking estratégico</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Indicações continuam sendo a fonte mais confiável de novos clientes para advogados. A diferença é que o networking moderno vai além dos jantares e eventos presenciais — embora esses continuem importantes.
+      Indicações continuam sendo a fonte mais confiável de novos clientes para advogados. A diferença é que o networking moderno vai além dos jantares e eventos presenciais , embora esses continuem importantes.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -96,7 +96,7 @@ registerArticle('captacao-de-clientes-na-advocacia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Grupos profissionais no LinkedIn e no WhatsApp, eventos da OAB, congressos e seminários são ambientes propícios para criar e manter essas conexões. O networking funciona quando é genuíno — baseado em troca de valor, não apenas em interesse comercial.
+      Grupos profissionais no LinkedIn e no WhatsApp, eventos da OAB, congressos e seminários são ambientes propícios para criar e manter essas conexões. O networking funciona quando é genuíno , baseado em troca de valor, não apenas em interesse comercial.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Experiência do cliente como motor de indicações</h2>
@@ -119,7 +119,7 @@ registerArticle('captacao-de-clientes-na-advocacia', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Palestras, cursos e eventos</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Posicionar-se como especialista por meio de palestras e cursos é uma estratégia de alto impacto. Não é preciso esperar convites de grandes eventos — o advogado pode oferecer palestras gratuitas para associações, sindicatos, empresas e comunidades locais.
+      Posicionar-se como especialista por meio de palestras e cursos é uma estratégia de alto impacto. Não é preciso esperar convites de grandes eventos , o advogado pode oferecer palestras gratuitas para associações, sindicatos, empresas e comunidades locais.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -129,7 +129,7 @@ registerArticle('captacao-de-clientes-na-advocacia', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Parcerias com outros advogados</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Advogados de áreas diferentes podem formar redes de indicação mútua. Um advogado cível que recebe uma demanda trabalhista pode indicar um colega especialista — e vice-versa. Essas parcerias formais ou informais são uma fonte constante de novos casos.
+      Advogados de áreas diferentes podem formar redes de indicação mútua. Um advogado cível que recebe uma demanda trabalhista pode indicar um colega especialista , e vice-versa. Essas parcerias formais ou informais são uma fonte constante de novos casos.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('facebook-ads-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O Facebook Ads é uma das formas mais eficientes de colocar seu escritório na frente de potenciais clientes que precisam de assistência jurídica. Com orçamentos a partir de R$ 10 por dia, a plataforma permite segmentar anúncios por localização, idade, interesses e comportamentos — algo que nenhuma outra mídia tradicional oferece com esse nível de precisão. O ponto crítico, no entanto, é fazer isso dentro das regras da OAB. Este guia mostra como criar campanhas eficientes e em conformidade com as normas de publicidade na advocacia.
+      O Facebook Ads é uma das formas mais eficientes de colocar seu escritório na frente de potenciais clientes que precisam de assistência jurídica. Com orçamentos a partir de R$ 10 por dia, a plataforma permite segmentar anúncios por localização, idade, interesses e comportamentos , algo que nenhuma outra mídia tradicional oferece com esse nível de precisão. O ponto crítico, no entanto, é fazer isso dentro das regras da OAB. Este guia mostra como criar campanhas eficientes e em conformidade com as normas de publicidade na advocacia.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -17,7 +17,7 @@ registerArticle('facebook-ads-para-advogados', () => (
       <li><strong className="text-[#162a2a]">Proibido:</strong> promessas de resultado, divulgação de valores de honorários nos anúncios, linguagem mercantilista ("compre", "oferta", "promoção"), captação direta com termos como "contrate agora", uso de depoimentos de clientes como prova de competência</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      Na prática, um anúncio que diz "Tire suas dúvidas sobre direitos trabalhistas após demissão — conteúdo gratuito no nosso perfil" está dentro das regras. Já um anúncio dizendo "Demitido? Ganhe sua indenização! Fale conosco agora" viola múltiplas normas.
+      Na prática, um anúncio que diz "Tire suas dúvidas sobre direitos trabalhistas após demissão , conteúdo gratuito no nosso perfil" está dentro das regras. Já um anúncio dizendo "Demitido? Ganhe sua indenização! Fale conosco agora" viola múltiplas normas.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -41,7 +41,7 @@ registerArticle('facebook-ads-para-advogados', () => (
       Campanha de engajamento
     </h3>
     <p className="text-gray-700 leading-relaxed">
-      Impulsiona posts que já existem no seu perfil para alcançar mais pessoas. Funciona bem para carrosséis educativos e vídeos que já tiveram bom desempenho orgânico. A vantagem é que o conteúdo já foi validado pelo público — o anúncio apenas amplia o alcance.
+      Impulsiona posts que já existem no seu perfil para alcançar mais pessoas. Funciona bem para carrosséis educativos e vídeos que já tiveram bom desempenho orgânico. A vantagem é que o conteúdo já foi validado pelo público , o anúncio apenas amplia o alcance.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -63,8 +63,8 @@ registerArticle('facebook-ads-para-advogados', () => (
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Localização:</strong> defina a cidade ou raio de distância do seu escritório. Um advogado em Belo Horizonte não precisa que seu anúncio apareça para pessoas em Manaus</li>
       <li><strong className="text-[#162a2a]">Idade:</strong> ajuste conforme seu público. Direito previdenciário tende a atingir pessoas acima de 45 anos; direito do consumidor atinge faixas mais amplas</li>
-      <li><strong className="text-[#162a2a]">Interesses:</strong> a plataforma permite segmentar por interesses como "direitos do trabalhador", "aposentadoria", "compra de imóveis" — cada um alinhado a uma área de atuação</li>
-      <li><strong className="text-[#162a2a]">Públicos personalizados:</strong> você pode fazer upload de uma lista de e-mails de clientes anteriores e criar um "público semelhante" — pessoas com perfil parecido que ainda não conhecem seu escritório</li>
+      <li><strong className="text-[#162a2a]">Interesses:</strong> a plataforma permite segmentar por interesses como "direitos do trabalhador", "aposentadoria", "compra de imóveis" , cada um alinhado a uma área de atuação</li>
+      <li><strong className="text-[#162a2a]">Públicos personalizados:</strong> você pode fazer upload de uma lista de e-mails de clientes anteriores e criar um "público semelhante" , pessoas com perfil parecido que ainda não conhecem seu escritório</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
       Uma segmentação bem feita reduz o custo por resultado e aumenta a qualidade dos contatos recebidos. Um advogado trabalhista em Campinas, por exemplo, pode segmentar: localização Campinas + 30 km, idade 25-55 anos, interesse em "direitos trabalhistas" e "CLT". Isso garante que o orçamento seja gasto com pessoas que realmente podem precisar do serviço.
@@ -94,7 +94,7 @@ registerArticle('facebook-ads-para-advogados', () => (
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Gancho inicial:</strong> uma pergunta ou afirmação que identifica a dor do público. "Seu nome foi negativado indevidamente?" ou "Sabia que o atraso na entrega do imóvel gera direito a indenização?"</li>
       <li><strong className="text-[#162a2a]">Corpo informativo:</strong> 2 a 3 linhas explicando o contexto ou o direito envolvido, de forma acessível</li>
-      <li><strong className="text-[#162a2a]">Imagem ou vídeo:</strong> profissional, com cores sóbrias e texto legível. Evite bancos de imagem genéricos — fotos reais do escritório ou do advogado transmitem mais credibilidade</li>
+      <li><strong className="text-[#162a2a]">Imagem ou vídeo:</strong> profissional, com cores sóbrias e texto legível. Evite bancos de imagem genéricos , fotos reais do escritório ou do advogado transmitem mais credibilidade</li>
       <li><strong className="text-[#162a2a]">CTA (chamada para ação):</strong> dentro das normas da OAB. "Saiba mais sobre seus direitos" ou "Tire suas dúvidas com nossa equipe" em vez de "Contrate agora"</li>
     </ul>
 
@@ -129,7 +129,7 @@ registerArticle('facebook-ads-para-advogados', () => (
       Conclusão prática
     </h2>
     <p className="text-gray-700 leading-relaxed">
-      O Facebook Ads oferece uma oportunidade concreta para escritórios de advocacia que querem ampliar sua base de clientes de forma previsível e mensurável. A chave está em combinar segmentação precisa, conteúdo informativo e atendimento rápido aos leads gerados — tudo dentro dos limites éticos da profissão. Comece com um orçamento modesto, teste diferentes abordagens e deixe os dados guiarem suas decisões. Em três meses de campanhas consistentes, você terá clareza sobre o retorno do investimento e poderá escalar com confiança.
+      O Facebook Ads oferece uma oportunidade concreta para escritórios de advocacia que querem ampliar sua base de clientes de forma previsível e mensurável. A chave está em combinar segmentação precisa, conteúdo informativo e atendimento rápido aos leads gerados , tudo dentro dos limites éticos da profissão. Comece com um orçamento modesto, teste diferentes abordagens e deixe os dados guiarem suas decisões. Em três meses de campanhas consistentes, você terá clareza sobre o retorno do investimento e poderá escalar com confiança.
     </p>
   </>
 ))

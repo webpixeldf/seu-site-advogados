@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('logomarca-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      A logomarca de um advogado ou escritório de advocacia é, muitas vezes, o primeiro elemento visual que um potencial cliente percebe. Ela aparece no site, no cartão de visita, nas redes sociais e nos documentos. Uma logomarca bem construída transmite credibilidade e profissionalismo antes mesmo de qualquer conversa. Uma logomarca mal feita, por outro lado, gera desconfiança — e o cliente segue para o próximo nome da lista.
+      A logomarca de um advogado ou escritório de advocacia é, muitas vezes, o primeiro elemento visual que um potencial cliente percebe. Ela aparece no site, no cartão de visita, nas redes sociais e nos documentos. Uma logomarca bem construída transmite credibilidade e profissionalismo antes mesmo de qualquer conversa. Uma logomarca mal feita, por outro lado, gera desconfiança , e o cliente segue para o próximo nome da lista.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -19,7 +19,7 @@ registerArticle('logomarca-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Diferente de outros segmentos onde a criatividade visual é um diferencial competitivo, na advocacia o excesso de ousadia pode ser contraproducente. O cliente que procura um advogado quer segurança, não surpresa. A logomarca precisa refletir essa expectativa. Isso não significa que ela deva ser genérica — significa que a criatividade precisa ser aplicada com critério.
+      Diferente de outros segmentos onde a criatividade visual é um diferencial competitivo, na advocacia o excesso de ousadia pode ser contraproducente. O cliente que procura um advogado quer segurança, não surpresa. A logomarca precisa refletir essa expectativa. Isso não significa que ela deva ser genérica , significa que a criatividade precisa ser aplicada com critério.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -43,7 +43,7 @@ registerArticle('logomarca-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O uso de monogramas — combinações estilizadas das iniciais do escritório — é outra abordagem comum. Um monograma funciona bem como ícone em redes sociais, favicon do site e marca d'água em documentos. A chave é que o monograma seja legível em tamanhos pequenos e não pareça amador. Letras entrelaçadas demais ou com efeitos excessivos costumam falhar nesse requisito.
+      O uso de monogramas , combinações estilizadas das iniciais do escritório , é outra abordagem comum. Um monograma funciona bem como ícone em redes sociais, favicon do site e marca d'água em documentos. A chave é que o monograma seja legível em tamanhos pequenos e não pareça amador. Letras entrelaçadas demais ou com efeitos excessivos costumam falhar nesse requisito.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -67,7 +67,7 @@ registerArticle('logomarca-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Dito isso, existe um risco real de que símbolos jurídicos genéricos façam seu escritório parecer igual a milhares de outros. Se a diferenciação é importante para você — e deveria ser —, considere alternativas. Um símbolo abstrato que remeta à sua área de atuação, ou simplesmente a ausência de símbolo, podem ser escolhas mais estratégicas.
+      Dito isso, existe um risco real de que símbolos jurídicos genéricos façam seu escritório parecer igual a milhares de outros. Se a diferenciação é importante para você , e deveria ser ,, considere alternativas. Um símbolo abstrato que remeta à sua área de atuação, ou simplesmente a ausência de símbolo, podem ser escolhas mais estratégicas.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -75,13 +75,13 @@ registerArticle('logomarca-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Se a logomarca é baseada em texto — e a maioria das logomarcas jurídicas é —, a escolha da tipografia é a decisão de design mais importante que você vai tomar. A fonte comunica personalidade antes mesmo de o nome ser lido.
+      Se a logomarca é baseada em texto , e a maioria das logomarcas jurídicas é ,, a escolha da tipografia é a decisão de design mais importante que você vai tomar. A fonte comunica personalidade antes mesmo de o nome ser lido.
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Fontes serifadas</strong> transmitem tradição, autoridade e formalidade. São a escolha natural para escritórios que atuam em áreas como direito civil, tributário e empresarial. Exemplos: Garamond, Times New Roman, Playfair Display.</li>
       <li><strong className="text-[#162a2a]">Fontes sans-serif</strong> transmitem modernidade, acessibilidade e objetividade. Funcionam bem para escritórios que atuam com direito digital, startups e público mais jovem. Exemplos: Montserrat, Inter, Poppins.</li>
-      <li><strong className="text-[#162a2a]">Fontes manuscritas ou decorativas</strong> devem ser evitadas na advocacia. Elas comprometem a legibilidade e transmitem informalidade — o oposto do que a maioria dos clientes jurídicos espera.</li>
+      <li><strong className="text-[#162a2a]">Fontes manuscritas ou decorativas</strong> devem ser evitadas na advocacia. Elas comprometem a legibilidade e transmitem informalidade , o oposto do que a maioria dos clientes jurídicos espera.</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
@@ -134,7 +134,7 @@ registerArticle('logomarca-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Contratar um profissional garante um resultado personalizado e estratégico. O designer vai entender seu posicionamento, seu público e sua área de atuação para criar algo sob medida. O investimento varia bastante — de R$ 500 a R$ 15.000 ou mais, dependendo da complexidade e da experiência do profissional.
+      Contratar um profissional garante um resultado personalizado e estratégico. O designer vai entender seu posicionamento, seu público e sua área de atuação para criar algo sob medida. O investimento varia bastante , de R$ 500 a R$ 15.000 ou mais, dependendo da complexidade e da experiência do profissional.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -150,11 +150,11 @@ registerArticle('logomarca-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Criar a logomarca é apenas o começo. A etapa seguinte — e igualmente importante — é aplicá-la de forma consistente em todos os pontos de contato. Isso inclui site, redes sociais, assinatura de e-mail, cartão de visita, papel timbrado, pastas e apresentações.
+      Criar a logomarca é apenas o começo. A etapa seguinte , e igualmente importante , é aplicá-la de forma consistente em todos os pontos de contato. Isso inclui site, redes sociais, assinatura de e-mail, cartão de visita, papel timbrado, pastas e apresentações.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Para garantir consistência, defina regras claras: tamanho mínimo, espaçamento ao redor da logomarca, fundos permitidos e variações de cor. Essas regras podem ser documentadas em um manual de marca simples — mesmo que tenha apenas uma ou duas páginas.
+      Para garantir consistência, defina regras claras: tamanho mínimo, espaçamento ao redor da logomarca, fundos permitidos e variações de cor. Essas regras podem ser documentadas em um manual de marca simples , mesmo que tenha apenas uma ou duas páginas.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

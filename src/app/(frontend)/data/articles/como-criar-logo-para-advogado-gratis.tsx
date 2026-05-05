@@ -3,20 +3,20 @@ import { registerArticle } from './registry'
 registerArticle('como-criar-logo-para-advogado-gratis', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O logo é a identidade visual do escritório. Ele aparece no <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site jurídico profissional</a>, nos cartões de visita, nas redes sociais, na assinatura de e-mail e em todos os documentos. Um logo bem feito transmite profissionalismo e credibilidade. A boa notícia é que, com as ferramentas disponíveis hoje, é possível criar um logo de qualidade sem gastar nada — ou gastando muito pouco.
+      O logo é a identidade visual do escritório. Ele aparece no <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site jurídico profissional</a>, nos cartões de visita, nas redes sociais, na assinatura de e-mail e em todos os documentos. Um logo bem feito transmite profissionalismo e credibilidade. A boa notícia é que, com as ferramentas disponíveis hoje, é possível criar um logo de qualidade sem gastar nada , ou gastando muito pouco.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Princípios de um bom logo jurídico</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Antes de abrir qualquer ferramenta, entenda o que faz um logo funcionar na advocacia. Logos jurídicos seguem padrões diferentes de outros segmentos. Não se espera criatividade radical ou cores vibrantes — se espera sobriedade, clareza e profissionalismo.
+      Antes de abrir qualquer ferramenta, entenda o que faz um logo funcionar na advocacia. Logos jurídicos seguem padrões diferentes de outros segmentos. Não se espera criatividade radical ou cores vibrantes , se espera sobriedade, clareza e profissionalismo.
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Simplicidade:</strong> logos simples são mais fáceis de reconhecer e funcionam em qualquer tamanho, do cartão de visita ao banner de um site. Evite detalhes excessivos e elementos decorativos que poluem visualmente.</li>
       <li><strong className="text-[#162a2a]">Legibilidade:</strong> o nome do escritório precisa ser lido com clareza, mesmo em tamanhos pequenos. Fontes muito estilizadas podem parecer elegantes em tela cheia, mas ficam ilegíveis no rodapé de um documento.</li>
       <li><strong className="text-[#162a2a]">Cores sóbrias:</strong> tons de azul marinho, cinza escuro, preto, dourado e verde escuro são os mais usados em logos jurídicos. Essas cores transmitem confiança, seriedade e estabilidade. Evite cores muito vibrantes como laranja, rosa ou amarelo neon.</li>
-      <li><strong className="text-[#162a2a]">Atemporalidade:</strong> tendências de design mudam a cada ano. Um bom logo não segue tendências — resiste ao tempo. Prefira formas clássicas e tipografia sólida a efeitos da moda.</li>
+      <li><strong className="text-[#162a2a]">Atemporalidade:</strong> tendências de design mudam a cada ano. Um bom logo não segue tendências , resiste ao tempo. Prefira formas clássicas e tipografia sólida a efeitos da moda.</li>
       <li><strong className="text-[#162a2a]">Versatilidade:</strong> o logo precisa funcionar em fundo branco, fundo escuro, impresso em preto e branco e em tamanhos variados. Crie versões diferentes para cada uso.</li>
     </ul>
 
@@ -31,7 +31,7 @@ registerArticle('como-criar-logo-para-advogado-gratis', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Logo com símbolo</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Combina o nome com um ícone ou símbolo. Na advocacia, os símbolos mais usados são a balança da justiça, o martelo de juiz, colunas gregas e livros. O risco é cair no clichê — esses símbolos são usados por milhares de escritórios. Se optar por um símbolo, tente algo mais sutil ou abstrato que diferencie seu escritório.
+      Combina o nome com um ícone ou símbolo. Na advocacia, os símbolos mais usados são a balança da justiça, o martelo de juiz, colunas gregas e livros. O risco é cair no clichê , esses símbolos são usados por milhares de escritórios. Se optar por um símbolo, tente algo mais sutil ou abstrato que diferencie seu escritório.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Monograma</h3>
@@ -99,7 +99,7 @@ registerArticle('como-criar-logo-para-advogado-gratis', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Quando contratar um designer profissional</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      As ferramentas gratuitas resolvem para quem está começando ou tem orçamento limitado. Mas se o escritório está em fase de crescimento e a marca é parte da estratégia de posicionamento, investir em um designer profissional faz sentido. Um designer cria não apenas o logo, mas toda a identidade visual — paleta de cores, tipografia, padrões e aplicações em diferentes materiais. O custo de uma identidade visual profissional para escritórios começa em torno de R$ 1.500 e pode chegar a R$ 10.000 ou mais, dependendo da complexidade.
+      As ferramentas gratuitas resolvem para quem está começando ou tem orçamento limitado. Mas se o escritório está em fase de crescimento e a marca é parte da estratégia de posicionamento, investir em um designer profissional faz sentido. Um designer cria não apenas o logo, mas toda a identidade visual , paleta de cores, tipografia, padrões e aplicações em diferentes materiais. O custo de uma identidade visual profissional para escritórios começa em torno de R$ 1.500 e pode chegar a R$ 10.000 ou mais, dependendo da complexidade.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

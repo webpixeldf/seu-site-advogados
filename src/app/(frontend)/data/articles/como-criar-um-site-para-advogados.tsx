@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('como-criar-um-site-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Se você é advogado e ainda não tem um site profissional, está deixando clientes passarem direto por você todos os dias. A realidade é simples: quando alguém precisa de um advogado, a primeira coisa que faz é pesquisar no Google. Se você não aparece lá — ou aparece com um perfil genérico em diretório de terceiros — quem aparece é o seu concorrente.
+      Se você é advogado e ainda não tem um site profissional, está deixando clientes passarem direto por você todos os dias. A realidade é simples: quando alguém precisa de um advogado, a primeira coisa que faz é pesquisar no Google. Se você não aparece lá , ou aparece com um perfil genérico em diretório de terceiros , quem aparece é o seu concorrente.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -35,7 +35,7 @@ registerArticle('como-criar-um-site-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Se você é advogado trabalhista que atende empregados, seu público é a pessoa física que acabou de ser demitida e está preocupada com seus direitos. A linguagem precisa ser acessível, direta e acolhedora. Se você atende empresas em direito societário, o tom muda completamente — o visitante é um empresário ou diretor jurídico que busca segurança e competência técnica.
+      Se você é advogado trabalhista que atende empregados, seu público é a pessoa física que acabou de ser demitida e está preocupada com seus direitos. A linguagem precisa ser acessível, direta e acolhedora. Se você atende empresas em direito societário, o tom muda completamente , o visitante é um empresário ou diretor jurídico que busca segurança e competência técnica.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -95,7 +95,7 @@ registerArticle('como-criar-um-site-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Essa página é mais importante do que muitos pensam. O cliente não contrata só uma área de atuação — ele contrata uma pessoa. Conte sua trajetória, formação, especializações e o que te motiva na advocacia. Use uma foto profissional (não precisa ser de terno e gravata em estúdio, mas precisa passar seriedade). Se o escritório tem sócios ou equipe, apresente cada um brevemente.
+      Essa página é mais importante do que muitos pensam. O cliente não contrata só uma área de atuação , ele contrata uma pessoa. Conte sua trajetória, formação, especializações e o que te motiva na advocacia. Use uma foto profissional (não precisa ser de terno e gravata em estúdio, mas precisa passar seriedade). Se o escritório tem sócios ou equipe, apresente cada um brevemente.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -103,7 +103,7 @@ registerArticle('como-criar-um-site-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Cada área merece uma página própria ou, no mínimo, uma seção bem detalhada. Não basta escrever &quot;Direito do Trabalho&quot; e um parágrafo genérico. Explique que tipo de caso você atende nessa área, para quem (empregado ou empregador), e como funciona o processo. Se você é advogado previdenciário, por exemplo, detalhe se atua com aposentadoria por tempo de contribuição, aposentadoria especial, BPC/LOAS, revisões — seja específico.
+      Cada área merece uma página própria ou, no mínimo, uma seção bem detalhada. Não basta escrever &quot;Direito do Trabalho&quot; e um parágrafo genérico. Explique que tipo de caso você atende nessa área, para quem (empregado ou empregador), e como funciona o processo. Se você é advogado previdenciário, por exemplo, detalhe se atua com aposentadoria por tempo de contribuição, aposentadoria especial, BPC/LOAS, revisões , seja específico.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -135,7 +135,7 @@ registerArticle('como-criar-um-site-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Tons sóbrios funcionam melhor: azul-escuro, verde-escuro, dourado, cinza e branco são as combinações mais comuns em sites jurídicos — e por bom motivo. Transmitem seriedade e confiança. Evite cores muito vibrantes como vermelho, laranja ou rosa como cores principais. Isso não significa que o site precisa ser sem vida. Um toque de cor em botões e destaques dá personalidade sem comprometer a seriedade.
+      Tons sóbrios funcionam melhor: azul-escuro, verde-escuro, dourado, cinza e branco são as combinações mais comuns em sites jurídicos , e por bom motivo. Transmitem seriedade e confiança. Evite cores muito vibrantes como vermelho, laranja ou rosa como cores principais. Isso não significa que o site precisa ser sem vida. Um toque de cor em botões e destaques dá personalidade sem comprometer a seriedade.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -143,7 +143,7 @@ registerArticle('como-criar-um-site-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Use no máximo duas fontes: uma para títulos e outra para texto corrido. Fontes serifadas (como Playfair Display ou Lora) passam tradição e elegância. Fontes sem serifa (como Inter, Lexend ou Open Sans) passam modernidade e limpeza. O tamanho da fonte do corpo do texto deve ser pelo menos 16px — menor que isso dificulta a leitura, especialmente no celular.
+      Use no máximo duas fontes: uma para títulos e outra para texto corrido. Fontes serifadas (como Playfair Display ou Lora) passam tradição e elegância. Fontes sem serifa (como Inter, Lexend ou Open Sans) passam modernidade e limpeza. O tamanho da fonte do corpo do texto deve ser pelo menos 16px , menor que isso dificulta a leitura, especialmente no celular.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -179,7 +179,7 @@ registerArticle('como-criar-um-site-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Nas <strong className="text-[#162a2a]">áreas de atuação</strong>, fale a língua do cliente. Se você atende consumidores, não escreva &quot;demandas consumeristas&quot;. Escreva &quot;problemas com compras, contratos e cobranças indevidas&quot;. O visitante do site não é advogado — ele é uma pessoa com um problema que precisa de solução.
+      Nas <strong className="text-[#162a2a]">áreas de atuação</strong>, fale a língua do cliente. Se você atende consumidores, não escreva &quot;demandas consumeristas&quot;. Escreva &quot;problemas com compras, contratos e cobranças indevidas&quot;. O visitante do site não é advogado , ele é uma pessoa com um problema que precisa de solução.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -227,7 +227,7 @@ registerArticle('como-criar-um-site-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O SSL é o que faz aparecer o cadeado ao lado do endereço do site no navegador. Sem ele, o Google marca seu site como &quot;Não seguro&quot; — péssimo para a credibilidade de um advogado. A boa notícia é que a maioria dos serviços de hospedagem oferece SSL gratuito (via Let&apos;s Encrypt). Certifique-se de que está ativado e de que todas as páginas carregam em HTTPS.
+      O SSL é o que faz aparecer o cadeado ao lado do endereço do site no navegador. Sem ele, o Google marca seu site como &quot;Não seguro&quot; , péssimo para a credibilidade de um advogado. A boa notícia é que a maioria dos serviços de hospedagem oferece SSL gratuito (via Let&apos;s Encrypt). Certifique-se de que está ativado e de que todas as páginas carregam em HTTPS.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -240,7 +240,7 @@ registerArticle('como-criar-um-site-para-advogados', () => (
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li>Comprima as imagens antes de subir (ferramentas como TinyPNG ou Squoosh fazem isso gratuitamente)</li>
-      <li>Evite vídeos pesados na home — se quiser usar vídeo, incorpore do YouTube</li>
+      <li>Evite vídeos pesados na home , se quiser usar vídeo, incorpore do YouTube</li>
       <li>Minimize o uso de plugins e scripts desnecessários</li>
       <li>Use um serviço de CDN se possível (muitas hospedagens já incluem)</li>
     </ul>
@@ -286,7 +286,7 @@ registerArticle('como-criar-um-site-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Em cada página, use a palavra-chave principal no título (H1), em pelo menos um subtítulo (H2), no primeiro parágrafo e ao longo do texto de forma natural. Não force a repetição — o Google é inteligente o suficiente para entender sinônimos e variações. O mais importante é que o conteúdo seja útil e responda à dúvida de quem pesquisou.
+      Em cada página, use a palavra-chave principal no título (H1), em pelo menos um subtítulo (H2), no primeiro parágrafo e ao longo do texto de forma natural. Não force a repetição , o Google é inteligente o suficiente para entender sinônimos e variações. O mais importante é que o conteúdo seja útil e responda à dúvida de quem pesquisou.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -318,7 +318,7 @@ registerArticle('como-criar-um-site-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O blog precisa de novos artigos com frequência. Não precisa ser todo dia — um ou dois artigos por mês já fazem diferença. O importante é a consistência. Escolha um dia da semana ou do mês para publicar e mantenha esse ritmo. Cada novo artigo é uma nova oportunidade de aparecer no Google para um termo diferente.
+      O blog precisa de novos artigos com frequência. Não precisa ser todo dia , um ou dois artigos por mês já fazem diferença. O importante é a consistência. Escolha um dia da semana ou do mês para publicar e mantenha esse ritmo. Cada novo artigo é uma nova oportunidade de aparecer no Google para um termo diferente.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -351,7 +351,7 @@ registerArticle('como-criar-um-site-para-advogados', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Mantenha a plataforma do site e todos os plugins atualizados. Atualizações corrigem falhas de segurança. Configure backups automáticos — pelo menos semanais. Se algo der errado (um plugin corrompido, um ataque ou um erro humano), você consegue restaurar o site rapidamente. A maioria das hospedagens oferece backup automático, mas verifique se está ativado.
+      Mantenha a plataforma do site e todos os plugins atualizados. Atualizações corrigem falhas de segurança. Configure backups automáticos , pelo menos semanais. Se algo der errado (um plugin corrompido, um ataque ou um erro humano), você consegue restaurar o site rapidamente. A maioria das hospedagens oferece backup automático, mas verifique se está ativado.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -368,7 +368,7 @@ registerArticle('como-criar-um-site-para-advogados', () => (
       <li><strong className="text-[#162a2a]">Site bonito mas lento:</strong> animações elaboradas e imagens em alta resolução não otimizadas deixam o site pesado. A beleza não compensa se o visitante não espera o carregamento.</li>
       <li><strong className="text-[#162a2a]">Ignorar o celular:</strong> testar o site apenas no computador é um erro. Abra no celular, navegue por todas as páginas e preencha o formulário de contato. Essa é a experiência da maioria dos seus visitantes.</li>
       <li><strong className="text-[#162a2a]">Copiar o site do concorrente:</strong> além de antiético, o Google penaliza conteúdo duplicado. Seu site precisa ter conteúdo original que reflita a sua prática, a sua experiência e o seu diferencial.</li>
-      <li><strong className="text-[#162a2a]">Criar o site e esquecer:</strong> um site sem atualizações há dois anos transmite abandono. Mesmo pequenas atualizações — um novo artigo, uma foto atualizada — mantêm o site vivo.</li>
+      <li><strong className="text-[#162a2a]">Criar o site e esquecer:</strong> um site sem atualizações há dois anos transmite abandono. Mesmo pequenas atualizações , um novo artigo, uma foto atualizada , mantêm o site vivo.</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -380,7 +380,7 @@ registerArticle('como-criar-um-site-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O passo mais importante é o primeiro: decidir que você vai ter um site profissional e dedicar o tempo necessário para fazê-lo direito. Não precisa ser perfeito no lançamento — pode (e deve) melhorar com o tempo. Mas precisa existir, precisa estar acessível e precisa comunicar com clareza quem você é e como pode ajudar.
+      O passo mais importante é o primeiro: decidir que você vai ter um site profissional e dedicar o tempo necessário para fazê-lo direito. Não precisa ser perfeito no lançamento , pode (e deve) melhorar com o tempo. Mas precisa existir, precisa estar acessível e precisa comunicar com clareza quem você é e como pode ajudar.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

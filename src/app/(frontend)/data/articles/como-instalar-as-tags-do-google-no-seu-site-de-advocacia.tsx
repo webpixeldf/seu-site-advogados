@@ -15,10 +15,10 @@ registerArticle('como-instalar-as-tags-do-google-no-seu-site-de-advocacia', () =
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li>Número de visitantes diários, semanais e mensais</li>
-      <li>De onde vêm os visitantes — Google, redes sociais, links diretos ou campanhas pagas</li>
+      <li>De onde vêm os visitantes , Google, redes sociais, links diretos ou campanhas pagas</li>
       <li>Quais páginas são mais acessadas e quanto tempo as pessoas passam nelas</li>
       <li>Quantos visitantes entram em contato via formulário, WhatsApp ou telefone</li>
-      <li>Taxa de rejeição — quantas pessoas saem do site sem interagir</li>
+      <li>Taxa de rejeição , quantas pessoas saem do site sem interagir</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Google Analytics 4: configuração completa</h2>
@@ -31,7 +31,7 @@ registerArticle('como-instalar-as-tags-do-google-no-seu-site-de-advocacia', () =
       Acesse analytics.google.com e faça login com sua conta Google. Clique em "Começar a medir" e siga o processo de configuração:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li>Dê um nome à conta — geralmente o nome do escritório</li>
+      <li>Dê um nome à conta , geralmente o nome do escritório</li>
       <li>Crie uma propriedade com o nome do site</li>
       <li>Selecione o fuso horário "Brasil" e a moeda "Real brasileiro"</li>
       <li>Preencha as informações sobre o negócio (categoria, tamanho)</li>
@@ -83,7 +83,7 @@ registerArticle('como-instalar-as-tags-do-google-no-seu-site-de-advocacia', () =
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Configurando o rastreamento de conversões</h2>
     <p className="text-gray-700 leading-relaxed">
-      Rastrear visitas é útil, mas o que realmente importa são as conversões — ações que indicam que um visitante se transformou em um potencial cliente. Para um site de advocacia, as conversões mais relevantes são:
+      Rastrear visitas é útil, mas o que realmente importa são as conversões , ações que indicam que um visitante se transformou em um potencial cliente. Para um site de advocacia, as conversões mais relevantes são:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Envio de formulário de contato</strong></li>
@@ -94,7 +94,7 @@ registerArticle('como-instalar-as-tags-do-google-no-seu-site-de-advocacia', () =
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Rastreando cliques no WhatsApp</h3>
     <p className="text-gray-700 leading-relaxed">
-      Para rastrear cliques no botão de WhatsApp via GTM, crie um acionador do tipo "Clique — Apenas links" e configure-o para disparar quando a URL do link contiver "wa.me" ou "api.whatsapp.com". Em seguida, crie uma tag de evento do GA4 com o nome "whatsapp_click" e associe-a a esse acionador.
+      Para rastrear cliques no botão de WhatsApp via GTM, crie um acionador do tipo "Clique , Apenas links" e configure-o para disparar quando a URL do link contiver "wa.me" ou "api.whatsapp.com". Em seguida, crie uma tag de evento do GA4 com o nome "whatsapp_click" e associe-a a esse acionador.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Rastreando envios de formulário</h3>
@@ -112,7 +112,7 @@ registerArticle('como-instalar-as-tags-do-google-no-seu-site-de-advocacia', () =
       Além das conversões principais, existem eventos que fornecem informações valiosas sobre o comportamento dos visitantes:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Scroll depth:</strong> rastreia até onde o visitante rolou a página — útil para saber se os artigos do blog estão sendo lidos por completo</li>
+      <li><strong className="text-[#162a2a]">Scroll depth:</strong> rastreia até onde o visitante rolou a página , útil para saber se os artigos do blog estão sendo lidos por completo</li>
       <li><strong className="text-[#162a2a]">Tempo na página:</strong> o GA4 já rastreia o tempo de engajamento, mas você pode criar eventos para marcos específicos como 30 segundos ou 2 minutos</li>
       <li><strong className="text-[#162a2a]">Clique em áreas de atuação:</strong> rastrear quais áreas do escritório recebem mais interesse</li>
       <li><strong className="text-[#162a2a]">Download de materiais:</strong> se você oferece e-books ou guias, rastreie os downloads</li>
@@ -120,7 +120,7 @@ registerArticle('como-instalar-as-tags-do-google-no-seu-site-de-advocacia', () =
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">LGPD e privacidade: o que você precisa fazer</h2>
     <p className="text-gray-700 leading-relaxed">
-      A Lei Geral de Proteção de Dados (LGPD) exige que sites informem aos visitantes sobre a coleta de dados e obtenham consentimento antes de ativar ferramentas de rastreamento. Para um escritório de advocacia, cumprir a LGPD não é apenas uma obrigação legal — é uma questão de credibilidade profissional.
+      A Lei Geral de Proteção de Dados (LGPD) exige que sites informem aos visitantes sobre a coleta de dados e obtenham consentimento antes de ativar ferramentas de rastreamento. Para um escritório de advocacia, cumprir a LGPD não é apenas uma obrigação legal , é uma questão de credibilidade profissional.
     </p>
     <p className="text-gray-700 leading-relaxed">
       As ações obrigatórias são:

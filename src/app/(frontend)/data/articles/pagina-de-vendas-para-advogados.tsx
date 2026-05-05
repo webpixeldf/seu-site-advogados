@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('pagina-de-vendas-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      A ideia de uma "página de vendas" pode parecer estranha no contexto jurídico. Advogados não vendem produtos, vendem serviços especializados regulados por normas éticas rígidas. Mas a verdade é que determinados serviços e produtos jurídicos se beneficiam de páginas de vendas bem estruturadas — desde que respeitem os limites impostos pela OAB.
+      A ideia de uma "página de vendas" pode parecer estranha no contexto jurídico. Advogados não vendem produtos, vendem serviços especializados regulados por normas éticas rígidas. Mas a verdade é que determinados serviços e produtos jurídicos se beneficiam de páginas de vendas bem estruturadas , desde que respeitem os limites impostos pela OAB.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -13,7 +13,7 @@ registerArticle('pagina-de-vendas-para-advogados', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que é uma página de vendas</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Uma página de vendas é uma página longa e persuasiva, criada com o objetivo de levar o visitante a tomar uma decisão de compra. Diferente de uma landing page de captação — que busca coletar dados de contato —, a página de vendas conduz o visitante até o momento do pagamento ou da contratação direta.
+      Uma página de vendas é uma página longa e persuasiva, criada com o objetivo de levar o visitante a tomar uma decisão de compra. Diferente de uma landing page de captação , que busca coletar dados de contato ,, a página de vendas conduz o visitante até o momento do pagamento ou da contratação direta.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -45,7 +45,7 @@ registerArticle('pagina-de-vendas-para-advogados', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">E-books e materiais educativos</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Advogados que produzem conteúdo escrito — guias práticos, manuais, planilhas jurídicas — podem usar páginas de vendas para comercializar esses materiais. Um guia completo sobre "Como fazer seu inventário extrajudicial" ou "Manual do inquilino" são produtos digitais que se vendem bem com a estrutura certa.
+      Advogados que produzem conteúdo escrito , guias práticos, manuais, planilhas jurídicas , podem usar páginas de vendas para comercializar esses materiais. Um guia completo sobre "Como fazer seu inventário extrajudicial" ou "Manual do inquilino" são produtos digitais que se vendem bem com a estrutura certa.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Mentorias para advogados</h3>
@@ -79,7 +79,7 @@ registerArticle('pagina-de-vendas-para-advogados', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Bloco 1: Headline e identificação do problema</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Comece com um título que fale diretamente sobre a dor ou necessidade do público-alvo. Para um curso sobre planejamento sucessório, por exemplo: "Planejamento Sucessório na Prática — Aprenda a estruturar inventários e testamentos com segurança". O visitante precisa se identificar com o problema nos primeiros segundos.
+      Comece com um título que fale diretamente sobre a dor ou necessidade do público-alvo. Para um curso sobre planejamento sucessório, por exemplo: "Planejamento Sucessório na Prática , Aprenda a estruturar inventários e testamentos com segurança". O visitante precisa se identificar com o problema nos primeiros segundos.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Bloco 2: Consequências de não resolver o problema</h3>
@@ -103,13 +103,13 @@ registerArticle('pagina-de-vendas-para-advogados', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Bloco 5: Quebra de objeções</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Antecipe as dúvidas e resistências do visitante. "E se eu não tiver tempo para assistir ao curso?" — Responda que o acesso é vitalício e pode ser assistido no próprio ritmo. "Esse conteúdo serve para quem está começando?" — Responda com o perfil ideal do aluno. Uma seção de perguntas frequentes funciona bem nesse bloco.
+      Antecipe as dúvidas e resistências do visitante. "E se eu não tiver tempo para assistir ao curso?" , Responda que o acesso é vitalício e pode ser assistido no próprio ritmo. "Esse conteúdo serve para quem está começando?" , Responda com o perfil ideal do aluno. Uma seção de perguntas frequentes funciona bem nesse bloco.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Bloco 6: Oferta e chamada para ação</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Apresente o preço, as condições de pagamento e o que está incluído. Seja transparente. Se há garantia de devolução, destaque esse ponto — ele reduz o risco percebido pelo comprador. O botão de compra deve ser claro e direto: "Quero me inscrever agora" ou "Garantir minha vaga".
+      Apresente o preço, as condições de pagamento e o que está incluído. Seja transparente. Se há garantia de devolução, destaque esse ponto , ele reduz o risco percebido pelo comprador. O botão de compra deve ser claro e direto: "Quero me inscrever agora" ou "Garantir minha vaga".
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Exemplos práticos de aplicação</h2>
@@ -120,7 +120,7 @@ registerArticle('pagina-de-vendas-para-advogados', () => (
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Advogado tributarista:</strong> página de vendas para um curso online sobre "Planejamento Tributário para Pequenas Empresas", destinado a contadores e empresários.</li>
-      <li><strong className="text-[#162a2a]">Advogada de família:</strong> página de vendas para um e-book sobre "Guia Prático do Divórcio Consensual — Tudo que Você Precisa Saber Antes de Começar".</li>
+      <li><strong className="text-[#162a2a]">Advogada de família:</strong> página de vendas para um e-book sobre "Guia Prático do Divórcio Consensual , Tudo que Você Precisa Saber Antes de Começar".</li>
       <li><strong className="text-[#162a2a]">Advogado empresarial:</strong> página de vendas para uma consultoria de "Check-up Jurídico para Startups", com escopo definido e preço fixo.</li>
       <li><strong className="text-[#162a2a]">Advogado trabalhista:</strong> página de vendas para uma mentoria destinada a advogados que querem se especializar em contencioso trabalhista estratégico.</li>
     </ul>
@@ -146,7 +146,7 @@ registerArticle('pagina-de-vendas-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O segredo está na adaptação. Pegue os princípios de uma página de vendas eficaz — clareza, estrutura, prova social, quebra de objeções — e aplique-os com o tom profissional e ético que a advocacia exige. Quando bem executada, uma página de vendas pode se tornar uma das ferramentas mais lucrativas da presença digital de um advogado.
+      O segredo está na adaptação. Pegue os princípios de uma página de vendas eficaz , clareza, estrutura, prova social, quebra de objeções , e aplique-os com o tom profissional e ético que a advocacia exige. Quando bem executada, uma página de vendas pode se tornar uma das ferramentas mais lucrativas da presença digital de um advogado.
     </p>
   </>
 ))

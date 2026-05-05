@@ -9,7 +9,7 @@ registerArticle('advogados-criminalistas-famosos', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O papel do advogado criminalista</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Antes de falar sobre nomes específicos, é importante entender o papel fundamental do criminalista no sistema de justiça. O advogado de defesa não está ali para defender o crime, mas para defender o acusado — garantindo que seus direitos constitucionais sejam respeitados, que as provas sejam obtidas de forma lícita e que a pena, se houver, seja proporcional.
+      Antes de falar sobre nomes específicos, é importante entender o papel fundamental do criminalista no sistema de justiça. O advogado de defesa não está ali para defender o crime, mas para defender o acusado , garantindo que seus direitos constitucionais sejam respeitados, que as provas sejam obtidas de forma lícita e que a pena, se houver, seja proporcional.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -53,7 +53,7 @@ registerArticle('advogados-criminalistas-famosos', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Antônio Carlos de Almeida Castro (Kakay)</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Não confundir com o anterior — o mercado jurídico brasileiro tem dois criminalistas conhecidos por esse apelido. Antônio Carlos de Almeida Castro é outro nome de peso da advocacia criminal brasileira, com atuação marcante em processos que envolvem figuras públicas e casos midiáticos.
+      Não confundir com o anterior , o mercado jurídico brasileiro tem dois criminalistas conhecidos por esse apelido. Antônio Carlos de Almeida Castro é outro nome de peso da advocacia criminal brasileira, com atuação marcante em processos que envolvem figuras públicas e casos midiáticos.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Roberto Podval</h2>
@@ -103,7 +103,7 @@ registerArticle('advogados-criminalistas-famosos', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O legado para a profissão</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Os advogados criminalistas que se destacaram no Brasil deixam lições que transcendem a área criminal. A primeira delas é que a advocacia de qualidade exige estudo contínuo — os melhores profissionais nunca pararam de estudar e de se atualizar.
+      Os advogados criminalistas que se destacaram no Brasil deixam lições que transcendem a área criminal. A primeira delas é que a advocacia de qualidade exige estudo contínuo , os melhores profissionais nunca pararam de estudar e de se atualizar.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

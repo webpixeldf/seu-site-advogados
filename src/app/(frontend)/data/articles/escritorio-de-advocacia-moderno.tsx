@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('escritorio-de-advocacia-moderno', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O conceito de escritório de advocacia moderno vai muito além de uma reforma estética. Envolve a integração de tecnologia, design funcional e processos eficientes que, juntos, transformam a experiência do cliente e a produtividade da equipe. Em um mercado jurídico cada vez mais competitivo, a forma como o escritório se apresenta — tanto no ambiente físico quanto no digital — influencia diretamente a percepção de profissionalismo e confiança.
+      O conceito de escritório de advocacia moderno vai muito além de uma reforma estética. Envolve a integração de tecnologia, design funcional e processos eficientes que, juntos, transformam a experiência do cliente e a produtividade da equipe. Em um mercado jurídico cada vez mais competitivo, a forma como o escritório se apresenta , tanto no ambiente físico quanto no digital , influencia diretamente a percepção de profissionalismo e confiança.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que define um escritório de advocacia moderno</h2>
@@ -47,7 +47,7 @@ registerArticle('escritorio-de-advocacia-moderno', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Design que comunica profissionalismo</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O design do escritório — físico e digital — comunica valores antes mesmo de qualquer conversa. Um ambiente bem planejado transmite organização, competência e cuidado, características que o cliente naturalmente associa à qualidade do serviço jurídico.
+      O design do escritório , físico e digital , comunica valores antes mesmo de qualquer conversa. Um ambiente bem planejado transmite organização, competência e cuidado, características que o cliente naturalmente associa à qualidade do serviço jurídico.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Ambiente físico funcional</h3>
@@ -57,7 +57,7 @@ registerArticle('escritorio-de-advocacia-moderno', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A paleta de cores sóbria — tons de azul-marinho, cinza, branco e madeira natural — continua sendo a escolha mais segura para transmitir seriedade sem parecer antiquado. Plantas naturais e elementos de design minimalista complementam o ambiente sem poluir visualmente.
+      A paleta de cores sóbria , tons de azul-marinho, cinza, branco e madeira natural , continua sendo a escolha mais segura para transmitir seriedade sem parecer antiquado. Plantas naturais e elementos de design minimalista complementam o ambiente sem poluir visualmente.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Identidade visual consistente</h3>
@@ -100,7 +100,7 @@ registerArticle('escritorio-de-advocacia-moderno', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Ferramentas como Slack, Microsoft Teams ou até grupos organizados no WhatsApp Business facilitam a comunicação interna. Reuniões de alinhamento semanais — breves e objetivas — mantêm todos na mesma página sem consumir tempo excessivo.
+      Ferramentas como Slack, Microsoft Teams ou até grupos organizados no WhatsApp Business facilitam a comunicação interna. Reuniões de alinhamento semanais , breves e objetivas , mantêm todos na mesma página sem consumir tempo excessivo.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -110,7 +110,7 @@ registerArticle('escritorio-de-advocacia-moderno', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Segurança da informação</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O escritório moderno leva a segurança de dados a sério. O sigilo profissional é obrigação ética do advogado, e a tecnologia precisa reforçar — não comprometer — essa garantia.
+      O escritório moderno leva a segurança de dados a sério. O sigilo profissional é obrigação ética do advogado, e a tecnologia precisa reforçar , não comprometer , essa garantia.
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">

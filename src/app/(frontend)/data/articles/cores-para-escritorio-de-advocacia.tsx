@@ -15,7 +15,7 @@ registerArticle('cores-para-escritorio-de-advocacia', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Estudos em psicologia visual mostram que as pessoas formam uma impressão sobre uma marca nos primeiros 90 segundos de contato — e entre 62% e 90% dessa avaliação inicial é baseada apenas nas cores. No contexto jurídico, onde a confiança é o ativo mais valioso, essa primeira impressão pode determinar se o cliente entra em contato ou segue procurando outro profissional.
+      Estudos em psicologia visual mostram que as pessoas formam uma impressão sobre uma marca nos primeiros 90 segundos de contato , e entre 62% e 90% dessa avaliação inicial é baseada apenas nas cores. No contexto jurídico, onde a confiança é o ativo mais valioso, essa primeira impressão pode determinar se o cliente entra em contato ou segue procurando outro profissional.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -35,7 +35,7 @@ registerArticle('cores-para-escritorio-de-advocacia', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O azul é a cor mais utilizada por escritórios de advocacia no Brasil e no mundo. A razão é simples: ele transmite confiança, seriedade e estabilidade. O azul-marinho, em particular, é associado a instituições sólidas — bancos, seguradoras, governos. Quando um escritório adota essa cor, ele se conecta automaticamente a esse universo de credibilidade. Tons mais claros de azul transmitem acessibilidade e comunicação, o que pode funcionar para escritórios que atendem pessoas físicas e querem parecer mais acolhedores.
+      O azul é a cor mais utilizada por escritórios de advocacia no Brasil e no mundo. A razão é simples: ele transmite confiança, seriedade e estabilidade. O azul-marinho, em particular, é associado a instituições sólidas , bancos, seguradoras, governos. Quando um escritório adota essa cor, ele se conecta automaticamente a esse universo de credibilidade. Tons mais claros de azul transmitem acessibilidade e comunicação, o que pode funcionar para escritórios que atendem pessoas físicas e querem parecer mais acolhedores.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -43,7 +43,7 @@ registerArticle('cores-para-escritorio-de-advocacia', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O dourado é a cor da excelência e do prestígio. Na advocacia, ele funciona muito bem como cor de apoio — em detalhes do logotipo, bordas de cartões de visita ou acentos no site. Usado em excesso, pode parecer ostensivo. Usado com parcimônia, transmite sofisticação e atenção aos detalhes. O bronze é uma variação mais sutil que mantém a elegância sem o risco de parecer exagerado.
+      O dourado é a cor da excelência e do prestígio. Na advocacia, ele funciona muito bem como cor de apoio , em detalhes do logotipo, bordas de cartões de visita ou acentos no site. Usado em excesso, pode parecer ostensivo. Usado com parcimônia, transmite sofisticação e atenção aos detalhes. O bronze é uma variação mais sutil que mantém a elegância sem o risco de parecer exagerado.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -67,7 +67,7 @@ registerArticle('cores-para-escritorio-de-advocacia', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O preto é a cor da formalidade e do luxo. Uma marca em preto puro é elegante e atemporal. O cinza, por sua vez, transmite neutralidade e profissionalismo. Ambas funcionam como cores de base, especialmente quando combinadas com uma cor de destaque como dourado, azul ou bordô. O risco do preto e cinza usados sozinhos é parecer frio demais — sem uma cor de apoio que traga alguma personalidade.
+      O preto é a cor da formalidade e do luxo. Uma marca em preto puro é elegante e atemporal. O cinza, por sua vez, transmite neutralidade e profissionalismo. Ambas funcionam como cores de base, especialmente quando combinadas com uma cor de destaque como dourado, azul ou bordô. O risco do preto e cinza usados sozinhos é parecer frio demais , sem uma cor de apoio que traga alguma personalidade.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -98,8 +98,8 @@ registerArticle('cores-para-escritorio-de-advocacia', () => (
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Cor principal:</strong> é a cor dominante da marca. Ela aparece no logotipo, nos títulos do site e nos elementos de destaque. Deve ser a cor que melhor representa o posicionamento do escritório.</li>
-      <li><strong className="text-[#162a2a]">Cor secundária:</strong> complementa a cor principal e é usada em elementos de apoio — ícones, botões, bordas, detalhes. Ela adiciona profundidade à paleta sem competir com a cor principal.</li>
-      <li><strong className="text-[#162a2a]">Cor de destaque:</strong> usada com parcimônia para chamar atenção em pontos específicos — botões de ação, links, avisos. Pode ser uma cor mais viva, desde que usada em pequenas doses.</li>
+      <li><strong className="text-[#162a2a]">Cor secundária:</strong> complementa a cor principal e é usada em elementos de apoio , ícones, botões, bordas, detalhes. Ela adiciona profundidade à paleta sem competir com a cor principal.</li>
+      <li><strong className="text-[#162a2a]">Cor de destaque:</strong> usada com parcimônia para chamar atenção em pontos específicos , botões de ação, links, avisos. Pode ser uma cor mais viva, desde que usada em pequenas doses.</li>
       <li><strong className="text-[#162a2a]">Neutros:</strong> branco, cinza-claro e cinza-escuro para fundos, textos e espaços de respiro. São a base sobre a qual as outras cores aparecem.</li>
     </ul>
 
@@ -112,7 +112,7 @@ registerArticle('cores-para-escritorio-de-advocacia', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Um dos erros mais comuns é ter cores diferentes no site, nas redes sociais e nos materiais impressos. Isso acontece quando não existe um padrão definido — cada material é criado de forma isolada, e as cores vão se distorcendo ao longo do caminho.
+      Um dos erros mais comuns é ter cores diferentes no site, nas redes sociais e nos materiais impressos. Isso acontece quando não existe um padrão definido , cada material é criado de forma isolada, e as cores vão se distorcendo ao longo do caminho.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -120,7 +120,7 @@ registerArticle('cores-para-escritorio-de-advocacia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      No ambiente físico do escritório, as cores da marca podem ser incorporadas em elementos como a parede da recepção, os estofados da sala de reunião, pastas de documentos e até no café — copos personalizados com a cor da marca são um detalhe sutil que reforça a identidade visual. O ponto é que cada interação com o escritório, seja presencial ou digital, deve parecer parte de uma mesma experiência.
+      No ambiente físico do escritório, as cores da marca podem ser incorporadas em elementos como a parede da recepção, os estofados da sala de reunião, pastas de documentos e até no café , copos personalizados com a cor da marca são um detalhe sutil que reforça a identidade visual. O ponto é que cada interação com o escritório, seja presencial ou digital, deve parecer parte de uma mesma experiência.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -144,7 +144,7 @@ registerArticle('cores-para-escritorio-de-advocacia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Defina uma paleta enxuta, registre os códigos de cor, aplique com consistência e revise periodicamente. Ao <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criar site para advogado</a>, essas cores devem estar presentes desde o primeiro pixel. Uma identidade visual bem construída começa por cores bem escolhidas — e se mantém pela disciplina de usá-las corretamente em todos os materiais e canais do escritório.
+      Defina uma paleta enxuta, registre os códigos de cor, aplique com consistência e revise periodicamente. Ao <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criar site para advogado</a>, essas cores devem estar presentes desde o primeiro pixel. Uma identidade visual bem construída começa por cores bem escolhidas , e se mantém pela disciplina de usá-las corretamente em todos os materiais e canais do escritório.
     </p>
   </>
 ))

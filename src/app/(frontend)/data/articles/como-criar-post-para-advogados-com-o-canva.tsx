@@ -12,7 +12,7 @@ registerArticle('como-criar-post-para-advogados-com-o-canva', () => (
       O Canva oferece uma versão gratuita que já atende à maioria das necessidades de criação de posts para redes sociais. A versão Pro, que custa por volta de trinta e cinco reais por mês, adiciona recursos como remoção de fundo, redimensionamento automático e acesso a uma biblioteca maior de fotos e elementos. Para quem está começando, a versão gratuita é suficiente.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      A interface é intuitiva. Na tela inicial, você encontra sugestões de formatos pré-dimensionados para cada plataforma — post para Instagram, capa para Facebook, thumbnail para YouTube, entre outros. Basta clicar no formato desejado para abrir o editor. Do lado esquerdo ficam os painéis de templates, elementos, fotos, textos e uploads. A área central é a tela de edição, onde você monta o design arrastando e soltando elementos.
+      A interface é intuitiva. Na tela inicial, você encontra sugestões de formatos pré-dimensionados para cada plataforma , post para Instagram, capa para Facebook, thumbnail para YouTube, entre outros. Basta clicar no formato desejado para abrir o editor. Do lado esquerdo ficam os painéis de templates, elementos, fotos, textos e uploads. A área central é a tela de edição, onde você monta o design arrastando e soltando elementos.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Templates: o atalho para posts profissionais</h2>
@@ -24,7 +24,7 @@ registerArticle('como-criar-post-para-advogados-com-o-canva', () => (
       A estratégia mais eficiente é escolher três a cinco templates que tenham a ver com a identidade visual do seu escritório e adaptá-los para diferentes conteúdos. Isso cria consistência visual no feed sem exigir que você crie designs do zero toda vez. Troque os textos, ajuste as cores e substitua as imagens, mantendo a estrutura do layout original.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      Evite usar templates com aparência muito genérica ou que pareçam de outra área — modelos com paletas neon, fontes decorativas excessivas ou elementos gráficos infantis não combinam com a comunicação de um escritório de advocacia. Prefira templates com linhas limpas, tipografia sóbria e espaço bem distribuído.
+      Evite usar templates com aparência muito genérica ou que pareçam de outra área , modelos com paletas neon, fontes decorativas excessivas ou elementos gráficos infantis não combinam com a comunicação de um escritório de advocacia. Prefira templates com linhas limpas, tipografia sóbria e espaço bem distribuído.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Kit de marca: identidade visual padronizada</h2>
@@ -70,25 +70,25 @@ registerArticle('como-criar-post-para-advogados-com-o-canva', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Hierarquia visual</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O elemento mais importante do post deve ser o mais visível. Em um post com dica jurídica, por exemplo, o título da dica deve estar em destaque — fonte maior, cor contrastante e posicionamento central. Informações secundárias como o nome do escritório e o logo devem estar presentes, mas em tamanho menor e posição discreta. Se tudo no post tem o mesmo peso visual, nada se destaca e a mensagem se perde.
+      O elemento mais importante do post deve ser o mais visível. Em um post com dica jurídica, por exemplo, o título da dica deve estar em destaque , fonte maior, cor contrastante e posicionamento central. Informações secundárias como o nome do escritório e o logo devem estar presentes, mas em tamanho menor e posição discreta. Se tudo no post tem o mesmo peso visual, nada se destaca e a mensagem se perde.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Contraste e legibilidade</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Texto claro sobre fundo escuro ou texto escuro sobre fundo claro — essa regra básica de contraste é frequentemente ignorada. Se o post tem uma foto de fundo, adicione uma camada semitransparente (overlay) entre a imagem e o texto para garantir a legibilidade. No Canva, isso é feito adicionando um retângulo sobre a imagem e reduzindo sua opacidade para 40% a 60%.
+      Texto claro sobre fundo escuro ou texto escuro sobre fundo claro , essa regra básica de contraste é frequentemente ignorada. Se o post tem uma foto de fundo, adicione uma camada semitransparente (overlay) entre a imagem e o texto para garantir a legibilidade. No Canva, isso é feito adicionando um retângulo sobre a imagem e reduzindo sua opacidade para 40% a 60%.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Espaço em branco</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Resistir à tentação de preencher cada centímetro do post é uma das melhores coisas que você pode fazer pelo seu design. Espaço em branco (que não precisa ser literalmente branco — é qualquer área vazia) dá respiro ao layout, torna o texto mais legível e transmite sofisticação. Posts sobrecarregados de informação parecem panfletos de supermercado e passam uma impressão oposta à desejada para um escritório de advocacia.
+      Resistir à tentação de preencher cada centímetro do post é uma das melhores coisas que você pode fazer pelo seu design. Espaço em branco (que não precisa ser literalmente branco , é qualquer área vazia) dá respiro ao layout, torna o texto mais legível e transmite sofisticação. Posts sobrecarregados de informação parecem panfletos de supermercado e passam uma impressão oposta à desejada para um escritório de advocacia.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Limite de fontes e cores</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Use no máximo duas fontes por post: uma para títulos e outra para texto corrido. Três cores são suficientes para a maioria dos designs — a cor principal do escritório, uma cor de apoio e uma cor neutra para o fundo ou textos secundários. Excesso de fontes e cores cria poluição visual e dificulta o reconhecimento da marca.
+      Use no máximo duas fontes por post: uma para títulos e outra para texto corrido. Três cores são suficientes para a maioria dos designs , a cor principal do escritório, uma cor de apoio e uma cor neutra para o fundo ou textos secundários. Excesso de fontes e cores cria poluição visual e dificulta o reconhecimento da marca.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Tipos de post que funcionam para advogados</h2>
@@ -97,7 +97,7 @@ registerArticle('como-criar-post-para-advogados-com-o-canva', () => (
       Variar o formato dos posts mantém o feed interessante e atende diferentes objetivos de comunicação. Formatos que geram bons resultados para perfis jurídicos:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Carrossel educativo:</strong> sequência de slides que explica um tema passo a passo. No Canva, crie um design com múltiplas páginas — cada página será um slide do carrossel. Esse formato tem alta taxa de salvamento e compartilhamento.</li>
+      <li><strong className="text-[#162a2a]">Carrossel educativo:</strong> sequência de slides que explica um tema passo a passo. No Canva, crie um design com múltiplas páginas , cada página será um slide do carrossel. Esse formato tem alta taxa de salvamento e compartilhamento.</li>
       <li><strong className="text-[#162a2a]">Post de dica única:</strong> imagem com uma informação jurídica relevante e direta. Funciona bem para temas que podem ser resumidos em uma frase ou parágrafo curto.</li>
       <li><strong className="text-[#162a2a]">Citação de legislação:</strong> destaque um artigo de lei relevante com design limpo e tipografia elegante. Adicione uma breve explicação no rodapé do post ou na legenda.</li>
       <li><strong className="text-[#162a2a]">Antes e depois:</strong> mostre uma situação jurídica e seu desfecho. Exemplo: "Antes: contrato de aluguel sem cláusula de reajuste definida. Depois: reajuste abusivo sem respaldo legal."</li>
@@ -131,7 +131,7 @@ registerArticle('como-criar-post-para-advogados-com-o-canva', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Organização dos designs no Canva</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Com o tempo, o número de designs acumulados no Canva cresce rapidamente. Organize-os em pastas para encontrar o que precisa sem perder tempo. Crie pastas por tipo de conteúdo — "Posts Instagram", "Stories", "Thumbnails YouTube", "Carrosséis" — ou por mês de publicação. Use nomes descritivos nos designs em vez de deixar o nome padrão gerado pelo Canva.
+      Com o tempo, o número de designs acumulados no Canva cresce rapidamente. Organize-os em pastas para encontrar o que precisa sem perder tempo. Crie pastas por tipo de conteúdo , "Posts Instagram", "Stories", "Thumbnails YouTube", "Carrosséis" , ou por mês de publicação. Use nomes descritivos nos designs em vez de deixar o nome padrão gerado pelo Canva.
     </p>
     <p className="text-gray-700 leading-relaxed">
       O Canva é uma ferramenta que democratiza o design profissional. Para advogados que precisam manter uma <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">presença digital para advogado</a> ativa sem depender permanentemente de um designer, dominar seus recursos básicos é um investimento de tempo que se paga rapidamente em economia de custos e em qualidade de comunicação visual.

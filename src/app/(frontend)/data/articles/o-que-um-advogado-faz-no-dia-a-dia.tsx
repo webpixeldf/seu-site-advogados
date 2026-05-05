@@ -13,17 +13,17 @@ registerArticle('o-que-um-advogado-faz-no-dia-a-dia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O controle de prazos é uma das atividades mais críticas. Perder um prazo processual pode significar a preclusão de um direito do cliente — ou seja, a perda definitiva da oportunidade de se manifestar nos autos. Por isso, advogados dedicam atenção especial a essa tarefa logo no início do expediente, muitas vezes com o apoio de softwares jurídicos que emitem alertas automáticos.
+      O controle de prazos é uma das atividades mais críticas. Perder um prazo processual pode significar a preclusão de um direito do cliente , ou seja, a perda definitiva da oportunidade de se manifestar nos autos. Por isso, advogados dedicam atenção especial a essa tarefa logo no início do expediente, muitas vezes com o apoio de softwares jurídicos que emitem alertas automáticos.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Em seguida, vem a leitura e resposta de e-mails e mensagens de clientes. A comunicação com o cliente é parte significativa da rotina — esclarecer dúvidas sobre o andamento do caso, solicitar documentos, explicar decisões judiciais e alinhar estratégias.
+      Em seguida, vem a leitura e resposta de e-mails e mensagens de clientes. A comunicação com o cliente é parte significativa da rotina , esclarecer dúvidas sobre o andamento do caso, solicitar documentos, explicar decisões judiciais e alinhar estratégias.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Redação de peças processuais</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A maior parte do tempo de um advogado litigante é dedicada à redação de peças processuais. Petições iniciais, contestações, recursos, memoriais, pareceres — cada documento exige pesquisa jurídica, análise dos fatos, construção de argumentos e revisão cuidadosa.
+      A maior parte do tempo de um advogado litigante é dedicada à redação de peças processuais. Petições iniciais, contestações, recursos, memoriais, pareceres , cada documento exige pesquisa jurídica, análise dos fatos, construção de argumentos e revisão cuidadosa.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -48,13 +48,13 @@ registerArticle('o-que-um-advogado-faz-no-dia-a-dia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A habilidade de comunicar informações jurídicas complexas em linguagem acessível é essencial. O cliente não precisa entender o artigo específico da lei — precisa entender o que aquilo significa para a vida dele.
+      A habilidade de comunicar informações jurídicas complexas em linguagem acessível é essencial. O cliente não precisa entender o artigo específico da lei , precisa entender o que aquilo significa para a vida dele.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Audiências e diligências</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Ao contrário do que se imagina, audiências não ocupam a maior parte do tempo do advogado. Dependendo da área de atuação, um advogado pode ter de duas a cinco audiências por semana — ou até menos. No entanto, a preparação para cada audiência demanda tempo significativo.
+      Ao contrário do que se imagina, audiências não ocupam a maior parte do tempo do advogado. Dependendo da área de atuação, um advogado pode ter de duas a cinco audiências por semana , ou até menos. No entanto, a preparação para cada audiência demanda tempo significativo.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -62,7 +62,7 @@ registerArticle('o-que-um-advogado-faz-no-dia-a-dia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Com a consolidação das audiências telepresenciais — realizadas por videoconferência —, o tempo de deslocamento até os fóruns diminuiu significativamente. Isso mudou a rotina de muitos advogados, que agora participam de audiências em diferentes comarcas sem sair do escritório.
+      Com a consolidação das audiências telepresenciais , realizadas por videoconferência ,, o tempo de deslocamento até os fóruns diminuiu significativamente. Isso mudou a rotina de muitos advogados, que agora participam de audiências em diferentes comarcas sem sair do escritório.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Estudo e atualização constante</h2>
@@ -99,7 +99,7 @@ registerArticle('o-que-um-advogado-faz-no-dia-a-dia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Essa diversidade de rotinas é uma das características mais marcantes da advocacia. Não existe um único "dia a dia do advogado" — existem tantas rotinas quanto áreas de atuação e perfis de clientes.
+      Essa diversidade de rotinas é uma das características mais marcantes da advocacia. Não existe um único "dia a dia do advogado" , existem tantas rotinas quanto áreas de atuação e perfis de clientes.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Os desafios silenciosos</h2>
@@ -113,7 +113,7 @@ registerArticle('o-que-um-advogado-faz-no-dia-a-dia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A advocacia é uma profissão intelectualmente estimulante e socialmente relevante, mas exige dedicação intensa, atualização constante e uma capacidade quase artesanal de traduzir problemas humanos em soluções jurídicas. Quem entende essa realidade está mais preparado para exercer — ou contratar — a profissão com expectativas alinhadas.
+      A advocacia é uma profissão intelectualmente estimulante e socialmente relevante, mas exige dedicação intensa, atualização constante e uma capacidade quase artesanal de traduzir problemas humanos em soluções jurídicas. Quem entende essa realidade está mais preparado para exercer , ou contratar , a profissão com expectativas alinhadas.
     </p>
   </>
 ))

@@ -3,13 +3,13 @@ import { registerArticle } from './registry'
 registerArticle('como-saber-se-o-advogado-e-bom', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Escolher um advogado é uma decisão que pode ter impacto direto na vida financeira, profissional e pessoal de quem contrata. No entanto, a maioria das pessoas não tem critérios claros para avaliar um profissional do Direito — e acaba se baseando apenas no preço ou na indicação de um conhecido. Existem formas objetivas de avaliar se um advogado é competente e confiável antes de assinar o contrato de honorários.
+      Escolher um advogado é uma decisão que pode ter impacto direto na vida financeira, profissional e pessoal de quem contrata. No entanto, a maioria das pessoas não tem critérios claros para avaliar um profissional do Direito , e acaba se baseando apenas no preço ou na indicação de um conhecido. Existem formas objetivas de avaliar se um advogado é competente e confiável antes de assinar o contrato de honorários.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Registro ativo na OAB</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O primeiro passo — e o mais básico — é verificar se o advogado possui registro ativo na Ordem dos Advogados do Brasil. Apenas profissionais com inscrição regular na OAB podem exercer a advocacia. Sem esse registro, a pessoa está exercendo ilegalmente a profissão.
+      O primeiro passo , e o mais básico , é verificar se o advogado possui registro ativo na Ordem dos Advogados do Brasil. Apenas profissionais com inscrição regular na OAB podem exercer a advocacia. Sem esse registro, a pessoa está exercendo ilegalmente a profissão.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -17,7 +17,7 @@ registerArticle('como-saber-se-o-advogado-e-bom', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Um registro suspenso ou cancelado é um sinal de alerta grave. A suspensão pode ocorrer por inadimplência com a OAB ou por sanção disciplinar — e, neste último caso, indica que o profissional cometeu infração ética.
+      Um registro suspenso ou cancelado é um sinal de alerta grave. A suspensão pode ocorrer por inadimplência com a OAB ou por sanção disciplinar , e, neste último caso, indica que o profissional cometeu infração ética.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Especialização na área do seu problema</h2>
@@ -41,7 +41,7 @@ registerArticle('como-saber-se-o-advogado-e-bom', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A comunicação clara não é apenas questão de simpatia — é indicativo de competência. O advogado que consegue traduzir conceitos complexos em linguagem simples geralmente domina o assunto com profundidade suficiente para simplificá-lo.
+      A comunicação clara não é apenas questão de simpatia , é indicativo de competência. O advogado que consegue traduzir conceitos complexos em linguagem simples geralmente domina o assunto com profundidade suficiente para simplificá-lo.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -51,11 +51,11 @@ registerArticle('como-saber-se-o-advogado-e-bom', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Honestidade sobre chances e riscos</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Um dos critérios mais importantes — e mais difíceis de avaliar — é a honestidade do advogado sobre as chances do caso. O bom profissional apresenta uma análise realista, apontando tanto os pontos fortes quanto os riscos e fraquezas.
+      Um dos critérios mais importantes , e mais difíceis de avaliar , é a honestidade do advogado sobre as chances do caso. O bom profissional apresenta uma análise realista, apontando tanto os pontos fortes quanto os riscos e fraquezas.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Desconfie do advogado que garante a vitória antes de analisar o caso com profundidade. No Direito, não existem certezas absolutas — existem probabilidades baseadas em fatos, provas e jurisprudência. O profissional que promete resultado está sendo desonesto ou irresponsável.
+      Desconfie do advogado que garante a vitória antes de analisar o caso com profundidade. No Direito, não existem certezas absolutas , existem probabilidades baseadas em fatos, provas e jurisprudência. O profissional que promete resultado está sendo desonesto ou irresponsável.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -100,7 +100,7 @@ registerArticle('como-saber-se-o-advogado-e-bom', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Durante o primeiro contato, observe: o advogado respondeu em prazo razoável? A consulta foi agendada sem dificuldade? O ambiente de atendimento — presencial ou virtual — é organizado? Esses sinais pequenos antecipam como será a experiência ao longo do processo.
+      Durante o primeiro contato, observe: o advogado respondeu em prazo razoável? A consulta foi agendada sem dificuldade? O ambiente de atendimento , presencial ou virtual , é organizado? Esses sinais pequenos antecipam como será a experiência ao longo do processo.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Sinais de alerta</h2>

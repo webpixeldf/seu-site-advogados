@@ -23,14 +23,14 @@ registerArticle('trello-para-advogados', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Triagem</strong> — casos novos que ainda precisam de análise inicial</li>
-      <li><strong className="text-[#162a2a]">Em análise</strong> — processos sendo estudados para definição de estratégia</li>
-      <li><strong className="text-[#162a2a]">Aguardando documento do cliente</strong> — casos parados por pendência do cliente</li>
-      <li><strong className="text-[#162a2a]">Petição em elaboração</strong> — peças sendo redigidas</li>
-      <li><strong className="text-[#162a2a]">Protocolado / Aguardando</strong> — processos que aguardam movimentação do judiciário</li>
-      <li><strong className="text-[#162a2a]">Audiência agendada</strong> — casos com data de audiência marcada</li>
-      <li><strong className="text-[#162a2a]">Recurso</strong> — processos em fase recursal</li>
-      <li><strong className="text-[#162a2a]">Arquivado</strong> — casos encerrados</li>
+      <li><strong className="text-[#162a2a]">Triagem</strong> , casos novos que ainda precisam de análise inicial</li>
+      <li><strong className="text-[#162a2a]">Em análise</strong> , processos sendo estudados para definição de estratégia</li>
+      <li><strong className="text-[#162a2a]">Aguardando documento do cliente</strong> , casos parados por pendência do cliente</li>
+      <li><strong className="text-[#162a2a]">Petição em elaboração</strong> , peças sendo redigidas</li>
+      <li><strong className="text-[#162a2a]">Protocolado / Aguardando</strong> , processos que aguardam movimentação do judiciário</li>
+      <li><strong className="text-[#162a2a]">Audiência agendada</strong> , casos com data de audiência marcada</li>
+      <li><strong className="text-[#162a2a]">Recurso</strong> , processos em fase recursal</li>
+      <li><strong className="text-[#162a2a]">Arquivado</strong> , casos encerrados</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
@@ -40,7 +40,7 @@ registerArticle('trello-para-advogados', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Estruturando os cartões para cada processo</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Cada cartão no Trello representa um processo ou tarefa. Para manter a organização, padronize o nome dos cartões. Um formato eficiente é: <strong className="text-[#162a2a]">Número do Processo — Nome do Cliente — Assunto</strong>. Por exemplo: "0001234-56.2025.8.26.0100 — João Silva — Indenização por danos morais".
+      Cada cartão no Trello representa um processo ou tarefa. Para manter a organização, padronize o nome dos cartões. Um formato eficiente é: <strong className="text-[#162a2a]">Número do Processo , Nome do Cliente , Assunto</strong>. Por exemplo: "0001234-56.2025.8.26.0100 , João Silva , Indenização por danos morais".
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -48,12 +48,12 @@ registerArticle('trello-para-advogados', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Descrição</strong> — resuma o caso, a estratégia adotada e informações essenciais</li>
-      <li><strong className="text-[#162a2a]">Checklists</strong> — liste as próximas providências (juntar documentos, protocolar peça, preparar testemunha)</li>
-      <li><strong className="text-[#162a2a]">Data de entrega</strong> — defina o próximo prazo processual</li>
-      <li><strong className="text-[#162a2a]">Anexos</strong> — adicione documentos relevantes diretamente ao cartão</li>
-      <li><strong className="text-[#162a2a]">Comentários</strong> — registre atualizações e comunicações sobre o caso</li>
-      <li><strong className="text-[#162a2a]">Membros</strong> — atribua o advogado responsável pelo processo</li>
+      <li><strong className="text-[#162a2a]">Descrição</strong> , resuma o caso, a estratégia adotada e informações essenciais</li>
+      <li><strong className="text-[#162a2a]">Checklists</strong> , liste as próximas providências (juntar documentos, protocolar peça, preparar testemunha)</li>
+      <li><strong className="text-[#162a2a]">Data de entrega</strong> , defina o próximo prazo processual</li>
+      <li><strong className="text-[#162a2a]">Anexos</strong> , adicione documentos relevantes diretamente ao cartão</li>
+      <li><strong className="text-[#162a2a]">Comentários</strong> , registre atualizações e comunicações sobre o caso</li>
+      <li><strong className="text-[#162a2a]">Membros</strong> , atribua o advogado responsável pelo processo</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Etiquetas: classificação rápida por área ou prioridade</h2>
@@ -63,12 +63,12 @@ registerArticle('trello-para-advogados', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Vermelho</strong> — prazo urgente (menos de 3 dias)</li>
-      <li><strong className="text-[#162a2a]">Amarelo</strong> — atenção necessária nesta semana</li>
-      <li><strong className="text-[#162a2a]">Verde</strong> — em dia, sem urgência</li>
-      <li><strong className="text-[#162a2a]">Azul</strong> — área cível</li>
-      <li><strong className="text-[#162a2a]">Roxo</strong> — área trabalhista</li>
-      <li><strong className="text-[#162a2a]">Laranja</strong> — área criminal</li>
+      <li><strong className="text-[#162a2a]">Vermelho</strong> , prazo urgente (menos de 3 dias)</li>
+      <li><strong className="text-[#162a2a]">Amarelo</strong> , atenção necessária nesta semana</li>
+      <li><strong className="text-[#162a2a]">Verde</strong> , em dia, sem urgência</li>
+      <li><strong className="text-[#162a2a]">Azul</strong> , área cível</li>
+      <li><strong className="text-[#162a2a]">Roxo</strong> , área trabalhista</li>
+      <li><strong className="text-[#162a2a]">Laranja</strong> , área criminal</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
@@ -99,10 +99,10 @@ registerArticle('trello-para-advogados', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Quadro de Processos</strong> — gestão de casos ativos, como descrito acima</li>
-      <li><strong className="text-[#162a2a]">Quadro Administrativo</strong> — tarefas do escritório como renovação de certificado digital, pagamento de anuidade da OAB, manutenção do <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado autônomo</a></li>
-      <li><strong className="text-[#162a2a]">Quadro de Prospecção</strong> — acompanhamento de potenciais clientes e propostas enviadas</li>
-      <li><strong className="text-[#162a2a]">Quadro de Conteúdo</strong> — planejamento de artigos, posts para redes sociais e materiais educativos</li>
+      <li><strong className="text-[#162a2a]">Quadro de Processos</strong> , gestão de casos ativos, como descrito acima</li>
+      <li><strong className="text-[#162a2a]">Quadro Administrativo</strong> , tarefas do escritório como renovação de certificado digital, pagamento de anuidade da OAB, manutenção do <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado autônomo</a></li>
+      <li><strong className="text-[#162a2a]">Quadro de Prospecção</strong> , acompanhamento de potenciais clientes e propostas enviadas</li>
+      <li><strong className="text-[#162a2a]">Quadro de Conteúdo</strong> , planejamento de artigos, posts para redes sociais e materiais educativos</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
@@ -130,7 +130,7 @@ registerArticle('trello-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O plano Standard libera quadros ilimitados por workspace, checklists avançadas com datas de entrega por item, campos personalizados e mais automações. O plano Premium adiciona visualizações em calendário, linha do tempo e dashboard. Avalie a necessidade real antes de assinar — muitos escritórios funcionam bem no plano gratuito por meses antes de sentirem necessidade de recursos adicionais.
+      O plano Standard libera quadros ilimitados por workspace, checklists avançadas com datas de entrega por item, campos personalizados e mais automações. O plano Premium adiciona visualizações em calendário, linha do tempo e dashboard. Avalie a necessidade real antes de assinar , muitos escritórios funcionam bem no plano gratuito por meses antes de sentirem necessidade de recursos adicionais.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Boas práticas para manter o quadro útil</h2>
@@ -143,7 +143,7 @@ registerArticle('trello-para-advogados', () => (
       <li><strong className="text-[#162a2a]">Revise o quadro toda manhã</strong> antes de começar o trabalho, identificando prioridades do dia</li>
       <li><strong className="text-[#162a2a]">Mova os cartões em tempo real</strong> conforme as etapas avançam, não deixe para atualizar depois</li>
       <li><strong className="text-[#162a2a]">Arquive cartões encerrados</strong> regularmente para manter o quadro limpo e focado nos casos ativos</li>
-      <li><strong className="text-[#162a2a]">Defina um responsável</strong> para cada cartão, mesmo em escritórios pequenos — isso cria senso de responsabilidade</li>
+      <li><strong className="text-[#162a2a]">Defina um responsável</strong> para cada cartão, mesmo em escritórios pequenos , isso cria senso de responsabilidade</li>
       <li><strong className="text-[#162a2a]">Use comentários</strong> em vez de mensagens por WhatsApp para discutir casos, criando um histórico pesquisável</li>
     </ul>
 

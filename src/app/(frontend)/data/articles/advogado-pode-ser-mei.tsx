@@ -9,11 +9,11 @@ registerArticle('advogado-pode-ser-mei', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Por que advogado não pode ser MEI</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O MEI (Microempreendedor Individual) foi criado pela Lei Complementar 128/2008 para formalizar trabalhadores informais e pequenos empreendedores. No entanto, a legislação exclui expressamente as profissões regulamentadas por conselhos de classe — e a advocacia é regulamentada pela OAB.
+      O MEI (Microempreendedor Individual) foi criado pela Lei Complementar 128/2008 para formalizar trabalhadores informais e pequenos empreendedores. No entanto, a legislação exclui expressamente as profissões regulamentadas por conselhos de classe , e a advocacia é regulamentada pela OAB.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A justificativa legal é que profissões regulamentadas possuem regime próprio de exercício e tributação, incompatível com o modelo simplificado do MEI. O Estatuto da Advocacia (Lei 8.906/1994) estabelece regras específicas sobre o exercício da profissão, incluindo a natureza da atividade, que é considerada intelectual e pessoal — características que a Lei Complementar não contempla no regime do MEI.
+      A justificativa legal é que profissões regulamentadas possuem regime próprio de exercício e tributação, incompatível com o modelo simplificado do MEI. O Estatuto da Advocacia (Lei 8.906/1994) estabelece regras específicas sobre o exercício da profissão, incluindo a natureza da atividade, que é considerada intelectual e pessoal , características que a Lei Complementar não contempla no regime do MEI.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -44,7 +44,7 @@ registerArticle('advogado-pode-ser-mei', () => (
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
-      O registro da sociedade unipessoal é feito na OAB — e não na Junta Comercial, como ocorre com empresas comuns. Isso é uma particularidade importante da advocacia.
+      O registro da sociedade unipessoal é feito na OAB , e não na Junta Comercial, como ocorre com empresas comuns. Isso é uma particularidade importante da advocacia.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">2. Sociedade de Advocacia (com sócios)</h3>
@@ -68,7 +68,7 @@ registerArticle('advogado-pode-ser-mei', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A atuação como autônomo é mais simples administrativamente — não exige contabilidade formal nem registro de empresa —, mas a carga tributária tende a ser significativamente maior do que nas opções de pessoa jurídica, especialmente para quem fatura acima de R$ 5.000 mensais.
+      A atuação como autônomo é mais simples administrativamente , não exige contabilidade formal nem registro de empresa ,, mas a carga tributária tende a ser significativamente maior do que nas opções de pessoa jurídica, especialmente para quem fatura acima de R$ 5.000 mensais.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Comparativo tributário na prática</h2>

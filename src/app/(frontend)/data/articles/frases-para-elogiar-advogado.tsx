@@ -9,7 +9,7 @@ registerArticle('frases-para-elogiar-advogado', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Por que depoimentos são tão importantes para advogados</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A advocacia é um serviço de confiança. O cliente está entregando um problema pessoal ou empresarial sensível nas mãos de alguém que, muitas vezes, nunca viu antes. Nesse cenário, a prova social — saber que outras pessoas tiveram boas experiências — reduz a incerteza e facilita a decisão de contratação.
+      A advocacia é um serviço de confiança. O cliente está entregando um problema pessoal ou empresarial sensível nas mãos de alguém que, muitas vezes, nunca viu antes. Nesse cenário, a prova social , saber que outras pessoas tiveram boas experiências , reduz a incerteza e facilita a decisão de contratação.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -57,7 +57,7 @@ registerArticle('frases-para-elogiar-advogado', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Como solicitar depoimentos de clientes</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A maioria dos clientes satisfeitos está disposta a deixar um depoimento — mas raramente toma a iniciativa. Cabe ao advogado pedir, e o momento certo faz toda a diferença.
+      A maioria dos clientes satisfeitos está disposta a deixar um depoimento , mas raramente toma a iniciativa. Cabe ao advogado pedir, e o momento certo faz toda a diferença.
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
@@ -82,7 +82,7 @@ registerArticle('frases-para-elogiar-advogado', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Google Meu Negócio</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O perfil do Google é o primeiro lugar onde muitas pessoas procuram avaliações. Ter mais de dez avaliações com nota alta aumenta a credibilidade do escritório nas buscas locais e melhora o posicionamento no Google Maps. Responda a todas as avaliações — positivas e negativas — de forma profissional.
+      O perfil do Google é o primeiro lugar onde muitas pessoas procuram avaliações. Ter mais de dez avaliações com nota alta aumenta a credibilidade do escritório nas buscas locais e melhora o posicionamento no Google Maps. Responda a todas as avaliações , positivas e negativas , de forma profissional.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Site do escritório</h3>

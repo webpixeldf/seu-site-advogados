@@ -3,13 +3,13 @@ import { registerArticle } from './registry'
 registerArticle('google-agenda-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Perder um prazo processual pode significar a extinção de um processo ou a perda de um recurso. Esquecer uma audiência gera constrangimento profissional e pode resultar em sanções. Para advogados, o controle do tempo não é uma questão de produtividade — é uma obrigação ética e legal. O Google Agenda é uma ferramenta gratuita que, quando bem configurada, transforma a gestão de compromissos e prazos de qualquer escritório, do advogado solo ao time com dezenas de profissionais.
+      Perder um prazo processual pode significar a extinção de um processo ou a perda de um recurso. Esquecer uma audiência gera constrangimento profissional e pode resultar em sanções. Para advogados, o controle do tempo não é uma questão de produtividade , é uma obrigação ética e legal. O Google Agenda é uma ferramenta gratuita que, quando bem configurada, transforma a gestão de compromissos e prazos de qualquer escritório, do advogado solo ao time com dezenas de profissionais.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Por que o Google Agenda funciona para a advocacia</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A maioria dos advogados já tem uma conta Google. Isso significa que o Google Agenda está disponível sem custo adicional, sem necessidade de instalação e com sincronização automática entre computador, celular e tablet. Diferente de agendas físicas ou planilhas, ele envia lembretes ativos — notificações que aparecem no celular minutos, horas ou dias antes do compromisso.
+      A maioria dos advogados já tem uma conta Google. Isso significa que o Google Agenda está disponível sem custo adicional, sem necessidade de instalação e com sincronização automática entre computador, celular e tablet. Diferente de agendas físicas ou planilhas, ele envia lembretes ativos , notificações que aparecem no celular minutos, horas ou dias antes do compromisso.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -23,7 +23,7 @@ registerArticle('google-agenda-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Em seguida, configure os horários de trabalho. O Google Agenda permite definir os dias e horários em que você está disponível. Isso é útil para quem compartilha a agenda com clientes ou colegas — eles verão apenas os horários em que você realmente pode atender.
+      Em seguida, configure os horários de trabalho. O Google Agenda permite definir os dias e horários em que você está disponível. Isso é útil para quem compartilha a agenda com clientes ou colegas , eles verão apenas os horários em que você realmente pode atender.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Múltiplos calendários: a chave da organização</h2>
@@ -37,11 +37,11 @@ registerArticle('google-agenda-para-advogados', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Audiências</strong> — todas as audiências marcadas, com data, hora, vara, número do processo e link de acesso (quando virtual)</li>
-      <li><strong className="text-[#162a2a]">Prazos processuais</strong> — datas de vencimento de contestações, recursos, manifestações e demais peças</li>
-      <li><strong className="text-[#162a2a]">Reuniões com clientes</strong> — atendimentos agendados, com dados de contato do cliente</li>
-      <li><strong className="text-[#162a2a]">Compromissos internos</strong> — reuniões de equipe, treinamentos e tarefas administrativas</li>
-      <li><strong className="text-[#162a2a]">Pessoal</strong> — compromissos pessoais que impactam a agenda profissional</li>
+      <li><strong className="text-[#162a2a]">Audiências</strong> , todas as audiências marcadas, com data, hora, vara, número do processo e link de acesso (quando virtual)</li>
+      <li><strong className="text-[#162a2a]">Prazos processuais</strong> , datas de vencimento de contestações, recursos, manifestações e demais peças</li>
+      <li><strong className="text-[#162a2a]">Reuniões com clientes</strong> , atendimentos agendados, com dados de contato do cliente</li>
+      <li><strong className="text-[#162a2a]">Compromissos internos</strong> , reuniões de equipe, treinamentos e tarefas administrativas</li>
+      <li><strong className="text-[#162a2a]">Pessoal</strong> , compromissos pessoais que impactam a agenda profissional</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
@@ -51,7 +51,7 @@ registerArticle('google-agenda-para-advogados', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Lembretes e notificações: sua rede de segurança</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Cada calendário pode ter configurações de lembrete independentes. Para audiências, configure pelo menos dois lembretes: um com 24 horas de antecedência e outro com 1 hora antes. Para prazos processuais, o ideal é ter lembretes com mais antecedência — 3 dias e 1 dia antes, por exemplo — para garantir tempo de preparação da peça.
+      Cada calendário pode ter configurações de lembrete independentes. Para audiências, configure pelo menos dois lembretes: um com 24 horas de antecedência e outro com 1 hora antes. Para prazos processuais, o ideal é ter lembretes com mais antecedência , 3 dias e 1 dia antes, por exemplo , para garantir tempo de preparação da peça.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -79,10 +79,10 @@ registerArticle('google-agenda-para-advogados', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Ver apenas disponibilidade</strong> — o colega vê quando você está ocupado, mas não os detalhes do evento</li>
-      <li><strong className="text-[#162a2a]">Ver todos os detalhes</strong> — o colega vê título, descrição e local de cada evento</li>
-      <li><strong className="text-[#162a2a]">Fazer alterações em eventos</strong> — o colega pode editar eventos existentes</li>
-      <li><strong className="text-[#162a2a]">Fazer alterações e gerenciar compartilhamento</strong> — controle total sobre o calendário</li>
+      <li><strong className="text-[#162a2a]">Ver apenas disponibilidade</strong> , o colega vê quando você está ocupado, mas não os detalhes do evento</li>
+      <li><strong className="text-[#162a2a]">Ver todos os detalhes</strong> , o colega vê título, descrição e local de cada evento</li>
+      <li><strong className="text-[#162a2a]">Fazer alterações em eventos</strong> , o colega pode editar eventos existentes</li>
+      <li><strong className="text-[#162a2a]">Fazer alterações e gerenciar compartilhamento</strong> , controle total sobre o calendário</li>
     </ul>
 
     <p className="text-gray-700 leading-relaxed">
@@ -96,7 +96,7 @@ registerArticle('google-agenda-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Para quem usa o Google Workspace (versão paga), a integração com o Google Tasks permite criar listas de tarefas associadas a datas específicas. Cada tarefa aparece no calendário como um lembrete, o que é útil para atividades que não são exatamente compromissos, mas têm prazo — como enviar um documento ao cliente ou protocolar uma petição.
+      Para quem usa o Google Workspace (versão paga), a integração com o Google Tasks permite criar listas de tarefas associadas a datas específicas. Cada tarefa aparece no calendário como um lembrete, o que é útil para atividades que não são exatamente compromissos, mas têm prazo , como enviar um documento ao cliente ou protocolar uma petição.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -106,7 +106,7 @@ registerArticle('google-agenda-para-advogados', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Integração com sistemas jurídicos</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Alguns softwares jurídicos oferecem sincronização com o Google Agenda. Quando o sistema detecta uma publicação no Diário de Justiça com prazo para o seu escritório, ele pode criar automaticamente um evento no calendário com as datas relevantes. Verifique se o software que você utiliza oferece essa funcionalidade — ela reduz drasticamente o risco de perda de prazo.
+      Alguns softwares jurídicos oferecem sincronização com o Google Agenda. Quando o sistema detecta uma publicação no Diário de Justiça com prazo para o seu escritório, ele pode criar automaticamente um evento no calendário com as datas relevantes. Verifique se o software que você utiliza oferece essa funcionalidade , ela reduz drasticamente o risco de perda de prazo.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Boas práticas para manter a agenda funcional</h2>
@@ -116,11 +116,11 @@ registerArticle('google-agenda-para-advogados', () => (
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Cadastre tudo imediatamente</strong> — ao receber uma intimação ou agendar uma reunião, registre no calendário no mesmo momento. Deixar para depois é o principal motivo de perda de prazos.</li>
-      <li><strong className="text-[#162a2a]">Padronize os títulos dos eventos</strong> — use um formato como "AUDIÊNCIA - Processo 0001234 - João Silva" para que a busca funcione bem.</li>
-      <li><strong className="text-[#162a2a]">Preencha a descrição</strong> — inclua número do processo, vara, nome das partes e qualquer link útil. Quando o lembrete tocar, você terá tudo à mão.</li>
-      <li><strong className="text-[#162a2a]">Revise a semana toda segunda-feira</strong> — reserve 15 minutos no início da semana para verificar os compromissos dos próximos dias e antecipar preparações.</li>
-      <li><strong className="text-[#162a2a]">Use o modo "Agenda" para visão geral</strong> — além das visualizações por dia, semana e mês, o modo Agenda mostra uma lista cronológica de todos os eventos futuros. É a melhor forma de ter uma visão completa dos próximos compromissos.</li>
+      <li><strong className="text-[#162a2a]">Cadastre tudo imediatamente</strong> , ao receber uma intimação ou agendar uma reunião, registre no calendário no mesmo momento. Deixar para depois é o principal motivo de perda de prazos.</li>
+      <li><strong className="text-[#162a2a]">Padronize os títulos dos eventos</strong> , use um formato como "AUDIÊNCIA - Processo 0001234 - João Silva" para que a busca funcione bem.</li>
+      <li><strong className="text-[#162a2a]">Preencha a descrição</strong> , inclua número do processo, vara, nome das partes e qualquer link útil. Quando o lembrete tocar, você terá tudo à mão.</li>
+      <li><strong className="text-[#162a2a]">Revise a semana toda segunda-feira</strong> , reserve 15 minutos no início da semana para verificar os compromissos dos próximos dias e antecipar preparações.</li>
+      <li><strong className="text-[#162a2a]">Use o modo "Agenda" para visão geral</strong> , além das visualizações por dia, semana e mês, o modo Agenda mostra uma lista cronológica de todos os eventos futuros. É a melhor forma de ter uma visão completa dos próximos compromissos.</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Google Agenda no celular</h2>
@@ -140,7 +140,7 @@ registerArticle('google-agenda-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Para advogados autônomos ou escritórios pequenos que ainda não justificam o investimento em um software jurídico, o Google Agenda — aliado à <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criação de site para advogado</a> — supre a necessidade básica de controle de agenda com competência. A chave está na disciplina de uso e na configuração correta dos lembretes. Com poucos minutos de organização diária, a ferramenta se torna uma aliada real na rotina forense.
+      Para advogados autônomos ou escritórios pequenos que ainda não justificam o investimento em um software jurídico, o Google Agenda , aliado à <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">criação de site para advogado</a> , supre a necessidade básica de controle de agenda com competência. A chave está na disciplina de uso e na configuração correta dos lembretes. Com poucos minutos de organização diária, a ferramenta se torna uma aliada real na rotina forense.
     </p>
   </>
 ))

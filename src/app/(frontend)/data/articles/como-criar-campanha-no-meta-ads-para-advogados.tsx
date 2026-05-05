@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('como-criar-campanha-no-meta-ads-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O Meta Ads — plataforma que gerencia anúncios no Facebook e Instagram — é uma ferramenta poderosa para advogados que desejam construir autoridade, alcançar novos públicos e gerar contatos qualificados. Diferente do Google Ads, onde o usuário já está buscando um serviço, no Meta você precisa chamar a atenção de alguém que está rolando o feed. Isso exige uma abordagem diferente, desde a escolha do objetivo da campanha até o formato dos criativos. Neste artigo, vamos cobrir o passo a passo completo para criar campanhas eficientes e dentro das regras da OAB.
+      O Meta Ads , plataforma que gerencia anúncios no Facebook e Instagram , é uma ferramenta poderosa para advogados que desejam construir autoridade, alcançar novos públicos e gerar contatos qualificados. Diferente do Google Ads, onde o usuário já está buscando um serviço, no Meta você precisa chamar a atenção de alguém que está rolando o feed. Isso exige uma abordagem diferente, desde a escolha do objetivo da campanha até o formato dos criativos. Neste artigo, vamos cobrir o passo a passo completo para criar campanhas eficientes e dentro das regras da OAB.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Estrutura do Meta Ads: como funciona</h2>
@@ -13,7 +13,7 @@ registerArticle('como-criar-campanha-no-meta-ads-para-advogados', () => (
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Campanha:</strong> o nível mais alto, onde você define o objetivo de marketing (tráfego, leads, engajamento etc.)</li>
       <li><strong className="text-[#162a2a]">Conjunto de anúncios:</strong> onde você define o público-alvo, a localização, o orçamento e o período de veiculação</li>
-      <li><strong className="text-[#162a2a]">Anúncio:</strong> o criativo em si — imagem ou vídeo, texto, título e botão de chamada para ação</li>
+      <li><strong className="text-[#162a2a]">Anúncio:</strong> o criativo em si , imagem ou vídeo, texto, título e botão de chamada para ação</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
       Cada campanha pode ter múltiplos conjuntos de anúncios, e cada conjunto pode ter múltiplos anúncios. Essa estrutura permite testar diferentes públicos e criativos dentro da mesma campanha.
@@ -31,7 +31,7 @@ registerArticle('como-criar-campanha-no-meta-ads-para-advogados', () => (
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Tráfego</h3>
     <p className="text-gray-700 leading-relaxed">
-      Direciona as pessoas para o seu site ou landing page. É uma boa opção quando você tem uma página de destino otimizada para conversão. O algoritmo vai exibir o anúncio para pessoas com maior probabilidade de clicar no link. Use esse objetivo quando quiser que o visitante conheça mais sobre o escritório antes de entrar em contato — e para isso, é fundamental ter uma <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">presença digital para advogado</a> bem construída.
+      Direciona as pessoas para o seu site ou landing page. É uma boa opção quando você tem uma página de destino otimizada para conversão. O algoritmo vai exibir o anúncio para pessoas com maior probabilidade de clicar no link. Use esse objetivo quando quiser que o visitante conheça mais sobre o escritório antes de entrar em contato , e para isso, é fundamental ter uma <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">presença digital para advogado</a> bem construída.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Engajamento</h3>
@@ -79,7 +79,7 @@ registerArticle('como-criar-campanha-no-meta-ads-para-advogados', () => (
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li>Primeira linha: gancho que identifica o problema ou dúvida do público</li>
       <li>Corpo: explicação breve e objetiva sobre o tema</li>
-      <li>Final: chamada para ação clara — "Saiba mais no link", "Entre em contato para orientação"</li>
+      <li>Final: chamada para ação clara , "Saiba mais no link", "Entre em contato para orientação"</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Definindo orçamento e cronograma</h2>
@@ -118,9 +118,9 @@ registerArticle('como-criar-campanha-no-meta-ads-para-advogados', () => (
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li>Não use fotos de tribunais, martelos de juiz ou imagens sensacionalistas que possam configurar mercantilização</li>
-      <li>Evite linguagem de urgência como "corra antes que perca o prazo" — informe sobre prazos de forma educativa, sem pressão</li>
+      <li>Evite linguagem de urgência como "corra antes que perca o prazo" , informe sobre prazos de forma educativa, sem pressão</li>
       <li>Não publique resultados de processos específicos ou valores de condenações como forma de atrair clientes</li>
-      <li>Inclua sempre a identificação profissional — nome e OAB — em todos os anúncios</li>
+      <li>Inclua sempre a identificação profissional , nome e OAB , em todos os anúncios</li>
       <li>O conteúdo deve educar e informar, não vender. Posicione-se como especialista que compartilha conhecimento, não como vendedor de serviços</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">

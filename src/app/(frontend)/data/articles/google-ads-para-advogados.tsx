@@ -11,7 +11,7 @@ registerArticle('google-ads-para-advogados', () => (
       Quando alguém pesquisa "advogado trabalhista em São Paulo" ou "como entrar com ação de divórcio", essa pessoa já tem uma necessidade real. O Google Ads permite que seu escritório apareça exatamente nesse momento de busca ativa, quando o potencial cliente está procurando uma solução. Isso é fundamentalmente diferente de anúncios em redes sociais, onde você interrompe alguém que estava vendo fotos de amigos.
     </p>
     <p className="text-gray-700 leading-relaxed">
-      A intenção de busca é o grande diferencial. Você não precisa convencer a pessoa de que ela precisa de um advogado — ela já sabe disso. Seu trabalho é convencê-la de que você é a melhor opção disponível.
+      A intenção de busca é o grande diferencial. Você não precisa convencer a pessoa de que ela precisa de um advogado , ela já sabe disso. Seu trabalho é convencê-la de que você é a melhor opção disponível.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Configurando sua conta do Google Ads</h2>
@@ -24,7 +24,7 @@ registerArticle('google-ads-para-advogados', () => (
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li>Defina o fuso horário e a moeda como Real brasileiro</li>
       <li>Vincule sua conta ao Google Analytics 4 para rastrear o comportamento dos visitantes</li>
-      <li>Configure as conversões — ligações telefônicas, envios de formulário e cliques no WhatsApp</li>
+      <li>Configure as conversões , ligações telefônicas, envios de formulário e cliques no WhatsApp</li>
       <li>Adicione seu método de pagamento e defina um orçamento diário inicial conservador</li>
     </ul>
 
@@ -53,7 +53,7 @@ registerArticle('google-ads-para-advogados', () => (
       O Google Ads exibe anúncios responsivos de pesquisa, onde você fornece até 15 títulos e 4 descrições, e o sistema combina as melhores versões. Para advogados, siga estas diretrizes ao escrever seus anúncios:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li>Inclua a área de atuação e a cidade nos títulos — "Advogado Trabalhista em BH" é melhor que apenas "Advogado"</li>
+      <li>Inclua a área de atuação e a cidade nos títulos , "Advogado Trabalhista em BH" é melhor que apenas "Advogado"</li>
       <li>Mencione diferenciais concretos: anos de experiência, número de casos resolvidos, atendimento online</li>
       <li>Use chamadas para ação claras: "Fale com um especialista", "Agende sua consulta"</li>
       <li>Evite linguagem mercantilista ou promessas de resultado, que violam as regras da OAB</li>
@@ -65,7 +65,7 @@ registerArticle('google-ads-para-advogados', () => (
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">A página de destino faz toda a diferença</h2>
     <p className="text-gray-700 leading-relaxed">
-      De nada adianta um anúncio perfeito se a página para onde o usuário é direcionado não converte. A página de destino precisa ser específica para o serviço anunciado — não envie todo o tráfego para a home do seu site. Ter um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado com SEO</a> bem estruturado é o ponto de partida para criar landing pages eficientes.
+      De nada adianta um anúncio perfeito se a página para onde o usuário é direcionado não converte. A página de destino precisa ser específica para o serviço anunciado , não envie todo o tráfego para a home do seu site. Ter um <a href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">site para advogado com SEO</a> bem estruturado é o ponto de partida para criar landing pages eficientes.
     </p>
     <p className="text-gray-700 leading-relaxed">
       Uma landing page eficiente para advogados contém:
@@ -73,10 +73,10 @@ registerArticle('google-ads-para-advogados', () => (
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li><strong className="text-[#162a2a]">Título claro</strong> que corresponda à busca do usuário</li>
       <li><strong className="text-[#162a2a]">Explicação objetiva</strong> do serviço oferecido e como funciona o processo</li>
-      <li><strong className="text-[#162a2a]">Credenciais do advogado</strong> — OAB, especializações, tempo de atuação</li>
-      <li><strong className="text-[#162a2a]">Formulário de contato simples</strong> — nome, telefone e breve descrição do caso</li>
+      <li><strong className="text-[#162a2a]">Credenciais do advogado</strong> , OAB, especializações, tempo de atuação</li>
+      <li><strong className="text-[#162a2a]">Formulário de contato simples</strong> , nome, telefone e breve descrição do caso</li>
       <li><strong className="text-[#162a2a]">Botão de WhatsApp</strong> visível, já que muitos preferem esse canal</li>
-      <li><strong className="text-[#162a2a]">Carregamento rápido</strong> — páginas lentas aumentam o custo por clique e reduzem conversões</li>
+      <li><strong className="text-[#162a2a]">Carregamento rápido</strong> , páginas lentas aumentam o custo por clique e reduzem conversões</li>
     </ul>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Definindo o orçamento corretamente</h2>
@@ -95,9 +95,9 @@ registerArticle('google-ads-para-advogados', () => (
       O Google atribui um Índice de Qualidade de 1 a 10 para cada palavra-chave. Quanto maior o índice, menos você paga por clique e melhor é o posicionamento do anúncio. Três fatores determinam esse índice:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Taxa de cliques esperada</strong> — anúncios relevantes que recebem mais cliques são premiados</li>
-      <li><strong className="text-[#162a2a]">Relevância do anúncio</strong> — o texto do anúncio deve corresponder à palavra-chave pesquisada</li>
-      <li><strong className="text-[#162a2a]">Experiência na página de destino</strong> — a página precisa ser rápida, relevante e útil</li>
+      <li><strong className="text-[#162a2a]">Taxa de cliques esperada</strong> , anúncios relevantes que recebem mais cliques são premiados</li>
+      <li><strong className="text-[#162a2a]">Relevância do anúncio</strong> , o texto do anúncio deve corresponder à palavra-chave pesquisada</li>
+      <li><strong className="text-[#162a2a]">Experiência na página de destino</strong> , a página precisa ser rápida, relevante e útil</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
       Na prática, isso significa que você deve organizar suas campanhas em grupos de anúncios bem segmentados. Crie um grupo para cada área de atuação, com palavras-chave específicas e anúncios correspondentes. Um grupo para "direito de família", outro para "direito trabalhista", outro para "direito imobiliário", e assim por diante.
@@ -108,10 +108,10 @@ registerArticle('google-ads-para-advogados', () => (
       Criar a campanha é apenas o começo. O trabalho real está na otimização semanal. Acompanhe os seguintes indicadores:
     </p>
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
-      <li><strong className="text-[#162a2a]">Custo por conversão</strong> — quanto você paga por cada contato gerado</li>
-      <li><strong className="text-[#162a2a]">Taxa de conversão</strong> — porcentagem de cliques que se transformam em contatos</li>
-      <li><strong className="text-[#162a2a]">Termos de pesquisa</strong> — verifique semanalmente quais buscas ativaram seus anúncios e adicione negativas quando necessário</li>
-      <li><strong className="text-[#162a2a]">Horários e dias</strong> — identifique quando suas campanhas geram mais conversões e concentre o orçamento nesses períodos</li>
+      <li><strong className="text-[#162a2a]">Custo por conversão</strong> , quanto você paga por cada contato gerado</li>
+      <li><strong className="text-[#162a2a]">Taxa de conversão</strong> , porcentagem de cliques que se transformam em contatos</li>
+      <li><strong className="text-[#162a2a]">Termos de pesquisa</strong> , verifique semanalmente quais buscas ativaram seus anúncios e adicione negativas quando necessário</li>
+      <li><strong className="text-[#162a2a]">Horários e dias</strong> , identifique quando suas campanhas geram mais conversões e concentre o orçamento nesses períodos</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
       Uma campanha de Google Ads para advogados bem gerenciada costuma atingir maturidade entre 60 e 90 dias. Nesse período, você já terá dados suficientes para saber quais palavras-chave, anúncios e páginas geram os melhores resultados. A partir daí, o foco passa a ser escalar o que funciona e cortar o que não funciona.
@@ -129,7 +129,7 @@ registerArticle('google-ads-para-advogados', () => (
       <li>Ignorar o relatório de termos de pesquisa e deixar o orçamento ser consumido por buscas irrelevantes</li>
     </ul>
     <p className="text-gray-700 leading-relaxed">
-      O Google Ads é uma ferramenta poderosa, mas exige atenção constante. Advogados que tratam suas campanhas como um investimento estratégico — e não como um gasto — conseguem resultados consistentes e um fluxo previsível de novos clientes.
+      O Google Ads é uma ferramenta poderosa, mas exige atenção constante. Advogados que tratam suas campanhas como um investimento estratégico , e não como um gasto , conseguem resultados consistentes e um fluxo previsível de novos clientes.
     </p>
   </>
 ))

@@ -8,7 +8,7 @@ registerArticle('como-colocar-um-site-de-advocacia-no-google', () => (
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Como funciona a indexação do Google</h2>
     <p className="text-gray-700 leading-relaxed">
-      O Google utiliza robôs chamados crawlers (ou spiders) que navegam pela internet seguindo links entre páginas. Quando um crawler encontra uma página nova, ele a analisa e decide se ela deve ser adicionada ao índice do Google — a enorme base de dados de todas as páginas conhecidas.
+      O Google utiliza robôs chamados crawlers (ou spiders) que navegam pela internet seguindo links entre páginas. Quando um crawler encontra uma página nova, ele a analisa e decide se ela deve ser adicionada ao índice do Google , a enorme base de dados de todas as páginas conhecidas.
     </p>
     <p className="text-gray-700 leading-relaxed">
       O processo funciona em três etapas:

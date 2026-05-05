@@ -7,7 +7,7 @@ registerArticle('identidade-visual-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Neste artigo, vamos cobrir cada componente de uma identidade visual jurídica eficiente — do logotipo à papelaria, das cores à presença digital — com orientações práticas para quem quer construir uma marca sólida sem depender de achismos.
+      Neste artigo, vamos cobrir cada componente de uma identidade visual jurídica eficiente , do logotipo à papelaria, das cores à presença digital , com orientações práticas para quem quer construir uma marca sólida sem depender de achismos.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -19,7 +19,7 @@ registerArticle('identidade-visual-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Quando um potencial cliente recebe seu cartão de visita, acessa seu site e depois vê uma publicação sua no LinkedIn, a identidade visual é o fio condutor que conecta todas essas experiências. Se cada ponto de contato tem uma aparência diferente — fontes distintas, cores que não combinam, estilos variados — a percepção de profissionalismo cai. O cliente, mesmo sem perceber conscientemente, sente menos confiança.
+      Quando um potencial cliente recebe seu cartão de visita, acessa seu site e depois vê uma publicação sua no LinkedIn, a identidade visual é o fio condutor que conecta todas essas experiências. Se cada ponto de contato tem uma aparência diferente , fontes distintas, cores que não combinam, estilos variados , a percepção de profissionalismo cai. O cliente, mesmo sem perceber conscientemente, sente menos confiança.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -31,7 +31,7 @@ registerArticle('identidade-visual-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O logotipo é o elemento mais visível da identidade visual e geralmente o primeiro a ser criado. Na advocacia, ele precisa equilibrar sobriedade e personalidade. Logotipos puramente tipográficos — que usam apenas o nome do escritório em uma fonte bem escolhida — são os mais comuns e geralmente os mais eficazes no meio jurídico.
+      O logotipo é o elemento mais visível da identidade visual e geralmente o primeiro a ser criado. Na advocacia, ele precisa equilibrar sobriedade e personalidade. Logotipos puramente tipográficos , que usam apenas o nome do escritório em uma fonte bem escolhida , são os mais comuns e geralmente os mais eficazes no meio jurídico.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -74,7 +74,7 @@ registerArticle('identidade-visual-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A escolha das fontes é tão importante quanto a escolha das cores, mas costuma receber menos atenção. A tipografia define o tom de toda a comunicação escrita — de um post no Instagram ao contrato enviado ao cliente.
+      A escolha das fontes é tão importante quanto a escolha das cores, mas costuma receber menos atenção. A tipografia define o tom de toda a comunicação escrita , de um post no Instagram ao contrato enviado ao cliente.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -94,7 +94,7 @@ registerArticle('identidade-visual-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O papel timbrado merece atenção especial. Ele aparece em petições, contratos, notificações e correspondências — documentos que o cliente lê com cuidado. Um papel timbrado bem diagramado, com o logotipo posicionado corretamente, as informações de contato organizadas e os dados da OAB visíveis, transmite profissionalismo imediato.
+      O papel timbrado merece atenção especial. Ele aparece em petições, contratos, notificações e correspondências , documentos que o cliente lê com cuidado. Um papel timbrado bem diagramado, com o logotipo posicionado corretamente, as informações de contato organizadas e os dados da OAB visíveis, transmite profissionalismo imediato.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -106,7 +106,7 @@ registerArticle('identidade-visual-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      A presença digital é onde a identidade visual é mais testada. São muitos canais — site, Instagram, LinkedIn, WhatsApp Business, Google Meu Negócio — e cada um tem suas particularidades de formato. Manter a coerência visual entre todos eles é o que separa uma marca profissional de uma marca amadora.
+      A presença digital é onde a identidade visual é mais testada. São muitos canais , site, Instagram, LinkedIn, WhatsApp Business, Google Meu Negócio , e cada um tem suas particularidades de formato. Manter a coerência visual entre todos eles é o que separa uma marca profissional de uma marca amadora.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -142,7 +142,7 @@ registerArticle('identidade-visual-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O manual não precisa ser um documento de cem páginas. Para a maioria dos escritórios, um PDF de cinco a dez páginas com as informações essenciais já resolve. O importante é que qualquer pessoa — um designer contratado, um estagiário, uma gráfica — consiga aplicar a identidade corretamente sem precisar adivinhar.
+      O manual não precisa ser um documento de cem páginas. Para a maioria dos escritórios, um PDF de cinco a dez páginas com as informações essenciais já resolve. O importante é que qualquer pessoa , um designer contratado, um estagiário, uma gráfica , consiga aplicar a identidade corretamente sem precisar adivinhar.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -172,7 +172,7 @@ registerArticle('identidade-visual-para-advogados', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Se o escritório ainda não tem identidade visual definida — ou tem uma que foi montada sem planejamento — o caminho mais eficiente é seguir uma sequência lógica. Primeiro, defina o posicionamento: quem é seu cliente ideal, que tipo de serviço você oferece e como quer ser percebido. Depois, escolha as cores e a tipografia com base nesse posicionamento. Em seguida, desenvolva o logotipo. Por fim, aplique tudo nos materiais de comunicação e documente as regras em um manual.
+      Se o escritório ainda não tem identidade visual definida , ou tem uma que foi montada sem planejamento , o caminho mais eficiente é seguir uma sequência lógica. Primeiro, defina o posicionamento: quem é seu cliente ideal, que tipo de serviço você oferece e como quer ser percebido. Depois, escolha as cores e a tipografia com base nesse posicionamento. Em seguida, desenvolva o logotipo. Por fim, aplique tudo nos materiais de comunicação e documente as regras em um manual.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -180,7 +180,7 @@ registerArticle('identidade-visual-para-advogados', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      O ponto central é entender que identidade visual não é um custo — é um investimento na percepção de valor do escritório. Um escritório com identidade visual coesa é percebido como mais confiável, mais organizado e mais profissional. E na advocacia, percepção é metade da decisão de contratação.
+      O ponto central é entender que identidade visual não é um custo , é um investimento na percepção de valor do escritório. Um escritório com identidade visual coesa é percebido como mais confiável, mais organizado e mais profissional. E na advocacia, percepção é metade da decisão de contratação.
     </p>
   </>
 ))

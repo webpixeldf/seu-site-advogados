@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('marketing-juridico-digital', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O marketing jurídico digital deixou de ser opcional. Escritórios que não marcam presença online perdem espaço para concorrentes que entenderam como se posicionar na internet sem infringir as regras da OAB. O problema é que muitos advogados ainda confundem marketing digital com publicidade agressiva — e acabam ou paralisados pelo medo de punição, ou cometendo infrações sem perceber.
+      O marketing jurídico digital deixou de ser opcional. Escritórios que não marcam presença online perdem espaço para concorrentes que entenderam como se posicionar na internet sem infringir as regras da OAB. O problema é que muitos advogados ainda confundem marketing digital com publicidade agressiva , e acabam ou paralisados pelo medo de punição, ou cometendo infrações sem perceber.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -15,7 +15,7 @@ registerArticle('marketing-juridico-digital', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Marketing jurídico digital é o conjunto de estratégias usadas por advogados e escritórios para atrair, educar e conquistar clientes pela internet. Isso inclui site profissional, produção de conteúdo, presença em redes sociais, SEO (otimização para buscadores), e-mail marketing e anúncios pagos — tudo dentro dos limites éticos da profissão.
+      Marketing jurídico digital é o conjunto de estratégias usadas por advogados e escritórios para atrair, educar e conquistar clientes pela internet. Isso inclui site profissional, produção de conteúdo, presença em redes sociais, SEO (otimização para buscadores), e-mail marketing e anúncios pagos , tudo dentro dos limites éticos da profissão.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -23,7 +23,7 @@ registerArticle('marketing-juridico-digital', () => (
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
-      Provimento 205/2021 — o que mudou na prática
+      Provimento 205/2021 , o que mudou na prática
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
@@ -36,7 +36,7 @@ registerArticle('marketing-juridico-digital', () => (
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">
       <li>
-        <strong className="text-[#162a2a]">Marketing de conteúdo:</strong> produzir artigos, vídeos, podcasts e posts educativos sobre temas jurídicos. O advogado pode — e deve — compartilhar conhecimento.
+        <strong className="text-[#162a2a]">Marketing de conteúdo:</strong> produzir artigos, vídeos, podcasts e posts educativos sobre temas jurídicos. O advogado pode , e deve , compartilhar conhecimento.
       </li>
       <li>
         <strong className="text-[#162a2a]">Anúncios pagos na internet:</strong> Google Ads, impulsionamento em redes sociais e publicidade digital são permitidos, desde que o conteúdo seja informativo e não prometa resultados.
@@ -87,11 +87,11 @@ registerArticle('marketing-juridico-digital', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      <strong className="text-[#162a2a]">Pode:</strong> "Você sabia que o trabalhador demitido sem justa causa tem direito ao saque do FGTS? Entenda como funciona." — Conteúdo educativo, sem promessa de resultado.
+      <strong className="text-[#162a2a]">Pode:</strong> "Você sabia que o trabalhador demitido sem justa causa tem direito ao saque do FGTS? Entenda como funciona." , Conteúdo educativo, sem promessa de resultado.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      <strong className="text-[#162a2a]">Não pode:</strong> "Foi demitido? Eu consigo sua indenização! Ligue agora e garanta seus direitos." — Promessa de resultado e captação direta.
+      <strong className="text-[#162a2a]">Não pode:</strong> "Foi demitido? Eu consigo sua indenização! Ligue agora e garanta seus direitos." , Promessa de resultado e captação direta.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -99,11 +99,11 @@ registerArticle('marketing-juridico-digital', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      <strong className="text-[#162a2a]">Pode:</strong> "Advogado especialista em direito de família em Curitiba. Atendimento presencial e online. Agende uma consulta." — Informativo, com identificação clara do profissional.
+      <strong className="text-[#162a2a]">Pode:</strong> "Advogado especialista em direito de família em Curitiba. Atendimento presencial e online. Agende uma consulta." , Informativo, com identificação clara do profissional.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      <strong className="text-[#162a2a]">Não pode:</strong> "Divórcio rápido e barato! R$ 500 com tudo incluído. Promoção por tempo limitado." — Mercantilização e divulgação de valores.
+      <strong className="text-[#162a2a]">Não pode:</strong> "Divórcio rápido e barato! R$ 500 com tudo incluído. Promoção por tempo limitado." , Mercantilização e divulgação de valores.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -147,7 +147,7 @@ registerArticle('marketing-juridico-digital', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      A maioria dos clientes de advocacia busca profissionais na sua região. Otimizar o site para buscas locais — como "advogado trabalhista em Belo Horizonte" — é uma das estratégias com melhor retorno. Isso envolve cadastrar o escritório no Google Meu Negócio, usar palavras-chave com localização nos textos e garantir que nome, endereço e telefone estejam consistentes em todos os canais.
+      A maioria dos clientes de advocacia busca profissionais na sua região. Otimizar o site para buscas locais , como "advogado trabalhista em Belo Horizonte" , é uma das estratégias com melhor retorno. Isso envolve cadastrar o escritório no Google Meu Negócio, usar palavras-chave com localização nos textos e garantir que nome, endereço e telefone estejam consistentes em todos os canais.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -163,7 +163,7 @@ registerArticle('marketing-juridico-digital', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Anúncios pagos no Google são permitidos e eficazes. A chave é direcionar os anúncios para palavras-chave de intenção — pessoas que já estão buscando um advogado para resolver um problema concreto. O texto do anúncio deve ser informativo, identificar claramente o profissional e direcionar para uma página com mais informações, não para um formulário genérico.
+      Anúncios pagos no Google são permitidos e eficazes. A chave é direcionar os anúncios para palavras-chave de intenção , pessoas que já estão buscando um advogado para resolver um problema concreto. O texto do anúncio deve ser informativo, identificar claramente o profissional e direcionar para uma página com mais informações, não para um formulário genérico.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -171,7 +171,7 @@ registerArticle('marketing-juridico-digital', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Enviar uma newsletter mensal com artigos do blog, novidades legislativas e informações úteis é uma forma ética de manter contato com ex-clientes e leads. O conteúdo precisa ser relevante — ninguém quer receber propaganda. Um informativo sobre mudanças na legislação previdenciária, por exemplo, pode reativar o interesse de um cliente antigo que precisa revisar seu benefício.
+      Enviar uma newsletter mensal com artigos do blog, novidades legislativas e informações úteis é uma forma ética de manter contato com ex-clientes e leads. O conteúdo precisa ser relevante , ninguém quer receber propaganda. Um informativo sobre mudanças na legislação previdenciária, por exemplo, pode reativar o interesse de um cliente antigo que precisa revisar seu benefício.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -219,7 +219,7 @@ registerArticle('marketing-juridico-digital', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      O marketing jurídico digital é uma ferramenta legítima e necessária para advogados que querem crescer de forma sustentável. O Provimento 205/2021 modernizou as regras e abriu espaço para estratégias que antes estavam em zona cinzenta. O segredo é usar esse espaço com responsabilidade: produzir conteúdo de qualidade, respeitar os limites éticos e manter a consistência. Advogados que fazem isso constroem autoridade, atraem clientes qualificados e se destacam no mercado — sem precisar apelar para práticas que colocam a carreira em risco.
+      O marketing jurídico digital é uma ferramenta legítima e necessária para advogados que querem crescer de forma sustentável. O Provimento 205/2021 modernizou as regras e abriu espaço para estratégias que antes estavam em zona cinzenta. O segredo é usar esse espaço com responsabilidade: produzir conteúdo de qualidade, respeitar os limites éticos e manter a consistência. Advogados que fazem isso constroem autoridade, atraem clientes qualificados e se destacam no mercado , sem precisar apelar para práticas que colocam a carreira em risco.
     </p>
   </>
 ))

@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('landing-page-para-advogado', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Muitos advogados investem em anúncios no Google ou nas redes sociais e direcionam o tráfego para a página inicial do escritório. O resultado costuma ser decepcionante: poucos contatos, custo alto por lead e a sensação de que marketing digital não funciona. O problema, na maioria das vezes, não está no anúncio — está no destino. É aqui que entra a landing page.
+      Muitos advogados investem em anúncios no Google ou nas redes sociais e direcionam o tráfego para a página inicial do escritório. O resultado costuma ser decepcionante: poucos contatos, custo alto por lead e a sensação de que marketing digital não funciona. O problema, na maioria das vezes, não está no anúncio , está no destino. É aqui que entra a landing page.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -11,7 +11,7 @@ registerArticle('landing-page-para-advogado', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Landing page — ou página de destino — é uma página criada com um único objetivo: converter o visitante em contato. Diferente de um site institucional, que tem várias seções, menus e informações sobre o escritório, a landing page é focada. Ela trata de um tema específico, fala com um público específico e oferece uma ação clara: agendar uma consulta, preencher um formulário ou entrar em contato pelo WhatsApp.
+      Landing page , ou página de destino , é uma página criada com um único objetivo: converter o visitante em contato. Diferente de um site institucional, que tem várias seções, menus e informações sobre o escritório, a landing page é focada. Ela trata de um tema específico, fala com um público específico e oferece uma ação clara: agendar uma consulta, preencher um formulário ou entrar em contato pelo WhatsApp.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
@@ -67,7 +67,7 @@ registerArticle('landing-page-para-advogado', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Quando você anuncia no Google para a palavra-chave "advogado para revisão de contrato em São Paulo", o visitante que clica espera encontrar informações sobre esse serviço específico. Se ele cai na página inicial do site, que fala sobre dez áreas de atuação diferentes, ele precisa procurar o que interessa — e a maioria não vai procurar. Uma landing page sobre revisão de contratos, com informações relevantes e um formulário de contato, converte muito mais.
+      Quando você anuncia no Google para a palavra-chave "advogado para revisão de contrato em São Paulo", o visitante que clica espera encontrar informações sobre esse serviço específico. Se ele cai na página inicial do site, que fala sobre dez áreas de atuação diferentes, ele precisa procurar o que interessa , e a maioria não vai procurar. Uma landing page sobre revisão de contratos, com informações relevantes e um formulário de contato, converte muito mais.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -123,7 +123,7 @@ registerArticle('landing-page-para-advogado', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O corpo da página deve abordar o problema que o visitante enfrenta e mostrar como o serviço oferecido resolve essa questão. Não é necessário escrever um tratado — três ou quatro parágrafos objetivos são suficientes. Use linguagem acessível. O visitante quer saber se você entende o problema dele, não quer ler um artigo acadêmico.
+      O corpo da página deve abordar o problema que o visitante enfrenta e mostrar como o serviço oferecido resolve essa questão. Não é necessário escrever um tratado , três ou quatro parágrafos objetivos são suficientes. Use linguagem acessível. O visitante quer saber se você entende o problema dele, não quer ler um artigo acadêmico.
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -131,7 +131,7 @@ registerArticle('landing-page-para-advogado', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      Inclua informações que reforcem a confiança: número da OAB, anos de experiência na área, especializações relevantes, universidades e certificações. Não se trata de se autopromover com adjetivos — é apresentar fatos. "Mais de 200 processos conduzidos na área de direito do consumidor desde 2015" é mais convincente do que "somos os melhores".
+      Inclua informações que reforcem a confiança: número da OAB, anos de experiência na área, especializações relevantes, universidades e certificações. Não se trata de se autopromover com adjetivos , é apresentar fatos. "Mais de 200 processos conduzidos na área de direito do consumidor desde 2015" é mais convincente do que "somos os melhores".
     </p>
 
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">
@@ -155,7 +155,7 @@ registerArticle('landing-page-para-advogado', () => (
     </h3>
 
     <p className="text-gray-700 leading-relaxed">
-      A página precisa carregar rápido, funcionar bem no celular e ter um visual profissional. Cores sóbrias, tipografia legível e espaçamento adequado. Nada de banners piscando, pop-ups intrusivos ou fotos genéricas de banco de imagem com martelo de juiz. A estética comunica profissionalismo — ou a falta dele.
+      A página precisa carregar rápido, funcionar bem no celular e ter um visual profissional. Cores sóbrias, tipografia legível e espaçamento adequado. Nada de banners piscando, pop-ups intrusivos ou fotos genéricas de banco de imagem com martelo de juiz. A estética comunica profissionalismo , ou a falta dele.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
@@ -196,7 +196,7 @@ registerArticle('landing-page-para-advogado', () => (
         <strong className="text-[#162a2a]">Custo por lead:</strong> quanto você está pagando, em média, por cada contato gerado. Divida o investimento total em anúncios pelo número de leads.
       </li>
       <li>
-        <strong className="text-[#162a2a]">Taxa de rejeição:</strong> percentual de visitantes que entram na página e saem sem interagir. Se está acima de 70%, algo precisa mudar — o título, o conteúdo ou a velocidade da página.
+        <strong className="text-[#162a2a]">Taxa de rejeição:</strong> percentual de visitantes que entram na página e saem sem interagir. Se está acima de 70%, algo precisa mudar , o título, o conteúdo ou a velocidade da página.
       </li>
       <li>
         <strong className="text-[#162a2a]">Origem do tráfego:</strong> de onde vêm os visitantes (Google, Instagram, LinkedIn). Isso ajuda a entender quais canais trazem os leads mais qualificados.
@@ -212,7 +212,7 @@ registerArticle('landing-page-para-advogado', () => (
     </h2>
 
     <p className="text-gray-700 leading-relaxed">
-      As regras da OAB se aplicam também às landing pages. O conteúdo deve ser informativo, não pode prometer resultados e não deve usar depoimentos de clientes como argumento de venda. A landing page pode — e deve — ser persuasiva, mas dentro dos limites éticos. Persuasão, no contexto jurídico, significa apresentar competência, experiência e clareza, não fazer promessas impossíveis.
+      As regras da OAB se aplicam também às landing pages. O conteúdo deve ser informativo, não pode prometer resultados e não deve usar depoimentos de clientes como argumento de venda. A landing page pode , e deve , ser persuasiva, mas dentro dos limites éticos. Persuasão, no contexto jurídico, significa apresentar competência, experiência e clareza, não fazer promessas impossíveis.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">
