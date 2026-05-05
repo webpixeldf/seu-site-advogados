@@ -30,8 +30,8 @@ import {
 } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: { absolute: 'Criação de Site para Advogado — Presença Digital que Traz Clientes | Seu Site Advogados' },
-  description: 'Somos especialistas em sites jurídicos desde 2019. Design profissional, SEO técnico e estrutura de conversão para advogados e escritórios que querem ser encontrados no Google.',
+  title: { absolute: 'Criação de Site para Advogado que Gera Clientes Todos os Dias' },
+  description: 'Sites jurídicos de alto desempenho com PageSpeed 90+, design profissional e SEO técnico. Especialistas em criação de site para advogado em todo o Brasil.',
   alternates: {
     canonical: '/',
   },
@@ -39,8 +39,8 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'pt_BR',
     siteName: 'Seu Site Advogados',
-    title: 'Criação de Site para Advogado — Presença Digital que Traz Clientes',
-    description: 'Sites jurídicos criados por quem entende de advocacia. Design exclusivo, SEO, blog integrado e páginas de cidade. Portfólio com mais de 50 projetos entregues.',
+    title: 'Criação de Site para Advogado que Gera Clientes Todos os Dias',
+    description: 'Sites rápidos, profissionais e otimizados para advogados. Design exclusivo, SEO técnico e estrutura de conversão. Veja nosso portfólio.',
     url: '/',
     images: [{ url: '/images/site-para-advogado.jpg', width: 1200, height: 630, alt: 'Site profissional para escritório de advocacia — Seu Site Advogados' }],
   },
@@ -48,8 +48,8 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     site: '@seusiteadvogados',
     creator: '@seusiteadvogados',
-    title: 'Criação de Site para Advogado — Presença Digital que Traz Clientes',
-    description: 'Sites jurídicos profissionais com SEO técnico. A partir de 3x de R$ 260,00. Portfólio com mais de 50 projetos.',
+    title: 'Criação de Site para Advogado que Gera Clientes Todos os Dias',
+    description: 'Sites jurídicos de alto desempenho com PageSpeed 90+. A partir de R$ 590,00. Portfólio com mais de 50 projetos.',
     images: ['/images/site-para-advogado.jpg'],
   },
 }
@@ -223,15 +223,14 @@ export default function HomePage() {
             </h1>
             {/* Paragraphs */}
             <p className="text-gray-300 text-lg md:text-xl font-lexend leading-relaxed mb-6">
-              Criação de site para advogado com design exclusivo e SEO técnico. Atendemos autônomos, jovens profissionais e bancas consolidadas que querem ser encontrados no Google com credibilidade e previsibilidade de contatos — mesmo fora do horário comercial.
+              Fortaleça sua presença digital com sites rápidos, alto desempenho no PageSpeed Insights, design profissional e SEO técnico. Somos especializados em criação de site para advogado em todo o Brasil, gerando autoridade e contatos qualificados.
             </p>
 
             {/* Price */}
             <div className="mb-8">
               <span className="text-[#b58c61] font-lexend text-sm font-medium uppercase tracking-wider">A partir de</span>
               <span className="block text-white font-lexend mt-1">
-                <span className="font-semibold text-xl md:text-2xl align-middle">3x </span>
-                <span className="font-extrabold text-3xl md:text-4xl align-middle">R$ 260,00</span>
+                <span className="font-extrabold text-3xl md:text-4xl align-middle">R$ 590,00</span>
               </span>
             </div>
 
@@ -275,7 +274,7 @@ export default function HomePage() {
             {/* Right: content */}
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-[#162a2a] font-lexend mb-6">
-                Seu escritório ainda depende só de indicação?
+                Criação de Site para Advogados: Pare de Depender de Indicações
               </h2>
               <div className="flex items-center gap-2 mb-6">
                 <span className="block w-8 h-1 bg-[#b58c61] rounded-full" />
@@ -532,33 +531,11 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* ========== SECTION 7: RECURSOS ========== */}
-      <section className="bg-[#eaecec] py-20 md:py-28">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <SectionTitle
-            title="Recursos inclusos no seu site para advogado"
-            subtitle="Tudo que seu escritório precisa para começar com presença digital profissional, sem custos extras."
-          />
-
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-            <ServiceCard icon={<Monitor size={28} />} title="Design responsivo" description="Seu site se adapta automaticamente a qualquer tela — celular, tablet ou desktop — sem quebrar layout, esconder informações ou comprometer a navegação." />
-            <ServiceCard icon={<MessageSquare size={28} />} title="WhatsApp integrado" description="O botão de WhatsApp aparece nos momentos certos da página, permitindo que o visitante inicie uma conversa em segundos, sem precisar copiar número nem sair do site." />
-            <ServiceCard icon={<MapPin size={28} />} title="SEO local" description="Estruturamos o site para que o Google entenda sua cidade e região de atuação. Ideal para escritórios que atendem presencialmente ou querem dominar buscas locais." />
-            <ServiceCard icon={<BookOpen size={28} />} title="Páginas por área de atuação" description="Cada especialidade do escritório ganha uma página própria com conteúdo específico, o que melhora o ranqueamento para buscas segmentadas e organiza melhor a navegação." />
-            <ServiceCard icon={<UserPlus size={28} />} title="Blog jurídico" description="Publicar artigos com regularidade é uma das formas mais eficazes de ganhar autoridade no Google a médio prazo. O blog já vem pronto para receber conteúdo." />
-            <ServiceCard icon={<Star size={28} />} title="Prova social" description="Inserimos depoimentos reais de clientes com nome e área de atuação, respeitando as regras da OAB. Um recurso simples que influencia diretamente a decisão de contato." />
-            <ServiceCard icon={<Mail size={28} />} title="E-mail profissional" description="Seu escritório passa a usar endereços como contato@seunome.adv.br — algo que comunica profissionalismo antes mesmo da primeira mensagem." />
-            <ServiceCard icon={<Lock size={28} />} title="Segurança" description="SSL ativo, backups regulares e monitoramento contínuo. Seu site fica protegido e seus visitantes navegam em ambiente seguro." />
-            <ServiceCard icon={<Server size={28} />} title="Hospedagem de alta performance" description="Servidores rápidos, tempo de resposta baixo e estabilidade garantida. Um site lento afasta clientes; o seu não vai ter esse problema." />
-          </div>
-        </div>
-      </section>
-
       {/* ========== SECTION SOB MEDIDA ========== */}
       <section className="bg-[#f5f5f3] py-20 md:py-28">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl md:text-4xl font-bold text-[#162a2a] font-lexend mb-6 text-center">
-            Sites para advogados criados sob medida
+            Sites para escritório de advocacia sob medida
           </h2>
           <div className="flex items-center justify-center gap-2 mb-8">
             <span className="block w-8 h-1 bg-[#b58c61] rounded-full" />
@@ -604,7 +581,7 @@ export default function HomePage() {
       <section className="bg-white py-20 md:py-28">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
-            title="Portfólio: sites para advogados que já criamos"
+            title="Nosso Portfólio Jurídico"
             subtitle="Cada projeto é único, criado para um advogado ou escritório específico."
           />
 
@@ -645,7 +622,7 @@ export default function HomePage() {
       <section className="bg-[#162a2a] py-20 md:py-28">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
-            title="Como funciona a criação do seu site jurídico"
+            title="Etapas para a criação de um site para advocacia"
             subtitle="Da primeira conversa até o site no ar — entenda cada etapa do nosso processo."
             light
           />
@@ -900,41 +877,14 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* ========== SECTION ÉTICA ========== */}
-      <section className="bg-white py-20 md:py-28">
-        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl md:text-4xl font-bold text-[#162a2a] font-lexend mb-8 text-center">
-            Comunicação jurídica que respeita as regras da profissão
-          </h2>
-          <div className="flex items-center justify-center gap-2 mb-8">
-            <span className="block w-8 h-1 bg-[#b58c61] rounded-full" />
-            <span className="block w-16 h-1 bg-[#b58c61] rounded-full" />
-          </div>
-          <div className="space-y-4">
-            <p className="text-gray-600 font-lexend leading-relaxed">
-              A OAB define limites claros para publicidade na advocacia — e com razão. A profissão não combina com sensacionalismo, promessas de resultado ou abordagem mercantilista.
-            </p>
-            <p className="text-gray-600 font-lexend leading-relaxed">
-              Nossa comunicação segue esse norte: informar sem exagerar, apresentar sem prometer, convencer sem pressionar.
-            </p>
-            <p className="text-gray-600 font-lexend leading-relaxed">
-              Tanto o design quanto o conteúdo são pensados para construir uma presença digital sóbria, profissional e compatível com o Provimento 205/2021 do CFOAB. O objetivo é simples: fazer com que o cliente em potencial entenda como você pode ajudar — e se sinta seguro para dar o próximo passo.
-            </p>
-          </div>
-        </div>
-      </section>
-
       {/* ========== SECTION 14: CTA FINAL ========== */}
       <section className="bg-gradient-to-b from-[#162a2a] to-[#0d1b1b] py-20 md:py-28">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white font-lexend mb-6">
             Seu escritório merece um site à altura do seu trabalho
           </h2>
-          <p className="text-gray-300 font-lexend text-lg md:text-xl leading-relaxed mb-4 max-w-2xl mx-auto">
-            Uma conversa rápida já é suficiente para traçarmos um caminho claro para o seu projeto — sem compromisso, sem letra miúda.
-          </p>
           <p className="text-gray-300 font-lexend text-lg md:text-xl leading-relaxed mb-10 max-w-2xl mx-auto">
-            Se você quer reduzir a dependência de indicações e construir uma presença digital que gere contatos de forma consistente, seu site é o ponto de partida certo.
+            Uma conversa rápida já é suficiente para traçarmos um caminho claro para o seu projeto — sem compromisso, sem letra miúda.
           </p>
           <a
             href={WHATSAPP_URL}
