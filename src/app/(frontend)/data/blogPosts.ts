@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Marketing de conteúdo jurídico: o que escrever para gerar leads",
+    slug: "marketing-de-conteudo-juridico-o-que-escrever-para-gerar-leads",
+    resumo: "Você já parou pra pensar no que realmente atrai um potencial cliente até o seu escritório? Não, não estou falando de sorte ou de indicação de um colega. Tô falando de uma estratégia que, se bem fei...",
+    imagemUrl: "/images/blog/marketing-de-conteudo-juridico-o-que-escrever-para-gerar-leads.webp",
+    publishedAt: "2026-05-05",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "LinkedIn para advogados: estratégia de autoridade em 2026",
     slug: "linkedin-para-advogados-estrategia-de-autoridade-em-2026",
     resumo: "Você abre o LinkedIn e vê o mesmo de sempre: um advogado postando foto do café, outro compartilhando decisão do STJ sem comentar nada, e aquele terceiro que só aparece para parabenizar aniversarian...",
