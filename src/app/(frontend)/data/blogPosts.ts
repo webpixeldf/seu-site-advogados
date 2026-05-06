@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Ferramentas de inteligência artificial para automatizar tarefas no escritório",
+    slug: "ferramentas-de-inteligencia-artificial-para-automatizar-tarefas-no-escritorio",
+    resumo: "Você já reparou como o volume de tarefas repetitivas no escritório consome horas que poderiam ser usadas pra estudar um caso, conversar com um cliente ou simplesmente ter um respiro entre audiência...",
+    imagemUrl: "/images/blog/ferramentas-de-inteligencia-artificial-para-automatizar-tarefas-no-escritorio.webp",
+    publishedAt: "2026-05-06",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Marketing de conteúdo jurídico: o que escrever para gerar leads",
     slug: "marketing-de-conteudo-juridico-o-que-escrever-para-gerar-leads",
     resumo: "Você já parou pra pensar no que realmente atrai um potencial cliente até o seu escritório? Não, não estou falando de sorte ou de indicação de um colega. Tô falando de uma estratégia que, se bem fei...",
