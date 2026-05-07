@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Como organizar a agenda de um advogado autônomo sem perder prazo",
+    slug: "como-organizar-a-agenda-de-um-advogado-autonomo-sem-perder-prazo",
+    resumo: "O celular vibra às 7h da manhã de uma segunda-feira. Você olha a tela e sente aquele frio na barriga: é um cliente perguntando sobre o andamento de um processo que, sinceramente, você nem lembrava...",
+    imagemUrl: "/images/blog/como-organizar-a-agenda-de-um-advogado-autonomo-sem-perder-prazo.webp",
+    publishedAt: "2026-05-07",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Ferramentas de inteligência artificial para automatizar tarefas no escritório",
     slug: "ferramentas-de-inteligencia-artificial-para-automatizar-tarefas-no-escritorio",
     resumo: "Você já reparou como o volume de tarefas repetitivas no escritório consome horas que poderiam ser usadas pra estudar um caso, conversar com um cliente ou simplesmente ter um respiro entre audiência...",
