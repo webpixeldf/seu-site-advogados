@@ -223,7 +223,7 @@ export default function HomePage() {
             </h1>
             {/* Paragraphs */}
             <p className="text-gray-300 text-lg md:text-xl font-lexend leading-relaxed mb-6">
-              Fortaleça sua presença digital com sites rápidos, alto desempenho no PageSpeed Insights, design profissional e SEO técnico. Somos especializados em criação de site para advogado, gerando autoridade e contatos qualificados.
+              Somos especializados em criação de site para advogado, gerando autoridade e contatos qualificados. Fortaleça sua presença digital com sites rápidos, alto desempenho no PageSpeed Insights, design profissional e SEO técnico.
             </p>
 
             {/* Price */}
