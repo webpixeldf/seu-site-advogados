@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Onboarding de cliente: o roteiro do primeiro atendimento jurídico",
+    slug: "onboarding-de-cliente-o-roteiro-do-primeiro-atendimento-juridico",
+    resumo: "A primeira impressão no escritório de advocacia não começa mais na recepção — ela começa no primeiro contato digital ou telefônico. E depois que o potencial cliente decide contratar seus serviços,...",
+    imagemUrl: "/images/blog/onboarding-de-cliente-o-roteiro-do-primeiro-atendimento-juridico.webp",
+    publishedAt: "2026-05-08",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Como organizar a agenda de um advogado autônomo sem perder prazo",
     slug: "como-organizar-a-agenda-de-um-advogado-autonomo-sem-perder-prazo",
     resumo: "O celular vibra às 7h da manhã de uma segunda-feira. Você olha a tela e sente aquele frio na barriga: é um cliente perguntando sobre o andamento de um processo que, sinceramente, você nem lembrava...",
