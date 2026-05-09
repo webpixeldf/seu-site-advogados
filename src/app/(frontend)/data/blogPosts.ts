@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Como cobrar pelo WhatsApp sem perder a postura profissional",
+    slug: "como-cobrar-pelo-whatsapp-sem-perder-a-postura-profissional",
+    resumo: "Você já deve ter recebido aquela mensagem no WhatsApp de um cliente que pediu um orçamento, você respondeu educadamente, e depois... silêncio. Ou pior: você enviou a cobrança e a pessoa visualizou,...",
+    imagemUrl: "/images/blog/como-cobrar-pelo-whatsapp-sem-perder-a-postura-profissional.webp",
+    publishedAt: "2026-05-09",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Onboarding de cliente: o roteiro do primeiro atendimento jurídico",
     slug: "onboarding-de-cliente-o-roteiro-do-primeiro-atendimento-juridico",
     resumo: "A primeira impressão no escritório de advocacia não começa mais na recepção — ela começa no primeiro contato digital ou telefônico. E depois que o potencial cliente decide contratar seus serviços,...",
