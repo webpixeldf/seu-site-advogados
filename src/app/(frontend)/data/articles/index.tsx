@@ -97,3 +97,4 @@ import './ferramentas-de-inteligencia-artificial-para-automatizar-tarefas-no-esc
 import './como-organizar-a-agenda-de-um-advogado-autonomo-sem-perder-prazo'
 import './onboarding-de-cliente-o-roteiro-do-primeiro-atendimento-juridico'
 import './como-cobrar-pelo-whatsapp-sem-perder-a-postura-profissional'
+import './crm-juridico-por-que-sua-planilha-do-excel-nao-basta-mais'

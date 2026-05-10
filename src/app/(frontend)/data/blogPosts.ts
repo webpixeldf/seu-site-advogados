@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "CRM jurídico: por que sua planilha do Excel não basta mais",
+    slug: "crm-juridico-por-que-sua-planilha-do-excel-nao-basta-mais",
+    resumo: "Você já parou pra pensar no volume de informações que passa pelas suas mãos todo dia? Nome do cliente, número do processo, andamento, audiência marcada, prazo de recurso, honorários, e-mail trocado...",
+    imagemUrl: "/images/blog/crm-juridico-por-que-sua-planilha-do-excel-nao-basta-mais.webp",
+    publishedAt: "2026-05-10",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Como cobrar pelo WhatsApp sem perder a postura profissional",
     slug: "como-cobrar-pelo-whatsapp-sem-perder-a-postura-profissional",
     resumo: "Você já deve ter recebido aquela mensagem no WhatsApp de um cliente que pediu um orçamento, você respondeu educadamente, e depois... silêncio. Ou pior: você enviou a cobrança e a pessoa visualizou,...",
