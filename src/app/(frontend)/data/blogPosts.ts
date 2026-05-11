@@ -465,7 +465,7 @@ export const blogPosts: BlogPost[] = [
     tags: ['instagram', 'captacao', 'redes-sociais'],
   },
   {
-    titulo: 'Como criar um site para advogados',
+    titulo: 'Passo a passo para lançar um site jurídico profissional',
     slug: 'como-criar-um-site-para-advogados',
     resumo: 'Domínio, layout, textos e SEO: as 4 etapas para colocar no ar um site jurídico que realmente atrai clientes.',
     imagemUrl: '/images/Como-criar-um-site-para-advogados.webp',
@@ -705,7 +705,7 @@ export const blogPosts: BlogPost[] = [
     tags: ['escritorio', 'inovacao', 'digital'],
   },
   {
-    titulo: 'Criação de site para advogados',
+    titulo: 'Quanto custa criar um site para advogado em 2026',
     slug: 'criacao-de-site-para-advogados',
     resumo: 'Quanto custa, o que incluir e quais erros evitar? As respostas para quem está contratando a criação de um site jurídico.',
     imagemUrl: '/images/criacao-de-site-para-advogados.webp',

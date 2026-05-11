@@ -5,14 +5,14 @@ import { CheckCircle, Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Quem Somos',
-  description: 'Conheça o Seu Site Advogados: equipe especializada em criação de sites para advogados e escritórios de advocacia.',
+  description: 'Conheça o Seu Site Advogados: a equipe por trás dos projetos digitais para escritórios jurídicos em todo o Brasil.',
   alternates: { canonical: '/quem-somos' },
   openGraph: {
     type: 'website',
     locale: 'pt_BR',
     siteName: 'Seu Site Advogados',
     title: 'Quem Somos | Seu Site Advogados',
-    description: 'Equipe especializada em criação de sites para advogados e escritórios de advocacia.',
+    description: 'Quem está por trás dos projetos digitais do Seu Site Advogados.',
     url: '/quem-somos',
     images: [{ url: '/images/site-para-advogado.jpg', width: 1200, height: 630, alt: 'Seu Site Advogados' }],
   },
@@ -51,7 +51,7 @@ export default function QuemSomos() {
             Seu Site Advogados , <span className="text-[#b58c61]">Quem Está Por Trás do Projeto</span>
           </h1>
           <p className="text-gray-300 font-lexend text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
-            Somos a agência de marketing jurídico que transforma escritórios de advocacia em referência digital. Criação de site para advogados é a nossa especialidade , e o seu crescimento, a nossa missão.
+            Somos a agência de marketing jurídico que transforma escritórios de advocacia em referência digital. Presença online para bancas jurídicas é a nossa especialidade , e o seu crescimento, a nossa missão.
           </p>
         </div>
       </section>
@@ -87,7 +87,7 @@ export default function QuemSomos() {
                 <span className="text-[#b58c61]">site jurídico</span>
               </h2>
               <p className="text-gray-700 font-lexend leading-relaxed">
-                Nascemos com um propósito claro: criar sites para advogados que realmente geram resultados. Não queríamos ser mais uma empresa genérica de tecnologia , queríamos nos tornar a referência em criação de site para advogados no Brasil.
+                Nascemos com um propósito claro: criar sites para advogados que realmente geram resultados. Não queríamos ser mais uma empresa genérica de tecnologia , queríamos nos tornar a referência em presença digital para bancas jurídicas no Brasil.
               </p>
               <p className="text-gray-700 font-lexend leading-relaxed">
                 Desde então, já desenvolvemos dezenas de sites jurídicos para advogados autônomos e escritórios de advocacia em todo o país. <Link href="/portfolio" className="text-[#de7322] hover:text-[#b58c61] underline underline-offset-2 transition-colors duration-300">Veja nosso portfólio</Link> e confira os resultados. Conhecemos a fundo o mercado jurídico, dominamos as diretrizes da OAB sobre publicidade e sabemos exatamente quais termos os seus futuros clientes digitam no Google quando precisam de um advogado.
@@ -150,7 +150,7 @@ export default function QuemSomos() {
             <span className="text-[#b58c61]">site que seu escritório merece?</span>
           </h2>
           <p className="text-gray-400 font-lexend text-lg max-w-xl mx-auto mb-10 leading-relaxed">
-            Fale agora com nossa equipe pelo WhatsApp, conte sobre o seu escritório e receba uma proposta personalizada de criação de site para advogados , sem compromisso.
+            Fale agora com nossa equipe pelo WhatsApp, conte sobre o seu escritório e receba uma proposta personalizada para o site do seu escritório , sem compromisso.
           </p>
           <a
             href="https://wa.me/5561992784283?text=Ol%C3%A1%21%20Vim%20do%20site%20seusiteadvogados.com.br%20e%20gostaria%20de%20um%20or%C3%A7amento."

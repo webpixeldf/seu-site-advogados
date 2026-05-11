@@ -2,11 +2,11 @@ import { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
 import ContactForm from '../components/ContactForm'
-import { Phone, MapPin, Clock, MessageCircle } from 'lucide-react'
+import { MapPin, Clock, MessageCircle } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Contato',
-  description: 'Solicite um orçamento para criação de site para advogados. WhatsApp (61) 99278-4283 ou visite nosso escritório em Brasília.',
+  description: 'Fale com nossa equipe pelo WhatsApp ou formulário e receba uma proposta personalizada para o site do seu escritório. Respondemos em até 24h.',
   alternates: { canonical: '/contatos' },
   other: { 'page-type': 'contact' },
   openGraph: {
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     locale: 'pt_BR',
     siteName: 'Seu Site Advogados',
     title: 'Contato | Seu Site Advogados',
-    description: 'Solicite um orçamento para criação de site para advogados. WhatsApp (61) 99278-4283.',
+    description: 'Fale com nossa equipe e solicite uma proposta para o site do seu escritório. WhatsApp (61) 99278-4283.',
     url: '/contatos',
     images: [{ url: '/images/site-para-advogado.jpg', width: 1200, height: 630, alt: 'Seu Site Advogados' }],
   },
@@ -63,7 +63,7 @@ export default function ContatosPage() {
             Contato , <span className="text-[#b58c61]">Solicite uma Proposta para Seu Escritório</span>
           </h1>
           <p className="text-gray-400 font-lexend text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
-            Quer saber mais sobre a criação de site para advogados ou solicitar um orçamento personalizado? <Link href="/portfolio" className="text-[#b58c61] hover:text-[#de7322] underline underline-offset-2 transition-colors duration-300">Conheça nossos projetos</Link> e veja a qualidade do nosso trabalho. Estamos prontos para atender você pelo canal de sua preferência.
+            Quer solicitar um orçamento personalizado para o site do seu escritório? <Link href="/portfolio" className="text-[#b58c61] hover:text-[#de7322] underline underline-offset-2 transition-colors duration-300">Conheça nossos projetos</Link> e veja a qualidade do nosso trabalho. Estamos prontos para atender você pelo canal de sua preferência.
           </p>
         </div>
       </section>

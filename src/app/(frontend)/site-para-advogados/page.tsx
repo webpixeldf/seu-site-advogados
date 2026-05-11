@@ -3,8 +3,8 @@ import Link from 'next/link'
 import { MapPin } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Criação de Site para Advogados em Todo o Brasil , Cidades Atendidas',
-  description: 'Atendemos advogados e escritórios de advocacia em capitais e principais cidades do Brasil. Veja a lista completa de localidades onde criamos sites jurídicos.',
+  title: 'Cidades Atendidas , Seu Site Advogados em Todo o Brasil',
+  description: 'Atendemos escritórios de advocacia em capitais e principais cidades do Brasil. Veja a lista completa de localidades e solicite uma proposta para a sua região.',
   alternates: { canonical: '/site-para-advogados' },
 }
 
@@ -25,7 +25,7 @@ export default function CidadesIndexPage() {
       <section className="bg-[#162a2a] py-20 md:py-28">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-white font-lexend mb-4">
-            Criação de Site para Advogados em Todo o Brasil
+            Atendemos Advogados em Todo o Brasil
           </h1>
           <p className="text-[#b58c61] text-xl md:text-2xl font-lexend">
             {cidades.length} localidades atendidas
@@ -36,7 +36,7 @@ export default function CidadesIndexPage() {
       <section className="bg-[#f5f5f3] py-16 md:py-20">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <p className="text-gray-700 font-lexend text-lg leading-relaxed mb-10 max-w-3xl mx-auto text-center">
-            Atendemos escritórios de advocacia em todas as regiões do Brasil com projetos de criação de site para advogados sob medida. Selecione sua cidade ou região:
+            Atendemos escritórios de advocacia em todas as regiões do Brasil com projetos digitais sob medida. Selecione sua cidade ou região:
           </p>
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
