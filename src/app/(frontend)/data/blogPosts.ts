@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Branding pessoal vs branding do escritório: qual investir primeiro",
+    slug: "branding-pessoal-vs-branding-do-escritorio-qual-investir-primeiro",
+    resumo: "Você já parou pra pensar no dilema que todo advogado enfrenta hoje em dia? De um lado, tem o seu nome, a sua reputação, a sua cara estampada no LinkedIn e nos resultados do Google. Do outro, tem o...",
+    imagemUrl: "/images/blog/branding-pessoal-vs-branding-do-escritorio-qual-investir-primeiro.webp",
+    publishedAt: "2026-05-11",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "CRM jurídico: por que sua planilha do Excel não basta mais",
     slug: "crm-juridico-por-que-sua-planilha-do-excel-nao-basta-mais",
     resumo: "Você já parou pra pensar no volume de informações que passa pelas suas mãos todo dia? Nome do cliente, número do processo, andamento, audiência marcada, prazo de recurso, honorários, e-mail trocado...",
