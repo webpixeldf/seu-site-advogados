@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Como pedir avaliação no Google sem parecer forçado",
+    slug: "como-pedir-avaliacao-no-google-sem-parecer-forcado",
+    resumo: "Você já passou por aquela sensação estranha de pedir uma avaliação no Google e soar como aquele vendedor insistente de porta? Pois é, na advocacia isso é ainda mais delicado. O cliente confiou a vo...",
+    imagemUrl: "/images/blog/como-pedir-avaliacao-no-google-sem-parecer-forcado.webp",
+    publishedAt: "2026-05-12",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Branding pessoal vs branding do escritório: qual investir primeiro",
     slug: "branding-pessoal-vs-branding-do-escritorio-qual-investir-primeiro",
     resumo: "Você já parou pra pensar no dilema que todo advogado enfrenta hoje em dia? De um lado, tem o seu nome, a sua reputação, a sua cara estampada no LinkedIn e nos resultados do Google. Do outro, tem o...",
