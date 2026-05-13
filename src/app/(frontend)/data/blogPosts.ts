@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Anúncios pagos para advogados: o básico antes de gastar o primeiro real",
+    slug: "anuncios-pagos-para-advogados-o-basico-antes-de-gastar-o-primeiro-real",
+    resumo: "Você já ouviu aquela história do advogado que colocou R$ 5 mil em anúncio no Google Ads e não recebeu uma única ligação? Pois é, acontece mais do que você imagina. E não porque a ferramenta não fun...",
+    imagemUrl: "/images/blog/anuncios-pagos-para-advogados-o-basico-antes-de-gastar-o-primeiro-real.webp",
+    publishedAt: "2026-05-13",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Como pedir avaliação no Google sem parecer forçado",
     slug: "como-pedir-avaliacao-no-google-sem-parecer-forcado",
     resumo: "Você já passou por aquela sensação estranha de pedir uma avaliação no Google e soar como aquele vendedor insistente de porta? Pois é, na advocacia isso é ainda mais delicado. O cliente confiou a vo...",
