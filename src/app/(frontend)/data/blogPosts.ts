@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Como conquistar os primeiros 100 seguidores no Instagram jurídico",
+    slug: "como-conquistar-os-primeiros-100-seguidores-no-instagram-juridico",
+    resumo: "Você acabou de criar o Instagram do seu escritório. A foto de perfil está lá, a bio tá bonitinha, mas a real é que o feed parece um deserto. Zero seguidores, ou pior: aqueles 15 seguidores que são...",
+    imagemUrl: "/images/blog/como-conquistar-os-primeiros-100-seguidores-no-instagram-juridico.webp",
+    publishedAt: "2026-05-14",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Anúncios pagos para advogados: o básico antes de gastar o primeiro real",
     slug: "anuncios-pagos-para-advogados-o-basico-antes-de-gastar-o-primeiro-real",
     resumo: "Você já ouviu aquela história do advogado que colocou R$ 5 mil em anúncio no Google Ads e não recebeu uma única ligação? Pois é, acontece mais do que você imagina. E não porque a ferramenta não fun...",
