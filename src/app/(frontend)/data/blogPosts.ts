@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Vídeos institucionais: o que mostrar e o que evitar",
+    slug: "videos-institucionais-o-que-mostrar-e-o-que-evitar",
+    resumo: "Você já parou pra pensar no que um potencial cliente vê quando pesquisa seu escritório no YouTube ou no site institucional? Na correria do dia a dia da advocacia, a gente foca tanto em prazos, peti...",
+    imagemUrl: "/images/blog/videos-institucionais-o-que-mostrar-e-o-que-evitar.webp",
+    publishedAt: "2026-05-15",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Como conquistar os primeiros 100 seguidores no Instagram jurídico",
     slug: "como-conquistar-os-primeiros-100-seguidores-no-instagram-juridico",
     resumo: "Você acabou de criar o Instagram do seu escritório. A foto de perfil está lá, a bio tá bonitinha, mas a real é que o feed parece um deserto. Zero seguidores, ou pior: aqueles 15 seguidores que são...",
