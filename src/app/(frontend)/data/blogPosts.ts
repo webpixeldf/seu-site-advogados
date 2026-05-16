@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Direito digital: como se posicionar como referência na área",
+    slug: "direito-digital-como-se-posicionar-como-referencia-na-area",
+    resumo: "O Direito Digital deixou de ser uma \"área do futuro\" pra se tornar uma das mais quentes do mercado jurídico brasileiro. E não é só porque todo mundo está online — é porque as relações digitais gera...",
+    imagemUrl: "/images/blog/direito-digital-como-se-posicionar-como-referencia-na-area.webp",
+    publishedAt: "2026-05-16",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Vídeos institucionais: o que mostrar e o que evitar",
     slug: "videos-institucionais-o-que-mostrar-e-o-que-evitar",
     resumo: "Você já parou pra pensar no que um potencial cliente vê quando pesquisa seu escritório no YouTube ou no site institucional? Na correria do dia a dia da advocacia, a gente foca tanto em prazos, peti...",
