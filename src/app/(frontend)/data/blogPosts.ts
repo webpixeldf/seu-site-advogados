@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "TikTok para advogados: análise honesta dos prós e contras",
+    slug: "tiktok-para-advogados-analise-honesta-dos-pros-e-contras",
+    resumo: "Você já viu um advogado dançando no TikTok? Se ainda não, pode preparar o olho — porque essa realidade está mais perto do que muitos imaginam. E não, não estou falando de bacharéis deslumbrados faz...",
+    imagemUrl: "/images/blog/tiktok-para-advogados-analise-honesta-dos-pros-e-contras.webp",
+    publishedAt: "2026-05-17",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Direito digital: como se posicionar como referência na área",
     slug: "direito-digital-como-se-posicionar-como-referencia-na-area",
     resumo: "O Direito Digital deixou de ser uma \"área do futuro\" pra se tornar uma das mais quentes do mercado jurídico brasileiro. E não é só porque todo mundo está online — é porque as relações digitais gera...",

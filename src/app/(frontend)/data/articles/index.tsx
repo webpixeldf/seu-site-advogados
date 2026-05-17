@@ -104,3 +104,4 @@ import './anuncios-pagos-para-advogados-o-basico-antes-de-gastar-o-primeiro-real
 import './como-conquistar-os-primeiros-100-seguidores-no-instagram-juridico'
 import './videos-institucionais-o-que-mostrar-e-o-que-evitar'
 import './direito-digital-como-se-posicionar-como-referencia-na-area'
+import './tiktok-para-advogados-analise-honesta-dos-pros-e-contras'
