@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Como criar uma página de captura para campanhas jurídicas",
+    slug: "como-criar-uma-pagina-de-captura-para-campanhas-juridicas",
+    resumo: "Você já parou pra pensar quantas pessoas chegam no seu escritório depois de uma busca no Google? Se a resposta é \"quase nenhuma\", o problema pode estar na falta de uma página de captura. Não adiant...",
+    imagemUrl: "/images/blog/como-criar-uma-pagina-de-captura-para-campanhas-juridicas.webp",
+    publishedAt: "2026-05-18",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "TikTok para advogados: análise honesta dos prós e contras",
     slug: "tiktok-para-advogados-analise-honesta-dos-pros-e-contras",
     resumo: "Você já viu um advogado dançando no TikTok? Se ainda não, pode preparar o olho — porque essa realidade está mais perto do que muitos imaginam. E não, não estou falando de bacharéis deslumbrados faz...",
