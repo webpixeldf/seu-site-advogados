@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "SEO técnico: termos que todo advogado deveria conhecer",
+    slug: "seo-tecnico-termos-que-todo-advogado-deveria-conhecer",
+    resumo: "Você já se perguntou por que o site do seu escritório aparece na página 3 ou 4 do Google, enquanto aquele concorrente que atua na mesma Vara aparece sempre no topo? A resposta, quase sempre, não é...",
+    imagemUrl: "/images/blog/seo-tecnico-termos-que-todo-advogado-deveria-conhecer.webp",
+    publishedAt: "2026-05-19",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Como criar uma página de captura para campanhas jurídicas",
     slug: "como-criar-uma-pagina-de-captura-para-campanhas-juridicas",
     resumo: "Você já parou pra pensar quantas pessoas chegam no seu escritório depois de uma busca no Google? Se a resposta é \"quase nenhuma\", o problema pode estar na falta de uma página de captura. Não adiant...",
