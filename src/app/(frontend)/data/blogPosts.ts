@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Atendimento humanizado em escritórios de advocacia: como aplicar",
+    slug: "atendimento-humanizado-em-escritorios-de-advocacia-como-aplicar",
+    resumo: "Você já parou pra pensar na última vez que saiu de um consultório médico ou de um escritório de advocacia e pensou: “nossa, fui realmente ouvido”? Pois é. No Direito, a gente costuma focar tanto na...",
+    imagemUrl: "/images/blog/atendimento-humanizado-em-escritorios-de-advocacia-como-aplicar.webp",
+    publishedAt: "2026-05-20",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "SEO técnico: termos que todo advogado deveria conhecer",
     slug: "seo-tecnico-termos-que-todo-advogado-deveria-conhecer",
     resumo: "Você já se perguntou por que o site do seu escritório aparece na página 3 ou 4 do Google, enquanto aquele concorrente que atua na mesma Vara aparece sempre no topo? A resposta, quase sempre, não é...",
