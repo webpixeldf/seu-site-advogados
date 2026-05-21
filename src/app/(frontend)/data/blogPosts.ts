@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Conteúdo evergreen: artigos que rendem clientes por anos",
+    slug: "conteudo-evergreen-artigos-que-rendem-clientes-por-anos",
+    resumo: "Você já escreveu um artigo hoje? Se sim, ótimo. Mas a pergunta que fica é: esse texto vai trazer clientes pro seu escritório daqui a seis meses? Daqui a dois anos? Se a resposta for não, talvez voc...",
+    imagemUrl: "/images/blog/conteudo-evergreen-artigos-que-rendem-clientes-por-anos.webp",
+    publishedAt: "2026-05-21",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Atendimento humanizado em escritórios de advocacia: como aplicar",
     slug: "atendimento-humanizado-em-escritorios-de-advocacia-como-aplicar",
     resumo: "Você já parou pra pensar na última vez que saiu de um consultório médico ou de um escritório de advocacia e pensou: “nossa, fui realmente ouvido”? Pois é. No Direito, a gente costuma focar tanto na...",
