@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Persona jurídica: por que entender o cliente ideal muda tudo",
+    slug: "persona-juridica-por-que-entender-o-cliente-ideal-muda-tudo",
+    resumo: "Quando você fecha os olhos e pensa no seu cliente ideal, quem vem à mente? Não é um nome genérico, mas alguém com rosto, dores e expectativas bem definidas. Talvez seja a empresária de 35 anos que...",
+    imagemUrl: "/images/blog/persona-juridica-por-que-entender-o-cliente-ideal-muda-tudo.webp",
+    publishedAt: "2026-05-22",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Conteúdo evergreen: artigos que rendem clientes por anos",
     slug: "conteudo-evergreen-artigos-que-rendem-clientes-por-anos",
     resumo: "Você já escreveu um artigo hoje? Se sim, ótimo. Mas a pergunta que fica é: esse texto vai trazer clientes pro seu escritório daqui a seis meses? Daqui a dois anos? Se a resposta for não, talvez voc...",
