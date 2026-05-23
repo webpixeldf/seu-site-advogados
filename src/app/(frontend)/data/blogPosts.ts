@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Webinars para advogados: roteiro completo do primeiro evento",
+    slug: "webinars-para-advogados-roteiro-completo-do-primeiro-evento",
+    resumo: "Você já parou para pensar na quantidade de advogados que estão fazendo o mesmo que você: postando fotos de livros no Instagram e esperando que o celular comece a tocar? A verdade é que o mercado ju...",
+    imagemUrl: "/images/blog/webinars-para-advogados-roteiro-completo-do-primeiro-evento.webp",
+    publishedAt: "2026-05-23",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Persona jurídica: por que entender o cliente ideal muda tudo",
     slug: "persona-juridica-por-que-entender-o-cliente-ideal-muda-tudo",
     resumo: "Quando você fecha os olhos e pensa no seu cliente ideal, quem vem à mente? Não é um nome genérico, mas alguém com rosto, dores e expectativas bem definidas. Talvez seja a empresária de 35 anos que...",
