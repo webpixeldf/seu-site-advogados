@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Podcast jurídico: vale a pena começar agora? Análise sincera",
+    slug: "podcast-juridico-vale-a-pena-comecar-agora-analise-sincera",
+    resumo: "Você já reparou como, de uns tempos pra cá, todo escritório de advocacia parece ter um podcast? Às vezes é um causídico famoso entrevistando outro, às vezes é a banca inteira comentando jurisprudên...",
+    imagemUrl: "/images/blog/podcast-juridico-vale-a-pena-comecar-agora-analise-sincera.webp",
+    publishedAt: "2026-05-24",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Webinars para advogados: roteiro completo do primeiro evento",
     slug: "webinars-para-advogados-roteiro-completo-do-primeiro-evento",
     resumo: "Você já parou para pensar na quantidade de advogados que estão fazendo o mesmo que você: postando fotos de livros no Instagram e esperando que o celular comece a tocar? A verdade é que o mercado ju...",
