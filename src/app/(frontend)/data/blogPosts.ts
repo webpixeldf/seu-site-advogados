@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Como migrar do trabalho CLT para a advocacia autônoma",
+    slug: "como-migrar-do-trabalho-clt-para-a-advocacia-autonoma",
+    resumo: "Você está há anos numa rotina de escritório, com horário fixo, chefe, salário no fim do mês e aquela sensação de que poderia estar fazendo mais — mas a segurança do CLT segura qualquer impulso. Um...",
+    imagemUrl: "/images/blog/como-migrar-do-trabalho-clt-para-a-advocacia-autonoma.webp",
+    publishedAt: "2026-05-25",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Podcast jurídico: vale a pena começar agora? Análise sincera",
     slug: "podcast-juridico-vale-a-pena-comecar-agora-analise-sincera",
     resumo: "Você já reparou como, de uns tempos pra cá, todo escritório de advocacia parece ter um podcast? Às vezes é um causídico famoso entrevistando outro, às vezes é a banca inteira comentando jurisprudên...",
