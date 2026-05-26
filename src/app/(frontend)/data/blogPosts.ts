@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Sociedade vs autônomo: implicações de marketing e captação",
+    slug: "sociedade-vs-autonomo-implicacoes-de-marketing-e-captacao",
+    resumo: "Você já parou pra pensar na diferença que faz, na prática, entre advogar como autônomo e ter uma sociedade? Muita gente foca nas questões de responsabilidade civil, divisão de honorários ou carga t...",
+    imagemUrl: "/images/blog/sociedade-vs-autonomo-implicacoes-de-marketing-e-captacao.webp",
+    publishedAt: "2026-05-26",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Como migrar do trabalho CLT para a advocacia autônoma",
     slug: "como-migrar-do-trabalho-clt-para-a-advocacia-autonoma",
     resumo: "Você está há anos numa rotina de escritório, com horário fixo, chefe, salário no fim do mês e aquela sensação de que poderia estar fazendo mais — mas a segurança do CLT segura qualquer impulso. Um...",
