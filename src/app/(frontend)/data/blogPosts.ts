@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Métricas de marketing que importam: o que medir todo mês",
+    slug: "metricas-de-marketing-que-importam-o-que-medir-todo-mes",
+    resumo: "Você já sentiu que está fazendo de tudo no marketing do seu escritório, mas não sabe se está funcionando de verdade? Publica post no Instagram, manda newsletter, patrocina link, atualiza o blog......",
+    imagemUrl: "/images/blog/metricas-de-marketing-que-importam-o-que-medir-todo-mes.webp",
+    publishedAt: "2026-05-27",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Sociedade vs autônomo: implicações de marketing e captação",
     slug: "sociedade-vs-autonomo-implicacoes-de-marketing-e-captacao",
     resumo: "Você já parou pra pensar na diferença que faz, na prática, entre advogar como autônomo e ter uma sociedade? Muita gente foca nas questões de responsabilidade civil, divisão de honorários ou carga t...",
