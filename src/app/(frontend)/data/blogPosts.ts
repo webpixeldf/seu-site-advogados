@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Trello, Notion ou Asana? Comparativo para escritórios jurídicos",
+    slug: "trello-notion-ou-asana-comparativo-para-escritorios-juridicos",
+    resumo: "Você já passou a tarde inteira tentando achar aquele documento de um cliente que entrou com ação trabalhista em 2022, enquanto o sistema do escritório parecia ter engolido o arquivo? Pois é. Na adv...",
+    imagemUrl: "/images/blog/trello-notion-ou-asana-comparativo-para-escritorios-juridicos.webp",
+    publishedAt: "2026-05-28",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Métricas de marketing que importam: o que medir todo mês",
     slug: "metricas-de-marketing-que-importam-o-que-medir-todo-mes",
     resumo: "Você já sentiu que está fazendo de tudo no marketing do seu escritório, mas não sabe se está funcionando de verdade? Publica post no Instagram, manda newsletter, patrocina link, atualiza o blog......",
