@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Como gerenciar a primeira contratação no escritório",
+    slug: "como-gerenciar-a-primeira-contratacao-no-escritorio",
+    resumo: "Contratar a primeira pessoa para o seu escritório de advocacia é um daqueles marcos que misturam orgulho e um frio na barriga. Até ontem, você fazia tudo sozinho: atendia o cliente, protocolava a p...",
+    imagemUrl: "/images/blog/como-gerenciar-a-primeira-contratacao-no-escritorio.webp",
+    publishedAt: "2026-05-29",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Trello, Notion ou Asana? Comparativo para escritórios jurídicos",
     slug: "trello-notion-ou-asana-comparativo-para-escritorios-juridicos",
     resumo: "Você já passou a tarde inteira tentando achar aquele documento de um cliente que entrou com ação trabalhista em 2022, enquanto o sistema do escritório parecia ter engolido o arquivo? Pois é. Na adv...",
