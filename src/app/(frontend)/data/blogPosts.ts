@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Marketing de indicação: programa formal vs informal",
+    slug: "marketing-de-indicacao-programa-formal-vs-informal",
+    resumo: "Você já parou pra pensar em quantos clientes chegaram até o seu escritório por indicação de alguém que já confia no seu trabalho? Pois é, o marketing de indicação é, de longe, a ferramenta mais pod...",
+    imagemUrl: "/images/blog/marketing-de-indicacao-programa-formal-vs-informal.webp",
+    publishedAt: "2026-05-30",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Como gerenciar a primeira contratação no escritório",
     slug: "como-gerenciar-a-primeira-contratacao-no-escritorio",
     resumo: "Contratar a primeira pessoa para o seu escritório de advocacia é um daqueles marcos que misturam orgulho e um frio na barriga. Até ontem, você fazia tudo sozinho: atendia o cliente, protocolava a p...",
