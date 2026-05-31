@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Storytelling jurídico: contando casos sem violar a OAB",
+    slug: "storytelling-juridico-contando-casos-sem-violar-a-oab",
+    resumo: "Você já parou pra pensar como alguns escritórios constroem uma reputação tão forte que os clientes chegam até eles antes mesmo de qualquer busca no Google? Não é só sorte. É uma combinação de técni...",
+    imagemUrl: "/images/blog/storytelling-juridico-contando-casos-sem-violar-a-oab.webp",
+    publishedAt: "2026-05-31",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Marketing de indicação: programa formal vs informal",
     slug: "marketing-de-indicacao-programa-formal-vs-informal",
     resumo: "Você já parou pra pensar em quantos clientes chegaram até o seu escritório por indicação de alguém que já confia no seu trabalho? Pois é, o marketing de indicação é, de longe, a ferramenta mais pod...",
