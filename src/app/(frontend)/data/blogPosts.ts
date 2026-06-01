@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Conferências e palestras: como conseguir convites para falar",
+    slug: "conferencias-e-palestras-como-conseguir-convites-para-falar",
+    resumo: "Você já parou pra pensar no que separa um advogado que é chamado pra palestrar num congresso nacional daquele que só assiste sentado na plateia? Muita gente acha que convite pra falar em evento é c...",
+    imagemUrl: "/images/blog/conferencias-e-palestras-como-conseguir-convites-para-falar.webp",
+    publishedAt: "2026-06-01",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Storytelling jurídico: contando casos sem violar a OAB",
     slug: "storytelling-juridico-contando-casos-sem-violar-a-oab",
     resumo: "Você já parou pra pensar como alguns escritórios constroem uma reputação tão forte que os clientes chegam até eles antes mesmo de qualquer busca no Google? Não é só sorte. É uma combinação de técni...",
