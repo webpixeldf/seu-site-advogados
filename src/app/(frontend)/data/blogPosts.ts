@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Networking estratégico para advogados iniciantes",
+    slug: "networking-estrategico-para-advogados-iniciantes",
+    resumo: "Você passou na OAB, pegou sua carteira profissional e agora senta na frente do computador com uma dúvida que assombra todo advogado recém-formado: como conseguir os primeiros clientes? Se você acha...",
+    imagemUrl: "/images/blog/networking-estrategico-para-advogados-iniciantes.webp",
+    publishedAt: "2026-06-02",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Conferências e palestras: como conseguir convites para falar",
     slug: "conferencias-e-palestras-como-conseguir-convites-para-falar",
     resumo: "Você já parou pra pensar no que separa um advogado que é chamado pra palestrar num congresso nacional daquele que só assiste sentado na plateia? Muita gente acha que convite pra falar em evento é c...",
