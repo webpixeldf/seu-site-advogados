@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Especialização vs generalismo: o que rende mais hoje",
+    slug: "especializacao-vs-generalismo-o-que-rende-mais-hoje",
+    resumo: "Você se formou em Direito com aquela sensação de que precisava escolher um caminho. Uns dizem que especializar é o único jeito de cobrar caro. Outros juram que o generalista fatura mais porque não...",
+    imagemUrl: "/images/blog/especializacao-vs-generalismo-o-que-rende-mais-hoje.webp",
+    publishedAt: "2026-06-03",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Networking estratégico para advogados iniciantes",
     slug: "networking-estrategico-para-advogados-iniciantes",
     resumo: "Você passou na OAB, pegou sua carteira profissional e agora senta na frente do computador com uma dúvida que assombra todo advogado recém-formado: como conseguir os primeiros clientes? Se você acha...",
