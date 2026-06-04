@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Direito do trabalhador: como atrair clientes da CLT",
+    slug: "direito-do-trabalhador-como-atrair-clientes-da-clt",
+    resumo: "Você já parou pra pensar quantos trabalhadores com carteira assinada passam por situações absurdas no dia a dia e sequer sabem que podem processar o empregador? Atraso de salário, falta de depósito...",
+    imagemUrl: "/images/blog/direito-do-trabalhador-como-atrair-clientes-da-clt.webp",
+    publishedAt: "2026-06-04",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Especialização vs generalismo: o que rende mais hoje",
     slug: "especializacao-vs-generalismo-o-que-rende-mais-hoje",
     resumo: "Você se formou em Direito com aquela sensação de que precisava escolher um caminho. Uns dizem que especializar é o único jeito de cobrar caro. Outros juram que o generalista fatura mais porque não...",
