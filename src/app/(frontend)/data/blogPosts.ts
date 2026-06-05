@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Direito de família: marketing sensível sem soar oportunista",
+    slug: "direito-de-familia-marketing-sensivel-sem-soar-oportunista",
+    resumo: "Você já parou pra pensar como um escritório de Direito de Família anuncia seus serviços no Google? Muita gente ainda faz aquela propaganda tradicional, com fotos de família sorrindo, crianças feliz...",
+    imagemUrl: "/images/blog/direito-de-familia-marketing-sensivel-sem-soar-oportunista.webp",
+    publishedAt: "2026-06-05",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Direito do trabalhador: como atrair clientes da CLT",
     slug: "direito-do-trabalhador-como-atrair-clientes-da-clt",
     resumo: "Você já parou pra pensar quantos trabalhadores com carteira assinada passam por situações absurdas no dia a dia e sequer sabem que podem processar o empregador? Atraso de salário, falta de depósito...",
