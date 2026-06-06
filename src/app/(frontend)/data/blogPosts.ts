@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Direito tributário: marketing B2B para escritórios jurídicos",
+    slug: "direito-tributario-marketing-b2b-para-escritorios-juridicos",
+    resumo: "Você já parou pra pensar como um escritório de direito tributário consegue se destacar num mercado onde todo mundo fala de planejamento fiscal, recuperação de créditos e contencioso administrativo?...",
+    imagemUrl: "/images/blog/direito-tributario-marketing-b2b-para-escritorios-juridicos.webp",
+    publishedAt: "2026-06-06",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Direito de família: marketing sensível sem soar oportunista",
     slug: "direito-de-familia-marketing-sensivel-sem-soar-oportunista",
     resumo: "Você já parou pra pensar como um escritório de Direito de Família anuncia seus serviços no Google? Muita gente ainda faz aquela propaganda tradicional, com fotos de família sorrindo, crianças feliz...",
