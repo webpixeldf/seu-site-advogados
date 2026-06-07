@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Direito previdenciário: o nicho de maior conversão online",
+    slug: "direito-previdenciario-o-nicho-de-maior-conversao-online",
+    resumo: "Você já parou pra pensar por que alguns escritórios de advocacia faturam fortunas com o direito previdenciário enquanto outros penam pra fechar um único cliente? A resposta vai muito além do conhec...",
+    imagemUrl: "/images/blog/direito-previdenciario-o-nicho-de-maior-conversao-online.webp",
+    publishedAt: "2026-06-07",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Direito tributário: marketing B2B para escritórios jurídicos",
     slug: "direito-tributario-marketing-b2b-para-escritorios-juridicos",
     resumo: "Você já parou pra pensar como um escritório de direito tributário consegue se destacar num mercado onde todo mundo fala de planejamento fiscal, recuperação de créditos e contencioso administrativo?...",
