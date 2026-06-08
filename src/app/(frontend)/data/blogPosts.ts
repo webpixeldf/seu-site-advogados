@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Direito imobiliário: parcerias que geram clientes constantemente",
+    slug: "direito-imobiliario-parcerias-que-geram-clientes-constantemente",
+    resumo: "Você já parou pra pensar que o escritório de direito imobiliário mais movimentado da sua cidade não é necessariamente o que tem mais anúncios no jornal ou a maior fachada? Muitas vezes, é aquele qu...",
+    imagemUrl: "/images/blog/direito-imobiliario-parcerias-que-geram-clientes-constantemente.webp",
+    publishedAt: "2026-06-08",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Direito previdenciário: o nicho de maior conversão online",
     slug: "direito-previdenciario-o-nicho-de-maior-conversao-online",
     resumo: "Você já parou pra pensar por que alguns escritórios de advocacia faturam fortunas com o direito previdenciário enquanto outros penam pra fechar um único cliente? A resposta vai muito além do conhec...",
