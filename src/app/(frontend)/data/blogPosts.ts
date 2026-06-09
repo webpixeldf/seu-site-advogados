@@ -9,6 +9,15 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    titulo: "Como precificar consultoria jurídica recorrente",
+    slug: "como-precificar-consultoria-juridica-recorrente",
+    resumo: "Você já parou pra pensar quanto vale a sua experiência? Não estou falando do valor sentimental, mas do valor que um cliente paga pra ter acesso ao seu conhecimento de forma contínua. Muita gente ac...",
+    imagemUrl: "/images/blog/como-precificar-consultoria-juridica-recorrente.webp",
+    publishedAt: "2026-06-09",
+    tags: ['blog', 'auto'],
+  },
+
+  {
     titulo: "Direito imobiliário: parcerias que geram clientes constantemente",
     slug: "direito-imobiliario-parcerias-que-geram-clientes-constantemente",
     resumo: "Você já parou pra pensar que o escritório de direito imobiliário mais movimentado da sua cidade não é necessariamente o que tem mais anúncios no jornal ou a maior fachada? Muitas vezes, é aquele qu...",
