@@ -1,6 +1,6 @@
 import { registerArticle } from './registry'
 
-registerArticle('hospedagem-de-site-para-advogados', () => (
+registerArticle('hospedagem-juridica-guia-completo', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
       Escolher a hospedagem do site é uma daquelas decisões que parecem técnicas demais para quem é advogado, mas que impactam diretamente o resultado do seu investimento em marketing digital. Um site lento, instável ou fora do ar transmite a mesma mensagem que um escritório com a porta quebrada: descuido. Este artigo explica, de forma direta, o que você precisa saber para fazer uma escolha segura.

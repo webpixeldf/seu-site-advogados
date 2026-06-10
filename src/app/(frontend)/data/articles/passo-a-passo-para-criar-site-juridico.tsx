@@ -1,6 +1,6 @@
 import { registerArticle } from './registry'
 
-registerArticle('como-criar-um-site-para-advogados', () => (
+registerArticle('passo-a-passo-para-criar-site-juridico', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
       Se você é advogado e ainda não tem um site profissional, está deixando clientes passarem direto por você todos os dias. A realidade é simples: quando alguém precisa de um advogado, a primeira coisa que faz é pesquisar no Google. Se você não aparece lá , ou aparece com um perfil genérico em diretório de terceiros , quem aparece é o seu concorrente.

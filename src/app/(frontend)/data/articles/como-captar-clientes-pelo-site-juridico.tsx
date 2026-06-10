@@ -1,6 +1,6 @@
 import { registerArticle } from './registry'
 
-registerArticle('sites-para-captar-clientes-para-advocacia', () => (
+registerArticle('como-captar-clientes-pelo-site-juridico', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
       A captação de clientes é um dos maiores desafios na advocacia. Com mais de um milhão de advogados ativos no Brasil, depender exclusivamente de indicações pessoais deixou de ser uma estratégia sustentável para a maioria dos profissionais. A internet oferece diversas plataformas e ferramentas que podem ampliar significativamente o alcance de um escritório , cada uma com características, vantagens e limitações distintas.

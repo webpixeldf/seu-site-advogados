@@ -415,9 +415,9 @@ export const blogPosts: BlogPost[] = [
 
   {
     titulo: 'Hospedagem de Site para Advogados',
-    slug: 'hospedagem-de-site-para-advogados',
+    slug: 'hospedagem-juridica-guia-completo',
     resumo: 'Velocidade, uptime e SSL: os 3 critérios que definem se a hospedagem do seu site jurídico vai reter ou espantar visitantes.',
-    imagemUrl: '/images/Hospedagem-de-Site-para-Advogados.webp',
+    imagemUrl: '/images/hospedagem-juridica-guia-completo.webp',
     publishedAt: '2025-01-18',
     tags: ['site', 'hospedagem', 'infraestrutura'],
   },
@@ -591,9 +591,9 @@ export const blogPosts: BlogPost[] = [
   },
   {
     titulo: 'Sites para captar clientes para advocacia',
-    slug: 'sites-para-captar-clientes-para-advocacia',
+    slug: 'como-captar-clientes-pelo-site-juridico',
     resumo: 'JusBrasil, Google Meu Negócio e mais 5 plataformas onde potenciais clientes procuram advogados todos os dias.',
-    imagemUrl: '/images/Sites-para-captar-clientes-para-advocacia.webp',
+    imagemUrl: '/images/como-captar-clientes-pelo-site-juridico.webp',
     publishedAt: '2025-01-01',
     tags: ['captacao', 'site', 'plataformas'],
   },
@@ -727,9 +727,9 @@ export const blogPosts: BlogPost[] = [
   },
   {
     titulo: 'Passo a passo para lançar um site jurídico profissional',
-    slug: 'como-criar-um-site-para-advogados',
+    slug: 'passo-a-passo-para-criar-site-juridico',
     resumo: 'Domínio, layout, textos e SEO: as 4 etapas para colocar no ar um site jurídico que realmente atrai clientes.',
-    imagemUrl: '/images/Como-criar-um-site-para-advogados.webp',
+    imagemUrl: '/images/passo-a-passo-para-criar-site-juridico.webp',
     publishedAt: '2024-11-28',
     tags: ['site', 'criacao', 'guia'],
   },
