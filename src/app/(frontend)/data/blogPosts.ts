@@ -967,9 +967,9 @@ export const blogPosts: BlogPost[] = [
   },
   {
     titulo: 'Quanto custa criar um site para advogado em 2026',
-    slug: 'criacao-de-site-para-advogados',
+    slug: 'quanto-custa-criar-site-para-advogado',
     resumo: 'Quanto custa, o que incluir e quais erros evitar? As respostas para quem está contratando a criação de um site jurídico.',
-    imagemUrl: '/images/criacao-de-site-para-advogados.webp',
+    imagemUrl: '/images/quanto-custa-criar-site-para-advogado.webp',
     publishedAt: '2024-09-28',
     tags: ['site', 'criacao', 'guia'],
   },

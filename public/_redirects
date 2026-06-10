@@ -400,3 +400,7 @@
 /blog/crm-juridico-por-que-sua-planilha-do-excel-nao-basta-mais/ /blog 301
 /blog/branding-pessoal-vs-branding-do-escritorio-qual-investir-primeiro /blog 301
 /blog/branding-pessoal-vs-branding-do-escritorio-qual-investir-primeiro/ /blog 301
+
+# === Slug renomeado para evitar canibalizacao com a home ===
+/blog/criacao-de-site-para-advogados /blog/quanto-custa-criar-site-para-advogado 301
+/blog/criacao-de-site-para-advogados/ /blog/quanto-custa-criar-site-para-advogado 301

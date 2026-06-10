@@ -1,6 +1,6 @@
 import { registerArticle } from './registry'
 
-registerArticle('criacao-de-site-para-advogados', () => (
+registerArticle('quanto-custa-criar-site-para-advogado', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
       Um site profissional é a base da presença digital de qualquer escritório de advocacia. Diferente das redes sociais, onde o conteúdo é efêmero e o alcance depende de algoritmos, o site é um espaço próprio do advogado , controlado, permanente e encontrável no Google. Este guia aborda os elementos essenciais, os custos envolvidos e os critérios para escolher a melhor solução.
