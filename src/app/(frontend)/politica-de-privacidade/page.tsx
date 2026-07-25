@@ -1,4 +1,5 @@
 import { Metadata } from 'next'
+import Breadcrumbs from '../components/Breadcrumbs'
 
 export const metadata: Metadata = {
   title: 'Politica de Privacidade | Seu Site Advogados',
@@ -24,7 +25,13 @@ export default function PoliticaDePrivacidade() {
       <section className="relative py-24 md:py-32 overflow-hidden bg-[#162a2a]">
         <div className="absolute top-0 left-0 w-72 h-72 bg-[#b58c61]/5 rounded-full -translate-x-1/2 -translate-y-1/2" />
         <div className="absolute bottom-0 right-0 w-96 h-96 bg-[#de7322]/5 rounded-full translate-x-1/3 translate-y-1/3" />
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">          <Breadcrumbs
+            items={[
+              { label: 'Home', href: '/' },
+              { label: 'Política de Privacidade' },
+            ]}
+          />
+
           <span className="inline-block text-[#b58c61] font-lexend text-sm font-semibold tracking-widest uppercase mb-4">
             Transparencia e Seguranca
           </span>

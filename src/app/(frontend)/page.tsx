@@ -138,6 +138,46 @@ const faqPageSchema = {
   })),
 }
 
+/**
+ * Depoimentos de clientes reais, marcados como Review SEM reviewRating.
+ *
+ * Não usamos AggregateRating porque não existem notas atribuídas a esses
+ * depoimentos — inventar ratingValue/reviewCount viola as diretrizes do
+ * Google para dados estruturados e coloca em risco os rich results de todo
+ * o domínio. Quando houver avaliações reais (Perfil da Empresa ou notas
+ * coletadas dos próprios clientes), basta adicionar reviewRating aqui e um
+ * bloco aggregateRating no LocalBusiness.
+ */
+const reviewsSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'LocalBusiness',
+  '@id': 'https://seusiteadvogados.com.br/#business',
+  name: 'Seu Site Advogados',
+  review: [
+    {
+      '@type': 'Review',
+      author: { '@type': 'Person', name: 'Angelina Roberta' },
+      itemReviewed: { '@id': 'https://seusiteadvogados.com.br/#business' },
+      reviewBody:
+        'Acompanhei o projeto de perto do briefing à entrega. Os ajustes foram rápidos e o site ficou exatamente com a imagem que eu queria passar.',
+    },
+    {
+      '@type': 'Review',
+      author: { '@type': 'Person', name: 'Alexandre Vitorino' },
+      itemReviewed: { '@id': 'https://seusiteadvogados.com.br/#business' },
+      reviewBody:
+        'Depois que o site entrou no ar, passei a receber mensagens de pessoas que pesquisaram minha área de atuação no Google. Reduziu bastante minha dependência de indicação.',
+    },
+    {
+      '@type': 'Review',
+      author: { '@type': 'Person', name: 'Guilherme Bonfim' },
+      itemReviewed: { '@id': 'https://seusiteadvogados.com.br/#business' },
+      reviewBody:
+        'Percebi a diferença nas primeiras semanas. Clientes que acessaram o site antes da reunião chegavam mais informados e confiantes.',
+    },
+  ],
+}
+
 const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
@@ -171,6 +211,10 @@ export default function HomePage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(reviewsSchema) }}
       />
 
       {/* ========== SECTION 1: HERO ========== */}
@@ -596,6 +640,16 @@ export default function HomePage() {
             </div>
           </div>
 
+          <p className="text-center text-gray-600 font-lexend leading-relaxed max-w-2xl mx-auto">
+            Estes são alguns dos projetos que entregamos.{' '}
+            <Link href="/portfolio" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">
+              Veja o portfólio completo
+            </Link>{' '}
+            ou{' '}
+            <Link href="/quem-somos" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">
+              conheça quem está por trás do trabalho
+            </Link>.
+          </p>
         </div>
       </section>
 
@@ -815,6 +869,20 @@ export default function HomePage() {
 
           <FAQAccordion items={faqItems} />
 
+          <p className="text-center text-gray-600 font-lexend leading-relaxed mt-10">
+            Ficou com outra dúvida?{' '}
+            <Link href="/faq" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">
+              Veja as perguntas frequentes completas
+            </Link>{' '}
+            ou leia sobre{' '}
+            <Link href="/blog/quanto-custa-criar-site-para-advogado" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">
+              quanto custa criar um site para advogado
+            </Link>{' '}
+            e{' '}
+            <Link href="/blog/seo-para-advogados" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">
+              como funciona o SEO para advogados
+            </Link>.
+          </p>
         </div>
       </section>
 

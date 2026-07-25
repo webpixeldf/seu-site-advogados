@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 import { MapPin } from 'lucide-react'
+import Breadcrumbs from '../components/Breadcrumbs'
 
 export const metadata: Metadata = {
   title: { absolute: 'Cidades Atendidas | Seu Site Advogados' },
@@ -32,7 +33,13 @@ export default function CidadesIndexPage() {
   return (
     <>
       <section className="bg-[#162a2a] py-20 md:py-28">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">          <Breadcrumbs
+            items={[
+              { label: 'Home', href: '/' },
+              { label: 'Cidades Atendidas' },
+            ]}
+          />
+
           <h1 className="text-4xl md:text-5xl font-bold text-white font-lexend mb-4">
             Atendemos Advogados em Todo o Brasil
           </h1>

@@ -2,6 +2,7 @@ import { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
 import { CheckCircle, Phone } from 'lucide-react'
+import Breadcrumbs from '../components/Breadcrumbs'
 
 export const metadata: Metadata = {
   title: 'Quem Somos',
@@ -43,7 +44,13 @@ export default function QuemSomos() {
         <div className="absolute inset-0 bg-[#162a2a]/90" />
         <div className="absolute top-0 left-0 w-72 h-72 bg-[#b58c61]/5 rounded-full -translate-x-1/2 -translate-y-1/2" />
         <div className="absolute bottom-0 right-0 w-96 h-96 bg-[#de7322]/5 rounded-full translate-x-1/3 translate-y-1/3" />
-        <div className="container-custom relative z-10 text-center">
+        <div className="container-custom relative z-10 text-center">          <Breadcrumbs
+            items={[
+              { label: 'Home', href: '/' },
+              { label: 'Quem Somos' },
+            ]}
+          />
+
           <span className="inline-block text-[#b58c61] font-lexend text-sm font-semibold tracking-widest uppercase mb-4">
             Sobre Nós
           </span>

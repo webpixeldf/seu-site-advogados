@@ -3,6 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import ContactForm from '../components/ContactForm'
 import { MapPin, Clock, MessageCircle } from 'lucide-react'
+import Breadcrumbs from '../components/Breadcrumbs'
 
 export const metadata: Metadata = {
   title: 'Contato',
@@ -55,7 +56,13 @@ export default function ContatosPage() {
       <section id="contact" className="relative bg-[#162a2a] py-20 md:py-28 overflow-hidden">
         <div className="absolute top-0 left-0 w-72 h-72 bg-[#b58c61]/5 rounded-full -translate-x-1/2 -translate-y-1/2" />
         <div className="absolute bottom-0 right-0 w-96 h-96 bg-[#de7322]/5 rounded-full translate-x-1/3 translate-y-1/3" />
-        <div className="container-custom relative z-10 text-center">
+        <div className="container-custom relative z-10 text-center">          <Breadcrumbs
+            items={[
+              { label: 'Home', href: '/' },
+              { label: 'Contato' },
+            ]}
+          />
+
           <span className="inline-block text-[#b58c61] font-lexend text-sm font-semibold tracking-widest uppercase mb-4">
             Entre em Contato
           </span>
