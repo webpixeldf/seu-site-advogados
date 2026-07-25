@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('notion-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O Notion se tornou uma das ferramentas de produtividade mais populares do mundo, e não é por acaso. Para advogados que lidam diariamente com dezenas de processos, prazos apertados e informações de múltiplos clientes, ele oferece uma plataforma unificada que substitui planilhas, blocos de notas e até alguns softwares jurídicos. Neste artigo, vamos explorar como configurar o Notion do zero para um escritório de advocacia, com foco em organização real e resultados práticos.
+      O <a href="https://www.notion.com" target="_blank" rel="noopener noreferrer" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">Notion</a> se tornou uma das ferramentas de produtividade mais populares do mundo, e não é por acaso. Para advogados que lidam diariamente com dezenas de processos, prazos apertados e informações de múltiplos clientes, ele oferece uma plataforma unificada que substitui planilhas, blocos de notas e até alguns softwares jurídicos. Neste artigo, vamos explorar como configurar o Notion do zero para um escritório de advocacia, com foco em organização real e resultados práticos.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que é o Notion e por que advogados estão adotando</h2>

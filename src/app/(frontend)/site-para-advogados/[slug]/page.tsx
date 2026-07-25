@@ -24,54 +24,101 @@ export async function generateStaticParams() {
   return Object.keys(cidades).map((slug) => ({ slug }))
 }
 
-const cidadeData: Record<string, { oab: string; advogados: string; tribunal: string; fato: string }> = {
+type CidadeInfo = {
+  oab: string
+  advogados: string
+  tribunal: string
+  fato: string
+  /** Bairros/regiões onde há concentração de escritórios , usado no texto local */
+  polos: string
+  /** Perfil de concorrência digital da praça */
+  concorrencia: string
+  /** Áreas do direito com maior demanda de busca na região */
+  areasFortes: string
+  /** Observação sobre o comportamento de busca local */
+  buscaLocal: string
+}
+
+const cidadeData: Record<string, CidadeInfo> = {
   'sao-paulo': {
     oab: 'OAB-SP',
     advogados: '380 mil advogados inscritos , a maior seccional do país',
     tribunal: 'TJSP (Tribunal de Justiça do Estado de São Paulo)',
     fato: 'O TJSP é considerado o maior tribunal do mundo em volume de processos, com mais de 21 milhões de feitos em andamento.',
+    polos: 'a Avenida Paulista, a Faria Lima, a região da Berrini e o entorno do Fórum João Mendes, no centro',
+    concorrencia: 'É a praça mais disputada do Brasil no digital. Escritórios grandes investem pesado em Google Ads e conteúdo, o que empurra o custo por clique para cima e torna o SEO orgânico o caminho mais viável para bancas pequenas e médias.',
+    areasFortes: 'direito trabalhista, empresarial, tributário e imobiliário',
+    buscaLocal: 'Em São Paulo, a busca raramente é só "advogado" , o cliente costuma digitar o bairro junto, como "advogado trabalhista Pinheiros" ou "advogado na Zona Leste". Estruturar páginas por região da cidade costuma render mais que competir pelo termo genérico.',
   },
   'rio-de-janeiro': {
     oab: 'OAB-RJ',
     advogados: 'Aproximadamente 150 mil advogados inscritos',
     tribunal: 'TJRJ (Tribunal de Justiça do Estado do Rio de Janeiro)',
     fato: 'O Rio de Janeiro tem a maior proporção de advogados por habitante do Sudeste: 1 para cada 116 habitantes.',
+    polos: 'o Centro , especialmente a Avenida Rio Branco e o entorno do Fórum , além da Barra da Tijuca e de Copacabana',
+    concorrencia: 'A concorrência se concentra no Centro e na Zona Sul. Já bairros da Zona Norte e Oeste têm demanda relevante e pouca oferta digital, o que abre espaço para escritórios que estruturam bem o SEO local.',
+    areasFortes: 'direito previdenciário, do consumidor, de família e securitário',
+    buscaLocal: 'No Rio, o volume de buscas por "advogado previdenciário" e "advogado do consumidor" é consistentemente alto. Escritórios que criam páginas específicas por área , em vez de uma página institucional genérica , tendem a captar bem mais contatos.',
   },
   'belo-horizonte': {
     oab: 'OAB-MG',
     advogados: 'Cerca de 140 mil advogados inscritos',
     tribunal: 'TJMG (Tribunal de Justiça do Estado de Minas Gerais)',
     fato: 'Minas Gerais é o terceiro estado com mais advogados do país, e a maioria dos inscritos (51%) são mulheres.',
+    polos: 'a região Centro-Sul, os arredores da Praça da Liberdade e o eixo da Avenida Afonso Pena',
+    concorrencia: 'Praça com muitos advogados, mas maturidade digital ainda média. Boa parte dos escritórios tem site institucional desatualizado ou depende só de redes sociais , cenário favorável para quem investe em conteúdo e SEO técnico.',
+    areasFortes: 'direito trabalhista, previdenciário, empresarial e minerário',
+    buscaLocal: 'A busca em BH costuma vir com referência a bairro ou à expressão "em Belo Horizonte". O Perfil da Empresa no Google (antigo Google Meu Negócio) pesa bastante nessa praça, então vale integrar site e ficha local desde o início.',
   },
   'curitiba': {
     oab: 'OAB-PR',
     advogados: 'Cerca de 93 mil advogados inscritos',
     tribunal: 'TJPR (Tribunal de Justiça do Estado do Paraná)',
     fato: 'O Paraná tem forte presença de jovens advogados e representa 6,2% do quadro total de profissionais do Brasil.',
+    polos: 'o Centro Cívico, o Batel e a região central próxima ao Fórum',
+    concorrencia: 'Mercado com perfil jovem e digitalmente ativo. Há bastante escritório presente no Instagram, mas poucos com estratégia real de SEO , o que torna a busca orgânica um canal ainda pouco explorado na cidade.',
+    areasFortes: 'direito empresarial, trabalhista, imobiliário e do agronegócio',
+    buscaLocal: 'Curitiba tem alto índice de busca por serviços jurídicos em horário comercial e forte uso de mobile. Site rápido e botão de WhatsApp bem posicionado fazem diferença direta na taxa de contato.',
   },
   'porto-alegre': {
     oab: 'OAB-RS',
     advogados: 'Aproximadamente 92 mil advogados inscritos',
     tribunal: 'TJRS (Tribunal de Justiça do Estado do Rio Grande do Sul)',
     fato: 'O Rio Grande do Sul tem a maior proporção de advogados por habitante da Região Sul: 1 para cada 123 habitantes.',
+    polos: 'o Centro Histórico, o entorno do Foro Central e os bairros Moinhos de Vento e Bela Vista',
+    concorrencia: 'Alta densidade de advogados por habitante significa concorrência real, inclusive no digital. Diferenciação por área de atuação costuma funcionar melhor do que disputar o termo genérico da capital.',
+    areasFortes: 'direito previdenciário, trabalhista, de família e agrário',
+    buscaLocal: 'Em Porto Alegre há volume expressivo de buscas por direito previdenciário, puxado pelo perfil demográfico do estado. Uma página dedicada a essa área, com conteúdo real e linguagem acessível, tende a performar bem.',
   },
   'salvador': {
     oab: 'OAB-BA',
     advogados: 'Cerca de 61 mil advogados ativos',
     tribunal: 'TJBA (Tribunal de Justiça do Estado da Bahia)',
     fato: 'A Bahia é a seccional com o maior número de advogados inscritos de toda a Região Nordeste.',
+    polos: 'o Comércio e o Centro Histórico, além do corredor da Avenida Tancredo Neves e do Caminho das Árvores',
+    concorrencia: 'Maior mercado jurídico do Nordeste, mas com adoção digital ainda desigual. Muitos escritórios consolidados não têm site otimizado , há espaço concreto para ganhar posição orgânica com um projeto bem feito.',
+    areasFortes: 'direito do consumidor, trabalhista, de família e imobiliário',
+    buscaLocal: 'Salvador tem uso de internet predominantemente mobile. Um site que carrega rápido no 4G e leva ao WhatsApp em um toque converte substancialmente mais que um site pesado feito para desktop.',
   },
   'fortaleza': {
     oab: 'OAB-CE',
     advogados: 'Cerca de 35 mil advogados inscritos',
     tribunal: 'TJCE (Tribunal de Justiça do Estado do Ceará)',
     fato: 'O Ceará tem 1 advogado para cada 266 habitantes , índice abaixo da média nacional.',
+    polos: 'a Aldeota, o Centro e o entorno do Fórum Clóvis Beviláqua',
+    concorrencia: 'Com menos advogados por habitante que a média nacional, a disputa é menor , e a disputa digital, menor ainda. É uma das capitais onde um site bem otimizado alcança a primeira página em prazo relativamente curto.',
+    areasFortes: 'direito do consumidor, previdenciário, trabalhista e bancário',
+    buscaLocal: 'A baixa saturação faz com que termos como "advogado em Fortaleza" e variações por área ainda tenham concorrência acessível. Publicar conteúdo com regularidade acelera bastante o resultado nessa praça.',
   },
   'recife': {
     oab: 'OAB-PE',
     advogados: 'Aproximadamente 39 mil advogados inscritos',
     tribunal: 'TJPE (Tribunal de Justiça do Estado de Pernambuco)',
     fato: '58% dos advogados de Pernambuco estão concentrados na capital Recife.',
+    polos: 'o bairro do Recife Antigo, a Boa Vista, os Aflitos e o entorno do Fórum Desembargador Rodolfo Aureliano',
+    concorrencia: 'A concentração de quase 6 em cada 10 advogados do estado na capital cria disputa forte dentro de Recife , e deixa o interior descoberto. Escritórios que atendem também a Região Metropolitana ganham ao estruturar páginas por cidade vizinha.',
+    areasFortes: 'direito trabalhista, do consumidor, previdenciário e da saúde',
+    buscaLocal: 'Em Recife, buscas que incluem bairro ("advogado em Boa Viagem", por exemplo) têm intenção de contratação bem mais alta que o termo genérico. Vale trabalhar essas variações no conteúdo do site.',
   },
 }
 
@@ -263,10 +310,30 @@ export default async function CidadePage({ params }: { params: Promise<{ slug: s
 
           <div className="grid md:grid-cols-2 gap-8">
             {[
-              { titulo: 'Visibilidade local', desc: `Aparecer nas primeiras posições do Google quando alguém busca por advogado em ${cidade.nome}. Mais de 78% dos clientes pesquisam online antes de contratar um advogado.` },
-              { titulo: 'Credibilidade profissional', desc: 'Um site profissional transmite confiança e seriedade. Seus potenciais clientes podem conhecer suas especialidades e conquistas antes do primeiro contato.' },
-              { titulo: 'Captação 24 horas', desc: 'Seu site funciona como um escritório virtual disponível 24/7, captando leads e consultas mesmo fora do horário comercial.' },
-              { titulo: 'Vantagem competitiva', desc: `Destaque-se dos outros advogados em ${cidade.nome} com uma presença digital profissional e estratégica que gera autoridade no mercado.` },
+              {
+                titulo: `Visibilidade em ${cidade.nome}`,
+                desc: localData
+                  ? `${localData.buscaLocal}`
+                  : `Aparecer nas primeiras posições do Google quando alguém busca por advogado em ${cidade.nome} , antes mesmo do primeiro contato.`,
+              },
+              {
+                titulo: 'Onde estão os escritórios concorrentes',
+                desc: localData
+                  ? `Em ${cidade.nome}, a advocacia se concentra em ${localData.polos}. Um site bem posicionado permite competir por clientes de toda a cidade, não apenas de quem passa em frente ao seu escritório.`
+                  : `Um site bem posicionado permite competir por clientes de toda a cidade, não apenas de quem passa em frente ao seu escritório.`,
+              },
+              {
+                titulo: 'Cenário de disputa digital',
+                desc: localData
+                  ? localData.concorrencia
+                  : 'A maior parte dos escritórios ainda depende de indicação. Quem estrutura presença digital com SEO ocupa um espaço que a concorrência deixou vago.',
+              },
+              {
+                titulo: 'Áreas com mais procura na região',
+                desc: localData
+                  ? `As buscas em ${cidade.nome} se concentram em ${localData.areasFortes}. Criar uma página específica para cada área que você atende costuma render mais contatos do que uma única página institucional.`
+                  : `Criar uma página específica para cada área que você atende costuma render mais contatos do que uma única página institucional.`,
+              },
             ].map((item) => (
               <div key={item.titulo} className="flex gap-4 p-6 rounded-xl border border-gray-100 hover:border-[#b58c61]/30 hover:shadow-lg transition-all duration-300">
                 <CheckCircle size={24} className="text-[#83b440] shrink-0 mt-1" />

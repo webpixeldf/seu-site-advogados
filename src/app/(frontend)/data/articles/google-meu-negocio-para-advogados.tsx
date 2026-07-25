@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('google-meu-negocio-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Quando alguém pesquisa "advogado trabalhista perto de mim" no Google, os primeiros resultados que aparecem não são sites , são fichas de escritórios no Google Maps, com endereço, telefone, avaliações e horário de funcionamento. Essa ficha é o Google Meu Negócio (hoje chamado oficialmente de Perfil da Empresa no Google). Se o seu escritório não está lá, você está invisível para uma parcela significativa dos potenciais clientes da sua região.
+      Quando alguém pesquisa "advogado trabalhista perto de mim" no Google, os primeiros resultados que aparecem não são sites , são fichas de escritórios no Google Maps, com endereço, telefone, avaliações e horário de funcionamento. Essa ficha é o <a href="https://www.google.com/intl/pt-BR_br/business/" target="_blank" rel="noopener noreferrer" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">Google Meu Negócio</a> (hoje chamado oficialmente de Perfil da Empresa no Google). Se o seu escritório não está lá, você está invisível para uma parcela significativa dos potenciais clientes da sua região.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">

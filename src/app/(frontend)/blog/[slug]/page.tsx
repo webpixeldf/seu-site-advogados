@@ -96,7 +96,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
               <Calendar size={16} />
               <time dateTime={post ? post.publishedAt : '2025-12-10'}>Publicado em {post ? new Date(post.publishedAt).toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' }) : '10 de dezembro de 2025'}</time>
             </div>
-            <a href="/quem-somos" className="author text-gray-400 font-lexend text-sm hover:text-[#b58c61] transition-colors" rel="author">Por <span itemProp="author" itemScope itemType="https://schema.org/Organization"><span itemProp="name">Seu Site Advogados</span></span></a>
+            <a href="/quem-somos#autor" className="author text-gray-400 font-lexend text-sm hover:text-[#b58c61] transition-colors" rel="author">Por <span itemProp="author" itemScope itemType="https://schema.org/Person"><span itemProp="name">Marcelo França</span></span></a>
           </div>
         </div>
       </section>
@@ -114,13 +114,17 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
               datePublished: post.publishedAt,
               dateModified: post.publishedAt,
               author: {
-                '@type': 'Organization',
-                name: 'Seu Site Advogados',
-                url: 'https://seusiteadvogados.com.br',
-                logo: {
-                  '@type': 'ImageObject',
-                  url: 'https://seusiteadvogados.com.br/images/seu-site-advogados-logo.webp',
+                '@type': 'Person',
+                name: 'Marcelo França',
+                jobTitle: 'Web Designer e Especialista em SEO',
+                url: 'https://seusiteadvogados.com.br/quem-somos#autor',
+                image: 'https://seusiteadvogados.com.br/images/autor-marcelo-franca.webp',
+                worksFor: {
+                  '@type': 'Organization',
+                  name: 'Seu Site Advogados',
+                  url: 'https://seusiteadvogados.com.br',
                 },
+                knowsAbout: ['SEO para advogados', 'Criação de sites jurídicos', 'Marketing jurídico digital', 'Web design'],
               },
               publisher: {
                 '@type': 'Organization',
@@ -189,6 +193,19 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
               </div>
             )}
 
+            {/* Cover image (artigos antigos não embutem imagem no corpo; os auto já trazem a sua) */}
+            {post && !post.tags?.includes('auto') && (
+              <div className="relative aspect-[16/9] rounded-2xl overflow-hidden mb-10 shadow-md">
+                <Image
+                  src={post.imagemUrl}
+                  alt={title}
+                  fill
+                  className="object-cover"
+                  priority
+                />
+              </div>
+            )}
+
             {/* Article body */}
             <article className="prose prose-lg max-w-none font-lexend">
               {articleContent || payloadHtml ? (
@@ -210,6 +227,39 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                 </>
               )}
             </article>
+
+            {/* Author bio (E-E-A-T) */}
+            <div className="mt-12 pt-8 border-t border-gray-200">
+              <div className="flex flex-col sm:flex-row items-start gap-5 bg-[#f5f5f0] rounded-2xl p-6">
+                <div className="relative w-20 h-20 rounded-full overflow-hidden shrink-0 border-2 border-[#b58c61]">
+                  <Image
+                    src="/images/autor-marcelo-franca.webp"
+                    alt="Marcelo França, Web Designer e Especialista em SEO"
+                    fill
+                    className="object-cover"
+                  />
+                </div>
+                <div>
+                  <span className="block text-xs font-lexend font-semibold uppercase tracking-wider text-[#b58c61] mb-1">
+                    Escrito por
+                  </span>
+                  <span className="block text-lg font-bold text-[#162a2a] font-lexend">
+                    Marcelo França
+                  </span>
+                  <span className="block text-sm text-gray-500 font-lexend mb-2">
+                    Web Designer e Especialista em SEO
+                  </span>
+                  <p className="text-gray-600 font-lexend text-sm leading-relaxed">
+                    Criador do Seu Site Advogados, trabalha com criação de sites e otimização
+                    para o Google, com foco no mercado jurídico. Já desenvolveu dezenas de
+                    projetos para advogados e escritórios de advocacia em todo o Brasil.{' '}
+                    <Link href="/quem-somos#autor" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">
+                      Conheça o autor
+                    </Link>
+                  </p>
+                </div>
+              </div>
+            </div>
 
             {/* Related articles */}
             {relatedPosts.length > 0 && (

@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('advogado-pode-anunciar-no-google', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      Uma das dúvidas mais comuns entre advogados que querem investir em marketing digital é se podem ou não fazer anúncios pagos no Google. A resposta curta é: sim, podem. Mas existem regras claras que precisam ser respeitadas. O Provimento 205/2021 do Conselho Federal da OAB modernizou as diretrizes de publicidade na advocacia e trouxe maior clareza sobre o que é permitido e o que continua proibido. Neste artigo, vamos analisar a norma em detalhes e mostrar como aplicá-la na prática.
+      Uma das dúvidas mais comuns entre advogados que querem investir em marketing digital é se podem ou não fazer anúncios pagos no Google. A resposta curta é: sim, podem. Mas existem regras claras que precisam ser respeitadas. O <a href="https://www.oab.org.br/leisnormas/legislacao/provimentos/205-2021" target="_blank" rel="noopener noreferrer" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">Provimento 205/2021</a> do Conselho Federal da OAB modernizou as diretrizes de publicidade na advocacia e trouxe maior clareza sobre o que é permitido e o que continua proibido. Neste artigo, vamos analisar a norma em detalhes e mostrar como aplicá-la na prática.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que mudou com o Provimento 205/2021</h2>

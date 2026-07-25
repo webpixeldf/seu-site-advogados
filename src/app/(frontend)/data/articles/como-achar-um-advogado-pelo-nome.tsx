@@ -15,7 +15,8 @@ registerArticle('como-achar-um-advogado-pelo-nome', () => (
     <h3 className="text-xl font-bold text-[#162a2a] font-lexend mt-8 mb-3">Como usar o CNA</h3>
 
     <p className="text-gray-700 leading-relaxed">
-      O acesso é feito pelo endereço cna.oab.org.br. A pesquisa pode ser realizada de duas formas:
+      O acesso é feito pelo endereço oficial{' '}
+      <a href="https://cna.oab.org.br" target="_blank" rel="noopener noreferrer" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">cna.oab.org.br</a>. A pesquisa pode ser realizada de duas formas:
     </p>
 
     <ul className="list-disc pl-6 space-y-2 text-gray-700">

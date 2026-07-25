@@ -2,7 +2,7 @@ import { registerHtmlArticle } from './_auto-helper'
 
 registerHtmlArticle('trello-notion-ou-asana-comparativo-para-escritorios-juridicos', `<p><img src="/images/blog/trello-notion-ou-asana-comparativo-para-escritorios-juridicos.webp" alt="Trello, Notion ou Asana? Comparativo para escritórios jurídicos" loading="lazy" /></p>
 
-<p>A verdade é que cada uma dessas ferramentas nasceu com um DNA diferente. O Trello é o quadro de avisos digital que virou febre pela simplicidade. O Notion é o canivete suíço que promete fazer de tudo (e às vezes faz mesmo). Já o Asana é o gerente de projetos sério, daqueles que não perdoam atraso. Pra um escritório de advocacia, a decisão passa por entender o que realmente importa: controle de prazos, delegação de tarefas entre advogados e estagiários, e um mínimo de sanidade mental no fim do mês.</p>
+<p>Cada uma dessas ferramentas nasceu com um DNA diferente. O Trello é o quadro de avisos digital que virou febre pela simplicidade. O Notion é o canivete suíço que promete fazer de tudo (e às vezes faz mesmo). Já o Asana é o gerente de projetos sério, daqueles que não perdoam atraso. Pra um escritório de advocacia, a decisão passa por entender o que realmente importa: controle de prazos, delegação de tarefas entre advogados e estagiários, e um mínimo de sanidade mental no fim do mês.</p>
 
 <h2>O Trello e a simplicidade que pode enganar</h2>
 

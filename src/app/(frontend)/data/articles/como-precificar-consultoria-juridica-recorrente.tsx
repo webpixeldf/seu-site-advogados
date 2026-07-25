@@ -2,7 +2,7 @@ import { registerHtmlArticle } from './_auto-helper'
 
 registerHtmlArticle('como-precificar-consultoria-juridica-recorrente', `<p><img src="/images/blog/como-precificar-consultoria-juridica-recorrente.webp" alt="Como precificar consultoria jurídica recorrente" loading="lazy" /></p>
 
-<p>Vamos ser sinceros: cobrar uma consultoria avulsa já dá trabalho. Agora, imagine um contrato onde o cliente paga todo mês pra ter você disponível. Parece sonho? Pra muitos escritórios, é realidade. Só que o pulo do gato está em como você calcula esse valor sem sentir que está dando consultoria de graça ou, pior, afastando o cliente por um preço salgado demais.</p>
+<p>Cobrar uma consultoria avulsa já exige cálculo. Um contrato em que o cliente paga todo mês para ter você disponível exige outro tipo de raciocínio , e é um modelo que já sustenta a receita de muitos escritórios. Só que o pulo do gato está em como você calcula esse valor sem sentir que está dando consultoria de graça ou, pior, afastando o cliente por um preço salgado demais.</p>
 
 <h2>Primeiro: entenda o que você está vendendo</h2>
 

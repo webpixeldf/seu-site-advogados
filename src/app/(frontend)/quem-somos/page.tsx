@@ -141,6 +141,63 @@ export default function QuemSomos() {
         </div>
       </section>
 
+      {/* Autor / Responsável técnico (E-E-A-T) */}
+      <section id="autor" className="py-20 md:py-24 bg-[#eaecec]">
+        <div className="container-custom">
+          <div className="max-w-4xl mx-auto">
+            <span className="block text-center text-[#de7322] font-lexend text-sm font-semibold tracking-widest uppercase mb-3">
+              Quem escreve e desenvolve
+            </span>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#162a2a] font-lexend mb-10 text-center">
+              Conheça o <span className="text-[#b58c61]">responsável pelos projetos</span>
+            </h2>
+            <div className="flex flex-col md:flex-row items-center md:items-start gap-8 bg-white rounded-3xl p-8 md:p-10 shadow-sm">
+              <div className="relative w-36 h-36 rounded-full overflow-hidden shrink-0 border-4 border-[#b58c61]/30">
+                <Image
+                  src="/images/autor-marcelo-franca.webp"
+                  alt="Marcelo França, Web Designer e Especialista em SEO"
+                  fill
+                  className="object-cover"
+                />
+              </div>
+              <div className="text-center md:text-left">
+                <h3 className="text-2xl font-bold text-[#162a2a] font-lexend">Marcelo França</h3>
+                <p className="text-[#b58c61] font-lexend font-semibold text-sm mb-4">
+                  Web Designer Profissional e Especialista em SEO
+                </p>
+                <p className="text-gray-700 font-lexend leading-relaxed mb-3">
+                  Marcelo é o criador do Seu Site Advogados e responsável direto por cada projeto
+                  que sai daqui: do desenho do layout à estrutura de SEO que faz o site aparecer
+                  no Google. Trabalha com criação de sites profissionais e otimização para buscas,
+                  com atuação dedicada ao mercado jurídico.
+                </p>
+                <p className="text-gray-700 font-lexend leading-relaxed">
+                  Todos os artigos do blog e os textos dos projetos passam pela sua revisão,
+                  garantindo conformidade com as normas de publicidade da OAB e alinhamento com o
+                  que realmente funciona na captação de clientes para advogados.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'Person',
+              '@id': 'https://seusiteadvogados.com.br/quem-somos#autor',
+              name: 'Marcelo França',
+              jobTitle: 'Web Designer e Especialista em SEO',
+              image: 'https://seusiteadvogados.com.br/images/autor-marcelo-franca.webp',
+              url: 'https://seusiteadvogados.com.br/quem-somos#autor',
+              worksFor: { '@id': 'https://seusiteadvogados.com.br/#business' },
+              knowsAbout: ['SEO para advogados', 'Criação de sites jurídicos', 'Marketing jurídico digital', 'Web design'],
+            }),
+          }}
+        />
+      </section>
+
       {/* CTA */}
       <section className="py-20 bg-[#162a2a] relative overflow-hidden">
         <div className="absolute top-0 right-0 w-80 h-80 bg-[#b58c61]/5 rounded-full translate-x-1/2 -translate-y-1/2" />

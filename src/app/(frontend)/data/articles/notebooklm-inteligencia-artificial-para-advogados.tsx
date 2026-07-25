@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('notebooklm-inteligencia-artificial-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O NotebookLM é uma ferramenta de inteligência artificial desenvolvida pelo Google que permite interagir com documentos de forma conversacional. Em vez de ler centenas de páginas de legislação, jurisprudência ou doutrina, você faz upload dos documentos e conversa com eles , fazendo perguntas, pedindo resumos e cruzando informações. Para advogados, isso representa uma mudança significativa na forma de fazer pesquisa jurídica.
+      O <a href="https://notebooklm.google.com" target="_blank" rel="noopener noreferrer" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">NotebookLM</a> é uma ferramenta de inteligência artificial desenvolvida pelo Google que permite interagir com documentos de forma conversacional. Em vez de ler centenas de páginas de legislação, jurisprudência ou doutrina, você faz upload dos documentos e conversa com eles , fazendo perguntas, pedindo resumos e cruzando informações. Para advogados, isso representa uma mudança significativa na forma de fazer pesquisa jurídica.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que é o NotebookLM</h2>

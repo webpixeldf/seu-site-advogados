@@ -64,10 +64,12 @@ const siteSchema = {
     {
       '@type': 'Person',
       '@id': 'https://seusiteadvogados.com.br/#founder',
-      name: 'Web Pixel',
-      jobTitle: 'Fundador e Desenvolvedor Web',
+      name: 'Marcelo França',
+      jobTitle: 'Fundador, Web Designer e Especialista em SEO',
+      image: 'https://seusiteadvogados.com.br/images/autor-marcelo-franca.webp',
       worksFor: { '@id': 'https://seusiteadvogados.com.br/#business' },
-      url: 'https://seusiteadvogados.com.br/quem-somos',
+      url: 'https://seusiteadvogados.com.br/quem-somos#autor',
+      knowsAbout: ['SEO para advogados', 'Criação de sites jurídicos', 'Marketing jurídico digital', 'Web design'],
     },
     {
       '@type': 'WebSite',

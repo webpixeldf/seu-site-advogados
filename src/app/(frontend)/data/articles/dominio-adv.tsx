@@ -13,7 +13,8 @@ registerArticle('dominio-adv', () => (
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">O que é o domínio .adv.br</h2>
 
     <p className="text-gray-700 leading-relaxed">
-      Domínio é o endereço que as pessoas digitam no navegador para acessar um site. Por exemplo: "escritoriosilva.adv.br". A extensão .adv.br é uma das categorias de domínio restrito gerenciadas pelo Registro.br , o órgão responsável pelo registro de domínios no Brasil, vinculado ao NIC.br.
+      Domínio é o endereço que as pessoas digitam no navegador para acessar um site. Por exemplo: "escritoriosilva.adv.br". A extensão .adv.br é uma das categorias de domínio restrito gerenciadas pelo{' '}
+      <a href="https://registro.br" target="_blank" rel="noopener noreferrer" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">Registro.br</a>, o órgão responsável pelo registro de domínios no Brasil, vinculado ao NIC.br.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

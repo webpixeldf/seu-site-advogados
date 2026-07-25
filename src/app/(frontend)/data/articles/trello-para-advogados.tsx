@@ -3,7 +3,7 @@ import { registerArticle } from './registry'
 registerArticle('trello-para-advogados', () => (
   <>
     <p className="text-gray-700 leading-relaxed">
-      O Trello é uma das ferramentas de gestão de tarefas mais acessíveis do mercado, e sua interface visual baseada em quadros e cartões se adapta muito bem à rotina jurídica. Advogados que precisam acompanhar múltiplos casos simultaneamente encontram no Trello uma forma intuitiva de visualizar o andamento de cada processo sem perder tempo com sistemas complexos. Neste artigo, vamos montar passo a passo um sistema funcional de gestão de casos usando o Trello.
+      O <a href="https://trello.com" target="_blank" rel="noopener noreferrer" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">Trello</a> é uma das ferramentas de gestão de tarefas mais acessíveis do mercado, e sua interface visual baseada em quadros e cartões se adapta muito bem à rotina jurídica. Advogados que precisam acompanhar múltiplos casos simultaneamente encontram no Trello uma forma intuitiva de visualizar o andamento de cada processo sem perder tempo com sistemas complexos. Neste artigo, vamos montar passo a passo um sistema funcional de gestão de casos usando o Trello.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">Por que o Trello funciona para escritórios de advocacia</h2>

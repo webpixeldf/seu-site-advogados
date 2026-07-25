@@ -35,9 +35,27 @@ export default function CidadesIndexPage() {
 
       <section className="bg-[#f5f5f3] py-16 md:py-20">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-          <p className="text-gray-700 font-lexend text-lg leading-relaxed mb-10 max-w-3xl mx-auto text-center">
-            Atendemos escritórios de advocacia em todas as regiões do Brasil com projetos digitais sob medida. Selecione sua cidade ou região:
-          </p>
+          <div className="max-w-3xl mx-auto mb-12 space-y-4">
+            <p className="text-gray-700 font-lexend text-lg leading-relaxed">
+              A advocacia é uma profissão local por natureza. Quando alguém precisa de um
+              advogado trabalhista em Curitiba ou de um especialista em direito de família no
+              Recife, a busca no Google quase sempre inclui a cidade. É por isso que criamos
+              páginas dedicadas às capitais onde nossos clientes mais atuam: cada uma traz
+              informações sobre o mercado jurídico da região, a seccional da OAB local e o
+              cenário de concorrência que o escritório enfrenta ali.
+            </p>
+            <p className="text-gray-700 font-lexend leading-relaxed">
+              Na prática, o atendimento é o mesmo em qualquer lugar do Brasil , o processo é
+              100% remoto, do briefing à publicação. A diferença está na estratégia: um site
+              para um escritório em São Paulo, que disputa espaço com dezenas de milhares de
+              advogados, precisa de uma abordagem de SEO diferente de um escritório em uma
+              capital com mercado menos saturado. Levamos isso em conta na arquitetura das
+              páginas, na escolha das palavras-chave e no conteúdo de cada projeto.
+            </p>
+            <p className="text-gray-700 font-lexend leading-relaxed">
+              Selecione sua cidade abaixo para ver os detalhes da sua região:
+            </p>
+          </div>
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
             {cidades.map((c) => (
@@ -51,6 +69,35 @@ export default function CidadesIndexPage() {
               </Link>
             ))}
           </div>
+        </div>
+      </section>
+
+      <section className="bg-white py-16 md:py-20">
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 space-y-4">
+          <h2 className="text-2xl md:text-3xl font-bold text-[#162a2a] font-lexend mb-6">
+            Minha cidade não está na lista. Vocês atendem?
+          </h2>
+          <p className="text-gray-700 font-lexend leading-relaxed">
+            Sim. As páginas acima cobrem as capitais com maior volume de buscas, mas
+            atendemos advogados de qualquer cidade do país , do interior de São Paulo a
+            Roraima, e até profissionais brasileiros atuando em Portugal. Como todo o
+            trabalho é feito remotamente, com reuniões por videochamada e aprovações pelo
+            WhatsApp, a localização do escritório nunca foi uma barreira.
+          </p>
+          <p className="text-gray-700 font-lexend leading-relaxed">
+            Aliás, para escritórios de cidades menores há uma vantagem real: a concorrência
+            no Google costuma ser baixa. Um site bem estruturado, com SEO local configurado e
+            páginas por área de atuação, frequentemente chega à primeira página em poucas
+            semanas , algo que nas grandes capitais exige um trabalho mais longo.
+          </p>
+          <p className="text-gray-700 font-lexend leading-relaxed">
+            Se você quer entender como funciona a{' '}
+            <Link href="/" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors" title="Criação de site para advogado">
+              criação de site para advogado
+            </Link>{' '}
+            para a sua região, chame no WhatsApp e conte em qual cidade você atua. A proposta
+            já vai considerar o cenário local de buscas.
+          </p>
         </div>
       </section>
     </>

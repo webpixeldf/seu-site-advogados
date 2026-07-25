@@ -7,7 +7,9 @@ registerArticle('nome-para-escritorio-de-advocacia', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      Neste artigo, vamos abordar as regras da OAB para nomenclatura de escritórios, os formatos mais comuns, estratégias para escolher um nome memorável e a importância de verificar a disponibilidade de domínio antes de bater o martelo.
+      Neste artigo, vamos abordar as regras da{' '}
+      <a href="https://www.oab.org.br" target="_blank" rel="noopener noreferrer" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">OAB</a>{' '}
+      para nomenclatura de escritórios, os formatos mais comuns, estratégias para escolher um nome memorável e a importância de verificar a disponibilidade de domínio antes de bater o martelo.
     </p>
 
     <h2 className="text-2xl font-bold text-[#162a2a] font-lexend mt-10 mb-4">

@@ -13,7 +13,8 @@ registerArticle('como-saber-se-o-advogado-e-bom', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A consulta pode ser feita gratuitamente no site do Cadastro Nacional dos Advogados (CNA) da OAB, disponível em cna.oab.org.br. Basta informar o nome ou o número de inscrição para verificar a situação cadastral, a seccional de inscrição e se há alguma restrição no registro.
+      A consulta pode ser feita gratuitamente no site do Cadastro Nacional dos Advogados (CNA) da OAB, disponível em{' '}
+      <a href="https://cna.oab.org.br" target="_blank" rel="noopener noreferrer" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">cna.oab.org.br</a>. Basta informar o nome ou o número de inscrição para verificar a situação cadastral, a seccional de inscrição e se há alguma restrição no registro.
     </p>
 
     <p className="text-gray-700 leading-relaxed">

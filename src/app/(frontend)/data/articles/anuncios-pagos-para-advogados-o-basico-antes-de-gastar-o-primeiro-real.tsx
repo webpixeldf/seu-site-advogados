@@ -2,7 +2,7 @@ import { registerHtmlArticle } from './_auto-helper'
 
 registerHtmlArticle('anuncios-pagos-para-advogados-o-basico-antes-de-gastar-o-primeiro-real', `<p><img src="/images/blog/anuncios-pagos-para-advogados-o-basico-antes-de-gastar-o-primeiro-real.webp" alt="Anúncios pagos para advogados: o básico antes de gastar o primeiro real" loading="lazy" /></p>
 
-<p>A verdade é que a maioria dos advogados que se aventura no Google Ads ou Meta Ads comete os mesmos erros: escolhe palavras-chave genéricas demais, não segmenta direito o público ou, pior, joga dinheiro num anúncio que leva para um site que parece ter saído de 2005. Se você quer evitar essa dor de cabeça, o primeiro passo é entender que o anúncio é só a ponta do iceberg. O que está por baixo – sua presença digital, sua autoridade e seu site – é que vai determinar se aquele clique vira cliente ou não.</p>
+<p>A maioria dos advogados que se aventura no Google Ads ou Meta Ads comete os mesmos erros: escolhe palavras-chave genéricas demais, não segmenta direito o público ou, pior, joga dinheiro num anúncio que leva para um site que parece ter saído de 2005. Se você quer evitar essa dor de cabeça, o primeiro passo é entender que o anúncio é só a ponta do iceberg. O que está por baixo – sua presença digital, sua autoridade e seu site – é que vai determinar se aquele clique vira cliente ou não.</p>
 
 <h2>Por que seu anúncio pode estar jogando dinheiro fora</h2>
 

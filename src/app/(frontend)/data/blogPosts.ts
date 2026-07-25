@@ -270,38 +270,11 @@ export const blogPosts: BlogPost[] = [
   },
 
   {
-    titulo: "Branding pessoal vs branding do escritório: qual investir primeiro",
-    slug: "branding-pessoal-vs-branding-do-escritorio-qual-investir-primeiro",
-    resumo: "Você já parou pra pensar no dilema que todo advogado enfrenta hoje em dia? De um lado, tem o seu nome, a sua reputação, a sua cara estampada no LinkedIn e nos resultados do Google. Do outro, tem o...",
-    imagemUrl: "/images/blog/branding-pessoal-vs-branding-do-escritorio-qual-investir-primeiro.webp",
-    publishedAt: "2026-05-11",
-    tags: ['blog', 'auto'],
-  },
-
-  {
-    titulo: "CRM jurídico: por que sua planilha do Excel não basta mais",
-    slug: "crm-juridico-por-que-sua-planilha-do-excel-nao-basta-mais",
-    resumo: "Você já parou pra pensar no volume de informações que passa pelas suas mãos todo dia? Nome do cliente, número do processo, andamento, audiência marcada, prazo de recurso, honorários, e-mail trocado...",
-    imagemUrl: "/images/blog/crm-juridico-por-que-sua-planilha-do-excel-nao-basta-mais.webp",
-    publishedAt: "2026-05-10",
-    tags: ['blog', 'auto'],
-  },
-
-  {
     titulo: "Como cobrar pelo WhatsApp sem perder a postura profissional",
     slug: "como-cobrar-pelo-whatsapp-sem-perder-a-postura-profissional",
     resumo: "Você já deve ter recebido aquela mensagem no WhatsApp de um cliente que pediu um orçamento, você respondeu educadamente, e depois... silêncio. Ou pior: você enviou a cobrança e a pessoa visualizou,...",
     imagemUrl: "/images/blog/como-cobrar-pelo-whatsapp-sem-perder-a-postura-profissional.webp",
     publishedAt: "2026-05-09",
-    tags: ['blog', 'auto'],
-  },
-
-  {
-    titulo: "Onboarding de cliente: o roteiro do primeiro atendimento jurídico",
-    slug: "onboarding-de-cliente-o-roteiro-do-primeiro-atendimento-juridico",
-    resumo: "A primeira impressão no escritório de advocacia não começa mais na recepção — ela começa no primeiro contato digital ou telefônico. E depois que o potencial cliente decide contratar seus serviços,...",
-    imagemUrl: "/images/blog/onboarding-de-cliente-o-roteiro-do-primeiro-atendimento-juridico.webp",
-    publishedAt: "2026-05-08",
     tags: ['blog', 'auto'],
   },
 
@@ -315,101 +288,11 @@ export const blogPosts: BlogPost[] = [
   },
 
   {
-    titulo: "Ferramentas de inteligência artificial para automatizar tarefas no escritório",
-    slug: "ferramentas-de-inteligencia-artificial-para-automatizar-tarefas-no-escritorio",
-    resumo: "Você já reparou como o volume de tarefas repetitivas no escritório consome horas que poderiam ser usadas pra estudar um caso, conversar com um cliente ou simplesmente ter um respiro entre audiência...",
-    imagemUrl: "/images/blog/ferramentas-de-inteligencia-artificial-para-automatizar-tarefas-no-escritorio.webp",
-    publishedAt: "2026-05-06",
-    tags: ['blog', 'auto'],
-  },
-
-  {
-    titulo: "Marketing de conteúdo jurídico: o que escrever para gerar leads",
-    slug: "marketing-de-conteudo-juridico-o-que-escrever-para-gerar-leads",
-    resumo: "Você já parou pra pensar no que realmente atrai um potencial cliente até o seu escritório? Não, não estou falando de sorte ou de indicação de um colega. Tô falando de uma estratégia que, se bem fei...",
-    imagemUrl: "/images/blog/marketing-de-conteudo-juridico-o-que-escrever-para-gerar-leads.webp",
-    publishedAt: "2026-05-05",
-    tags: ['blog', 'auto'],
-  },
-
-  {
-    titulo: "LinkedIn para advogados: estratégia de autoridade em 2026",
-    slug: "linkedin-para-advogados-estrategia-de-autoridade-em-2026",
-    resumo: "Você abre o LinkedIn e vê o mesmo de sempre: um advogado postando foto do café, outro compartilhando decisão do STJ sem comentar nada, e aquele terceiro que só aparece para parabenizar aniversarian...",
-    imagemUrl: "/images/blog/linkedin-para-advogados-estrategia-de-autoridade-em-2026.webp",
-    publishedAt: "2026-05-04",
-    tags: ['blog', 'auto'],
-  },
-
-  {
-    titulo: "Como precificar serviços jurídicos sem afastar o cliente",
-    slug: "como-precificar-servicos-juridicos-sem-afastar-o-cliente",
-    resumo: "Precificar serviços jurídicos é, para muitos advogados, um verdadeiro enigma. Você sabe que seu conhecimento e tempo valem, mas também sente o peso de não querer parecer inacessível ou, pior, afast...",
-    imagemUrl: "/images/blog/como-precificar-servicos-juridicos-sem-afastar-o-cliente.webp",
-    publishedAt: "2026-05-03",
-    tags: ['blog', 'auto'],
-  },
-
-  {
     titulo: "Vídeos curtos no Reels: roteiros prontos para advogados começarem hoje",
     slug: "videos-curtos-no-reels-roteiros-prontos-para-advogados-comecarem-hoje",
     resumo: "Você abre o Instagram, vê um colega advogado com milhares de seguidores, comentários pedindo consulta, e pensa: \"Ele deve passar horas gravando, editando, pensando em pauta\". A verdade é que não. A...",
     imagemUrl: "/images/blog/videos-curtos-no-reels-roteiros-prontos-para-advogados-comecarem-hoje.webp",
     publishedAt: "2026-05-02",
-    tags: ['blog', 'auto'],
-  },
-
-  {
-    titulo: "Newsletter jurídica: como construir uma audiência fiel mês a mês",
-    slug: "newsletter-juridica-como-construir-uma-audiencia-fiel-mes-a-mes",
-    resumo: "Você já parou pra pensar no número de clientes que passaram pelo seu escritório nos últimos anos e simplesmente nunca mais deram notícia? Pois é, a maioria dos advogados vive na correria de captar...",
-    imagemUrl: "/images/blog/newsletter-juridica-como-construir-uma-audiencia-fiel-mes-a-mes.webp",
-    publishedAt: "2026-05-01",
-    tags: ['blog', 'auto'],
-  },
-
-  {
-    titulo: "Como criar um funil de vendas para escritórios de advocacia",
-    slug: "como-criar-um-funil-de-vendas-para-escritorios-de-advocacia",
-    resumo: "Você já parou pra pensar quantos potenciais clientes perdem o seu contato porque o site do seu escritório parece um catálogo telefônico parado no tempo? Não basta mais ter um endereço na internet....",
-    imagemUrl: "/images/blog/como-criar-um-funil-de-vendas-para-escritorios-de-advocacia.webp",
-    publishedAt: "2026-04-30",
-    tags: ['blog', 'auto'],
-  },
-
-  {
-    titulo: "ChatGPT na advocacia: usos práticos no dia a dia do escritório",
-    slug: "chatgpt-na-advocacia-usos-praticos-no-dia-a-dia-do-escritorio",
-    resumo: "Você já parou pra pensar em quanto tempo gasta, por semana, respondendo dúvidas repetitivas de clientes, ajustando minutas de contratos ou revisando petições? Se a resposta for \"muito mais do que g...",
-    imagemUrl: "/images/blog/chatgpt-na-advocacia-usos-praticos-no-dia-a-dia-do-escritorio.webp",
-    publishedAt: "2026-04-29",
-    tags: ['blog', 'auto'],
-  },
-
-  {
-    titulo: "7 erros comuns no Instagram de advogado e como evitar cada um",
-    slug: "7-erros-comuns-no-instagram-de-advogado-e-como-evitar-cada-um",
-    resumo: "Você passa horas pensando em posts, tira fotos no escritório, edita com carinho , e no final, só aparece seu colega de faculdade curtindo. Ou pior: você ganha seguidor, mas não ganha cliente. Se is...",
-    imagemUrl: "/images/blog/7-erros-comuns-no-instagram-de-advogado-e-como-evitar-cada-um.webp",
-    publishedAt: "2026-04-28",
-    tags: ['blog', 'auto'],
-  },
-
-  {
-    titulo: "SEO local: como aparecer no Google Maps quando buscam advogado",
-    slug: "seo-local-como-aparecer-no-google-maps-quando-buscam-advogado",
-    resumo: "Você já reparou como o Google Maps virou o novo \"bairro comercial\" da advocacia? Quando alguém precisa de um advogado, o primeiro reflexo não é mais abrir a lista telefônica ou pedir indicação pra...",
-    imagemUrl: "/images/blog/seo-local-como-aparecer-no-google-maps-quando-buscam-advogado.webp",
-    publishedAt: "2026-04-27",
-    tags: ['blog', 'auto'],
-  },
-
-  {
-    titulo: "Como advogados podem usar o WhatsApp Business para captar clientes",
-    slug: "como-advogados-podem-usar-o-whatsapp-business-para-captar-clientes",
-    resumo: "Você já parou pra pensar quantos clientes perde por não responder rápido o suficiente? Pois é, no mundo da advocacia, a agilidade muitas vezes define quem leva a causa. O WhatsApp Business não é só...",
-    imagemUrl: "/images/blog/como-advogados-podem-usar-o-whatsapp-business-para-captar-clientes.webp",
-    publishedAt: "2026-04-26",
     tags: ['blog', 'auto'],
   },
 

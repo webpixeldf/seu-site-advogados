@@ -13,7 +13,7 @@ registerArticle('advogado-pode-ser-mei', () => (
     </p>
 
     <p className="text-gray-700 leading-relaxed">
-      A justificativa legal é que profissões regulamentadas possuem regime próprio de exercício e tributação, incompatível com o modelo simplificado do MEI. O Estatuto da Advocacia (Lei 8.906/1994) estabelece regras específicas sobre o exercício da profissão, incluindo a natureza da atividade, que é considerada intelectual e pessoal , características que a Lei Complementar não contempla no regime do MEI.
+      A justificativa legal é que profissões regulamentadas possuem regime próprio de exercício e tributação, incompatível com o modelo simplificado do MEI. O Estatuto da Advocacia (<a href="https://www.planalto.gov.br/ccivil_03/leis/l8906.htm" target="_blank" rel="noopener noreferrer" className="text-[#de7322] hover:text-[#ba5918] font-semibold transition-colors">Lei 8.906/1994</a>) estabelece regras específicas sobre o exercício da profissão, incluindo a natureza da atividade, que é considerada intelectual e pessoal , características que a Lei Complementar não contempla no regime do MEI.
     </p>
 
     <p className="text-gray-700 leading-relaxed">
