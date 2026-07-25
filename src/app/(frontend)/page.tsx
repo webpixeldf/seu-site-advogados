@@ -61,7 +61,7 @@ const faqItems = [
   {
     pergunta: 'Quanto custa um site para escritório de advocacia?',
     resposta:
-      'Nossos projetos começam em 3 parcelas de R$ 260,00. Esse valor inclui design exclusivo, hospedagem no primeiro ano, e-mail profissional e suporte. Para sites maiores , com blog, múltiplas páginas de serviço e SEO local , o orçamento é ajustado conforme a complexidade. Enviamos uma proposta detalhada sem compromisso pelo WhatsApp.',
+      'Nossos projetos começam em R$ 590,00. Esse valor inclui design exclusivo, hospedagem no primeiro ano, e-mail profissional e suporte. Para sites maiores , com blog, múltiplas páginas de serviço e SEO local , o orçamento é ajustado conforme a complexidade. Enviamos uma proposta detalhada sem compromisso pelo WhatsApp.',
   },
   {
     pergunta: 'Qual o prazo de entrega?',

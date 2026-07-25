@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     default: 'Site para Advogados | Seu Site Advogados',
     template: '%s | Seu Site Advogados',
   },
-  description: 'Especialistas em criação de site para advogados. Transforme sua experiência jurídica em uma presença digital que atrai e converte clientes. A partir de 3x de R$ 260,00.',
+  description: 'Especialistas em criação de site para advogados. Transforme sua experiência jurídica em uma presença digital que atrai e converte clientes. A partir de R$ 590,00.',
 }
 
 const siteSchema = {
@@ -24,7 +24,7 @@ const siteSchema = {
       telephone: '+5561992784283',
       taxID: '34.644.883/0001-94',
       description: 'Especialistas em criação de site para advogados e escritórios de advocacia.',
-      priceRange: 'R$ 260 - R$ 2000',
+      priceRange: 'R$ 590 - R$ 2000',
       contactPoint: {
         '@type': 'ContactPoint',
         telephone: '+55-61-99278-4283',
@@ -89,7 +89,7 @@ const siteSchema = {
       areaServed: { '@type': 'Country', name: 'BR' },
       offers: {
         '@type': 'Offer',
-        price: '260.00',
+        price: '590.00',
         priceCurrency: 'BRL',
         availability: 'https://schema.org/InStock',
       },
