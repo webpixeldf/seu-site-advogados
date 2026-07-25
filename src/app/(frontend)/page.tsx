@@ -139,44 +139,21 @@ const faqPageSchema = {
 }
 
 /**
- * Depoimentos de clientes reais, marcados como Review SEM reviewRating.
+ * NÃO adicionar marcação Review/AggregateRating aqui sem notas reais.
  *
- * Não usamos AggregateRating porque não existem notas atribuídas a esses
- * depoimentos — inventar ratingValue/reviewCount viola as diretrizes do
- * Google para dados estruturados e coloca em risco os rich results de todo
- * o domínio. Quando houver avaliações reais (Perfil da Empresa ou notas
- * coletadas dos próprios clientes), basta adicionar reviewRating aqui e um
- * bloco aggregateRating no LocalBusiness.
+ * Tentativa anterior: os 3 depoimentos foram marcados como `Review` sem
+ * `reviewRating`, evitando inventar notas. O Google rejeitou com o erro
+ * "Há várias avaliações sem o objeto aggregateRating" — quando existem
+ * múltiplos Review na mesma entidade, o agregado é obrigatório.
+ *
+ * Ou seja, não há meio-termo válido: ou existem avaliações com nota real
+ * (e aí Review + aggregateRating são emitidos juntos), ou não se emite
+ * marcação de avaliação nenhuma. Inventar ratingValue/reviewCount violaria
+ * as diretrizes e arrisca os rich results de todo o domínio.
+ *
+ * Para reativar, é preciso ter avaliações reais — do Perfil da Empresa no
+ * Google ou notas coletadas dos próprios clientes.
  */
-const reviewsSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'LocalBusiness',
-  '@id': 'https://seusiteadvogados.com.br/#business',
-  name: 'Seu Site Advogados',
-  review: [
-    {
-      '@type': 'Review',
-      author: { '@type': 'Person', name: 'Angelina Roberta' },
-      itemReviewed: { '@id': 'https://seusiteadvogados.com.br/#business' },
-      reviewBody:
-        'Acompanhei o projeto de perto do briefing à entrega. Os ajustes foram rápidos e o site ficou exatamente com a imagem que eu queria passar.',
-    },
-    {
-      '@type': 'Review',
-      author: { '@type': 'Person', name: 'Alexandre Vitorino' },
-      itemReviewed: { '@id': 'https://seusiteadvogados.com.br/#business' },
-      reviewBody:
-        'Depois que o site entrou no ar, passei a receber mensagens de pessoas que pesquisaram minha área de atuação no Google. Reduziu bastante minha dependência de indicação.',
-    },
-    {
-      '@type': 'Review',
-      author: { '@type': 'Person', name: 'Guilherme Bonfim' },
-      itemReviewed: { '@id': 'https://seusiteadvogados.com.br/#business' },
-      reviewBody:
-        'Percebi a diferença nas primeiras semanas. Clientes que acessaram o site antes da reunião chegavam mais informados e confiantes.',
-    },
-  ],
-}
 
 const breadcrumbSchema = {
   '@context': 'https://schema.org',
@@ -211,10 +188,6 @@ export default function HomePage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(reviewsSchema) }}
       />
 
       {/* ========== SECTION 1: HERO ========== */}
