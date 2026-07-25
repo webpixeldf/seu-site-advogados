@@ -25,11 +25,28 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
         .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
         .join(' ')
 
+  // Corta em limite de palavra, sem cortar no meio de uma
+  const trim = (s: string, max: number) => {
+    if (s.length <= max) return s
+    const cut = s.slice(0, max - 1)
+    const lastSpace = cut.lastIndexOf(' ')
+    return (lastSpace > max * 0.6 ? cut.slice(0, lastSpace) : cut).replace(/[,;:.\s]+$/, '') + '…'
+  }
+
+  const SUFFIX = ' | Seu Site Advogados' // 21 chars, adicionados pelo template do root layout
+  const rawDesc = post
+    ? post.resumo
+    : `Leia o artigo completo sobre ${title.toLowerCase()} no blog do Seu Site Advogados.`
+  const description = trim(rawDesc, 158)
+
   return {
-    title: title,
-    description: post
-      ? post.resumo
-      : `Leia o artigo completo sobre ${title.toLowerCase()} no blog do Seu Site Advogados.`,
+    // Títulos longos ficariam acima de 70 chars com o sufixo do template.
+    // Nesses casos usamos `absolute` para publicar o título sem o sufixo.
+    title:
+      title.length + SUFFIX.length > 70
+        ? { absolute: trim(title, 70) }
+        : title,
+    description,
     alternates: { canonical: `/blog/${slug}` },
     openGraph: {
       type: 'article',

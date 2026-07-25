@@ -3,9 +3,18 @@ import Link from 'next/link'
 import { MapPin } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Cidades Atendidas , Seu Site Advogados em Todo o Brasil',
+  title: { absolute: 'Cidades Atendidas | Seu Site Advogados' },
   description: 'Atendemos escritórios de advocacia em capitais e principais cidades do Brasil. Veja a lista completa de localidades e solicite uma proposta para a sua região.',
   alternates: { canonical: '/site-para-advogados' },
+  openGraph: {
+    type: 'website',
+    locale: 'pt_BR',
+    siteName: 'Seu Site Advogados',
+    title: 'Cidades Atendidas , Seu Site Advogados em Todo o Brasil',
+    description: 'Atendemos escritórios de advocacia em capitais e principais cidades do Brasil. Veja a lista de localidades e solicite uma proposta para a sua região.',
+    url: '/site-para-advogados',
+    images: [{ url: '/images/site-para-advogado.jpg', width: 1200, height: 630, alt: 'Criação de site para advogados em todo o Brasil' }],
+  },
 }
 
 const cidades = [

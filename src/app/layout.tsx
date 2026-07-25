@@ -79,7 +79,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="pt-BR" className={lexend.variable}>
       <head>
         <link rel="dns-prefetch" href="https://wa.me" />
-        <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
       </head>
       <body>{children}</body>
     </html>
