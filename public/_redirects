@@ -410,3 +410,31 @@
 /blog/hospedagem-de-site-para-advogados/ /blog/hospedagem-juridica-guia-completo 301
 /blog/sites-para-captar-clientes-para-advocacia /blog/como-captar-clientes-pelo-site-juridico 301
 /blog/sites-para-captar-clientes-para-advocacia/ /blog/como-captar-clientes-pelo-site-juridico 301
+
+# === URLs legadas do WordPress detectadas como 404 no Search Console ===
+# Categorias de blog que faltavam (as demais ja estao acima)
+/youtube /blog 301
+/youtube/ /blog 301
+/google /blog 301
+/google/ /blog 301
+/instagram /blog 301
+/instagram/ /blog 301
+/whatsapp /blog 301
+/whatsapp/ /blog 301
+/ferramentas /blog 301
+/ferramentas/ /blog 301
+/conteudo /blog 301
+/conteudo/ /blog 301
+# Author archive do WordPress
+/quem-somos/marcelo-vasconcelos /quem-somos 301
+/quem-somos/marcelo-vasconcelos/ /quem-somos 301
+/author/* /quem-somos 301
+# Paginas institucionais do site antigo
+/honorarios / 301
+/honorarios/ / 301
+/documentos / 301
+/documentos/ / 301
+/consulta /contatos 301
+/consulta/ /contatos 301
+/termos-de-uso /politica-de-privacidade 301
+/termos-de-uso/ /politica-de-privacidade 301
