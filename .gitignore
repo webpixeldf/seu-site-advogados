@@ -16,3 +16,6 @@ comprarbacklinks.txt
 
 # Snapshot do site em producao (auditoria)
 snapshot-live/
+
+# Exports temporarios do Search Console (xlsx descompactado)
+perf-tmp/
